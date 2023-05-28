@@ -110,7 +110,7 @@ Quando attacchi nel tuo turno puoi decidere di ottenere vantaggio al tiro per co
 
 ### Istinti del Berserker
 Guadagni tanti Istinti quanto indicato nella colonna Istinti del Berserker della tabella del berserker.
-La lista degli istinti si trova in [questa sezione](./Istinti%20del%20Berserker.md).
+La lista degli istinti si trova in [questa sezione](./35Istinti%20del%20Berserker.md).
 
 ### Percezione del Pericolo
 Ottieni vantaggio nei tiri salvezza su Destrezza contro effetti che riesci a vedere come, per esempio, poteri o trappole. Non puoi utilizzare questo effetto se sei:
@@ -120,7 +120,7 @@ Ottieni vantaggio nei tiri salvezza su Destrezza contro effetti che riesci a ved
 - incapacitato
 
 ### Avanzata del Berserker
-Scegli l'avanzata che plasma la natura dell'ira dettagliata in [questa sezione](./Avanzate%20del%20Berserker.md).
+Scegli l'avanzata che plasma la natura dell'ira dettagliata in [questa sezione](./33Avanzate%20del%20Berserker.md).
 
 ### Aumento dei Punteggi Caratteristica
 Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio
