@@ -112,7 +112,7 @@ Quando completi un riposo breve puoi scegliere di recuperare un numero di punti 
 Puoi riutilizzare questo privilegio dopo aver completato un riposo lungo
 
 ### Forza-lancio Potenziato
-Quando lanci un potere della forza puoi spendere punti forza addizionali per modificarlo. Ottieni 2 opzioni di forza-lancio potenziato, [dettagliate in questa sezione](./Forza-lancio%20Potenziato.md#forza-lancio-potenziato). Ai livelli successivi ne impari di ulteriori (come indicato nella colonna Opzioni di Forza-lancio Potenziato della tabella).
+Quando lanci un potere della forza puoi spendere punti forza addizionali per modificarlo. Ottieni 2 opzioni di forza-lancio potenziato, [dettagliate in questa sezione](./36Forza-lancio%20Potenziato.md#forza-lancio-potenziato). Ai livelli successivi ne impari di ulteriori (come indicato nella colonna Opzioni di Forza-lancio Potenziato della tabella).
 
 Puoi solamente utilizzare 1 opzione di forza-lancio potenziato su un potere mentre lo lanci, almenoche' non sia elencato diversamente nella descrizione del potere.
 
@@ -131,7 +131,7 @@ Scegli uno dei 3 aspetti della forza:
 - **Bogan:** i tiri per i danni dei tuoi poteri del lato oscuro della forza ottengono una soglia minima del tiro.
 
 ### Tradizione Consolare
-Scegli una tradizione consolare dettagliata in [questa sezione](./Tradizioni%20Consolari.md#tradizioni-consolari).
+Scegli una tradizione consolare dettagliata in [questa sezione](./34Tradizioni%20Consolari.md#tradizioni-consolari).
 
 ### Aumento dei Punteggi Caratteristica
 Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio
