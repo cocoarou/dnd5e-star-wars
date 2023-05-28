@@ -1,3 +1,4 @@
+
 ### Istinti del Berserker
 
 - Inserire link ai tipi di danno
@@ -12,3 +13,9 @@
 - Inserire dettagli sul terreno difficile
 - Inserire dettagli sulla copertura
 - Inserire link per le sezioni: forza-lancio e lista poteri della forza
+- Inserire link per riferimento a soglia del tiro
+
+### Console
+
+- Inserire link per le sezioni: forza-lancio e lista poteri della forza
+- Inserire link per riferimento a soglia del tiro
