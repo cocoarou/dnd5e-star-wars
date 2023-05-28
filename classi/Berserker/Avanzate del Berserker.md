@@ -155,6 +155,8 @@ Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la list
 Impari 4 poteri della forza a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti.
 
 ### Livello Massimo del Potere
+Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella. 
+
 Puoi lanciare dei poteri di livello 4 solamente una volta ogni riposo lungo.
 
 ### Caratteristica da forza-lancio

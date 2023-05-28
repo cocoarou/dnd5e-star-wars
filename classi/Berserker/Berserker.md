@@ -1,3 +1,26 @@
+- [Berserker](#berserker)
+  - [Privilegi di Classe](#privilegi-di-classe)
+    - [**Punti Ferita**](#punti-ferita)
+    - [**Competenze**](#competenze)
+    - [**Equipaggiamento**](#equipaggiamento)
+    - [Ira](#ira)
+    - [Difesa Senza Armatura](#difesa-senza-armatura)
+    - [Attacco Irruento](#attacco-irruento)
+    - [Istinti del Berserker](#istinti-del-berserker)
+    - [Percezione del Pericolo](#percezione-del-pericolo)
+    - [Avanzata del Berserker](#avanzata-del-berserker)
+    - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
+    - [Attacco Extra](#attacco-extra)
+    - [Impulso Selvaggio](#impulso-selvaggio)
+    - [Critico Brutale](#critico-brutale)
+    - [Ira Implacabile](#ira-implacabile)
+    - [Ira Persistente](#ira-persistente)
+    - [Potenza Indomabile](#potenza-indomabile)
+    - [Campione Primordiale](#campione-primordiale)
+
+</br>
+</br>
+
 # Berserker
 
 ![](berserker_01.png)
