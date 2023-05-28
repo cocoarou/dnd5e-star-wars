@@ -1,5 +1,5 @@
 - [Avanzate del Berserker](#avanzate-del-berserker)
-  - [Avanzata Ballistica](#avanzata-ballistica)
+  - [Avanzata Balistica](#avanzata-balistica)
     - [Tempesta di Fuoco](#tempesta-di-fuoco)
     - [Esplosivo](#esplosivo)
     - [Furia](#furia)
@@ -31,7 +31,7 @@
 </br>
 
 # Avanzate del Berserker
-## Avanzata Ballistica
+## Avanzata Balistica
 ### Tempesta di Fuoco
 **Livello:** 3
 
