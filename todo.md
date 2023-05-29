@@ -23,3 +23,7 @@
 - Inserire link a condizione scioccato
 - Inserire link a condizione invisibile
 - Inserire link a condizione spaventato
+
+### Ingegnere
+
+- Inserire link per le sezioni: tecno-lancio e lista poteri tecnologici
