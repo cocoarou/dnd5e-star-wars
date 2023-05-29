@@ -68,7 +68,7 @@
 
 **Tiri Salvezza:** Saggezza, Carisma
 
-**Abilita':** due tra: Inganno, Intuizione, Intimidire, Indagare, Storia, Medicina, Persuasione
+**Abilita':** 2 tra: Inganno, Intuizione, Intimidire, Indagare, Storia, Medicina, Persuasione
 
 ---
 

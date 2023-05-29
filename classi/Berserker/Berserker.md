@@ -70,7 +70,7 @@
 
 **Tiri Salvezza:** Forza, Costituzione
 
-**Abilita':** due tra: Addestrare Animali, Atletica, Intimidire, Natura, Percezione, Sopravvivenza
+**Abilita':** 2 tra: Addestrare Animali, Atletica, Intimidire, Natura, Percezione, Sopravvivenza
 
 ---
 
