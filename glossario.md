@@ -1,0 +1,3 @@
+- wristpad: computerino da polso
+- Potent Aptitude: Prontezza
+- vibropike: vibro-lancia
