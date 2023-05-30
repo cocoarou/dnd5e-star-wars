@@ -110,7 +110,7 @@ Utilizzi Intelligenza come caratteristica da tecno-lancio. Utilizzi questa abili
 **Modificatore di attacco tecnologico:** bonus di competenza + il tuo modificatore di tecno-lancio
 
 ### Focus di tecno-lancio
-Utilizzi un computerino da polso o gli strumenti nei quali sei competente grazie a questa classe come focus tecnologico per i tuoi poteri tecnologici.
+Utilizzi un computerino da polso o gli strumenti nei quali sei competente grazie a questa classe come tecno-focus per i tuoi poteri tecnologici.
 
 ### Prontezza
 Con'unazione bonus, nel tuo turno, scegli una creatura, escluso te stesso, entro 18m, che puoi sentirti. Quella creatura ottiene 1 dado Prontezza. Il tipo di dado cambia a seconda dei livelli da ingegnere (vedi tabella, colonna Prontezza).

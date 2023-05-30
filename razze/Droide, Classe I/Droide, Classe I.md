@@ -13,7 +13,7 @@
 |Tipo|Il tuo tipo di creatura e' considerato: droide
 |Armatura Integrata|Non puoi indossare un'armatura ma puo' essere integrata nel tuo telaio durante un riposo lungo. Questa operazione deve essere effettuata da qualcuno competente negli strumenti astro-tecnologici. Devi essere competente nel tipo di armatura che decidi di installare
 |Resistenze dei Droidi|Sei resistente ai danni di tipo: necrotico, veleno e psichico. Sei immune all'avvelenamento ed alle malattie
-|Sistemi dei Droidi|Non hai bisogno di mangiare, bere o respirare. Inoltre non hai bisogno di possedere un focus tecnologico per lanciare poteri tecnologici
+|Sistemi dei Droidi|Non hai bisogno di mangiare, bere o respirare. Inoltre non hai bisogno di possedere un tecno-focus per lanciare poteri tecnologici
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
 |Protocollo del Sapere|Sei competente due abilita' basate su Intelligenza, Saggezza o Carisma a scelta

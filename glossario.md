@@ -1,3 +1,11 @@
 - wristpad: computerino da polso
 - Potent Aptitude: Prontezza
 - vibropike: vibro-lancia
+- armormech: meccano-armature
+- armormech's implements: dotazione per meccano-armature
+- artisan's implements: dotazione da artigiano
+- tinker’s Implements: dotazione da armeggiatore
+- minimum roll threshold: soglia minima del tiro
+- Physical Shield: Scudo
+- Power Fist: Pugno Energetico
+- Shield Generator: Generatore di Scudi

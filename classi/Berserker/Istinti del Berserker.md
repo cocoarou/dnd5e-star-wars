@@ -27,7 +27,7 @@ Ottieni vantaggio nei tiri salvezza su Costituzione quando sei in ira
 ## Istinto del Bantha
 **Prerequisito:** livello 7
 
-La tuacapacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale. Ottieni vantaggio in tutte le prove di Forza effettuate per: spingere, tirare, sollevare o distruggere un oggetto
+La tua capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale. Ottieni vantaggio in tutte le prove di Forza effettuate per: spingere, tirare, sollevare o distruggere un oggetto
 
 ## Istinto del Blurrg
 Quando sei a cavallo o a piedi la tua velocita' di viaggio  e' raddoppiata ed anche quella degli alleati che si trovano entro 18m da te e non sono incapacitati.
@@ -61,7 +61,7 @@ Recuperi tutti gli utilizzi di questa capacita' dopo aver terminato un riposo lu
 Sei in grado di vedere fino a 1.5km senza alcuna difficolta'. Puoi discernere i dettagli di cio' che stai guardando come se si trovasse a non piu' di 30m da te. Inoltre, le prove di Saggezza(Percezione) non subiscono svantaggio in presenza di luce fioca.
 
 ## Istinto del Katarn
-Ottieni velocita' di scalata pari alla tua velocita' di movimento
+Ottieni velocita' di scalare pari alla tua velocita' di movimento
 
 ## Istinto del Loth-Cat
 Mentre sei in ira le altre creature subiscono svantaggio negli attacchi d'opportunita' effettuati contro di te. Inoltre, puoi effettuare l'azione Scatto con un'azione bonus nel tuo turno.
