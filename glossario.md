@@ -3,9 +3,13 @@
 - vibropike: vibro-lancia
 - armormech: meccano-armature
 - armormech's implements: dotazione per meccano-armature
+- armstech: meccano-armi
+- armstech's implements: dotazione per meccano-armi
 - artisan's implements: dotazione da artigiano
 - tinker’s Implements: dotazione da armeggiatore
 - minimum roll threshold: soglia minima del tiro
 - Physical Shield: Scudo
 - Power Fist: Pugno Energetico
 - Shield Generator: Generatore di Scudi
+- ion: ioni
+- Tech Blast: Tecno-blaster
