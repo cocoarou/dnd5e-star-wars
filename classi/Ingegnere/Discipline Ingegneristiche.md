@@ -1,5 +1,5 @@
 - [Discipline Ingegneristiche](#discipline-ingegneristiche)
-  - [Ingegneria meccano-armature](#ingegneria-meccano-armature)
+  - [Ingegneria Meccano-armature](#ingegneria-meccano-armature)
     - [Competenze Bonus](#competenze-bonus)
     - [Armatura Modificata](#armatura-modificata)
     - [Assorbimento Danni](#assorbimento-danni)
@@ -15,12 +15,13 @@
     - [Matrice Localizzante](#matrice-localizzante)
     - [Bombardamento](#bombardamento)
     - [Lista delle Modifiche della Meccano-arma](#lista-delle-modifiche-della-meccano-arma)
+  - [Ingegneria dei Gadget](#ingegneria-dei-gadget)
 
 </br>
 </br>
 
  # Discipline Ingegneristiche
- ## Ingegneria meccano-armature
+ ## Ingegneria Meccano-armature
  ### Competenze Bonus
  **Livello:** 3
 
@@ -114,3 +115,6 @@
  Quando utilizzi la [Matrice Localizzante](#matrice-localizzante) ed il potere tecnologico influenzerebbe piu' di una creatura, puoi decidere di effettuare un tiro per colpire con l'arma modificata contro ogni creatura che verrebbe influenzata dall'effetto e si trova all'interno del suo raggio. Effettui un tiro separato per ogni bersaglio. Tutti i bersagli colpiti subiscono gli effetti del potere come se avessero fallito il tiro salvezza.
 
  ### [Lista delle Modifiche della Meccano-arma](./Modifiche%20della%20Meccano-arma.md#modifiche-della-meccano-arma)
+
+ ## Ingegneria dei Gadget
+ 
