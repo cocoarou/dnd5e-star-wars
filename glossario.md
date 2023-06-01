@@ -13,3 +13,4 @@
 - Shield Generator: Generatore di Scudi
 - ion: ioni
 - Tech Blast: Tecno-blaster
+- Burst Core: Nucleo Deflagrante
