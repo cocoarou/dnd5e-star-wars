@@ -14,3 +14,16 @@
 - ion: ioni
 - Tech Blast: Tecno-blaster
 - Burst Core: Nucleo Deflagrante
+- Gadgeteer Engineering: Ingegneria Gadgettistica
+- gadgeteer: gadgettista
+- gadgeteer's implements: dotazione per gadgettista
+- Mimicker: Supporto di Distrazione
+- adrenal: surrenale
+- Stimpac: Stimpack
+- fixed (weapon): fissa
+- Modified Tinkercannon: Armeggio-Cannone Modificato
+
+# Condizioni
+- shocked: scioccato
+- restrained: trattenuto
+- incapacitated: incapacitato
