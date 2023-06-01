@@ -97,7 +97,7 @@
 ## Arpione con Bobina
 
 - Azione: vedi effetto
-- Effetto: puoi effettuare un tiro per colpire a distanza, con raggio 9/18, con l'arpione integrato nell'arma. Se l'attacco va a segno infliggi 1d6 danni cinetici. Questo attacco puo' bersagliare: una superficie, un oggetto od una creatura. Una creatura colpita da questo attacco viene impalata dall'arpione. Con un'azione puo' tentare di rimuoverlo, effettuando una prova di Forza. Finche' l'arpione e' attaccato, tu ed il tuo bersaglio siete uniti da un cavo di 18m. Finche' l'arpione e' fuori, puoi riavvolgere la bobina per raggiungere lo spazio del bersaglio qualora, quest'ultimo, sia di taglia uguale o speriore alla tua. Se il bersaglio e' di taglia inferiore alla tua, invece, viene tirato verso la tua posizione. In alternativa puoi decidere di rilasciare il cavo (non e' un'azione)
+- Effetto: puoi effettuare un tiro per colpire a distanza, con raggio 9/18, con l'arpione integrato nell'arma. Se l'attacco va a segno infliggi 1d6 danni cinetici. Questo attacco puo' bersagliare: una superficie, un oggetto od una creatura. Una creatura colpita da questo attacco viene impalata dall'arpione. Con un'azione puo' tentare di rimuoverlo, effettuando una prova di Forza. Finche' l'arpione e' attaccato, tu ed il tuo bersaglio siete uniti da un cavo di 18m. Finche' l'arpione e' fuori, puoi riavvolgere la bobina, con 1 azione standard, per raggiungere lo spazio del bersaglio qualora, quest'ultimo, sia di taglia uguale o speriore alla tua. Se il bersaglio e' di taglia inferiore alla tua, invece, viene tirato verso la tua posizione. In alternativa puoi decidere di rilasciare il cavo (non e' un'azione)
 - Utilizzi: 1
 - Recupero utilizzi: dopo aver raccolto e re-inserito l'arpione, con un'azione standard
 

@@ -117,7 +117,7 @@
 **Prerequisiti:** Armatura
 
 - Azione: vedi effetto
-- Effetto: puoi effettuare un tiro per colpire a distanza, con raggio 9/18, con l'arpione integrato nell'armatura. Se l'attacco va a segno infliggi 1d6 danni cinetici. Questo attacco puo' bersagliare: una superficie, un oggetto od una creatura. Una creatura colpita da questo attacco viene impalata dall'arpione. Con un'azione puo' tentare di rimuoverlo, effettuando una prova di Forza. Finche' l'arpione e' attaccato, tu ed il tuo bersaglio siete uniti da un cavo di 18m. Finche' l'arpione e' fuori, puoi riavvolgere la bobina per raggiungere lo spazio del bersaglio qualora, quest'ultimo, sia di almeno una taglia superiore alla tua. Se il bersaglio e' di taglia pari od inferiore alla tua, invece, viene tirato verso la tua posizione. In alternativa puoi decidere di rilasciare il cavo (non e' un'azione)
+- Effetto: puoi effettuare un tiro per colpire a distanza, con raggio 9/18, con l'arpione integrato nell'armatura. Se l'attacco va a segno infliggi 1d6 danni cinetici. Questo attacco puo' bersagliare: una superficie, un oggetto od una creatura. Una creatura colpita da questo attacco viene impalata dall'arpione. Con un'azione puo' tentare di rimuoverlo, effettuando una prova di Forza. Finche' l'arpione e' attaccato, tu ed il tuo bersaglio siete uniti da un cavo di 18m. Finche' l'arpione e' fuori, puoi riavvolgere la bobina, con 1 azione bonus, per raggiungere lo spazio del bersaglio qualora, quest'ultimo, sia di almeno una taglia superiore alla tua. Se il bersaglio e' di taglia pari od inferiore alla tua, invece, viene tirato verso la tua posizione. In alternativa puoi decidere di rilasciare il cavo (non e' un'azione)
 - Utilizzi: 1
 - Recupero utilizzi: dopo aver raccolto e re-inserito l'arpione, con un'azione standard
 
@@ -219,4 +219,4 @@
 **Prerequisito:** Armatura
 
 - Azione: non richiede un'azione
-- Effetto: puoi installare un'arma che non pesa' piu' di 4kg nell'armatura. Finche' l'arma e' installata, guadagna la proprieta': nascosto. Inoltre ottieni vantaggio nei tiri salvezza su Forza che effettui per non essere disarmato
+- Effetto: puoi installare un'arma che non pesa' piu' di 4kg nell'armatura. Finche' l'arma e' installata, guadagna la proprieta': nascosta. Inoltre ottieni vantaggio nei tiri salvezza su Forza che effettui per non essere disarmato

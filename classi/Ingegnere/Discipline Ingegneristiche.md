@@ -15,7 +15,21 @@
     - [Matrice Localizzante](#matrice-localizzante)
     - [Bombardamento](#bombardamento)
     - [Lista delle Modifiche della Meccano-arma](#lista-delle-modifiche-della-meccano-arma)
-  - [Ingegneria dei Gadget](#ingegneria-dei-gadget)
+  - [Ingegneria Gadgettistica](#ingegneria-gadgettistica)
+    - [Competenze Bonus](#competenze-bonus-2)
+    - [Imbracatura da Gadgettista](#imbracatura-da-gadgettista)
+    - [Barriera Proiettata](#barriera-proiettata)
+    - [Direzione Versatile](#direzione-versatile)
+    - [Barriere Rinforzate](#barriere-rinforzate)
+    - [Barriera Reattiva](#barriera-reattiva)
+    - [Lista delle Modifiche del Gadgettista](#lista-delle-modifiche-del-gadgettista)
+  - [Ingegneria Instabile](#ingegneria-instabile)
+    - [Competenze Bonus](#competenze-bonus-3)
+    - [Armeggio-Cannone Modificato](#armeggio-cannone-modificato)
+    - [Raffica Instabile](#raffica-instabile)
+    - [Creativita' Distruttiva](#creativita-distruttiva)
+    - [Sovrascritture Sperimentali](#sovrascritture-sperimentali)
+    - [Bombardamento Ingegneristico](#bombardamento-ingegneristico)
 
 </br>
 </br>
@@ -116,5 +130,131 @@
 
  ### [Lista delle Modifiche della Meccano-arma](./Modifiche%20della%20Meccano-arma.md#modifiche-della-meccano-arma)
 
- ## Ingegneria dei Gadget
+ ## Ingegneria Gadgettistica
+ ### Competenze Bonus
+ **Livello:** 3
+
+ Ottieni competenza in: utilizzo della dotazione per gadgettista.
+
+ Quando lavori utilizzando la dotazione per gadgettista il tempo di realizzazione si dimezza.
+
+ ### Imbracatura da Gadgettista
+ **Livello:** 3
+
+ Compreso nella durata del riposo lungo, puoi creare la tua imbracatura da gadgettista modificata, utilizzando la dotazione per gadgettista.
+
+ L'oggetto modificato e' considerato potenziato, richiede sintonizzazione, puo' solamente essere utilizzato da te e viene considerato come tecno-focus dei tuoi poteri tecnologici finche' sei sintonizzato con esso. 
  
+ L'oggetto ottiene 4 slot di modifica (le slot aumentano con l'aumentare dei livelli, come indicato nella tabella). Per ogni modifica installata che eccede il tuo bonus di competenza, i tuoi punti tecnologici massimi diminuiscono di 1.
+
+ Nel corso del riposo lungo puoi: installare, rimpiazzare o rimuovere un numero di [modifiche](./Modifiche%20del%20Gadgettista.md#modifiche-del-gadgettista) pari al tuo modificatore di Intelligenza (minimo 1).
+
+ Alcune [modifiche](./Modifiche%20del%20Gadgettista.md#modifiche-del-gadgettista) possono richiedere di effettuare un tiro salvezza. La CD della prova e' la tua CD del tiro salvezza tecnologico.
+
+ ### Barriera Proiettata
+ **Livello:** 3
+
+ Con un'azione bonus, mentre indossi l'imbracatura da gadgettista, puoi spendere un utilizzo di [Prontezza](./Ingegnere.md#prontezza) per proiettare una barriera su un'alleato entro 9m che sei in grado di vedere. Una creatura puo' ottenere una barriera alla volta
+
+ - **Barriera Ambientale:** 
+
+    - Durata: fino alla fine del tuo prossimo riposo breve o lungo
+    - Punti Ferita: risultato del dado di [Prontezza](./Ingegnere.md#prontezza) + il livello da ingegnere
+    - Effetto: quando il possessore della barriera riceve uno dei danni tra:
+
+      - acido
+      - freddo
+      - fuoco
+      - forza
+      - elettricita'
+      - necrotico
+      - veleno
+      - psichico
+      - sonico
+      
+      scelto al momento dell'attivazione di questa capacita', la barriera riceve il danno al suo posto. Se il danno riduce i punti ferita della barriera a 0 i restanti danni vengono trasferiti sulla creatura difesa da essa
+
+  - **Barriera Fisica:**
+
+    - Durata: fino alla fine del tuo prossimo riposo breve o lungo
+    - Punti Ferita: risultato del dado di [Prontezza](./Ingegnere.md#prontezza) + il livello da ingegnere
+    - Effetto: quando il possessore della barriera riceve uno dei danni tra:
+
+      - energia
+      - ioni
+      - cinetici
+
+      scelto al momento dell'attivazione di questa capacita', la barriera riceve il danno al suo posto. Se il danno riduce i punti ferita della barriera a 0 i restanti danni vengono trasferiti sulla creatura difesa da essa
+
+### Direzione Versatile
+**Livello:** 6, 9, 13 e 17
+
+Puoi effettuare una seconda azione bonus in ogni tuo turno. Puoi utilizzare questo privilegio 3 volte, guadagnando un utilizzo aggiuntivo al livello 9, 13 e 17. Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
+
+### Barriere Rinforzate
+**Livello:** 14
+
+Quando lanci un potere tecnologico la barriera, che deve trovarsi entro 9m da te, recupera punti ferita pari al doppio del livello del potere lanciato od 1 punto ferita se si tratta di un potere a volonta'. Non puoi far recuperare alla barriera piu' dei suoi punti ferita massimi con questo effetto. Se hai piu' di una barriera attiva, puoi dividere questi punti come preferisci.
+
+### Barriera Reattiva
+**Livello:** 18
+
+Quando una creatura, entro 9 metri, che e' protetta da una delle tue barriere riceve danno ed il tipo di danno fa parte della lista dei danni dai quali la barriera puo' proteggere, puoi utilizzare la tua reazione per garantire resistenza al tipo di danno che sta venendo inferto. Se il tipo di danno e' dello stesso tipo di quello che la barriera e' gia' in grado di dimezzare, il bersaglio ne diventa, invece, immune. Dopo aver utilizzato questa capacita', la barriera scende a 0 punti ferita.
+
+### [Lista delle Modifiche del Gadgettista](./Modifiche%20del%20Gadgettista.md#modifiche-del-gadgettista)
+
+## Ingegneria Instabile
+### Competenze Bonus
+**livello:** 3
+
+Ottieni competenza in una dotazione da artigiano a scelta. 
+
+Quando lavori utilizzando la dotazione da armeggiatore il tempo di realizzazione si dimezza.
+
+### Armeggio-Cannone Modificato
+**Livello:** 3, 9 e 17
+
+Compreso nella durata del riposo lungo, puoi modificare la tua dotazione da armeggiatore in u narmeggio-cannone.
+
+Ogni volta che lanci un potere tecnologico di livello 1 o superiore mentre maneggi il cannone potresti rischiare che si verifichino effetti inaspettati. Il Dungeon Master puo' farti tirare 1d20. Se il risultato e' 1 tiri 1d100 ed associ il risultato al numero presente nella tabella [Impulsi dell'Ingegneria Instabile](./Impulsi%20dell'Ingegneria%20Instabile.md#impulsi-dell-ingegneria-instabile) Instabile scatenando l'effetto indicato.
+
+L'armeggio-cannone ottiene 4 slot di sovrascrittura (le slot aumentano con l'aumentare dei livelli come indicato nella colonna Slot di Modifica nella tabella dell'[Ingegnere](./Ingegnere.md#ingegnere)). Ogni volta che si manifesta un impulso puoi utilizzare una delle slot di sovrascrittura per ritirare il dado percentuale (devi utilizzare il risultato di questo tiro). Puoi tentare di sovrascrivere il risultato del tiro solamente una volta per impulso. Per ogni tentativo di sovrascrittura che eccede il tuo bonus di competenza, i tuoi punti tecnologici massimi diminuiscono di 1 (completando un riposo lungo tornano alla normalita').
+
+Recuperi tutti gli utilizzi di sovrascrittura al completamento di un riposo lungo.
+
+### Raffica Instabile
+**Livello:** 3, 9 e 17
+
+Con un'azione bonus puoi spendere un utilizzo di Prontezza per scagliare una raffica di energia instabile verso una superficio a 9m da te che puoi vedere. Questa energia aderisce al terreno per 1 minuto, dopo il quale esplode. Come parte dell'azione bonus o con 1 azione bonus nel turno successivo, puoi far esplodere l'energia prematuramente. Ogni creatura entro 1.5m dall'esplosione deve effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza tecnologico. Chi fallisce il tiro salvezza subisce 1d6 danni da elettricita', chi supera la prova ne riceve la meta'.
+
+La gittata del privilegio aumenta ai livelli successivi in questo modo:
+
+- 18m al livello 9
+- 36m al livello 17
+
+I danni aumentano ai livelli successivi in questo modo:
+
+- 2d6 al livello 5
+- 3d6 al livello 11
+- 4d6 al livello 17
+
+### Creativita' Distruttiva
+**Livello:** 6
+
+Puoi aggiungere il tuo modificatore di tecno-lancio (minimo +1) ai danni che infliggi con i poteri tecnologici che lanci e privilegi di classe che utilizzi e che non includano gia' il modificatore. 
+
+Se un potere od un privilegio infliggerebbero danno a piu' bersagli, puoi applicare questi danni aggiuntivi solamente su uno di essi
+
+Quando utilizzi questo privilegio il Dungeon Master puo' decidere se farti tirare o meno sulla tabella degli [Impulsi dell'Ingegneria Instabile](./Impulsi%20dell'Ingegneria%20Instabile.md#impulsi-dell-ingegneria-instabile)
+
+### Sovrascritture Sperimentali
+**Livello:** 14
+
+Quando tiri sulla tabella degli [Impulsi dell'Ingegneria Instabile](./Impulsi%20dell'Ingegneria%20Instabile.md#impulsi-dell-ingegneria-instabile) e scegli di sovrascrivere il tiro, puoi decidere quale risultato utilizzare
+
+### Bombardamento Ingegneristico
+**Livello:** 18
+
+Quando tiri per i danni di un potere tecnologico od un privilegio di classe ed il risultato e' il numero massimo che il dado possa raggiungere, tiri nuovamente il dado ed utilizzi entrambi i risultati
+
+Puoi utilizzare questa capacita' un potere tecnologico o privilegio di classe alla volta
