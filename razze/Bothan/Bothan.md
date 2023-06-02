@@ -10,6 +10,6 @@
 |Taglia|Media
 |Velocita'|9m
 |Furtivita' Innata|Puoi provare a nasconderti anche quando sei occultato da una creatura di taglia uguale o superiore alla tua
-|Fuga Agile|Puoi utilizzare le azioni di Disingaggio o Nascondersi come azioni bonus
+|Fuga Agile|Puoi utilizzare le azioni di Disimpegno o Nascondersi come azioni bonus
 |Scaltro|Hai vantaggio nelle prove di Intuizione ed Inganno
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Bothese
