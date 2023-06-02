@@ -1,3 +1,5 @@
+# Manovre
+
 - [Manovre](#manovre)
   - [Prestare Soccorso](#prestare-soccorso)
   - [Prestare Soccorso (Maggiore)](#prestare-soccorso-maggiore)
@@ -100,10 +102,6 @@
   - [Lottare e Trascinare](#lottare-e-trascinare)
   - [E Questa la Chiami Archeologia?](#e-questa-la-chiami-archeologia)
 
-</br>
-</br>
-
-# Manovre
 ## Prestare Soccorso
 
 - Tipo: Mentale

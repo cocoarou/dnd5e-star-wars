@@ -53,7 +53,7 @@
 **Prerequisito:** Jet Pack
 
 - Azione: vedi effetto
-- Effetto: puoi utilizzare le azioni di scatto e disingaggio utilizzando un'azione bonus quando il tuo jet pack e' attivo
+- Effetto: puoi utilizzare le azioni di scatto e disimpegno utilizzando un'azione bonus quando il tuo jet pack e' attivo
 
 ## Guanti da Scalatore
 - Azione: non richiede un'azione

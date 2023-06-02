@@ -22,7 +22,7 @@ Sceltri tra 2 delle seguenti opzioni. Puoi utilizzare 1 azione bonus anziche' 1 
 
 - Applicare Veleno
 - Scatto
-- Disingaggio
+- Disimpegno
 - Guardia
 - Aiuto
 - Nascondersi
