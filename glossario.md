@@ -26,6 +26,7 @@
 - combat suit: armatura da combattimento
 - power cell: batteria
 - lightweapon: armi-laser
+- truedamage: danni-puri
 
 # Condizioni
 - shocked: scioccato
