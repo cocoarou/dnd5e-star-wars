@@ -27,6 +27,17 @@
 - power cell: batteria
 - lightweapon: armi-laser
 - truedamage: danni-puri
+- wristlauncher: lanciatore da polso
+- canister: contenitore
+- projector canister: contenitore proiettante
+- Guard: Guardia
+- rapid: rapida
+- burst: deflagrante
+- Double-Weapon Fighting: Combattere con Armi Doppie
+- Two-Weapon Fighting: Combattere con Due Armi
+- thrown: lancio
+- forcecast: forza-lancio
+- techcast: tecno-lancio
 
 # Condizioni
 - shocked: scioccato
