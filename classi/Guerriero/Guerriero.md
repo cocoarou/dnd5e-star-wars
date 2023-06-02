@@ -122,7 +122,7 @@ Recuperi gli utilizzi spesi completando un riposo breve o lungo.
 #### Caratteristica di Manovra
 La caratteristica della manovra cambia a seconda della manovra che stai utilizzando.
 
-Utilizzi Forza, Destrezza o Costituzione (scegli tu) per le manovre fisiche, Intelligenza, Saggezza o Carisma (scegli tu) per le manovre mentali ed una caratteristica a scelta per le manovre generali.
+Utilizzi Forza, Destrezza o Costituzione (scegli tu) per le manovre fisiche, Intelligenza, Saggezza o Carisma (scegli tu) per le manovre mentali ed una caratteristica a scelta per le manovre generiche.
 
 Usi questa caratteristica ogni qual volta la manovra fa riferimento alla caratteristica di manovra.
 
