@@ -38,6 +38,9 @@
 - thrown: lancio
 - forcecast: forza-lancio
 - techcast: tecno-lancio
+- vehicle action: azione di veicolo
+- interlocking: ad incastro
+- interlocking weapon: arma ad incastro
 
 # Condizioni
 - shocked: scioccato
