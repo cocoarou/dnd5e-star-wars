@@ -67,7 +67,7 @@
 - Ottieni vantaggio nelle prove di Forza e nei tiri salvezza su Forza che effettui per evitare di venire spostato.
 
 ## Stile dell'Interruzione
-Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro l tipo di lancio scelto:
+Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro il tipo di lancio scelto:
 
 - Quando obblighi una creatura ad effettuare un tiro salvezza su Costituzione per mantenere la concentrazione, nel tuo turno, e supera il tiro salvezza, puoi utilizzare 1 azione bonus per obbligarla a ritirare la prova. Deve utilizzare il nuovo tiro.
 - Una volta per round, quando un nemico tenta di lanciare un potere entro 1.5m da te, deve prima effettuare un tiro salvezza su Costituzione per mantenere la concentrazione (CD = 10 + il livello del potere). Se fallisce, il potere non viene lanciato e non vengono spesi i punti del potere.
