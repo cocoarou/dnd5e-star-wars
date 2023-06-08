@@ -32,5 +32,5 @@
 ### Guerriero
 - ~~Terminare Manovre (riprendere da Presenza Affascinante/Charming Presence)~~
 - ~~Iniziare Strategie~~
-- Iniziare Maestrie in Combattimento
+- ~~Iniziare Maestrie in Combattimento~~
 - Iniziare Specializzazioni
