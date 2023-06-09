@@ -126,7 +126,7 @@ Scegli l'avanzata che plasma la natura dell'ira dettagliata in [questa sezione](
 Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio
 
 ### Attacco Extra
-Ottieni un attacco extra
+Puoi attaccare 2 volte
 
 ### Impulso Selvaggio
 Ottieni vantaggio nei tiri di iniziativa
