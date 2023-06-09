@@ -41,6 +41,8 @@
 - vehicle action: azione di veicolo
 - interlocking: ad incastro
 - interlocking weapon: arma ad incastro
+- Piloting: guidare
+- stance: posizione
 
 # Condizioni
 - shocked: scioccato
