@@ -25,7 +25,7 @@
 - mesh armor: armatura reticolata
 - combat suit: armatura da combattimento
 - power cell: batteria
-- lightweapon: armi-laser
+- light-weapon: armi-laser
 - truedamage: danni-puri
 - wristlauncher: lanciatore da polso
 - canister: contenitore
