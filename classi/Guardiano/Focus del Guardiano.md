@@ -17,6 +17,8 @@
     - [Competenze Bonus](#competenze-bonus)
     - [Basi dello Stile](#basi-dello-stile-2)
     - [Il Sentiero del Drago Krayt](#il-sentiero-del-drago-krayt)
+    - [Incanalare la Forza](#incanalare-la-forza-2)
+    - [Determinazione](#determinazione)
 
 </br>
 </br>
@@ -129,4 +131,21 @@ Ottieni lo stile delle spade-laser [Shien](../Guerriero/Stili%20delle%20Spade-La
 
 ### Il Sentiero del Drago Krayt
 **Livello:** 3
+
+Con 1 azione bonus puoi entrare in una posizione minacciosa per 1 minuto. Mentre sei in questa posizione, la prima volta che colpisci con un attacco corpo a corpo con l'arma utilizzando Forza, ogni turno, se una creatura si trova a 1.5m dal bersaglio originale, entro portata, puoi tentare di infliggere danni aggiuntivi al bersaglio secondario. Se il tiro per colpire originale colpirebbe la seconda creatura, essa subisce danni pari al tuo modificatore di Forza. Il tipo di danno e' dello stesso tipo inferto dall'attacco originale.
+
+Questo effetto termina prima della fine della durata se sei incapacitato o se muori.
+
+Puoi utilizzare nuovamente questo privilegio una volta completato un riposo lungo.
+
+### Incanalare la Forza
+**Livello:** 3
+
+Ottieni le seguenti opzioni di [Incanalare la Forza](./Guardiano.md#incanalare-la-forza). Scegli Barriera di Spade per Shien o Valanga per Djem So:
+
+- **Barriera di Spade:** nel tuo turno, quando un attacco corpo a corpo con l'arma, che include il tuo modificatore di Forza, infligge danni, puoi scegliere di non aggiungere il modificatore di Forza al tiro per i danni, spendere 1 utilizzo di Incanalare la Forza (non e' un'azione) e ridurre la tua velocita' di movimento di 1/2. Se lo fai, i danni cinetici e da energia, che subisci dalle armi, prima della fine del tuo prossimo turno, vengono ridotti di un ammontare pari al tuo modificatore di Forza. Non puoi utilizzare questo privilegio se ti sei mosso per piu' della meta' del tuo movimento questo turno
+- **Valanga:** nel tuo turno, puoi spendere 1 utilizzo di Incanalare la Forza (non e' un'azione) e ridurre la tua velocita' di movimento di 1/2 per ottenere vantaggio nella prossima prova o tiro per colpire che utilizza Forza, effettuati prima della fine del tuo prossimo turno. Non puoi utilizzare questo privilegio se ti sei mosso per piu' della meta' del tuo movimento questo turno
+
+### Determinazione
+**Livello:** 7
 
