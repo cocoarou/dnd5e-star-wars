@@ -43,6 +43,7 @@
 - interlocking weapon: arma ad incastro
 - Piloting: guidare
 - stance: posizione
+- unenhanced weapon: arma non potenziata
 
 # Condizioni
 - shocked: scioccato
