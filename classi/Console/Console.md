@@ -141,4 +141,4 @@ Il tuo punteggio di Saggezza o Carisma aumenta di 4 ed il punteggio massimo dell
 
 Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.
 
-Se vuoi lanciare quel potere oltre il livello 3, devi spendere i punti potere come di consueto.
+Se vuoi lanciare quel potere oltre il livello 3, devi spendere i punti forza come di consueto.

@@ -19,6 +19,16 @@
     - [Il Sentiero del Drago Krayt](#il-sentiero-del-drago-krayt)
     - [Incanalare la Forza](#incanalare-la-forza-2)
     - [Determinazione](#determinazione)
+    - [Presenza](#presenza)
+    - [Maestro della Perseveranza](#maestro-della-perseveranza)
+  - [Stile Soresu](#stile-soresu)
+    - [Competenze Bonus](#competenze-bonus-1)
+    - [Basi dello Stile](#basi-dello-stile-3)
+    - [Il Sentiero del Mynock](#il-sentiero-del-mynock)
+    - [Incanalare la Forza](#incanalare-la-forza-3)
+    - [Cerchio di Protezione](#cerchio-di-protezione)
+    - [Resistere alla Corrente](#resistere-alla-corrente)
+    - [Maestro della Resilienza](#maestro-della-resilienza)
 
 </br>
 </br>
@@ -89,7 +99,7 @@ Puoi utilizzare nuovamente questo privilegio una volta completato un riposo lung
 
 Ottieni la seguente opzione di [Incanalare la Forza](./Guardiano.md#incanalare-la-forza):
 
-- **Squarcio Telecinetico:** quando infliggi danni con un potere della forza a volonta', che richiede di effettuare un tiro per colpire od un tiro salvezza, puoi spendere un utilizzo di Incanalare la Forza e punti potere per infliggere danni extra al bersaglio. I danni sono dello stesso tipo dei danni inferti dal potere. I danni aggiuntivi ammontano ad 1d8 per punto potere speso. Non puoi infliggere piu' danni di quelli indicati nella colonna Colpi Focalizzati della tabella del guardiano.
+- **Squarcio Telecinetico:** quando infliggi danni con un potere della forza a volonta', che richiede di effettuare un tiro per colpire od un tiro salvezza, puoi spendere un utilizzo di Incanalare la Forza e punti forza per infliggere danni extra al bersaglio. I danni sono dello stesso tipo dei danni inferti dal potere. I danni aggiuntivi ammontano ad 1d8 per punto potere speso. Non puoi infliggere piu' danni di quelli indicati nella colonna Colpi Focalizzati della tabella del guardiano.
 
 ### Illuminazione
 **Livello:** 7
@@ -108,7 +118,7 @@ Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo brev
 ### Maestro della Moderazione
 **Livello:** 20
 
-Il tuo punteggio di Destrezza e Saggezza o Carisma (scegli tu) aumenta di 2 ed il punteggio massimo delle caratteristiche scelta aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
+Il tuo punteggio di Destrezza e Saggezza o Carisma (scegli tu) aumenta di 2 ed il punteggio massimo delle caratteristiche scelte aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
 
 - Ottieni resistenza ai danni cinetici subiti da armi non potenziate
 - Ottieni vantaggio nei tiri salvezza dei poteri della forza. Inoltre ottieni resistenza ai danni inferti dai poteri della forza
@@ -149,3 +159,81 @@ Ottieni le seguenti opzioni di [Incanalare la Forza](./Guardiano.md#incanalare-l
 ### Determinazione
 **Livello:** 7
 
+Ottieni uno dei seguenti privilegi. Scegli Negoziati Aggressivi per Shien o Vigore Affidabile per Djem So
+
+- **Negoziati Aggressivi:** ottieni competenza in Intimidire o Persuasione. Quando impugni un'arma, nella quale sei competente, non puoi subire svantaggio nelle prove di Intimidire o Persuasione e qualora il bersaglio debba effettuare una prova contesa di Intimidire o Persuasione, non puo' ottenere vantaggio per queste prove.
+
+- **Vigore Affidabile:** se il risultato del d20 tirato per una prova o un tiro salvezza su Forza e' minore del tuo livello da guardiano, puoi invece aggiungere il tuo livello da guardiano anziche' il risultato del dado. Puoi utilizzare questo privilegio 3 volte. Ottieni 1 utilizzo aggiuntivo ai livelli: 9, 13 e 17. Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
+
+### Presenza
+Ottieni uno dei seguenti privilegi. Scegli Deviare Accurato per Shien o Colpi Brutali per Djem So
+
+- **Deviare Accurato:** quando metti a segno un attacco scaturito dal potere Deviare Lame (Saber Reflect), puoi spendere dei punti forza per infliggere danni aggiuntivi, dello stesso tipo del danno dell'arma. I danni aggiuntivi ammontano ad 1d8 per punto potere speso. Non puoi infliggere piu' danni di quelli indicati nella colonna Colpi Focalizzati della tabella del guardiano.
+- **Colpi Brutali:** i danni dei [Colpi Potenziati dalla Forza](./Guardiano.md#colpi-potenziati-dalla-forza) e dei [Colpi Potenziati dalla Forza Migliorati](./Guardiano.md#colpi-potenziati-dalla-forza-migliorati) ottengono una soglia minima del tiro. Inoltre, quando spendi punti forza per il privilegio dei Colpi Potenziati dalla Forza ottieni punti ferita temporanei pari al doppio del numero di punti spesi
+
+### Maestro della Perseveranza
+**Livello:** 20
+
+I tuoi punteggi di Forza e Costituzione aumentano di 2 ed il punteggio massimo delle caratteristiche aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
+
+- Ottieni resistenza ai danni cinetici e da energia subiti da armi non potenziate
+- Una volta per turno, quando metti a segno un tiro per colpire corpo a corpo con l'arma che utilizza Forza, puoi utilizzare il privilegio dei Colpi Potenziati dalla Forza di livello 1, senza spendere punti forza. Ottieni punti ferita temporanei pari al danno extra inferto
+- Quando una creatura entro 1.5m ti attacca, puoi utilizzare la tua reazione per effettuare un singolo attacco con l'arma, con vantaggio, contro quella creatura. Se l'attacco va a segno, l'attacco del nemico che ha fatto scattare la reazione subisce svantaggio
+
+Questi effetti terminano prima della fine della durata se sei incapacitato o se muori. 
+
+Puoi utilizzare nuovamente questo privilegio una volta completato un riposo lungo
+
+## Stile Soresu
+### Competenze Bonus
+**Livello:** 3
+
+Ottieni competenza nelle armature pesanti
+
+### Basi dello Stile
+**Livello:** 3
+
+Ottieni lo stile delle spade-laser [Soresu](../Guerriero/Stili%20delle%20Spade-Laser.md#soresu). Se gia' conosci lo stile scelto puoi, invece, sceglierne un'altro a piacere dalla lista degli [stili](../Guerriero/Stili%20delle%20Spade-Laser.md#stili-delle-spade-laser).
+
+### Il Sentiero del Mynock
+**Livello:** 3
+
+Con 1 azione bonus puoi entrare in una posizione difensiva per 1 minuto. Come parte dell'azione bonus e come azione bonus in ognuno dei tuoi turni, puoi lanciare il potere Protezione dalle Lame (Saber Ward). Quando lanci il potere ottieni un numero di reazioni speciali pari al tuo bonus do competenza che puoi utilizzare solo per lanciare il potere Deviare Lame (Saber Reflect).
+
+Questo effetto termina prima della fine della durata se sei incapacitato o se muori.
+
+Puoi utilizzare nuovamente questo privilegio una volta completato un riposo lungo.
+
+### Incanalare la Forza
+**Livello:** 3
+
+Ottieni la seguente opzione di [Incanalare la Forza](./Guardiano.md#incanalare-la-forza).
+
+- **Difensore Mobile**: quando lanci il potere Deviare Lame (Saber Reflect) puoi spendere un utilizzo di Incanalare la Forza per muoverti di 3m come parte della reazione. Questo movimento non provoca attacchi d'opportunita'.
+
+### Cerchio di Protezione
+**Livello:** 7, 9, 13 e 17
+
+Se tu od una creatura che puoi vedere entro 1.5m venite colpiti da un attacco, puoi utilizzare la tua reazione per proteggere il bersaglio se stai impugnando un'arma corpo a corpo od uno scudo. Tira 1d8 ed aggiungi il risultato alla CA del bersaglio che stai proteggendo. Se l'attacco colpirebbe ugualmente, il bersaglio ottiene comunque resistenza ai danni di quell'attacco.
+
+Puoi utilizzare questo privilegio 3 volte. Ottieni 1 utilizzo extra ai livelli: 9, 13 e 17.
+
+Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
+
+### Resistere alla Corrente
+**Livello:** 15
+
+Quando un nemico ti manca con un attacco corpo a corpo, puoi utilizzare la tua reazione per obbligare quella creatura ad effettuare lo stesso attacco, contro un'altra creatura (tranne se' stessa) che tu scegli.
+
+### Maestro della Resilienza
+**Livello:** 20
+
+Il tuo punteggio di Costituzione e Saggezza o Carisma (scegli tu) aumenta di 2 ed il punteggio massimo delle caratteristiche scelte aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
+
+- Ottieni resistenza ai danni cinetici e da energia subiti da armi non potenziate
+- Quando lanci il potere Deviare Lame (Saber Reflect) puoi effettuare un singolo attacco corpo a corpo contro un nemico, entro 1.5m , come parte della reazione
+- Ottieni vantaggio nei tiri salvezza su Destrezza. Questo effetto si applica anche a tutti gli alleati entro 9m da te.
+
+Questi effetti terminano prima della fine della durata se sei incapacitato o se muori. 
+
+Puoi utilizzare nuovamente questo privilegio una volta completato un riposo lungo

@@ -141,7 +141,7 @@ Vedi [questa sezione] per le regole del tecno-lancio e [questa sezione] per la l
 Impari 3 poteri tecnologici a scelta e ne acquisisci altri ai livelli successivi, come elencato nella tabella dello Specialista degli Scudi. Non puoi imparare un potere che sia di livello superiore della colonna Livello Massimo del Potere
 
 #### Punti Tecnologici
-Hai un numero di punti tecnologici pari a 1/2 del tuo livello da guerriero, come elencato nella colonna Punti Tecnologici della tabella dello Specialista degli Scudi, + il tuo modificatore di Intelligenza. Utilizzi questi punti potere per lanciare i poteri tecnologici.
+Hai un numero di punti tecnologici pari a 1/2 del tuo livello da guerriero, come elencato nella colonna Punti Tecnologici della tabella dello Specialista degli Scudi, + il tuo modificatore di Intelligenza. Utilizzi questi punti tecnologici per lanciare i poteri tecnologici.
 
 Recuperi i punti tecnologici spesi dopo aver completato un riposo breve o lungo
 
