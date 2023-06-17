@@ -9,22 +9,22 @@
 |1|+2|Forza-lancio, Incanalare la Forza|5|2|1|-|-|-
 |2|+2|Colpi Potenziati dalla Forza, Stile di Combattimento|7|4|1|2d8|-|-
 |3|+2|Aura del Guardiano, Focus del Guardiano|9|6|1|2d8|1|1.5m
-|4|+2|Aumento dei Punteggi Abilita'|10|8|1|2d8|1|1.5m
+|4|+2|Aumento dei Punteggi Caratteristica|10|8|1|2d8|1|1.5m
 |5|+3|Attacco Extra|12|10|2|3d8|1|1.5m
 |6|+3|Purezza della Forza|13|12|2|3d8|1|1.5m
 |7|+3|Tratto del Focus|14|14|2|3d8|1|1.5m
-|8|+3|Aumento dei Punteggi Abilita'|15|16|2|3d8|1|1.5m
+|8|+3|Aumento dei Punteggi Caratteristica|15|16|2|3d8|1|1.5m
 |9|+4|-|17|18|3|4d8|1|4.5m
 |10|+4|-|18|20|3|4d8|2|4.5m
 |11|+4|Colpi Potenziati dalla Forza Migliorati|19|22|3|4d8|2|4.5m
-|12|+4|Aumento dei Punteggi di Caratteristica|20|24|3|4d8|2|4.5m
+|12|+4|Aumento dei Punteggi Caratteristica|20|24|3|4d8|2|4.5m
 |13|+5|-|22|26|4|5d8|2|4.5m
 |14|+5|Tocco Purificante|23|28|4|5d8|2|4.5m
 |15|+5|Tratto del Focus|24|30|4|5d8|2|4.5m
-|16|+5|Aumento dei Punteggi di Caratteristica|25|32|4|5d8|2|4.5m
+|16|+5|Aumento dei Punteggi Caratteristica|25|32|4|5d8|2|4.5m
 |17|+6|-|27|34|5|6d8|2|9m
 |18|+6|-|28|36|5|6d8|3|9m
-|19|+6|Aumento dei Punteggi di Caratteristica|29|38|5|6d8|3|9m
+|19|+6|Aumento dei Punteggi Caratteristica|29|38|5|6d8|3|9m
 |20|+6|Tratto del Focus|30|40|5|6d8|3|9m
 
 ## Privilegi di Classe
@@ -121,6 +121,8 @@ Ottieni un'aura a scelta da [questa sezione](./Auree%20del%20Guardiano.md#auree-
 Focalizzi i tuoi studi su uno stile specifico delle spade-laser dettagliato in [questa sezione](./Focus%20del%20Guardiano.md#focus-del-guardiano).
 
 ### Aumento dei Punteggi Caratteristica
+**Livello:** 4, 8, 12, 16 e 19
+
 Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio
 
 ### Attacco Extra

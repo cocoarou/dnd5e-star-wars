@@ -51,7 +51,7 @@
 **Prerequisito:** Blaster
 
 - Azione: vedi effetto
-- Effetto: puoi effettuare un attacco corpo a corpo con l'arma modificata. La baionetta e' considerata una vibro-arma, con proprieta' Accurata ed infligge 1d6 danni cinetici
+- Effetto: puoi effettuare un attacco corpo a corpo con l'arma modificata. La baionetta e' considerata una vibro-arma, con proprieta' accurata ed infligge 1d6 danni cinetici
 
 ## Colpi Dirompenti
 **Prerequisito:** livello 5

@@ -5,7 +5,7 @@
 ## Tratti dei Gungan
 |||
 |---|---
-|Aumento dei punteggi abilita'|Il punteggio di Destrezza aumenta di 2 e la Forza aumenta di 1
+|Aumento dei punteggi caratteristica|Il punteggio di Destrezza aumenta di 2 e la Forza aumenta di 1
 |Eta'|I gungan raggiungono la maturita' intorno ai 13 anni e vivono fino a circa 70 anni
 |Allineamento|Tendente al lato chiaro della forza
 |Taglia|Media

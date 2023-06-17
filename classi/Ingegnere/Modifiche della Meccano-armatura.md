@@ -55,14 +55,14 @@
 - Durata: finche' indossi l'armatura modificata
 
 ## Pugno Energetico Avanzato
-**Prerequisiti:** livello 11, Prototipo di [Pugno Energetico](#pugno-energetico)
+**Prerequisito:** livello 11, Prototipo di [Pugno Energetico](#pugno-energetico)
 
 - Azione: vedi effetto
 - Effetto: i tuoi attacchi senz'armi infliggono 1d8 danni cinetici e l'intervallo di critico con gli attacchi senz'armi aumenta di 1.
 - Durata: finche' indossi l'armatura modificata
 
 ## Intelligenza Artificiale
-**Prerequisiti:** livello 9, Armatura
+**Prerequisito:** livello 9, Armatura
 
 - Azione: vedi effetto
 - Effetto: quando effettui una prova di abilita' l'intelligenza artificiale installata puo' effettuare l'azione di Aiuto
@@ -72,27 +72,27 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Placche Saldate
-**Prerequisiti:** livello 5
+**Prerequisito:** livello 5
 
 - Azione: non richiede un'azione
 - Effetto: + 1 alla CA che si trasforma in +2 al livello 9 ed in +3 al livello 13
 - Durata: finche' indossi l'armatura modificata o lo scudo modificato
 
 ## Armatura Riponibile
-**Prerequisiti:** livello 5, Armatura
+**Prerequisito:** livello 5, Armatura
 
 - Azione: 1 azione standard
 - Effetto: puoi far assumere all'armatura le sembianze di una valigia. In questa forma l'armatura pesa 1/3 del suo normale peso. Con un'azione puoi scegliere di indossare o riporre l'armatura.
 
 ## Visore Notturno
-**Prerequisiti:** Armatura
+**Prerequisito:** Armatura
 
 - Azione: non richiede un'azione
 - Effetto: ottieni scurovisione 18m. Se gia' hai scurovisione, aggiungi al tuo bonus 9m.
 - Durata: finche' indossi l'armatura modificata
 
 ## Durabilita' Potenziata
-**Prerequisiti:** Armatura
+**Prerequisito:** Armatura
 
 - Azione: non richiede un'azione
 - Effetto: quando vieni portato a 0 punti ferita e non muori, rimani ad 1 punto ferita
@@ -101,20 +101,20 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Scudi Elettroshock
-**Prerequisiti:** Generatore di Scudi
+**Prerequisito:** Generatore di Scudi
 
 - Azione: reazione
 - Effetto: quando un nemico ti manca puoi utilizzare la tua reazione per infliggere 1d4 + modificatore di Intelligenza danni elettrici all'attaccante
 
 ## Volo
-**Prerequisiti:** livello 9, Armatura
+**Prerequisito:** livello 9, Armatura
 
 - Azione: non richiede un'azione
 - Effetto: ottieni una velocita' di volo di 9m
 - Durata: finche' indossi l'armatura modificata
 
 ## Arpione da Presa
-**Prerequisiti:** Armatura
+**Prerequisito:** Armatura
 
 - Azione: vedi effetto
 - Effetto: puoi effettuare un tiro per colpire a distanza, con raggio 9/18, con l'arpione integrato nell'armatura. Se l'attacco va a segno infliggi 1d6 danni cinetici. Questo attacco puo' bersagliare: una superficie, un oggetto od una creatura. Una creatura colpita da questo attacco viene impalata dall'arpione. Con un'azione puo' tentare di rimuoverlo, effettuando una prova di Forza. Finche' l'arpione e' attaccato, tu ed il tuo bersaglio siete uniti da un cavo di 18m. Finche' l'arpione e' fuori, puoi riavvolgere la bobina, con 1 azione bonus, per raggiungere lo spazio del bersaglio qualora, quest'ultimo, sia di almeno una taglia superiore alla tua. Se il bersaglio e' di taglia pari od inferiore alla tua, invece, viene tirato verso la tua posizione. In alternativa puoi decidere di rilasciare il cavo (non e' un'azione)
@@ -122,13 +122,13 @@
 - Recupero utilizzi: dopo aver raccolto e re-inserito l'arpione, con un'azione standard
 
 ## Armatura Pesante
-**Prerequisiti:** livello 5, Armatura
+**Prerequisito:** livello 5, Armatura
 
 - Azione: 1 azione bonus
 - Effetto: puoi ancorarti al suolo o disancorarti da esso. Quando sei ancorato la tua velocita' scende a 0, ottieni vantaggio nelle prove di Forza e nei tiri salvezza su Forza e la tua capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale
 
 ## Armatura da Infiltrazione
-**Prerequisiti:** Armatura
+**Prerequisito:** Armatura
 
 - Azione: 1 azione standard
 - Effetto: puoi lanciare Infiltrarsi(Infiltrate) su te stesso
@@ -137,13 +137,13 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Scudo Magnetizzato
-**Prerequisiti:** Scudo
+**Prerequisito:** Scudo
 
 - Azione: non richiede un'azione
 - Effetto: se un attacco corpo a corpo ti manca e la differenza tra il tiro per colpire e la tua CA e' pari od inferiore al bonus alla CA conferito dal tuo scudo, l'avversario deve effettuare una prova di Forza e superare la tua CD del tiro salvezza tecnologico. Se fallisce la prova, l'arma che impugna rimane incollata allo scudo. L'avversario puo' tentare di liberare l'arma ripetendo, con un'azione standard, questa prova di Forza.
 
 ## Sovraccaricare Scudi
-**Prerequisiti:** Generatore di Scudi
+**Prerequisito:** Generatore di Scudi
 
 - Azione: 1 azione standard
 - Effetto: ogni creatura di taglia grande od inferiore, che si trova ad 1.5m da te, deve superare un tiro salvezza su Forza o Destrezza (a scelta di chi effettua la prova) o venire spinto per 1.5m e buttato a terra prono

@@ -5,7 +5,7 @@
 ## Tratti dei Togruta
 |||
 |---|---
-|Aumento dei punteggi abilita'|Il punteggio di Saggezza aumenta di 2 e la Forza o la Destrezza aumentano di 1
+|Aumento dei punteggi caratteristica|Il punteggio di Saggezza aumenta di 2 e la Forza o la Destrezza aumentano di 1
 |Eta'|I togruta raggiungono la maturita' intorno ai 18 anni e vivono per circa meno di un secolo
 |Allineamento|Tendente al lato chiaro della forza
 |Taglia|Media

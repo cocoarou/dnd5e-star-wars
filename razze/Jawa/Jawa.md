@@ -5,7 +5,7 @@
 ## Tratti dei Jawa
 |||
 |---|---
-|Aumento dei punteggi abilita'|Il tuo punteggio di Destrezza aumenta di 2 e l'Intelligenza aumenta di 1
+|Aumento dei punteggi caratteristica|Il tuo punteggio di Destrezza aumenta di 2 e l'Intelligenza aumenta di 1
 |Eta'|I jawa vengono considerati degli adulti quando portano a termina la prima vendita e vivono per meno di un secolo
 |Allineamento|Tendente al lato oscuro della forza
 |Taglia|Piccola

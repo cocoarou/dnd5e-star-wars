@@ -5,7 +5,7 @@
 ## Tratti dei Chiss
 |||
 |---|---
-|Aumento dei punteggi abilita'|Il punteggio di Intelligenza aumenta di 2 ed il Carisma aumenta di 1
+|Aumento dei punteggi caratteristica|Il punteggio di Intelligenza aumenta di 2 ed il Carisma aumenta di 1
 |Eta'|I chiss raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo
 |Allineamento|Tendente al lato legale oscuro della forza
 |Taglia|Media
