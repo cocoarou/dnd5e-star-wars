@@ -35,8 +35,5 @@
 - Controllo generale riguardo link verso le altre sezioni
 
 ### Guerriero
-- ~~Terminare Manovre (riprendere da Presenza Affascinante/Charming Presence)~~
-- ~~Iniziare Strategie~~
-- ~~Iniziare Maestrie in Combattimento~~
-- Iniziare Specializzazioni
 - Inserire link per le sezioni: tecno-lancio e lista poteri tecnologici della specializzazione Maestro degli Scudi
+
