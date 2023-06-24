@@ -1,9 +1,39 @@
 - [Monaco](#monaco)
+  - [Privilegi di Classe](#privilegi-di-classe)
+    - [**Punti Ferita**](#punti-ferita)
+    - [**Competenze**](#competenze)
+    - [**Equipaggiamento**](#equipaggiamento)
+    - [Arti Marziali](#arti-marziali)
+    - [Difesa Senza Armatura](#difesa-senza-armatura)
+    - [Focus](#focus)
+      - [Raffica di Colpi](#raffica-di-colpi)
+      - [Difesa Paziente](#difesa-paziente)
+      - [Passo del Vento](#passo-del-vento)
+    - [Voti Monastici](#voti-monastici)
+    - [Movimento Senza Armatura](#movimento-senza-armatura)
+    - [Deviare Proiettili](#deviare-proiettili)
+    - [Ordine Monastico](#ordine-monastico)
+    - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
+    - [Caduta Lenta](#caduta-lenta)
+    - [Attacco Extra](#attacco-extra)
+    - [Colpo Stordente](#colpo-stordente)
+    - [Colpi Potenziati](#colpi-potenziati)
+    - [Elusione](#elusione)
+    - [Mente Lucida](#mente-lucida)
+    - [Purezza del Corpo](#purezza-del-corpo)
+    - [Anima Adamantina](#anima-adamantina)
+    - [Corpo Senza Tempo](#corpo-senza-tempo)
+    - [Corpo Vuoto](#corpo-vuoto)
+    - [Perfezione Interiore](#perfezione-interiore)
+
 
 </br>
 </br>
 
 # Monaco
+
+![](monk_01.png)
+
 |Livello|Bonus di Competenza|Privilegi|Arti Marziali|Punti Focus|Voti Monastici|Movimento Senza Armatura
 |---|---|---|---|---|---|---
 |1|+2|Arti Marziali, Difesa Senza Armatura|d4|-|-|-
@@ -54,7 +84,7 @@
 ---
 
 ### **Equipaggiamento**
-- (a) 1 vibro-arma nella quale sei competente | 1 blaster semplice ed una batteria
+- (a) 1 vibro-arma nella quale sei competente | (b) 1 blaster semplice ed una batteria
 - (a) 1 dotazione da avventuriero | (b) 1 dotazione da esploratore
 - 10 vibro-dardi
 

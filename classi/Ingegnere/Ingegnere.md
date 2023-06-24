@@ -77,7 +77,7 @@
 ### **Equipaggiamento**
 - (a) 1 vibro-arma semplice | (b) 1 blaster semplice e 2 batterie
 - (a) 1 dotazione da avventuriero | (b) 1 dotazione da esploratore
-- 1 tuta da combattimento, 1 set di strumenti da inventore, 1 vibro-pugnale ed un computerino da polso
+- 1 armatura da combattimento, 1 set di strumenti da inventore, 1 vibro-pugnale ed un computerino da polso
 
 **Variante: ricchezza iniziale**
 <p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:</p>
