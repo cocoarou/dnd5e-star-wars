@@ -44,6 +44,7 @@
 - Piloting: guidare
 - stance: posizione
 - unenhanced weapon: arma non potenziata
+- finesse: accurata
 
 # Condizioni
 - shocked: scioccato
