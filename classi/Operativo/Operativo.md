@@ -82,3 +82,78 @@ Al livello 6 puoi scegliere 2 competenza aggiuntive (abilita' o strumenti) ed ap
 ### Attacco Furtivo
 **Livello:** 1
 
+Una volta per turno puoi infliggere 1d6 danni extra ad una creatura colpita da un attacco con l'arma, a patto che tu abbia vantaggio al tiro per colpire. Il tipo di danno e' dello stesso tipo dei danni dell'arma e deve includere l'utilizzo di un'arma con la proprieta' accurata od essere un'arma a distanza.
+
+Non hai bisogno della presenza del vantaggio al tiro per colpire se il bersaglio e' ingaggiato con un altro nemico, entro 1.5m, e che questo nemico non sia incapacitato e non devi subire svantaggio nel tiro per colpire.
+
+L'ammontare dei danni aggiuntivi aumenta come indicato nella colonna "Attacco Furtivo" della tabella.
+
+### Azione Scaltra
+**Livello:** 2
+
+Puoi utilizzare l'azione bonus per effettuare la azioni: Scatto, Disimpegno o Nascondersi
+
+### Gesta dell'Operativo
+**Livello:** 2
+
+Scegli 2 gesta, elencate in [questa sezione](./Gesta%20dell'Operativo.md#gesta-dell-operativo).
+
+Ne ottieni 1 in piu' ai livelli: 7, 13 e 17
+
+### Brutto Presentimento
+**Livello:** 3
+
+Quando tiri per l'iniziativa puoi muoverti fino al massimo della tua velocita' di movimento.
+
+Questo movimento avviene prima che venga determinato l'ordine d'iniziativa
+
+Puoi utilizzare nuovamente questo privilegio una volta completato un riposo lungo
+
+### Usanze dell'Operativo
+**Livello:** 3, 9, 13 e 17
+
+Scegli 1 usanza tra quelle elencate in [questa sezione](./Usanze%20dell'Operativo.md#usanze-dell-operativo).
+
+### Aumento dei Punteggi Caratteristica
+**Livello:** 4, 8, 10, 12, 16 e 19
+
+Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio
+
+### Schivata Prodigiosa
+**Livello:** 5
+
+Quando subisci danno da un'attacco puoi utilizzare la tua reazione per dimezzare i danni subiti
+
+### Elusione
+**Livello:** 7
+
+Quando effettui un tiro salvezza su Destrezza per dimezzare i danni, se superi la prova, non subisci alcun danno. Se fallisci la prova, invece, subisci la meta' dei danni
+
+### Dote Affidabile
+**Livello:** 11
+
+Le prove di abilita' che effettui, se comprendono il tuo bonus di competenza, ottengono una soglia minima del tiro.
+
+### Percezione Cieca
+**Livello:** 14
+
+Se sei in grado di sentire, conosci l'esatta posizione di ogni creatura nascosta od invisibile entro 3m da te
+
+### Mente Sfuggente
+**Livello:** 15
+
+Ottieni competenza nei tiri salvezza su Saggezza
+
+### Inafferrabile
+**Livello:** 18
+
+Finche' non vieni incapacitato, gli attacchi, contro di te, non possono ottenere vantaggio.
+
+
+### Colpo di Fortuna
+**Livello:** 20
+
+I tuoi punteggi di Destrezza ed Intelligenza aumentano di 2 ed il punteggio massimo aumenta di 2. Inoltre, se fallisci un tiro per colpire contro un bersaglio entro gittata, puoi, invece, trasformarlo in una messa a segno. In alternativa, se fallisci una prova di abilita' puoi trattare il risultato del d20 come se fosse uscito 20.
+
+Puoi utilizzare nuovamente questo privilegio una volta completato un riposo breve o lungo.
+
