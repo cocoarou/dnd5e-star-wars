@@ -1,4 +1,22 @@
 - [Operativo](#operativo)
+  - [Privilegi di Classe](#privilegi-di-classe)
+    - [**Punti Ferita**](#punti-ferita)
+    - [**Competenze**](#competenze)
+    - [**Equipaggiamento**](#equipaggiamento)
+    - [Maestria](#maestria)
+    - [Attacco Furtivo](#attacco-furtivo)
+    - [Azione Scaltra](#azione-scaltra)
+    - [Gesta dell'Operativo](#gesta-delloperativo)
+    - [Brutto Presentimento](#brutto-presentimento)
+    - [Usanze dell'Operativo](#usanze-delloperativo)
+    - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
+    - [Schivata Prodigiosa](#schivata-prodigiosa)
+    - [Elusione](#elusione)
+    - [Dote Affidabile](#dote-affidabile)
+    - [Percezione Cieca](#percezione-cieca)
+    - [Mente Sfuggente](#mente-sfuggente)
+    - [Inafferrabile](#inafferrabile)
+    - [Colpo di Fortuna](#colpo-di-fortuna)
 
 </br>
 </br>
