@@ -1,4 +1,4 @@
-- [Scolaro](#scolaro)
+- [Studioso](#studioso)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [**Punti Ferita**](#punti-ferita)
     - [**Competenze**](#competenze)
@@ -21,7 +21,7 @@
 </br>
 </br>
 
-# Scolaro
+# Studioso
 
 ![](scholar_01.png)
 
