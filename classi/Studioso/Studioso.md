@@ -1,4 +1,22 @@
 - [Scolaro](#scolaro)
+  - [Privilegi di Classe](#privilegi-di-classe)
+    - [**Punti Ferita**](#punti-ferita)
+    - [**Competenze**](#competenze)
+    - [**Equipaggiamento**](#equipaggiamento)
+    - [Superiorita' Accademica](#superiorita-accademica)
+      - [Manovre Conosciute](#manovre-conosciute)
+      - [Dadi di Superiorita'](#dadi-di-superiorita)
+      - [Caratteristica di Manovra](#caratteristica-di-manovra)
+    - [Analisi Critica](#analisi-critica)
+    - [Scoperta](#scoperta)
+    - [Consiglio del Saggio](#consiglio-del-saggio)
+    - [Maestria](#maestria)
+    - [Ricerca Accademica](#ricerca-accademica)
+    - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
+    - [Multitasker](#multitasker)
+    - [Riprendere il Controllo](#riprendere-il-controllo)
+    - [Intellettuale Adattabile](#intellettuale-adattabile)
+    - [Conoscenza Illimitata](#conoscenza-illimitata)
 
 </br>
 </br>
