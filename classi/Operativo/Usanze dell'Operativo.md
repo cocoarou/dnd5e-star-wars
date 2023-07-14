@@ -10,16 +10,6 @@
     - [Furtivita' Suprema](#furtivita-suprema)
     - [Agilita' Aerea](#agilita-aerea)
     - [Riflessi da Ladro](#riflessi-da-ladro)
-  - [Usanza dell'Inganno](#usanza-dellinganno)
-    - [Forza-lancio](#forza-lancio)
-      - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
-      - [Punti Forza](#punti-forza)
-      - [Livello Massimo del Potere](#livello-massimo-del-potere)
-      - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
-    - [Sfoggio Affascinante](#sfoggio-affascinante)
-    - [Presenza Ipnotizzante](#presenza-ipnotizzante)
-    - [Vigore Affascinante](#vigore-affascinante)
-    - [Espressione Distraente](#espressione-distraente)
   - [Usanza della Letalita'](#usanza-della-letalita)
     - [Assassinare](#assassinare)
     - [Colpi Letali](#colpi-letali)
@@ -38,6 +28,17 @@
     - [Colpo alla Testa](#colpo-alla-testa)
     - [Colpo di Distrazione](#colpo-di-distrazione)
     - [Doppio Colpo](#doppio-colpo)
+  - [Usanza dell'Inganno](#usanza-dellinganno)
+    - [Forza-lancio](#forza-lancio)
+      - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
+      - [Punti Forza](#punti-forza)
+      - [Livello Massimo del Potere](#livello-massimo-del-potere)
+      - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
+    - [Sfoggio Affascinante](#sfoggio-affascinante)
+    - [Presenza Ipnotizzante](#presenza-ipnotizzante)
+    - [Vigore Affascinante](#vigore-affascinante)
+    - [Espressione Distraente](#espressione-distraente)
+
 
 ## Usanza dell'Acquisizione
 ### Agile e Scattante
@@ -85,91 +86,6 @@ Ottieni i seguenti benefici:
 Puoi effettuare 2 turni nel primo round di ogni battaglia. Effettui il primo turno seguendo la tua normale iniziativa ed il secondo turno alla tua iniziativa meno 10. Non puoi utilizzare questo privilegio se vieni colto alla sprovvista.
 
 Inoltre, ogni volta che cadi per almeno 15m ed atterri a 1.5m da un nemico, puoi utilizzare la tua reazione per effettuare un tiro per colpire corpo a corpo con l'arma contro il bersaglio. Se si tratta di un [Attacco Furtivo](./Operativo.md#attacco-furtivo) puoi infliggere 3 danni dell'arma addizionali e la creatura deve superare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza delle [Mani Abili](#mani-abili) o viene buttata a terra prona.
-
-## Usanza dell'Inganno
-
-|Livello|Poteri della Forza Conosciuti|Punti Forza|Livello Massimo del Potere
-|---|---|---|---
-|3|4|3|1
-|4|6|4|1
-|5|7|5|1
-|6|8|6|1
-|7|10|7|2
-|8|11|8|2
-|9|12|9|2
-|10|13|10|2
-|11|14|11|2
-|12|15|12|2
-|13|17|13|3
-|14|18|14|3
-|15|19|15|3
-|16|20|16|3
-|17|22|17|4
-|18|23|18|4
-|19|24|19|4
-|20|25|20|4
-
-### Forza-lancio
-Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la lista dei poteri della forza.
-
-#### Poteri della Forza Conosciuti
-Impari 4 poteri della forza a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti.
-
-#### Punti Forza
-Possiedi un numero di punti forza pari al tuo livello da operativo (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti forza per lanciare i poteri della forza. Recuperi tutti i punti forza spesi quando completi un riposo lungo.
-
-#### Livello Massimo del Potere
-Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella. 
-
-Puoi lanciare dei poteri di livello 4 solamente una volta ogni riposo lungo.
-
-#### Caratteristica da forza-lancio
-Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri del lato oscuro della forza e Carisma o Saggezza per i poteri universali (scegli tu). Utilizzi questa abilita' ogni volta che un potere fa riferimento alla caratteristica da forza-lancio. Inoltre utilizzi questo modificatore quando devi determinare la CD dei tiri salvezza dei poteri della forza che lanci e quando effettui un attacco con un potere della forza.
-
-**CD del tiro salvezza della forza:** 8 + bonus di competenza + il tuo modificatore di forza-lancio
-
-**Modificatore di attacco della forza:** bonus di competenza + il tuo modificatore di forza-lancio
-
-### Sfoggio Affascinante
-**Livello:** 3
-
-Puoi spendere 1 minuto per cercare di distrarre ed affascinare le creature intorno a te.
-
-Scegli un numero di umanoidi fino al massimo del tuo modificatore di Carisma (minimo 1), entro 18m da te, che hanno visto il tuo sfoggio per l'interita' della sua durata.
-
-Ogni bersaglio deve superare un tiro salvezza (CD = 8 + il tuo bonus di competenza + il modificatore di Carisma) o venire ammaliato da te. Mentre e' ammaliato in questa maniera, il bersaglio ti idolatra, narrando delle tue gesta e della tua bellissima personalita' a chiunque parli con lui. Inoltre, il bersaglio si frappone tra chiunque tenti di opporsi a te, cercando di evitare la violenza dove possibile, almenoche' non fosse gia' propenso a lottare al posto tuo.
-
-Questo effetto termina:
-- dopo 1 ora
-- se il bersaglio subisce danni
-- se attacchi il bersaglio o se ti vede mentre attacchi o danneggi dei suoi alleati.
-
-Se il bersaglio supera il tiro salvezza, non si accorge del tuo tentativo nell'affascinarlo.
-
-Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo lungo.
-
-### Presenza Ipnotizzante
-**Livello:** 9
-
-Oggieni vantaggio nei tiri per colpire contro le creature affascinate da te
-
-### Vigore Affascinante
-**Livello:** 13
-
-Ogniqualvolta una creatura fallisce un tiro salvezza su Saggezza o Carisma derivante da un tuo potere della forza od un tuo privilegio di classe puoi ottenere dei punti ferita temporanei pari a meta' del tuo livello da operativo + il tuo modificatore di Carisma (minimo +1).
-
-Puoi utilizzare questo privilegio 5 volte. Ottieni 1 utilizzo aggiuntivo al livello 17.
-
-Recuperi tutti gli utilizzi spesi dopo aver terminato un riposo breve o lungo.
-
-### Espressione Distraente
-**Livello:** 17
-
-Con 1 azione bonus puoi mascherare te stesso con la forza per 1 minuto o finche' non vieni incapacitato.
-
-Per tutta la durata, ogniqualvolta qualsiasi creatura tenti di attaccarti, per la prima volta, in un turno, l'attaccante deve effettuare un tiro salvezza su Carisma (CD = 8 + il tuo bonus di competenza + il modificatore di Carisma). Se fallisce il tiro, non puoo' attaccarti in questo turno e deve scegliere un nuovo bersaglio da attaccare, altrimenti, l'attacco viene annullato. Se supera il tiro, puo' attaccarti questo turno, ma subisce svantaggio ad ogni tiro salvezza che effettua contro i tuoi poteri nel prossimo turno.
-
-Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.
 
 ## Usanza della Letalita'
 ### Assassinare
@@ -272,3 +188,88 @@ Quando un alleato che puoi vedere, e che si trova entro la gittata normale della
 **Livello:** 17
 
 Quando effettui l'azione di Attacco ed effettui un attacco con vantaggio, puoi scegliere di rinunciare al vantaggio. Se lo fai, puoi effettuare un attacco aggiuntivo contro il bersaglio od un'altra creatura entro 1.5m da esso (non e' un'azione). Entrambi gli attacchi possono beneficiare dei danni dell'Attacco Furtivo, anziche' un attacco solo.
+
+## Usanza dell'Inganno
+
+|Livello|Poteri della Forza Conosciuti|Punti Forza|Livello Massimo del Potere
+|---|---|---|---
+|3|4|3|1
+|4|6|4|1
+|5|7|5|1
+|6|8|6|1
+|7|10|7|2
+|8|11|8|2
+|9|12|9|2
+|10|13|10|2
+|11|14|11|2
+|12|15|12|2
+|13|17|13|3
+|14|18|14|3
+|15|19|15|3
+|16|20|16|3
+|17|22|17|4
+|18|23|18|4
+|19|24|19|4
+|20|25|20|4
+
+### Forza-lancio
+Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la lista dei poteri della forza.
+
+#### Poteri della Forza Conosciuti
+Impari 4 poteri della forza a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti.
+
+#### Punti Forza
+Possiedi un numero di punti forza pari al tuo livello da operativo (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti forza per lanciare i poteri della forza. Recuperi tutti i punti forza spesi quando completi un riposo lungo.
+
+#### Livello Massimo del Potere
+Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella. 
+
+Puoi lanciare dei poteri di livello 4 solamente una volta ogni riposo lungo.
+
+#### Caratteristica da forza-lancio
+Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri del lato oscuro della forza e Carisma o Saggezza per i poteri universali (scegli tu). Utilizzi questa abilita' ogni volta che un potere fa riferimento alla caratteristica da forza-lancio. Inoltre utilizzi questo modificatore quando devi determinare la CD dei tiri salvezza dei poteri della forza che lanci e quando effettui un attacco con un potere della forza.
+
+**CD del tiro salvezza della forza:** 8 + bonus di competenza + il tuo modificatore di forza-lancio
+
+**Modificatore di attacco della forza:** bonus di competenza + il tuo modificatore di forza-lancio
+
+### Sfoggio Affascinante
+**Livello:** 3
+
+Puoi spendere 1 minuto per cercare di distrarre ed affascinare le creature intorno a te.
+
+Scegli un numero di umanoidi fino al massimo del tuo modificatore di Carisma (minimo 1), entro 18m da te, che hanno visto il tuo sfoggio per l'interita' della sua durata.
+
+Ogni bersaglio deve superare un tiro salvezza (CD = 8 + il tuo bonus di competenza + il modificatore di Carisma) o venire ammaliato da te. Mentre e' ammaliato in questa maniera, il bersaglio ti idolatra, narrando delle tue gesta e della tua bellissima personalita' a chiunque parli con lui. Inoltre, il bersaglio si frappone tra chiunque tenti di opporsi a te, cercando di evitare la violenza dove possibile, almenoche' non fosse gia' propenso a lottare al posto tuo.
+
+Questo effetto termina:
+- dopo 1 ora
+- se il bersaglio subisce danni
+- se attacchi il bersaglio o se ti vede mentre attacchi o danneggi dei suoi alleati.
+
+Se il bersaglio supera il tiro salvezza, non si accorge del tuo tentativo nell'affascinarlo.
+
+Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo lungo.
+
+### Presenza Ipnotizzante
+**Livello:** 9
+
+Oggieni vantaggio nei tiri per colpire contro le creature affascinate da te
+
+### Vigore Affascinante
+**Livello:** 13
+
+Ogniqualvolta una creatura fallisce un tiro salvezza su Saggezza o Carisma derivante da un tuo potere della forza od un tuo privilegio di classe puoi ottenere dei punti ferita temporanei pari a meta' del tuo livello da operativo + il tuo modificatore di Carisma (minimo +1).
+
+Puoi utilizzare questo privilegio 5 volte. Ottieni 1 utilizzo aggiuntivo al livello 17.
+
+Recuperi tutti gli utilizzi spesi dopo aver terminato un riposo breve o lungo.
+
+### Espressione Distraente
+**Livello:** 17
+
+Con 1 azione bonus puoi mascherare te stesso con la forza per 1 minuto o finche' non vieni incapacitato.
+
+Per tutta la durata, ogniqualvolta qualsiasi creatura tenti di attaccarti, per la prima volta, in un turno, l'attaccante deve effettuare un tiro salvezza su Carisma (CD = 8 + il tuo bonus di competenza + il modificatore di Carisma). Se fallisce il tiro, non puoo' attaccarti in questo turno e deve scegliere un nuovo bersaglio da attaccare, altrimenti, l'attacco viene annullato. Se supera il tiro, puo' attaccarti questo turno, ma subisce svantaggio ad ogni tiro salvezza che effettua contro i tuoi poteri nel prossimo turno.
+
+Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.

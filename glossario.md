@@ -45,6 +45,7 @@
 - stance: posizione
 - unenhanced weapon: arma non potenziata
 - finesse: accurata
+- biochemist's kits: strumenti da biochimico
 
 # Condizioni
 - shocked: scioccato
