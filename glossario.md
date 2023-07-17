@@ -46,6 +46,7 @@
 - unenhanced weapon: arma non potenziata
 - finesse: accurata
 - biochemist's kits: strumenti da biochimico
+- hold-out: blaster-occultato
 
 # Condizioni
 - shocked: scioccato
