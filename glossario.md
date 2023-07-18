@@ -49,6 +49,7 @@
 - hold-out: blaster-occultato
 - enhanced: potenziato (controparte di SW di magico/magicamente)
 - unenhanced: non potenziato (controparte di SW di non magico/non magicamente)
+- bulky: ingombrante
 
 # Condizioni
 - shocked: scioccato
