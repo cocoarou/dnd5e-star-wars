@@ -47,7 +47,9 @@
 |20|+6|[Tutt'uno con la Forza](#tuttuno-con-la-forza)|40|80|9|4
 
 ## Privilegi di Classe
+
 ---
+
 ### **Punti Ferita**
 
 **Dadi Vita:** 1d6 per livello
@@ -73,10 +75,12 @@
 ---
 
 ### **Equipaggiamento**
+
 - (a) 1 arma-laser semplice | (b) 1 vibro-arma semplice
 - (a) 1 dotazione da studioso | (b) 1 dotazione da esploratore | (c) 1 dotazione da diplomatico
 
 **Variante: ricchezza iniziale**
+
 <p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:</p>
 
 |Classe|Fondi
