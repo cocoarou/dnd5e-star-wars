@@ -50,6 +50,7 @@
 - enhanced: potenziato (controparte di SW di magico/magicamente)
 - unenhanced: non potenziato (controparte di SW di non magico/non magicamente)
 - bulky: ingombrante
+- traumakit: kit da pronto soccorso
 
 # Condizioni
 - shocked: scioccato
