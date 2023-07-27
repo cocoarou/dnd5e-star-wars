@@ -25,6 +25,13 @@
   - [Maestro del Combattimento](#maestro-del-combattimento)
   - [Stile di Combattimento](#stile-di-combattimento)
   - [Direzionare la Forza](#direzionare-la-forza)
+  - [Forte Personalita'](#forte-personalita)
+  - [Sensitivo della Forza](#sensitivo-della-forza)
+  - [Vigore Possente](#vigore-possente)
+  - [Dilettante negli Stili delle Spade-Laser](#dilettante-negli-stili-delle-spade-laser)
+  - [Presenza Galvanizzante](#presenza-galvanizzante)
+  - [Contrattatore](#contrattatore)
+  - [Curatore](#curatore)
 
 ## Asso nella Guida
 
@@ -195,4 +202,52 @@ Puoi scegliere questo talento piu' volte
 - scegli un'abilita od uno strumento nei quali sei competente. Quando effettui una prova di abilita' con lo strumento od abilita' scelti, puoi aggiungere 1/2 del tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1) alla prova, qualora non fosse gia' incluso. Puoi utilizzare questo privilegio un numero di volta pari al tuo bonus di competenza. Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo
 
 Puoi scegliere questo talento piu' volte, scegliendo uno strumento od un'abilita' diversi ogni volta
+
+## Forte Personalita'
+
+- aumenta il tuo punteggio di Carisma di 1, fino ad un massimo di 20
+- puoi utilizzare il tuo modificatore di Carisma al posto del modificatore di Saggezza mentre effettui prove di Intuizione
+- quando effettueresti un tiro salvezza su Saggezza puoi invece effettuare un tiro salvezza su Carisma. Puoi utilizzare questo privilegio un numero di volte pari al tuo bonus di competenza. Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
+
+## Sensitivo della Forza
+
+**Prerequisito:** umanoide
+
+- conosci 2 poteri della forza a volonta'
+- al livello 3 impari 1 potere della forza di livello 1 che puoi lanciare 1 volta per riposo lungo
+- al livello 5 impari 1 potere della forza di livello 2 che puoi lancaire 1 volta per riposo lungo
+
+Il modificatore di forza-lancio di questi poteri e' Saggezza o Carisma (a seconda dell'allineamento del potere).
+
+Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora lo avessi
+
+## Vigore Possente
+
+- aumenta il tuo punteggio di Forza di 1, fino ad un massimo di 20
+- puoi utilizzare il tuo modificatore di Forza al posto del modificatore di Costituzione nelle prove su Costituzione
+- quando effettueresti un tiro salvezza su Costituzione puoi invece effettuare un tiro salvezza su Forza. Puoi utilizzare questo privilegio un numero di volte pari al tuo bonus di competenza. Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
+
+## Dilettante negli Stili delle Spade-Laser
+
+**Prerequisito:** capacita' di lanciare poteri della forza
+
+- aumenta un punteggio di caratteristica a scelta di 1, fino ad un massimo di 20
+- impari 1 stile delle spade-laser, scelto da [questo elenco](../classi/Guerriero/Stili%20delle%20Spade-Laser.md#stili-delle-spade-laser). Qualora conoscessi gia' almeno 1 stile delle spade-laser puoi, invece, imparare 3 stili delle spade-laser ulteriori. Qualora conoscessi gia' almeno 3 stili delle spade-laser puoi, invece, imparare 7 stili delle spade-laser ulteriori. Qualora conoscessi gia' almeno 10 stili delle spade-laser, impari tutti gli altri stili rimanenti
+
+## Presenza Galvanizzante
+
+- aumenta il tuo punteggio di Carisma di 1, fino ad un massimo di 20
+- con 1 azione bonus puoi far uscire un grido di battaglia che fa terminare le condizioni di paura ed ammaliamento su di te e su un numero di alleati, che possono sentirti, pari al tuo modificatore di Carisma (minimo 1). Puoi utilizzare questa abilita' una volta per riposo breve o lungo
+
+## Contrattatore
+
+- aumenta il tuo punteggio di Carisma di 1, fino ad un massimo di 20
+- ottieni vantggio nelle prove di Carisma (Persuasione) e Carisma (Inganno) effettuate per contrattare o barattare
+- sei sempre al corrente del valore di mercato di oggetti non potenziati od oggetti comuni potenziati. Ogni volta che identifichi un oggetto riesci a stimarne il possibile valore monetario
+
+## Curatore
+
+- aumenta il tuo punteggio di Intelligenza o Saggezza di 1, fino ad un massimo di 20
+- quando utilizzi un kit da pronto soccorso per stabilizzare una creatura morente, quella creatura recupera anche 1 punto ferita
+- con 1 azione puoi spendere 1 utilizzo del tuo kit da pronto soccorso per prestare soccorso ad una creatura, essa recupera 1d6 + 4 punti ferita piu' punti ferita addizionali pari al valore del suo Dado Vita (recupera il valore massimo del dado, esempio: dado vita = d6, recupera 6 punti ferita). La creatura non puo' piu' recuperare punti ferita in questo modo finche' non completa un riposo breve o lungo
 
