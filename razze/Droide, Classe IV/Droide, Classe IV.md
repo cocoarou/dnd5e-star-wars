@@ -2,6 +2,8 @@
 
 ![droide_classe_IV](species_droidclass04.png)
 
+## Tratti del Droide, Classe IV
+
 |<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Costituzione aumenta di 2 e Forza o Destrezza aumentano di 1
