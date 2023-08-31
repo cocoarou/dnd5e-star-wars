@@ -57,10 +57,10 @@
 |Allineamento|Tendente al lato chiaro della forza
 |Taglia|Media
 |Velocita'|9m
-|Cura dei Dettagli|Hai vantaggio nelle prove di Intelligenza(Investigazione) effettuate entro 1.5m
-|Olfatto Acuto ed Udito Sopraffino|Hai vantaggio nelle prove di Saggezza(Percezione) che riguardano l'olfatto o l'udito
+|Cura dei Dettagli|Hai vantaggio nelle prove di Intelligenza (Investigazione) effettuate entro 1.5m
+|Olfatto Acuto ed Udito Sopraffino|Hai vantaggio nelle prove di Saggezza (Percezione) che riguardano l'olfatto o l'udito
 |Musicista|Sei competente nell'utilizzo di uno strumento musicale a scelta
-|Programmatore|Ogni volta che effettui una prova di Intelligenza(Tecnologia) che riguarda i computer, va effettuata come so avessi maestria nell'abilita'
+|Programmatore|Ogni volta che effettui una prova di Intelligenza (Tecnologia) che riguarda i computer, va effettuata come so avessi maestria nell'abilita'
 |Sensibilita' Sonica|Hai svantaggio sui tiri salvezza contro effetti che infliggerebbero danni sonici
 |Trance|Ti bastano 3 ore (invece di 6) per completare un riposo lungo. Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto.
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base, Bith ed un linguaggio bonus a scelta
@@ -104,7 +104,7 @@
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio
 |Agilita' Leonesca|Puoi raddoppiare la tua velocita in combattimento fino alla fine del turno. Una volta utilizzato questo tratto non puoi utilizzarlo nuovamente finche' non spendi uno dei tuoi turni senza muoverti.
 |Passo Felpato|Competenza nell'abilita' Furtivita'
-|Arrampicata in Pianta|Velocita' di Scalare 9m. Ottieni vantaggio nei tiri salvezza su Forza e nelle prove di abilita' Forza(Atletica) che coinvolgono lo scalare
+|Arrampicata in Pianta|Velocita' di Scalare 9m. Ottieni vantaggio nei tiri salvezza su Forza e nelle prove di abilita' Forza (Atletica) che coinvolgono lo scalare
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Catharese
 
 <div style="page-break-after: always;"></div>
@@ -195,7 +195,7 @@
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
 |Protocollo del Sapere|Sei competente due abilita' basate su Intelligenza, Saggezza o Carisma a scelta
-|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza(Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
+|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza (Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
 |Ricostruzione Rapida|Come azione bonus puoi spendere uno o piu' Dadi Vita per recuperare punti ferita
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base ed un linguaggio bonus a piacere. Sei in grado di comprendere il linguaggio Binario scritto e parlato, ma non sai parlarlo
 
@@ -221,7 +221,7 @@
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
 |Ingegneria Integrata|Sei competente in un kit da specialista a scelta. Il kit scelto e' integrato nel tuo telaio e non puo' essere rimosso finche' rimani cosciente
-|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza(Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
+|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza (Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
 |Ricostruzione Rapida|Come azione bonus puoi spendere uno o piu' Dadi Vita per recuperare punti ferita
 |Protocollo delle Abilita'|Sei competente in due abilita' a scelta
 |Sottodimensionato|Non puoi utilizzare scudi pesanti, armi da guerra con la proprieta' a due mani a meno che non abbiano anche la proprieta' leggera e se un'arma da guerra ha la proprieta' versatile, puoi impugnarla solo a due mani
@@ -249,7 +249,7 @@
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
 |Protocollo del Sapere|Sei competente nell'abilita' Storia
-|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza(Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
+|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza (Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
 |Ricostruzione Rapida|Come azione bonus puoi spendere uno o piu' Dadi Vita per recuperare punti ferita
 |Linguaggi|Sai parlare, leggere e scrivere tutti i linguaggi censiti
 
@@ -274,7 +274,7 @@
 |Sistemi dei Droidi|Non hai bisogno di mangiare, bere o respirare. Inoltre non hai bisogno di possedere un tecno-focus per lanciare poteri tecnologici
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
-|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza(Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
+|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza (Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
 |Protocollo Marziale|Sei competente nell'utilizzo di armature leggere e medie ed in due blaster semplici o da guerra o vibro-armi a scelta
 |Ricostruzione Rapida|Come azione bonus puoi spendere uno o piu' Dadi Vita per recuperare punti ferita
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base ed un linguaggio Bonus a scelta. Sei in grado di comprendere il linguaggio Binario scritto e parlato, ma non sai parlarlo
@@ -300,7 +300,7 @@
 |Sistemi dei Droidi|Non hai bisogno di mangiare, bere o respirare. Inoltre non hai bisogno di possedere un tecno-focus per lanciare poteri tecnologici
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
-|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza(Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
+|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza (Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
 |Manovale|Sei competente nella abilita' di Atletica e nell'utilizzo di una dotazione da artigiano a scelta
 |Stazza Prestante|La capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale
 |Ricostruzione Rapida|Come azione bonus puoi spendere uno o piu' Dadi Vita per recuperare punti ferita
@@ -324,7 +324,7 @@
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio
 |Viaggiatore Galattico|Sei competente nelle abilita' Pilotare e Storia
 |Navigatore|Sei competente nell'utilizzo degli attrezzi da geometra
-|Memoria Superiore|Puoi raddoppiare il bonus di competenza quando effettui delle prove di Intelligenza(Storia) per ricordare informazioni delle quali sei venuto a conoscenza o per ricordare i dettagli delle varie esperienze vissute
+|Memoria Superiore|Puoi raddoppiare il bonus di competenza quando effettui delle prove di Intelligenza (Storia) per ricordare informazioni delle quali sei venuto a conoscenza o per ricordare i dettagli delle varie esperienze vissute
 |Resistenza alla Tecnologia|Ottieni vantaggio nei tiri salvezza su Destrezza ed Intelligenza contro i poteri tecnologici
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Durese
 
@@ -344,11 +344,11 @@
 |Taglia|Piccola
 |Velocita'|7.5m
 |Specialisti di Armi Improvvisate|Puoi spendere 1 ora, anche nel mezzo di un riposo breve, per creare un'arma con materiali trovati nei dintorni. Puoi creare un'arma cinetica semplice ma il danno dell'arma subisce una penalita' di -1
-|Olfatto Acuto|Ottieni vantaggio nelle prove di Saggezza(Percezione) che comprendono l'utilizzo dell'olfatto
+|Olfatto Acuto|Ottieni vantaggio nelle prove di Saggezza (Percezione) che comprendono l'utilizzo dell'olfatto
 |Maschera Selvatica|Puoi nascondersi anche se sei parzialmente oscurato da: fogliame, pioggia fitta, nevicate, nebbia ed altri fenomeni naturali simili
 |Cultura Musicale|Sei competente nell'utilizzo di uno strumento a scelta
 |Survivalista Innato|Sei competente nelle prove di Natura e Sopravvivenza
-|Arrampicata in Pianta|Velocita' di Scalare 7.5m. Ottieni vantaggio nei tiri salvezza su Forza e nelle prove di abilita' Forza(Atletica) che coinvolgono lo scalare
+|Arrampicata in Pianta|Velocita' di Scalare 7.5m. Ottieni vantaggio nei tiri salvezza su Forza e nelle prove di abilita' Forza (Atletica) che coinvolgono lo scalare
 |Sottodimensionato|Non puoi utilizzare scudi pesanti, armi da guerra con la proprieta' a due mani a meno che non abbiano anche la proprieta' leggera e se un'arma da guerra ha la proprieta' versatile, puoi impugnarla solo a due mani
 |Linguaggi|Sai parlare, leggere e scrivere Ewokese. Sei in grado di comprendere il Galattico Base parlato e scritto ma non sai parlarlo
 
@@ -389,7 +389,7 @@
 |Velocita'|9m
 |Anfibio|Puoi respirare sott'acqua
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio.
-|Flessibile|Ottieni vantaggio nelle prove di Destrezza(Acrobazia) basate sulla flessibilita'
+|Flessibile|Ottieni vantaggio nelle prove di Destrezza (Acrobazia) basate sulla flessibilita'
 |Sensibilita' al Caldo|Subisci svantaggio nei tiri salvezza su Costituzione contro l'esaurimento causato dal caldo intenso.
 |Competenza Marziale|Sei competente nell'utilizzo di armature leggere e medie e nell'utilizzo delle armi: tecno-bastone e vibro-lancia
 |Gambe Forti|Quando effettui un salto orizzontale, percorri un numero di metri pari al tuo punteggio di Forza diviso 4 (arrotondato per eccesso al piu' vicino multiplo di 1.5). Quando effettui un salto in verticale il numero di metri del tuo balzo e' 3 + due volte il modificatore di Forza
@@ -414,7 +414,7 @@
 |Invocare la Pace|Con un'azione, nel tuo turno, puoi distrarre tutti i nemici che sono in grado di vederti entro 3m. Tutti i nemici influenzati nel raggio subiscono svantaggio ai tiri per colpire contro i tuoi alleati, fino alla fine del tuo prossimo turno. Puoi riutilizzare questo tratto dopo aver terminato un riposo breve o lungo
 |Trattenere il Respiro|Puoi trattenere il respiro per 15 minuti alla volta
 |Legge di Vita|Sei competente nell'abilita' Natura e nei kit di bio-analisi
-|Urlo Sonico|Con un'azione, espelli violentemente l'aria in un cono di 4.5m. Ogni creatura nell'area deve superare un tiro salvezza su Saggezza(CD = 8 + bonus di competenza + il tuo modificatore di Costituzione). Chi fallisce subisce 2d6 danni sonici, chi supera ne riceve la meta'. I danni aumentano a 4d6 al livello 5, 6d6 al livello 11 e 8d6 al livello 17. Questa abilita' non ha effetto contro i costrutti. Puoi utilizzare questo tratto tante volte quanto il tuo bonus di competenza. Recuperi tutti gli utilizzi spesi dopo aver terminato un riposo lungo
+|Urlo Sonico|Con un'azione, espelli violentemente l'aria in un cono di 4.5m. Ogni creatura nell'area deve superare un tiro salvezza su Saggezza (CD = 8 + bonus di competenza + il tuo modificatore di Costituzione). Chi fallisce subisce 2d6 danni sonici, chi supera ne riceve la meta'. I danni aumentano a 4d6 al livello 5, 6d6 al livello 11 e 8d6 al livello 17. Questa abilita' non ha effetto contro i costrutti. Puoi utilizzare questo tratto tante volte quanto il tuo bonus di competenza. Recuperi tutti gli utilizzi spesi dopo aver terminato un riposo lungo
 |Linguaggi|Sai parlare, leggere e scrivere: Ithorese. Sei in grado di comprendere il Galattico Base ma non sai parlarlo
 
 <div style="page-break-after: always;"></div>
@@ -499,11 +499,11 @@
 |Allineamento|Tendente al lato chiaro della forza
 |Taglia|Media
 |Velocita'|9m
-|Olfatto Sopraffino|Ogni volta che effettui una prova di Saggezza(Percezione) che comprende l'utilizzo dell'olfatto, va effettuata come so avessi maestria nell'abilita'
+|Olfatto Sopraffino|Ogni volta che effettui una prova di Saggezza (Percezione) che comprende l'utilizzo dell'olfatto, va effettuata come so avessi maestria nell'abilita'
 |Anfibio|Puoi respirare sott'acqua
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio
 |Pelle Dura|Quando non indossi alcuna armatura o ne indossi una leggera, la tua CA e' 12 + il modificatore di Destrezza
-|Empatia Innata|Ottieni vantaggio nelle prove di Saggezza(Intuizione) effettuate per comprendere le emozioni di umanoidi o bestie che si trovano entro 3m da te
+|Empatia Innata|Ottieni vantaggio nelle prove di Saggezza (Intuizione) effettuate per comprendere le emozioni di umanoidi o bestie che si trovano entro 3m da te
 |Nuotare|Ottieni velocita' di nuotare 9m
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Nautila
 
@@ -524,7 +524,7 @@
 |Velocita'|9m
 |Scalatore Provetto|Velocita' di scalare 9m
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio
-|Olfatto Acuto ed Udito Sopraffino|Hai vantaggio nelle prove di Saggezza(Percezione) che riguardano l'olfatto o l'udito
+|Olfatto Acuto ed Udito Sopraffino|Hai vantaggio nelle prove di Saggezza (Percezione) che riguardano l'olfatto o l'udito
 |Cacciatore Imperscrutabile|Sei competente nelle abilita' di Sopravvivenza e Furtivita'
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Rodese. I rodian sono in grado di comunicare tra di loro utilizzando dei feromoni. I sensitivi della forza sono in grado di individuare queste comunicazioni ma non sono in grado di comprenderne il contenuto
 
@@ -670,7 +670,7 @@
 |Allineamento|Lato caotico oscuro della forza
 |Taglia|Media
 |Velocita|9m
-|Olfatto Acuto|Ottieni vantaggio nelle prove di Saggezza(Percezione) che comprendono l'utilizzo dell'olfatto
+|Olfatto Acuto|Ottieni vantaggio nelle prove di Saggezza (Percezione) che comprendono l'utilizzo dell'olfatto
 |Attacchi Selvaggi|Se infliggi un danno critico con un'arma corpo a corpo puoi tirare uno dei dadi del danno dell'arma una volta in piu' ed aggiungerlo al danno extra del colpo critico
 |Pelle Abbronzata|Quando non indossi alcuna armatura o ne indossi una leggera, la tua CA e' 13 + il modificatore di Destrezza. Inoltre, ottieni vantaggio nei tiri salvezza su Costituzione contro l'esaurimento causato dal caldo intenso
 |Addestramento alle Armi|Sei competente nell'utilizzo di: 2 vibro-armi o blaster a piacere
@@ -695,7 +695,7 @@
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio
 |Pelliccia|Quando non indossi alcuna armatura o ne indossi una leggera, la tua CA e' 13 + il modificatore di Destrezza. Inoltre, ottieni vantaggio nei tiri salvezza su Costituzione contro l'esaurimento causato dal freddo estremo
 |Stazza Prestante|La capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale
-|Arrampicata in Pianta|Velocita' di Scalare 7.5m. Ottieni vantaggio nei tiri salvezza su Forza e nelle prove di abilita' Forza(Atletica) che coinvolgono lo scalare
+|Arrampicata in Pianta|Velocita' di Scalare 7.5m. Ottieni vantaggio nei tiri salvezza su Forza e nelle prove di abilita' Forza (Atletica) che coinvolgono lo scalare
 |Linguaggi|Sai parlare, leggere e scrivere: Shyriwwok. Sei in grado di comprendere il Galattico Base ma non sai parlarlo
 
 <div style="page-break-after: always;"></div>

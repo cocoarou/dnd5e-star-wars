@@ -107,7 +107,7 @@ Ottieni i seguenti benefici se sei disarmato od impugni armi da monaco (vibro-ar
 
 - I tuoi attacchi senz'armi ottengono la proprieta' accurata
 - Puoi tirare 1d4 al posto del danno normale dei tuoi attacchi senz'armi o delle armi da monaco. Questo dado aumenta con i livelli, come indicato nella colonna Arti Marziali della tabella
-- Puoi utilizzare Destrezza al posto di Forza quando effettueresti prove di Forza(Atletica) per lottare, spingere o sbilanciare una creatura
+- Puoi utilizzare Destrezza al posto di Forza quando effettueresti prove di Forza (Atletica) per lottare, spingere o sbilanciare una creatura
 - Quando effettui un attacco senz'armi o con l'arma da monaco utilizzando l'azione standard, puoi utilizzare l'azione bonus per effettuare un attacco senz'armi
 - Puoi compiere le azioni di Scatto o Disimpegno con l'azione bonus
 

@@ -143,8 +143,8 @@
 **Prerequisito:** Armatura
 
 - Azione: 1 azione standard
-- Effetto: puoi lanciare Infiltrarsi(Infiltrate) su te stesso
-- Durata: vedi Infiltrarsi(Infiltrate)
+- Effetto: puoi lanciare Infiltrarsi (Infiltrate) su te stesso
+- Durata: vedi Infiltrarsi (Infiltrate)
 - Utilizzi: 2
 - Recupero utilizzi: completamento di un riposo lungo
 
@@ -208,7 +208,7 @@
 **Prerequisito:** livello 13, [Intelligenza Artificiale](#intelligenza-artificiale)
 
 - Azione: non richiede un'azione
-- Effetto: l'armatura puo' agire per conto proprio. Diventa un bersaglio valido del potere tecnologico Interfaccia di Tracciamento del Droide(Tracker Droid Interface). Quando l'armatura agisce indipendentemente, utilizza i tuoi punteggi caratteristica, tiri salvezza, abilita' e possiede punti ferita pari al tuo livello da ingegnere. Se raggiunge 0 punti ferita, l'armatura cade a terra e non puo' essere indossata finche' non completi un riposo lungo
+- Effetto: l'armatura puo' agire per conto proprio. Diventa un bersaglio valido del potere tecnologico Interfaccia di Tracciamento del Droide (Tracker Droid Interface). Quando l'armatura agisce indipendentemente, utilizza i tuoi punteggi caratteristica, tiri salvezza, abilita' e possiede punti ferita pari al tuo livello da ingegnere. Se raggiunge 0 punti ferita, l'armatura cade a terra e non puo' essere indossata finche' non completi un riposo lungo
 
 ## Amplificatore di Scudi
 

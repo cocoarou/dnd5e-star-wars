@@ -168,7 +168,7 @@ Quando una creatura fallisce il tiro salvezza derivante dal privilegio [Detonato
 
 - accecato
 - assordato
-- incendiato(1d12)
+- incendiato (1d12)
 - scioccato
 - rallentato
 

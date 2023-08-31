@@ -59,7 +59,7 @@
 ## Guanti da Scalatore
 
 - Azione: non richiede un'azione
-- Effetto: ottieni una velocita di scalata 6m ed ottieni vantaggio nelle prove di Forza(Atletica) e nei tiri salvezza su Forza basati sull'arrampicarsi
+- Effetto: ottieni una velocita di scalata 6m ed ottieni vantaggio nelle prove di Forza (Atletica) e nei tiri salvezza su Forza basati sull'arrampicarsi
 
 ## Occhiali con Scurovisione
 
@@ -114,7 +114,7 @@
 **Prerequisito:** livello 9
 
 - Azione: vedi effetto
-- Effetto: puoi lanciare il potere tecnologico Sovrascrivere Interfaccia(Override Interface) come potere di livello 5 senza spendere punti tecnologici
+- Effetto: puoi lanciare il potere tecnologico Sovrascrivere Interfaccia (Override Interface) come potere di livello 5 senza spendere punti tecnologici
 - Utilizzi: 1
 - Recupero utilizzi: completamento di un riposo lungo
 
@@ -154,7 +154,7 @@
 ## Spargere Petrolio
 
 - Azione: 1 azione standard
-- Effetto: puoi lanciare il potere tecnologico Chiazza di Petrolio(Oil Slick) senza spendere punti tecnologici.
+- Effetto: puoi lanciare il potere tecnologico Chiazza di Petrolio (Oil Slick) senza spendere punti tecnologici.
 - Utilizzi: 1
 - Recupero utilizzi: completamento di un riposo breve o lungo
 
@@ -226,7 +226,7 @@
 **Prerequisito:** livello 9
 
 - Azione: 1 azione bonus per attivare/disattivare
-- Effetto: quando il dispositivo di occultamento e' attivo ottieni vantaggio nelle prove di Destrezza(Furtivita') e tutte le prove di abilita' che si basano sulla vista.
+- Effetto: quando il dispositivo di occultamento e' attivo ottieni vantaggio nelle prove di Destrezza (Furtivita') e tutte le prove di abilita' che si basano sulla vista.
 - Durata: 1 minuto o prima se attacchi o se lanci un potere
 - Utilizzi: 1
 - Recupero utilizzi: completamento di un riposo breve o lungo
@@ -243,7 +243,7 @@
 **Prerequisito:** livello 11, [Occhiali con Scurovisione](#occhiali-con-scurovisione)
 
 - Azione: 1 azione bonus per attivare
-- Effetto: per 1 minuto i tuoi occhiali dissolgono, automaticamente, le illusioni e rendono possibile vedere l'invisibilita', proprio come succederebbe con il potere della forza Visione del Vero(True Sight)
+- Effetto: per 1 minuto i tuoi occhiali dissolgono, automaticamente, le illusioni e rendono possibile vedere l'invisibilita', proprio come succederebbe con il potere della forza Visione del Vero (True Sight)
 - Utilizzi: 1
 - Recupero utilizzi: completamento di un riposo breve e lungo
 

@@ -17,7 +17,7 @@
 |Sistemi dei Droidi|Non hai bisogno di mangiare, bere o respirare. Inoltre non hai bisogno di possedere un tecno-focus per lanciare poteri tecnologici
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
-|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza(Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
+|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza (Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
 |Manovale|Sei competente nella abilita' di Atletica e nell'utilizzo di una dotazione da artigiano a scelta
 |Stazza Prestante|La capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale
 |Ricostruzione Rapida|Come azione bonus puoi spendere uno o piu' Dadi Vita per recuperare punti ferita

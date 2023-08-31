@@ -11,7 +11,7 @@
 |Allineamento|Lato caotico oscuro della forza
 |Taglia|Media
 |Velocita|9m
-|Olfatto Acuto|Ottieni vantaggio nelle prove di Saggezza(Percezione) che comprendono l'utilizzo dell'olfatto
+|Olfatto Acuto|Ottieni vantaggio nelle prove di Saggezza (Percezione) che comprendono l'utilizzo dell'olfatto
 |Attacchi Selvaggi|Se infliggi un danno critico con un'arma corpo a corpo puoi tirare uno dei dadi del danno dell'arma una volta in piu' ed aggiungerlo al danno extra del colpo critico
 |Pelle Abbronzata|Quando non indossi alcuna armatura o ne indossi una leggera, la tua CA e' 13 + il modificatore di Destrezza. Inoltre, ottieni vantaggio nei tiri salvezza su Costituzione contro l'esaurimento causato dal caldo intenso
 |Addestramento alle Armi|Sei competente nell'utilizzo di: 2 vibro-armi o blaster a piacere

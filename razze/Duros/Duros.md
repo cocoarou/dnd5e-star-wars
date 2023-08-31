@@ -14,6 +14,6 @@
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio
 |Viaggiatore Galattico|Sei competente nelle abilita' Pilotare e Storia
 |Navigatore|Sei competente nell'utilizzo degli attrezzi da geometra
-|Memoria Superiore|Puoi raddoppiare il bonus di competenza quando effettui delle prove di Intelligenza(Storia) per ricordare informazioni delle quali sei venuto a conoscenza o per ricordare i dettagli delle varie esperienze vissute
+|Memoria Superiore|Puoi raddoppiare il bonus di competenza quando effettui delle prove di Intelligenza (Storia) per ricordare informazioni delle quali sei venuto a conoscenza o per ricordare i dettagli delle varie esperienze vissute
 |Resistenza alla Tecnologia|Ottieni vantaggio nei tiri salvezza su Destrezza ed Intelligenza contro i poteri tecnologici
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Durese

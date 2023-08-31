@@ -24,7 +24,7 @@
 |Livello|Bonus Competenza|Privilegi|Poteri Tecnologici Conosciuti|Punti Tecnologici|Livello Massimo del Potere|Prontezza|Slot di Modifica
 |---|---|---|---|---|---|---|---
 |1|+2|Tecno-lancio, Prontezza|6|2|1|d4|-
-|2|+2|Infondere Oggetto(+1), Maestria negli Strumenti|7|4|1|d4|-
+|2|+2|Infondere Oggetto (+1), Maestria negli Strumenti|7|4|1|d4|-
 |3|+2|Disciplina Ingegneristica|9|6|2|d4|4
 |4|+2|Aumento dei Punteggi Caratteristica|10|8|2|d4|4
 |5|+3|-|12|10|3|d6|5
@@ -32,12 +32,12 @@
 |7|+3|-|15|14|4|d6|5
 |8|+3|Aumento dei Punteggi Caratteristica|16|16|4|d6|5
 |9|+4|-|18|18|5|d8|6
-|10|+4|Infondere Oggetto(+2)|19|20|5|d8|6
+|10|+4|Infondere Oggetto (+2)|19|20|5|d8|6
 |11|+4|-|21|22|6|d8|7
 |12|+4|Aumento dei Punteggi Caratteristica|22|24|6|d8|7
 |13|+5|-|23|26|7|d10|8
 |14|+5|Tratto della Disciplina|24|28|7|d10|8
-|15|+5|Infondere Oggetto(+3)|25|30|8|d10|8
+|15|+5|Infondere Oggetto (+3)|25|30|8|d10|8
 |16|+5|Aumento dei Punteggi Caratteristica|26|32|8|d10|8
 |17|+6|-|27|34|9|d12|9
 |18|+6|Tratto della Disciplina|28|36|9|d12|9

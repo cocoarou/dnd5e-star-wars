@@ -50,7 +50,7 @@ Al livello 11 il raggio dell'area aumenta a 4.5m ed al livello 17 aumenta a 9m
 
 **Livello:** 11
 
-Quando, nel tuo turno, provi a scandagliare i tuoi dintorni, puoi decidere di non muoverti. Se lo fai, ottieni un bonus di +10 alle prove di Saggezza(Percezione) fino all'inizio del tuo prossimo turno.
+Quando, nel tuo turno, provi a scandagliare i tuoi dintorni, puoi decidere di non muoverti. Se lo fai, ottieni un bonus di +10 alle prove di Saggezza (Percezione) fino all'inizio del tuo prossimo turno.
 
 Perdi questo bonus se cadi a terra prono, sia volontariamente che per colpa di un effetto
 

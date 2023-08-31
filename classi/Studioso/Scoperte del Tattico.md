@@ -32,11 +32,11 @@ Puoi effettuare l'azione di Aiuto con l'azione bonus. Quando effettui l'azione d
 
 ## Leader Attento
 
-Ottieni vantaggio nelle prove di Saggezza(Percezione) basate sulla vista.
+Ottieni vantaggio nelle prove di Saggezza (Percezione) basate sulla vista.
 
 ## Comandante Colto
 
-Quando effettui una prova di Intelligenza(Storia o Tecnologia) inerente a battaglie, tattiche od armi, puoi spendere 1 dado di superiorita' ed aggiungere il risultato alla prova
+Quando effettui una prova di Intelligenza (Storia o Tecnologia) inerente a battaglie, tattiche od armi, puoi spendere 1 dado di superiorita' ed aggiungere il risultato alla prova
 
 ## Ritirata Tattica
 

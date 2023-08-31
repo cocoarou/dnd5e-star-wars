@@ -97,7 +97,7 @@
 ## Trakata
 
 - Azione: 1 azione bonus
-- Effetto: effettui una prova di Destrezza(Rapidita' di Mano) o Carisma(Inganno) (scegli tu) contro una prova contesa di Saggezza(Percezione) di una creatura che puoi vedere entro 1.5m da te. Se la tua prova ha successo, la creatura subisce svantaggio nel prossimo tiro per colpire che compie contro di te.
+- Effetto: effettui una prova di Destrezza (Rapidita' di Mano) o Carisma (Inganno) (scegli tu) contro una prova contesa di Saggezza (Percezione) di una creatura che puoi vedere entro 1.5m da te. Se la tua prova ha successo, la creatura subisce svantaggio nel prossimo tiro per colpire che compie contro di te.
 
 ## Trispzest
 
@@ -107,7 +107,7 @@
 ## Crepuscolo
 
 - Azione: 1 azione bonus
-- Effetto: ffettui una prova di Destrezza(Furtivita') contro una prova contesa di Saggezza(Percezione) di una creatura che puoi vedere entro 1.5m da te. Se la tua prova ha successo, sei invisibile alla creatura fino all'inizio del tuo prossimo turno o finche' non attacchi, lanci un potere o compi un'azione ostile contro di essa.
+- Effetto: ffettui una prova di Destrezza (Furtivita') contro una prova contesa di Saggezza (Percezione) di una creatura che puoi vedere entro 1.5m da te. Se la tua prova ha successo, sei invisibile alla creatura fino all'inizio del tuo prossimo turno o finche' non attacchi, lanci un potere o compi un'azione ostile contro di essa.
 
 ## Vaapad
 

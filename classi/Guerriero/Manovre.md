@@ -191,7 +191,7 @@
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Persuasione
 - Azione: 1 azione standard
-- Effetto: puoi spendere 1 dado di superiorita' ed effettuare una prova di Carisma(Persuasione) per affascinare una creatura che puo' sentirti o vederti, entro 9m. Aggiungi il risultato del tiro di dado alla prova. Il personaggio effettua una prova contesa di Saggezza(Intuizione). Se la tua prova di persuasione e' maggiore della prova di intuizione, la creatura e' affascinata da te fino alla fine del tuo prossimo turno.
+- Effetto: puoi spendere 1 dado di superiorita' ed effettuare una prova di Carisma (Persuasione) per affascinare una creatura che puo' sentirti o vederti, entro 9m. Aggiungi il risultato del tiro di dado alla prova. Il personaggio effettua una prova contesa di Saggezza (Intuizione). Se la tua prova di persuasione e' maggiore della prova di intuizione, la creatura e' affascinata da te fino alla fine del tuo prossimo turno.
 
 ## Colpo del Comandante
 
@@ -201,7 +201,7 @@
 ## Colpo del Comandante (Maggiore)
 
 - Tipo: Fisico
-- Prerequisito: Colpo del Comandante(Migliorato)
+- Prerequisito: Colpo del Comandante (Migliorato)
 - Effetto: quando usi la manovra Colpo del Comandante puoi decidere se non mettere a segno uno dei tuoi attacchi od utilizzare l'azione bonus, invece che entrambe le azioni. Tutti gli altri effetti continuano ad applicarsi.
 
 ## Colpo del Comandante (Migliorato)
@@ -373,7 +373,7 @@
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Intimidire
 - Azione: 1 azione standard
-- Effetto: puoi effettuare una prova di Carisma(Intimidire) e spendere 1 dado di superiorita' per tentare di impaurire una creatura umanoide che puo' vederti o sentirti, entro 18m. Aggiungi il risultato del tiro di dado alla prova. Il bersaglio effettua una prova contesa di Saggezza(Intuizione), se non supera il totale della prova di Intimidire e' spaventato da te fino alla fine del tuo prossimo turno.
+- Effetto: puoi effettuare una prova di Carisma (Intimidire) e spendere 1 dado di superiorita' per tentare di impaurire una creatura umanoide che puo' vederti o sentirti, entro 18m. Aggiungi il risultato del tiro di dado alla prova. Il bersaglio effettua una prova contesa di Saggezza (Intuizione), se non supera il totale della prova di Intimidire e' spaventato da te fino alla fine del tuo prossimo turno.
 
 ## Investigare
 
@@ -607,7 +607,7 @@
 
 - Tipo: Mentale
 - Prerequisito: poter lanciare poteri tecnologici
-- Effetto: quando lanci un potere tecnologico puoi spendere 1 dado di superiorita' senza emettere suoni o fare gesti. Le creture subiscono svantaggio nelle prove di Intelligenza(Indagare) o Saggezza(Percezione) effettuate per capire se sia stato tu a lanciare il potere
+- Effetto: quando lanci un potere tecnologico puoi spendere 1 dado di superiorita' senza emettere suoni o fare gesti. Le creture subiscono svantaggio nelle prove di Intelligenza (Indagare) o Saggezza (Percezione) effettuate per capire se sia stato tu a lanciare il potere
 
 ## Survivalista
 
@@ -690,7 +690,7 @@
 
 - Tipo: Fisico
 - Prerequisito: competenza nelle prove di Atletica
-- Effetto: quando effettui una prova di Forza(Atletica) per prendere in lotta o spingere una creatura, puoi spendere 1 dado di superiorita'. Fino alla fine del tuo turno puoi trascinare la creatura immobilizzata con te senza dimezzare la tua velocita' di movimento. Se la creatura viene mossa di almeno 1.5m puoi tirare il dado di superiorita' ed infliggere danni cinetici pari al risultato del tiro.
+- Effetto: quando effettui una prova di Forza (Atletica) per prendere in lotta o spingere una creatura, puoi spendere 1 dado di superiorita'. Fino alla fine del tuo turno puoi trascinare la creatura immobilizzata con te senza dimezzare la tua velocita' di movimento. Se la creatura viene mossa di almeno 1.5m puoi tirare il dado di superiorita' ed infliggere danni cinetici pari al risultato del tiro.
 
 ## E Questa la Chiami Archeologia?
 

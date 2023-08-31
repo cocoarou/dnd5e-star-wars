@@ -47,7 +47,7 @@
 
 Puoi utilizzare l'azione bonus fornita dal privilegio [Azione Scaltra](./Operativo.md#azione-scaltra) per:
 
-- effettuare una prova di Destrezza(Rapidita' di Mano)
+- effettuare una prova di Destrezza (Rapidita' di Mano)
 - utilizzare un kit da demolizione o un kit di sicurezza per disarmare una trappola od aprire una serratura
 - effettuare l'azione Utilizzare un Oggetto
 
@@ -69,7 +69,7 @@ Il bersaglio deve superare un tiro salvezza su Costituzione o subire 1 livello d
 
 #### Derubare
 
-Il bersaglio deve superare un tiro salvezza su Saggezza altrimenti ottieni vantaggio nella prima prova di abilita' di Destrezza(Rapidita' di Mano) che effettui contro il bersaglio, fino alla fine del tuo prossimo turno.
+Il bersaglio deve superare un tiro salvezza su Saggezza altrimenti ottieni vantaggio nella prima prova di abilita' di Destrezza (Rapidita' di Mano) che effettui contro il bersaglio, fino alla fine del tuo prossimo turno.
 
 #### Capriola
 
@@ -79,7 +79,7 @@ Ti muovi immediatamente di 3m, in una direzione a scelta, ed il bersaglio deve e
 
 **Livello:** 9
 
-Ottieni vantaggio delle prove di Destrezza(Furtivita') se, nello stesso turno, non ti sei mosso per piu' della meta' del tuo movimento. Inoltre, finche' non sei incapacitato, non subisci danni da caduta entro i 30m ed ottieni resistenza ai danni da caduta
+Ottieni vantaggio delle prove di Destrezza (Furtivita') se, nello stesso turno, non ti sei mosso per piu' della meta' del tuo movimento. Inoltre, finche' non sei incapacitato, non subisci danni da caduta entro i 30m ed ottieni resistenza ai danni da caduta
 
 ### Agilita' Aerea
 
@@ -106,7 +106,7 @@ Inoltre, ogni volta che cadi per almeno 15m ed atterri a 1.5m da un nemico, puoi
 
 Quando colpisci una creatura, ed eri nascosto da lei, con un'attacco con l'arma, puoi scegliere di trasformare l'attacco in un colpo critico.
 
-Se l'attacco porta il bersaglio a 0 punti ferita, non vieni automaticamente scoperto dalle altre creature. Effettua una prova di Destrezza(Furtivita') contro una prova di Saggezza(Precezione) delle creature. Se superi la prova rimani nascosto. Qualora gia' effettueresti una prova di Destrezza(Furtivita'), per rimanere nascosto, come parte di un attacco, ottieni vantaggio alla prova.
+Se l'attacco porta il bersaglio a 0 punti ferita, non vieni automaticamente scoperto dalle altre creature. Effettua una prova di Destrezza (Furtivita') contro una prova di Saggezza (Precezione) delle creature. Se superi la prova rimani nascosto. Qualora gia' effettueresti una prova di Destrezza (Furtivita'), per rimanere nascosto, come parte di un attacco, ottieni vantaggio alla prova.
 
 Puoi utilizzare questo privilegio 1 volta. Ottieni degli utilizzi addizionali ai livelli: 9 e 17.
 
@@ -149,7 +149,7 @@ Se fallisce, quando effettueresti il tuo prossimo tiro per colpire contro il ber
 
 **Livello:** 9
 
-Quando tu od una creatura entro 1.5m da te fallite una prova di Destrezza(Furtivita'), puoi utilizzare la tua reazione per consentire a quella creatura di tirare nuovamente la prova. Deve utilizzare il nuovo risultato del tiro.
+Quando tu od una creatura entro 1.5m da te fallite una prova di Destrezza (Furtivita'), puoi utilizzare la tua reazione per consentire a quella creatura di tirare nuovamente la prova. Deve utilizzare il nuovo risultato del tiro.
 
 ### Maestro della Furtivita'
 

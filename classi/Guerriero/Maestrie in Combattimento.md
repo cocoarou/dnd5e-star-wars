@@ -73,7 +73,7 @@
 ## Maestria dell'Infiltrazione
 
 - Puoi provare a nasconderti quando sei considerato parzialmente oscurato verso la creatura dalla quale ti stai nascondendo
-- Non subisci svantaggio nelle prove di Saggezza(Percezione) che richiedono l'utilizzo della vista in presenza di luce fioca
+- Non subisci svantaggio nelle prove di Saggezza (Percezione) che richiedono l'utilizzo della vista in presenza di luce fioca
 - Quando sei considerato nascosto verso una creatura e la manchi con un attacco senz'armi, l'aver effettuato l'attacco non rivela, automaticamente, la tua posizione
 - Una volta per turno, quando infliggi danno ad una creatura con un attacco senz'armi od un attacco con l'arma e sei nascosto, infliggi danni aggiuntivi pari al tuo bonus di competenza
 
@@ -212,7 +212,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 ## Maestria dell'Individuazione
 
-- Non subisci piu' svantaggio nelle prove di Saggezza(Percezione) effettuate in un'area leggermente oscurata, entro 36m
+- Non subisci piu' svantaggio nelle prove di Saggezza (Percezione) effettuate in un'area leggermente oscurata, entro 36m
 - Quando una creatura tira il d20 per redirigere l'attacco che effettui su una copia illusoria, subisce svantaggio al tiro
 - Quando utilizzi l'azione di Cercare riesci a camuffare l'attenzione che stai riportando verso qualsiasi indizio od oggetto tu stia cercando.
 - Quando trovi una creatura nascosta utilizzando l'azione di Cercare, subisce svantaggio su ogni prova di abilita' che effettua per Nascondersi da te prima dell'inizio del tuo prossimo turno

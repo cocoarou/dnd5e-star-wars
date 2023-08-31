@@ -12,11 +12,11 @@
 
 ## Asso nella Manica
 
-Quando effettui una prova di Destrezza(Rapidita' di Mano) o Carisma(Inganno) puoi spendere un dado di superiorita' ed aggiungere il risultato alla prova
+Quando effettui una prova di Destrezza (Rapidita' di Mano) o Carisma (Inganno) puoi spendere un dado di superiorita' ed aggiungere il risultato alla prova
 
 ## Contro il Banco
 
-Quando effettui una prova di Carisma(Persuasione) riguardante il mercanteggiare puoi, invece, sfidare il bersaglio ad una partita di un gioco d'azzardo. Se accetta la tua offerta puoi effettuare una prova di abilita' con uno strumento da gioco disponibile. Se vinci la sfida, hai un successo automatico alla prova.
+Quando effettui una prova di Carisma (Persuasione) riguardante il mercanteggiare puoi, invece, sfidare il bersaglio ad una partita di un gioco d'azzardo. Se accetta la tua offerta puoi effettuare una prova di abilita' con uno strumento da gioco disponibile. Se vinci la sfida, hai un successo automatico alla prova.
 
 ## Alzare la Posta
 
@@ -30,7 +30,7 @@ Quando effettui una prova di abilita' basata sul Carisma puoi decidere, invece, 
 
 **Prerequisito:** livello 5
 
-Con 1 azione puoi effettuare una prova di Saggezza(Intuizione) contro una prova contesa di Carisma(Inganno) del bersaglio. Se vinci la prova riesci a capire la prossimo mossa che il bersaglio intende effettuare, finche' la situazione in cui vi trovate non cambi drasticamente
+Con 1 azione puoi effettuare una prova di Saggezza (Intuizione) contro una prova contesa di Carisma (Inganno) del bersaglio. Se vinci la prova riesci a capire la prossimo mossa che il bersaglio intende effettuare, finche' la situazione in cui vi trovate non cambi drasticamente
 
 ## Sotto Pressione
 

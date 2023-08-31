@@ -1,6 +1,6 @@
 # Trandoshan
 
-![trandoshan](species_trandoshan%20(2).png)
+![trandoshan](species_trandoshan%20 (2).png)
 
 ## Tratti dei Trandoshan
 

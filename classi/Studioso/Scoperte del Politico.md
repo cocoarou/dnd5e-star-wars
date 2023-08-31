@@ -39,7 +39,7 @@ La gittata del tuo privilegio di [Diplomatico Motivazionale](./Ricerche%20Accade
 
 **Prerequisito:** livello 9
 
-Le tue prove di Carisma(Inganno, Intimidire o Persuasione) ottengono una soglia minima del tiro.
+Le tue prove di Carisma (Inganno, Intimidire o Persuasione) ottengono una soglia minima del tiro.
 
 ## Scalatore Sociale
 

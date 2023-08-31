@@ -43,7 +43,7 @@ Mentre sei in ira ottieni una velocita' di volare pari alla tua velocita' di mov
 
 **Prerequisito:** livello 7
 
-Mentre sei in ira ottieni vista cieca 9m ed ottieni vantaggio nelle prove di Saggezza(Percezione) che riguardano l'udito, almenoche' tu non sia assordato.
+Mentre sei in ira ottieni vista cieca 9m ed ottieni vantaggio nelle prove di Saggezza (Percezione) che riguardano l'udito, almenoche' tu non sia assordato.
 
 ## Istinto del Dewback
 
@@ -65,7 +65,7 @@ Recuperi tutti gli utilizzi di questa capacita' dopo aver terminato un riposo lu
 
 **Prerequisito:** livello 7
 
-Sei in grado di vedere fino a 1.5km senza alcuna difficolta'. Puoi discernere i dettagli di cio' che stai guardando come se si trovasse a non piu' di 30m da te. Inoltre, le prove di Saggezza(Percezione) non subiscono svantaggio in presenza di luce fioca.
+Sei in grado di vedere fino a 1.5km senza alcuna difficolta'. Puoi discernere i dettagli di cio' che stai guardando come se si trovasse a non piu' di 30m da te. Inoltre, le prove di Saggezza (Percezione) non subiscono svantaggio in presenza di luce fioca.
 
 ## Istinto del Katarn
 

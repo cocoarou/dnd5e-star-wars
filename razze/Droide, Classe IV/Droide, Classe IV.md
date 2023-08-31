@@ -17,7 +17,7 @@
 |Sistemi dei Droidi|Non hai bisogno di mangiare, bere o respirare. Inoltre non hai bisogno di possedere un tecno-focus per lanciare poteri tecnologici
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
-|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza(Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
+|Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza (Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
 |Protocollo Marziale|Sei competente nell'utilizzo di armature leggere e medie ed in due blaster semplici o da guerra o vibro-armi a scelta
 |Ricostruzione Rapida|Come azione bonus puoi spendere uno o piu' Dadi Vita per recuperare punti ferita
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base ed un linguaggio Bonus a scelta. Sei in grado di comprendere il linguaggio Binario scritto e parlato, ma non sai parlarlo

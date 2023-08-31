@@ -92,7 +92,7 @@ Quando utilizzi il tuo privilegio di [Consiglio del Saggio](./Studioso.md#consig
 
 ## Prodezza Mentale
 
-Puoi utilizzare il tuo modificatore di caratteristica del privilegio [Analisi Critica](./Studioso.md#analisi-critica) al posto del modificatore di Forza e Destrezza per le prove di Forza(Atletica) o Destrezza(Acrobatica) effettuate per tenere in lotta una creatura o liberarsi da una lotta od altri effetti restrittivi.
+Puoi utilizzare il tuo modificatore di caratteristica del privilegio [Analisi Critica](./Studioso.md#analisi-critica) al posto del modificatore di Forza e Destrezza per le prove di Forza (Atletica) o Destrezza (Acrobatica) effettuate per tenere in lotta una creatura o liberarsi da una lotta od altri effetti restrittivi.
 
 ## Armatura Moderata
 
@@ -118,7 +118,7 @@ Puoi sostituire Saggezza o Carisma (scelto quando studi questa disciplina) con I
 
 **Prerequisito:** livello 9
 
-Le prove di abilita' Intelligenza(Storia) od Intelligenza(Natura) alle quali aggiungi il bonus di competenza ottengono una soglia minima del tiro.
+Le prove di abilita' Intelligenza (Storia) od Intelligenza (Natura) alle quali aggiungi il bonus di competenza ottengono una soglia minima del tiro.
 
 ## Risoluto
 

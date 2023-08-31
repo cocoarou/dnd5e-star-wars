@@ -66,7 +66,7 @@
 **Prerequisito:** livello 5
 
 - Azione: non richiede un'azione
-- Effetto: una volta per turno, quando colpisci con l'arma, puoi infliggere 1d6 danni aggiuntivi e l'arma emette un fragore all'impatto che puo' essere sentito fino a 30m. Se sei nascosto, le prove di Intelligenza(Indagare) e Saggezza(Percezione) che vengono effettuate per trovarti e che fanno riferimento ad effetti sonori ottengono vantaggio
+- Effetto: una volta per turno, quando colpisci con l'arma, puoi infliggere 1d6 danni aggiuntivi e l'arma emette un fragore all'impatto che puo' essere sentito fino a 30m. Se sei nascosto, le prove di Intelligenza (Indagare) e Saggezza (Percezione) che vengono effettuate per trovarti e che fanno riferimento ad effetti sonori ottengono vantaggio
 
 ## Oscillatore Celere
 
@@ -192,12 +192,12 @@
 ## Arma Silenziosa
 
 - Azione: vedi effetto
-- Effetto: quando effettui un attacco con l'arma mentre sei nascosto, le prove di Intelligenza(Indagare) e Saggezza(Percezione) che vengono effettuate per trovarti e che fanno riferimento ad effetti sonori subiscono svantaggio
+- Effetto: quando effettui un attacco con l'arma mentre sei nascosto, le prove di Intelligenza (Indagare) e Saggezza (Percezione) che vengono effettuate per trovarti e che fanno riferimento ad effetti sonori subiscono svantaggio
 
 ## Assorbi Urto
 
 - Azione: vedi effetto
-- Effetto: puoi lanciare il potere tecnologico Assorbire Energia(Absorb Energy) ed il danno extra derivante dal potere si applica sia ad attacchi corpo a corpo che attacchi con l'arma a distanza
+- Effetto: puoi lanciare il potere tecnologico Assorbire Energia (Absorb Energy) ed il danno extra derivante dal potere si applica sia ad attacchi corpo a corpo che attacchi con l'arma a distanza
 
 ## Arma d'Assedio
 
@@ -234,7 +234,7 @@
 **Prerequisito:** livello 5
 
 - Azione: vedi effetto
-- Effetto: puoi spendere 1 carica per lanciare, con un'azione bonus, il potere tecnologico Inquadrare Bersaglio(Target Lock). Puoi spendere 2 cariche per lanciare, con un'azione standard, il potere tecnologico Vedere Invisibilita'(Detect Invisibility)
+- Effetto: puoi spendere 1 carica per lanciare, con un'azione bonus, il potere tecnologico Inquadrare Bersaglio (Target Lock). Puoi spendere 2 cariche per lanciare, con un'azione standard, il potere tecnologico Vedere Invisibilita' (Detect Invisibility)
 - Utilizzi: 3 cariche
 - Recupero utilizzi: completamento di un riposo lungo
 

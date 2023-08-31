@@ -67,7 +67,7 @@
 ## Stile dell'Inflitrazione
 
 - Puoi compiere l'azione di Nascondersi utilizzando l'azione bonus. Se potevi gia' farlo, puoi utilizzare la reazione, nel tuo turno, per effettuare l'azione.
-- Le creature che hanno ricevuto danno da te, dall'inizio del tuo turno precedente, subiscono svantaggio nelle prove di Saggezza(Percezione) effettuate per riuscire a trovarti.
+- Le creature che hanno ricevuto danno da te, dall'inizio del tuo turno precedente, subiscono svantaggio nelle prove di Saggezza (Percezione) effettuate per riuscire a trovarti.
 
 ## Stile Difensivo
 
@@ -88,7 +88,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 ## Stile del Duellante
 
-- Se impugni un'arma, nella quale sei competente, in una mano e nessun'altra arma nella mano libera, puoi utilizzare 1 azione bonus per fintare. Se lo fai, devi effettuare una prova di Destrezza(Rapidita' di Mano) o Carisma(Inganno) (scegli tu) contro una prova contrapposta di Saggezza(Intuizione) del bersaglio. Se il bersaglio fallisce la prova, ottieni vantaggio al primo attacco che compi contro di esso prima dell'inizio del tuo prossimo turno.
+- Se impugni un'arma, nella quale sei competente, in una mano e nessun'altra arma nella mano libera, puoi utilizzare 1 azione bonus per fintare. Se lo fai, devi effettuare una prova di Destrezza (Rapidita' di Mano) o Carisma (Inganno) (scegli tu) contro una prova contrapposta di Saggezza (Intuizione) del bersaglio. Se il bersaglio fallisce la prova, ottieni vantaggio al primo attacco che compi contro di esso prima dell'inizio del tuo prossimo turno.
 - Se impugni un'arma, nella quale sei competente, in una mano e nessun'altra arma nella mano libera, quando fallisci un tiro per colpire, nel tuo turno, puoi utilizzare 1 azione bonus per ripetere l'attacco contro lo stesso bersaglio. Ogni modifica alla quale l'attacco originale era assoggettato, si applica anche su questo attacco.
 - Una volta in ognuno dei tuoi turni estrarre o riporre un'arma ad una mano non richiede piu' un'azione di interazione con oggetto.
 

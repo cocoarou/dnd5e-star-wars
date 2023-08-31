@@ -15,5 +15,5 @@
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio
 |Agilita' Leonesca|Puoi raddoppiare la tua velocita in combattimento fino alla fine del turno. Una volta utilizzato questo tratto non puoi utilizzarlo nuovamente finche' non spendi uno dei tuoi turni senza muoverti.
 |Passo Felpato|Competenza nell'abilita' Furtivita'
-|Arrampicata in Pianta|Velocita' di Scalare 9m. Ottieni vantaggio nei tiri salvezza su Forza e nelle prove di abilita' Forza(Atletica) che coinvolgono lo scalare
+|Arrampicata in Pianta|Velocita' di Scalare 9m. Ottieni vantaggio nei tiri salvezza su Forza e nelle prove di abilita' Forza (Atletica) che coinvolgono lo scalare
 |Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Catharese

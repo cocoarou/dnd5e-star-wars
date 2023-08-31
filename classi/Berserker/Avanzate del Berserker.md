@@ -116,7 +116,7 @@ Sei competente nelle armature pesanti, puoi entrare in ira indossando armature p
 
 **Livello:** 3
 
-Mentre sei in ira puoi muoverti nello spazio occupato da una creatura ostile, non curandoti della sua taglia. Per fare cio' devi effettuare una prova di Forza(Atletica) contesa con la prova di Forza(Atletica) del bersaglio. Se ti muovi di almeno 3m prima di provare ad occupare lo spazio della creatura e la taglia di quella creatura e' uguale od inferiore alla tua, subiscono svantaggio nella prova. Se superi la prova non consideri il movimento come se fosse stato effettuato attraverso terreno difficile, la creatura viene spinta 1.5m in una direzione da te scelta e non puoi subire attacchi d'opportunita' da quella creatura fino alla fine del tuo turno.
+Mentre sei in ira puoi muoverti nello spazio occupato da una creatura ostile, non curandoti della sua taglia. Per fare cio' devi effettuare una prova di Forza (Atletica) contesa con la prova di Forza (Atletica) del bersaglio. Se ti muovi di almeno 3m prima di provare ad occupare lo spazio della creatura e la taglia di quella creatura e' uguale od inferiore alla tua, subiscono svantaggio nella prova. Se superi la prova non consideri il movimento come se fosse stato effettuato attraverso terreno difficile, la creatura viene spinta 1.5m in una direzione da te scelta e non puoi subire attacchi d'opportunita' da quella creatura fino alla fine del tuo turno.
 
 ### Bastione Iracondo
 

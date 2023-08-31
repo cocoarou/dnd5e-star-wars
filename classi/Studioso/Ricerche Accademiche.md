@@ -198,7 +198,7 @@ Una volta per round, quando una creatura bersaglio della tua [Analisi Critica](.
 
 **Livello:** 9
 
-Se spendi 10 minuti osservando un'area entro 36m da te, od utilizzi una mappa dettagliata, scegli un numero di creature pari al tuo modificatore di [Analisi Critica](./Studioso.md#analisi-critica). Tu e le creature selezionate ignorate il terreno difficile non potenziato ed ottenete vantaggio nelle prove di Destrezza(Furtivita') effettuate in quell'area.
+Se spendi 10 minuti osservando un'area entro 36m da te, od utilizzi una mappa dettagliata, scegli un numero di creature pari al tuo modificatore di [Analisi Critica](./Studioso.md#analisi-critica). Tu e le creature selezionate ignorate il terreno difficile non potenziato ed ottenete vantaggio nelle prove di Destrezza (Furtivita') effettuate in quell'area.
 
 ### Attaccare con Tutto
 
