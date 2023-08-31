@@ -19,7 +19,6 @@
     - [Gamorrean](#gamorrean)
     - [Gungan](#gungan)
     - [Ithorian](#ithorian)
-      - [Tratti degli Ithorian](#tratti-degli-ithorian)
     - [Jawa](#jawa)
     - [Kel Dor](#kel-dor)
     - [Mon Calamari](#mon-calamari)
@@ -404,7 +403,7 @@
 
 ![ithorian](./resources/razze/species_ithorian.png)
 
-#### Tratti degli Ithorian
+#### Tratti degli Ithorian <!-- omit in toc -->
 
 |<!-- -->|<!-- -->
 |---|---
