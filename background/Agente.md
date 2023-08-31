@@ -23,7 +23,7 @@ Distintivo od emblema della tua fazione, 1 copia di un testo importante della fa
 
 Essendo l'agente di una fazione hai l'accesso ad un network segreto di sostenitori ed operativi che possono essere d'aiuto nelle tue avventure.
 
-Conosci 1 set di segni segreti e password che puoi utilizzare per identificare questi operativi che possono: fornirti accesso ad una casa sicura e nascosta, vitto ed alloggio gratis o fornire assistenza nel trovare delle informazioni. 
+Conosci 1 set di segni segreti e password che puoi utilizzare per identificare questi operativi che possono: fornirti accesso ad una casa sicura e nascosta, vitto ed alloggio gratis o fornire assistenza nel trovare delle informazioni.
 
 Questi agenti non rischiano mai la propria vita per te e cercano in tutti i modi di non far cadere la propria copertura, rilevando la propria identita'.
 

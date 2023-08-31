@@ -1,9 +1,10 @@
 # Gungan
 
-![](species_gungan.png)
+![gungan](species_gungan.png)
 
 ## Tratti dei Gungan
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Destrezza aumenta di 2 e la Forza aumenta di 1
 |Eta'|I gungan raggiungono la maturita' intorno ai 13 anni e vivono fino a circa 70 anni

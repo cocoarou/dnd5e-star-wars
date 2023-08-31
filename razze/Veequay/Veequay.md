@@ -1,9 +1,10 @@
 # Veequay
 
-![](species_weequay.png)
+![veequay](species_weequay.png)
 
 ## Tratti dei Veequay
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Costituzione aumenta di 2 e la Saggezza od il Carisma di 1
 |Eta'|I veequay raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo

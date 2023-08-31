@@ -1,9 +1,10 @@
 # Wookiee
 
-![](species_wookiee.png)
+![wookie](species_wookiee.png)
 
 ## Tratti dei wookiee
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Forza aumenta di 2 e la Costituzione di 1
 |Eta'|I wookiee raggiungono la maturita' a 40 anni e vivono fino a circa 400 anni

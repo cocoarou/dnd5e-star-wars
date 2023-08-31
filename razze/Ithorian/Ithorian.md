@@ -1,9 +1,10 @@
 # Ithorian
 
-![](species_ithorian.png)
+![ithorian](species_ithorian.png)
 
 ## Tratti degli Ithorian
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Carisma aumenta di 2 e la Saggezza aumenta di 1
 |Eta'|Gli ithorian raggiungono la maturita intorno ai 18 anni e vivono fino a circa 85 anni

@@ -1,9 +1,10 @@
 # Sith Purosangue
 
-![](species_sith.png)
+![sith_purosangue](species_sith.png)
 
 ## Tratti dei Sith Purosangue
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Carisma aumenta di 2 e la Forza o la Destrezza aumentano di 1
 |Eta'|I sith raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo

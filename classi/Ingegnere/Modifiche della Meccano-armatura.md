@@ -1,3 +1,5 @@
+# Modifiche della Meccano-armatura
+
 - [Modifiche della Meccano-armatura](#modifiche-della-meccano-armatura)
   - [Scudo Assorbente](#scudo-assorbente)
   - [Movimento Accelerato](#movimento-accelerato)
@@ -26,11 +28,8 @@
   - [Tecno-blaster](#tecno-blaster)
   - [Armatura con Arma Integrata](#armatura-con-arma-integrata)
 
-</br>
-</br>
-
-# Modifiche della Meccano-armatura
 ## Scudo Assorbente
+
 **Prerequisito:** Scudo
 
 - Azione: 1 azione bonus
@@ -41,6 +40,7 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Movimento Accelerato
+
 **Prerequisito:** Armatura
 
 - Azione: non richiede un'azione
@@ -48,6 +48,7 @@
 - Durata: finche' indossi l'armatura modificata
 
 ## Armatura Adattabile
+
 **Prerequisito:** Armatura
 
 - Azione: non richiede un'azione
@@ -55,6 +56,7 @@
 - Durata: finche' indossi l'armatura modificata
 
 ## Pugno Energetico Avanzato
+
 **Prerequisito:** livello 11, Prototipo di [Pugno Energetico](#pugno-energetico)
 
 - Azione: vedi effetto
@@ -62,6 +64,7 @@
 - Durata: finche' indossi l'armatura modificata
 
 ## Intelligenza Artificiale
+
 **Prerequisito:** livello 9, Armatura
 
 - Azione: vedi effetto
@@ -72,6 +75,7 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Placche Saldate
+
 **Prerequisito:** livello 5
 
 - Azione: non richiede un'azione
@@ -79,12 +83,14 @@
 - Durata: finche' indossi l'armatura modificata o lo scudo modificato
 
 ## Armatura Riponibile
+
 **Prerequisito:** livello 5, Armatura
 
 - Azione: 1 azione standard
 - Effetto: puoi far assumere all'armatura le sembianze di una valigia. In questa forma l'armatura pesa 1/3 del suo normale peso. Con un'azione puoi scegliere di indossare o riporre l'armatura.
 
 ## Visore Notturno
+
 **Prerequisito:** Armatura
 
 - Azione: non richiede un'azione
@@ -92,6 +98,7 @@
 - Durata: finche' indossi l'armatura modificata
 
 ## Durabilita' Potenziata
+
 **Prerequisito:** Armatura
 
 - Azione: non richiede un'azione
@@ -101,12 +108,14 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Scudi Elettroshock
+
 **Prerequisito:** Generatore di Scudi
 
 - Azione: reazione
 - Effetto: quando un nemico ti manca puoi utilizzare la tua reazione per infliggere 1d4 + modificatore di Intelligenza danni elettrici all'attaccante
 
 ## Volo
+
 **Prerequisito:** livello 9, Armatura
 
 - Azione: non richiede un'azione
@@ -114,6 +123,7 @@
 - Durata: finche' indossi l'armatura modificata
 
 ## Arpione da Presa
+
 **Prerequisito:** Armatura
 
 - Azione: vedi effetto
@@ -122,12 +132,14 @@
 - Recupero utilizzi: dopo aver raccolto e re-inserito l'arpione, con un'azione standard
 
 ## Armatura Pesante
+
 **Prerequisito:** livello 5, Armatura
 
 - Azione: 1 azione bonus
 - Effetto: puoi ancorarti al suolo o disancorarti da esso. Quando sei ancorato la tua velocita' scende a 0, ottieni vantaggio nelle prove di Forza e nei tiri salvezza su Forza e la tua capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale
 
 ## Armatura da Infiltrazione
+
 **Prerequisito:** Armatura
 
 - Azione: 1 azione standard
@@ -137,12 +149,14 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Scudo Magnetizzato
+
 **Prerequisito:** Scudo
 
 - Azione: non richiede un'azione
 - Effetto: se un attacco corpo a corpo ti manca e la differenza tra il tiro per colpire e la tua CA e' pari od inferiore al bonus alla CA conferito dal tuo scudo, l'avversario deve effettuare una prova di Forza e superare la tua CD del tiro salvezza tecnologico. Se fallisce la prova, l'arma che impugna rimane incollata allo scudo. L'avversario puo' tentare di liberare l'arma ripetendo, con un'azione standard, questa prova di Forza.
 
 ## Sovraccaricare Scudi
+
 **Prerequisito:** Generatore di Scudi
 
 - Azione: 1 azione standard
@@ -152,24 +166,28 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Pugno Energetico
+
 **Prerequisito:** Armatura
 
 - Azione: vedi effetto
 - Effetto: i tuoi attacchi senz'armi infliggono 1d4 danni cinetici. Se utilizzi la tua azione standard per attaccare, puoi effettuare un attacco aggiuntivo con un'azione bonus
 
 ## Prototipo di Pugno Energetico
+
 **Prerequisito:** livello 5, [Pugno Energetico](#pugno-energetico)
 
 - Azione: vedi effetto
 - Effetto: i tuoi attacchi senz'armi infliggono 1d6 danni cinetici ed ottengono la seguente proprieta': se tu od il tuo avversiario vi siete mossi di almeno 3m in linea retta, il primo attacco senz'armi che effettui infligge, qualora vada a segno, danni aggiuntivi pari al tuo modificatore di Intelligenza.
 
 ## Sottofondo Rinforzato
+
 **Prerequisito:** livello 5
 
 - Azione: non richiede un'azione
 - Effetto: la tua CA contro gli attacchi a distanza aumenta di 1. Il bonus diventa 2 al livello 9 e 3 al livello 13
 
 ## Resistenza
+
 **Prerequisito:** Armatura
 
 - Azione: non richiede un'azione
@@ -178,6 +196,7 @@
 - Speciale: puoi scegliere questa modifica piu' volte, scegliendo un tipo di danno differente da quelli gia' selezionati
 
 ## Armatura Sigillata
+
 **Prerequisito:** livello 5, Armatura
 
 - Azione: 1 azione bonus
@@ -185,12 +204,14 @@
 - Durata: finche' indossi l'armatura modificata
 
 ## Armatura Senziente
+
 **Prerequisito:** livello 13, [Intelligenza Artificiale](#intelligenza-artificiale)
 
 - Azione: non richiede un'azione
 - Effetto: l'armatura puo' agire per conto proprio. Diventa un bersaglio valido del potere tecnologico Interfaccia di Tracciamento del Droide(Tracker Droid Interface). Quando l'armatura agisce indipendentemente, utilizza i tuoi punteggi caratteristica, tiri salvezza, abilita' e possiede punti ferita pari al tuo livello da ingegnere. Se raggiunge 0 punti ferita, l'armatura cade a terra e non puo' essere indossata finche' non completi un riposo lungo
 
 ## Amplificatore di Scudi
+
 **Prerequisito:** Generatore di Scudi
 
 - Azione: 1 azione bonus
@@ -200,6 +221,7 @@
 - Recupero utilizzi: completamento di un riposo lungo
 
 ## Ancorare Scudo
+
 **Prerequisito:** Scudo
 
 - Azione: 1 azione standard
@@ -210,12 +232,14 @@
   - scudo pesante: 3/4 di copertura
 
 ## Tecno-blaster
+
 **Prerequisito:** Armatura
 
 - Azione: vedi testo
 - Effetto: installi un blaster, nel quale sei competente, nel guando dell'armatura. L'arma utilizza il tuo modificatore di Intelligenza per i tiri per colpire ed i danni ed infligge 1d8 danni da energia. Il raggio e' 9/36
 
 ## Armatura con Arma Integrata
+
 **Prerequisito:** Armatura
 
 - Azione: non richiede un'azione

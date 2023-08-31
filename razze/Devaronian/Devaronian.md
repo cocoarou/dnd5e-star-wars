@@ -1,9 +1,10 @@
 # Devaronian
 
-![](species_devaronian.png)
+![devaronian](species_devaronian.png)
 
 ## Tratti dei Devaronian
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Costituzione aumenta di 2 ed il Carisma aumenta di 1
 |Eta'|I devaronian raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo

@@ -115,7 +115,7 @@ Ottieni competenza nei kit di demolizione e 3 blaster a scelta
 
 **Livello:** 3
 
-Puoi lanciare granate e posizionare mine con l'azione bonus. 
+Puoi lanciare granate e posizionare mine con l'azione bonus.
 
 Quando lanci una granata puoi utilizzare il modificatore di Saggezza o Carisma, al posto di Forza, per determinare la gittata di lancio.
 
@@ -127,7 +127,7 @@ Quando determini la CD di: cariche esplosive, granate, mine, missili o razzi che
 
 Durante un riposo breve o lungo puoi creare 2 granate. Devi possedere un kit da demolitore per creare queste granate. Queste granate possono essere utilizzate solamente da te e perdono potenza al termine del tuo prossimo riposo breve o lungo.
 
-Queste granate possono essere programmate per esplodere all'impatto oppure con un timer che le fa esplodere in posizione 20 dell'iniziativa. 
+Queste granate possono essere programmate per esplodere all'impatto oppure con un timer che le fa esplodere in posizione 20 dell'iniziativa.
 
 Con un'azione puoi preparare e tirare una di queste granate in un punto che puoi vedere, situato entro 9m + il tuo modificatore di Forza x 1.5.
 
@@ -180,7 +180,7 @@ Quando una creatura fallisce il tiro salvezza derivante dal privilegio [Detonato
 
 Impari il potere della forza Lanciare la Spada (Saber Throw). Questo potere non conta nel massimo dei poteri conosciuti.
 
-Inoltre, non subisci piu' svantaggio ai tiri per colpire effettuati contro nemici che si trovano a 1.5m da te e puoi utilizzare l'opzione [Doppio Attacco](./Sentinella.md#doppio-attacco) quando lanci il potere con la tua azione e colpisci un nemico. 
+Inoltre, non subisci piu' svantaggio ai tiri per colpire effettuati contro nemici che si trovano a 1.5m da te e puoi utilizzare l'opzione [Doppio Attacco](./Sentinella.md#doppio-attacco) quando lanci il potere con la tua azione e colpisci un nemico.
 
 Quando colpisci una creatura con il potere della forza, infliggi danni aggiuntivi pari a meta' del tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1), qualora non fosse gia' incluso nei danni.
 
@@ -222,6 +222,6 @@ Effettui un attacco della forza a distanza, se colpisci l'attacco infligge danni
 
 **Livello:** 18
 
-Con un'azione puoi controllare la tua Lama della Forza telecineticamente e farle attaccare un numero di creature, entro 3m da te, spendendo 1 punto forza per ogni bersaglio. 
+Con un'azione puoi controllare la tua Lama della Forza telecineticamente e farle attaccare un numero di creature, entro 3m da te, spendendo 1 punto forza per ogni bersaglio.
 
 Ogni bersaglio deve effettuare un tiro salvezza su Destrezza (CD = 8 + il bonus che applichi ai tiri per colpire con le armi). Chi fallisce la prova subisce danni pari al tuo dadi di Combattimento Cinetico + 1/2 del tuo livello da sentinella, viene spinto indietro di 3m e cade a terra prono.

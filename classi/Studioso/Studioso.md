@@ -1,8 +1,11 @@
+# Studioso
+
 - [Studioso](#studioso)
   - [Privilegi di Classe](#privilegi-di-classe)
-    - [**Punti Ferita**](#punti-ferita)
-    - [**Competenze**](#competenze)
-    - [**Equipaggiamento**](#equipaggiamento)
+    - [Punti Ferita](#punti-ferita)
+    - [Competenze](#competenze)
+    - [Equipaggiamento](#equipaggiamento)
+      - [Variante: ricchezza iniziale](#variante-ricchezza-iniziale)
     - [Superiorita' Accademica](#superiorita-accademica)
       - [Manovre Conosciute](#manovre-conosciute)
       - [Dadi di Superiorita'](#dadi-di-superiorita)
@@ -18,12 +21,7 @@
     - [Intellettuale Adattabile](#intellettuale-adattabile)
     - [Conoscenza Illimitata](#conoscenza-illimitata)
 
-</br>
-</br>
-
-# Studioso
-
-![](scholar_01.png)
+![studioso](scholar_01.png)
 
 |Livello|Bonus di Competenza|Privilegi|Manovre Conosciute|Q.ta Dadi di Superiorita'|Valore Dadi di Superiorita'|Scoperte
 |---|---|---|---|---|---|---
@@ -49,8 +47,10 @@
 |20|+6|Conoscenza Illimitata|24|12|d12|9
 
 ## Privilegi di Classe
+
 ---
-### **Punti Ferita**
+
+### Punti Ferita
 
 **Dadi Vita:** 1d8 per livello
 
@@ -60,7 +60,7 @@
 
 ---
 
-### **Competenze**
+### Competenze
 
 **Armature:** armature leggere
 
@@ -74,15 +74,16 @@
 
 ---
 
-### **Equipaggiamento**
+### Equipaggiamento
+
 - (a) 1 vibro-arma semplice | (b) 1 blaster semplice e 2 batterie
 - (a) 1 dotazione da intrattenitore | (b) 1 dotazione da esploratore | (c) 1 dotazione da studioso
 - 1 strumento nel quale sei competente
 - 1 armatura da combattimento
 
+#### Variante: ricchezza iniziale
 
-**Variante: ricchezza iniziale**
-<p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:</p>
+Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:
 
 |Classe|Fondi
 |---|---
@@ -91,11 +92,13 @@
 ---
 
 ### Superiorita' Accademica
+
 **Livello:** 1
 
 cegli una delle manovre indicate in [questa sezione](../Guerriero/Manovre.md#manovre).
 
 #### Manovre Conosciute
+
 Impari una manovra a scelta piu' delle manovre aggiuntive come elencato nella colonna Manovre Conosciute della tabella dello studioso.
 
 Puoi utilizzare una manovra per attacco e non puoi usare la stessa manovra piu' di una volta per turno.
@@ -103,6 +106,7 @@ Puoi utilizzare una manovra per attacco e non puoi usare la stessa manovra piu' 
 Ogni volta che impari una nuova manovra puoi decidere di rimpiazzarne una che gia' conosci con un'altra.
 
 #### Dadi di Superiorita'
+
 Hai 3 dadi di superiorita', rappresentati dal d4. Ai livelli superiori guadagni utilizzi ulteriori del dado ed il tipo di dado andra' ad aumentare, come elencato nelle colonne Q.ta Dadi di Superiorita' e Valore Dadi di Superiorita' della tabella dello studioso.
 
 Una volta che un dado di superiorita' viene tirato, e' perduto.
@@ -110,6 +114,7 @@ Una volta che un dado di superiorita' viene tirato, e' perduto.
 Recuperi gli utilizzi spesi completando un riposo breve o lungo.
 
 #### Caratteristica di Manovra
+
 La caratteristica della manovra cambia a seconda della manovra che stai utilizzando.
 
 Utilizzi Forza, Destrezza o Costituzione (scegli tu) per le manovre fisiche, Intelligenza, Saggezza o Carisma (scegli tu) per le manovre mentali ed una caratteristica a scelta per le manovre generiche.
@@ -121,21 +126,22 @@ Inoltre, utilizzi quel modificatore per il calcolo delle CD della manovra che st
 **CD del tiro salvezza della manovra:** 8 + bonus di competenza + caratteristica di manovra
 
 ### Analisi Critica
+
 **Livello:** 1
 
 Con 1 azione bonus, nel tuo turno, puoi analizzare una creatura che puoi vedere, entro 18m da te. Per il prossimo minuto, o finche' non analizzi un'altra creatura, ottieni i seguenti benefici:
+
 - Se analizzi un nemico, i tuoi tiri per colpire ed i tuoi tiri peri danni, effettuati con armi che hanno la proprieta' affilata o con i blaster, puoi utilizzare il tuo modificatore di Analisi Critica (Intelligenza) anziche' Forza o Destrezza. Devi utilizzare lo stesso modificatore per entrambi i tiri.
 - Se analizzi un alleato, il bersaglio puo' far terminare la tua Analisi Critica su di esso (non e' un'azione) ed aggiungere il tuo modficatore di Analisi Critica (Intelligenza) come bonus in uno dei seguenti modi:
-    
-    - tiro per colpire
-    - prova di abilita'
-    - tiro salvezza
 
-    <p>
+  - tiro per colpire
+  - prova di abilita'
+  - tiro salvezza
 
-    Una volta che la creatura ha beneficiato di questo bonus, non puo' piu' riceverne gli effetti finche' non completa un riposo breve o lungo.
+  Una volta che la creatura ha beneficiato di questo bonus, non puo' piu' riceverne gli effetti finche' non completa un riposo breve o lungo.
 
 ### Scoperta
+
 **Livello:** 2
 
 Scegli 2 scoperte, a piacere, presenti in [questa sezione](./Scoperte.md).
@@ -145,6 +151,7 @@ Scegli scoperte aggiuntive all'aumentare del livello da studioso, come indicato 
 Inoltre, quando guadagni un livello in questa classe, puoi decidere una delle scoperte che conosci e sostituirla con un'altra scoperta che potresti imparare a quel livello.
 
 ### Consiglio del Saggio
+
 **Livello:** 2 e 13
 
 Puoi spendere 1 minuto per divulgare le tue conoscenze ed esperienze a chi ti circonda. Quando lo fai, scegli un'abilita' od uno strumento nei quali sei competente e scegli un numero di alleati fino ad un massimo del tuo modificatore di Intelligenza, entro 9m da te, che possono sentirti e capirti.
@@ -158,6 +165,7 @@ Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo lung
 Dal livello 13, puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.
 
 ### Maestria
+
 **Livello:** 3 e 10
 
 Scegli 2 abilita' nelle quali sei competente od 1 abilita' ed 1 strumento oppure 2 strumenti. Ottieni maestria nelle abilita' o negli strumenti scelti.
@@ -165,24 +173,27 @@ Scegli 2 abilita' nelle quali sei competente od 1 abilita' ed 1 strumento oppure
 Al livello 10 puoi scegliere 2 competenza aggiuntive (abilita' o strumenti) ed applicarne i benefici di maestria
 
 ### Ricerca Accademica
+
 **Livello:** 3, 6, 9 e 17
 
 Scegli 1 ricerca tra quelle elencate in [questa sezione](./Ricerche%20Accademiche.md)
 
 ### Aumento dei Punteggi Caratteristica
+
 **Livello:** 4, 8, 12, 16 e 19
 
 Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio
 
 ### Multitasker
+
 **Livello:** 5
 
 Puoi effettuare una seconda reazione per round
 
 Inoltre, quando un alleato che puoi vedere e che puo' sentirti viene obbligato ad effettuare un tiro salvezza, puoi utilizzare la tua reazione per bersagliarlo con il tuo privilegio di [Analisi Critica](#analisi-critica).
 
-
 ### Riprendere il Controllo
+
 **Livello:** 14 e 17
 
 Quando effettui un tiro salvezza causato da un effetto che sei in grado di vedere, puoi ottenere un bonus al tiro salvezza pari al tuo modificatore di Intelligenza.
@@ -192,11 +203,13 @@ Puoi utilizzare questo privilegio 5 volte ed ottieni 1 utilizzo agiuntivo al liv
 Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
 
 ### Intellettuale Adattabile
+
 **Livello:** 18
 
 Al termine di un riposo lungo puoi scegliere una delle scoperte che conosci e cambiarla con un'altra scoperta che potresti imparare a quel livello.
 
 ### Conoscenza Illimitata
+
 **Livello:** 20
 
 Il punteggio di Intelligenza aumenta di 4 ed il punteggio massimo della caratteristica aumenta di 4.

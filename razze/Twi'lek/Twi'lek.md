@@ -1,9 +1,10 @@
 # Twi'lek
 
-![](species_twilek.png)
+![twilek](species_twilek.png)
 
 ## Tratti dei Twi'lek
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Carisma aumenta di 2 e la Destrezza aumenta di 1
 |Eta'|I twi'lek raggiungono la maturita' intorno ai 18 anni e vivono per circa meno di un secolo

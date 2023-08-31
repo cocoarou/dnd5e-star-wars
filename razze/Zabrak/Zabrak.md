@@ -1,9 +1,10 @@
 # Zabrak
 
-![](species_zabrak.png)
+![zabrak](species_zabrak.png)
 
 ## Tratti degli Zabrak
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Costituzione aumenta di 2 e la Forza o la Destrezza di 1
 |Eta'|I zabrak raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo

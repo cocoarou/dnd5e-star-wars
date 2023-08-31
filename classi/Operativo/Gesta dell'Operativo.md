@@ -14,35 +14,43 @@
   - [Gesta del Maestro d'Armi](#gesta-del-maestro-darmi)
 
 ## Gesta del Comandante
+
 Ottieni competenza nelle armature medie
 
 ## Gesta dell'Esploratore
+
 Puoi trattenere il respiro per il doppio del tempo e subisci la meta' dei danni da caduta
 
 ## Gesta del Fato
+
 **Prerequisito:** livello 7
 
-Al termine di un riposo breve o lungo tira 1d20 ed appuntati il risultato. Una volta, prima del prossimo riposo breve o lungo, puoi sostituire qualsiasi tiro per colpire, tiro salvezza o prova di abilita' che effettui tu, od una creatura entro 1.5m da te, con il tiro hai segnato in precedenza. 
+Al termine di un riposo breve o lungo tira 1d20 ed appuntati il risultato. Una volta, prima del prossimo riposo breve o lungo, puoi sostituire qualsiasi tiro per colpire, tiro salvezza o prova di abilita' che effettui tu, od una creatura entro 1.5m da te, con il tiro hai segnato in precedenza.
 
 Devi scegliere se applicare il risultato prima che venga effettuato il tiro.
 
 ## Gesta del Guerriero
+
 Scegli 1 stile di combattimento da [questa lista](../Guerriero/Stili%20di%20Combattimento.md#stili-di-combattimento)
 
 ## Gesta della Liberta'
+
 Ignori i malus del terreno difficile non potenziato e quando utilizzeresti la tua azione standard per liberarti da un effetto che ti tiene in lotta o ti trattiene, puoi utilizzare la tua azione bonus
 
 ## Gesta della Guerriglia
+
 Ti bastano 3 ore (invece di 6) per completare un riposo lungo. Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto.
 
 Ottieni vantaggio nei tiri salvezza contro l'esaurimento.
 
 ## Gesta dello Studente
+
 Ottieni competenza in 1 abilita' ed 1 strumento od in 2 strumenti
 
 Puoi selezionare queste gesta piu' volte, ogni volta scegliendo abilita' o strumenti diversi
 
 ## Gesta del Mentore
+
 **Prerequisito:** livello 13
 
 Una volta per turno, quando sia tu che un alleato, entro 18m e che puo' vederti e sentirti, effettuereste un tiro salvezza contro lo stesso effetto, puoi scegliere di subire svantaggio alla prova. Se lo fai, l'alleato ottiene vantaggio al tiro salvezza.
@@ -50,6 +58,7 @@ Una volta per turno, quando sia tu che un alleato, entro 18m e che puo' vederti 
 Puoi decidere di utilizzare questo privilegio anche dopo che entrambia abbiate effettuato il tiro, ma prima che il Dungeon Master abbia riferito se la prova sia fallita o meno
 
 ## Gesta delle Abilita'
+
 Queste gesta possono essere selezionate piu' volte.
 
 Quando effettui l'azione di Attacco, puoi utilizzare una delle gesta delle abilita' fornite da questo privilegio.
@@ -80,11 +89,13 @@ Scegli tra le opzioni seguenti. Devi avere competenza nell'abilita' per selezion
 - **Contesa (Atletica):** cerchi di afferrare e piantare a terra una creatura entro 1.5m da te, che abbia almeno una mano libera. Il bersaglio deve essere massimo di una taglia superiore alla tua. Effettua una prova di Forza(Atletica) contro una prova di Forza(Atletica) o Destrezza(Acrobatica) del bersaglio (sceglie lui quale prova effettuare). Se l'esito della prova va a buon fine, il bersaglio e' considerato preso in lotta e trattenuto da te. Se la prova di lotta termina, smette anche di essere considerato trattenuto. Se l'esito della prova fallisce, non puoi utilizzare nuovamente questo privilegio sulla stessa creatura per 1 ora.
 
 ## Gesta Tecnologiche
+
 Impari e puoi lanciare 1 potere tecnologico di livello 1, una volta per riposo lungo. Il tuo modificatore di tecno-lancio e' Intelligenza. Per poter lanciare questo potere hai bisogno di un computerino da polso.
 
 Puoi scegliere queste gesta piu' volte. Ogni volta devi scegliere un potere differente.
 
 ## Gesta del Maestro d'Armi
+
 Ottieni competenza nell'utilizzo di 3 balster o vibro-armi che non hanno le proprieta' pesante e Forza.
 
 Puoi scegliere queste gesta piu' volte. Ogni volta devi scegliere armi differenti.

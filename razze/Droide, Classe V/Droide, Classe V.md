@@ -1,9 +1,10 @@
 # Droide, Classe V
 
-![](species_droidclass05.png)
+![droide_classe_V](species_droidclass05.png)
 
 ## Tratti del Droide, Classe V
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Forza aumenta di 2 e la Destrezza o Costituzione aumentano di 1
 |Eta'|I droidi non invecchiano, ma hanno bisogno di manutenzione per continuare a funzionare

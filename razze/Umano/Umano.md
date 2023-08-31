@@ -1,9 +1,10 @@
 # Umano
 
-![](species_human.png)
+![umano](species_human.png)
 
 ## Tratti degli Umani
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Un punteggio abilita' a scelta aumenta di 2 e due altri punteggi a scelta aumentano di 1. Alternativamente, 4 punteggi abilita' aumentano di 1 ciascuno.
 |Eta'|Gli umani raggiungono la maturita' intorno ai 18 anni e vivono circa per meno di un secolo

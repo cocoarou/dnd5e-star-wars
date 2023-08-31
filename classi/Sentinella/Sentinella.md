@@ -1,5 +1,31 @@
 # Sentinella
 
+- [Sentinella](#sentinella)
+  - [Privilegi di Classe](#privilegi-di-classe)
+    - [Punti Ferita](#punti-ferita)
+    - [Competenze](#competenze)
+    - [Equipaggiamento](#equipaggiamento)
+      - [Variante: ricchezza iniziale](#variante-ricchezza-iniziale)
+    - [Forza-lanci](#forza-lanci)
+    - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
+    - [Punti Forza](#punti-forza)
+    - [Livello Massimo del Potere](#livello-massimo-del-potere)
+    - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
+    - [Guidato dalla Forza](#guidato-dalla-forza)
+    - [Corpo Potenziato dalla Forza](#corpo-potenziato-dalla-forza)
+      - [Deflettere](#deflettere)
+      - [Doppio Attacco](#doppio-attacco)
+      - [Rallentare il Tempo](#rallentare-il-tempo)
+    - [Ideali della Sentinella](#ideali-della-sentinella)
+    - [Vocazione della Sentinella](#vocazione-della-sentinella)
+    - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
+    - [Attacco Extra](#attacco-extra)
+    - [Pronto alla Battaglia](#pronto-alla-battaglia)
+    - [Elusione Illuminata](#elusione-illuminata)
+    - [Centro della Forza](#centro-della-forza)
+
+![sentinella](sentinel_01.png)
+
 |Livello|Bonus di Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Forza|Livello Massimo del Potere|Combattimento Cinetico|Ideali Conosciuti|Manifestazioni degli Ideali
 |---|---|---|---|---|---|---|---|---
 |1|+2|Forza-Lancio, Guidato dalla Forza|7|3|1|-|-|-
@@ -27,7 +53,7 @@
 
 ---
 
-### **Punti Ferita**
+### Punti Ferita
 
 **Dadi Vita:** 1d8 per livello
 
@@ -37,7 +63,7 @@
 
 ---
 
-### **Competenze**
+### Competenze
 
 **Armature:** leggere
 
@@ -51,16 +77,16 @@
 
 ---
 
-### **Equipaggiamento**
+### Equipaggiamento
 
 - (a) 2 armi-laser o vibro-armi semplici | 1 arma-laser o vibro-arma nella quale sei competente
 - (a) 1 dotazione da avventuriero | 1 dotazione da esploratore
 - 1 strumento da specialista nel quale sei competente
 - 1 armatura da combattimento ed uno scudo leggero
 
-**Variante: ricchezza iniziale**
+#### Variante: ricchezza iniziale
 
-<p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:</p>
+Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:
 
 |Classe|Fondi
 |---|---
@@ -82,7 +108,7 @@ Possiedi un numero di punti forza pari al tuo livello da sentinella x 3 (come in
 
 ### Livello Massimo del Potere
 
-Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella. 
+Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
 
 Puoi lanciare dei poteri di livello 5, 6 e 7 solamente una volta ogni riposo lungo.
 

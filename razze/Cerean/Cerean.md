@@ -1,8 +1,10 @@
 # Cerean
-![](./species_cerean.png)
+
+![cerean](./species_cerean.png)
 
 ## Tratti dei Cerean
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Intelligenza aumenta di 2 e la Saggezza aumenta di 1
 |Eta'|I cerean raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo.

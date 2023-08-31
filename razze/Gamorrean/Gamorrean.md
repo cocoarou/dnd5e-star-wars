@@ -1,9 +1,10 @@
 # Gamorrean
 
-![](species_gamorrean.png)
+![gamorrean](species_gamorrean.png)
 
 ## Tratti dei Gamorrean
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Forza aumenta di 2 e la Costituzione di 1
 |Eta'|I gamorrean raggiungono la maturita' intorno ai 13 anni e vivono fino a circa 70 anni

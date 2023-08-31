@@ -1,9 +1,10 @@
 # Trandoshan
 
-![](species_trandoshan%20(2).png)
+![trandoshan](species_trandoshan%20(2).png)
 
 ## Tratti dei Trandoshan
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Forza aumenta di 2 e la Saggezza aumenta di 1
 |Eta'|I trandoshan raggiungono la maturita' intorno ai 13 anni e vivono fino a circa 70 anni

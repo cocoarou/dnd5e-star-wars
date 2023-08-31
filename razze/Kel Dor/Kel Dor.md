@@ -1,9 +1,10 @@
 # Kel Dor
 
-![](species_keldor.png)
+![keldor](species_keldor.png)
 
 ## Tratti dei Kel Dor
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Saggezza aumenta di 2 e la Destrezza di 1
 |Eta'|I kel dor raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo

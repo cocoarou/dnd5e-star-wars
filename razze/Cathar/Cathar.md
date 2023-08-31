@@ -1,8 +1,10 @@
 # Cathar
-![](./species_cathar.png)
+
+![cathar](./species_cathar.png)
 
 ## Tratti dei Cathar
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Destrezza aumenta di 2 ed il Carisma aumenta di 1
 |Eta'|I cathar raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo.

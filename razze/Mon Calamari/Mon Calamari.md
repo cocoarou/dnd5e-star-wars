@@ -1,9 +1,10 @@
 # Mon Calamari
 
-![](species_moncalamari.png)
+![moncalamari](species_moncalamari.png)
 
 ## Tratti dei Mon Calamari
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Carisma aumenta di 2 e l'Intelligenza o la Saggezza aumentano di 1
 |Eta'|I mon calamari raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo

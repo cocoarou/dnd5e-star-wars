@@ -1,9 +1,10 @@
 # Nautolan
 
-![](species_nautolan.png)
+![nautolan](species_nautolan.png)
 
 ## Tratti dei Nautolan
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Destrezza aumenta di 2 e la Saggezza aumenta di 1
 |Eta'|I nautolan raggiungono la maturita' intorno ai 13 anni e vivono fino a circa 70 anni

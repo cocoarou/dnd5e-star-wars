@@ -1,11 +1,13 @@
+# Bith
+
 - [Bith](#bith)
   - [Tratti dei bith](#tratti-dei-bith)
 
-# Bith
-![](./species_bith.png)
+![bith](./species_bith.png)
 
 ## Tratti dei bith
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Intelligenza aumenta di 2 e la Destrezza aumenta di 1
 |Eta'|I bith raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo

@@ -19,7 +19,7 @@
   - [Esploratore](#esploratore)
   - [Resistente](#resistente)
   - [Empatico](#empatico)
-  - [Intrattenitore](#intrattenitore)
+  - [Musicista](#musicista)
   - [Fanatico](#fanatico)
   - [Finta Sicurezza di Se'](#finta-sicurezza-di-se)
   - [Maestro del Combattimento](#maestro-del-combattimento)
@@ -44,7 +44,7 @@
   - [Naturalista](#naturalista)
   - [Perspicace](#perspicace)
   - [Percettivo](#percettivo)
-  - [Intrattenitore](#intrattenitore-1)
+  - [Intrattenitore](#intrattenitore)
   - [Adepto del Potere](#adepto-del-potere)
   - [Incanalare il Potere](#incanalare-il-potere)
   - [Esperto](#esperto)
@@ -104,7 +104,7 @@
 - se gia' eri competente nelle armature leggere quando hai scelto questo talento, ottieni anche competenza nelle armature medie. Se gia' eri competente nelle armature medie, invece, quando indossi armature medie puoi aggiungere 3 anziche' 2 alla tua CA se hai un punteggio di Destrezza pari a 16 o piu', ignorando anche la proprieta' ingombrante dell'armatura media
 - se gia' eri competente nelle armature medie quando hai scelto questo talento, ottieni anche competenza nelle armature pesanti. Se eri gia' competente nelle armature pesanti, invece, mentre indossi un'armatura pesante i colpi critici contro effettuati contro di te vengono trattati come colpi normali
 
-## Atleta 
+## Atleta
 
 - aumenta il tuo punteggio di Forza o Destrezza di 1, fino ad un massimo di 20
 - quando sei a terra prono, rialzarti utilizza solamente 1.5m del tuo movimento
@@ -189,7 +189,7 @@ Puoi scegliere questo talento piu' volte, scegliendo uno strumento diverso ogni 
 - ottieni competenza nell'abilita' di Intuizione. Se gia' sei competente nell'abilita' ottieni, invece, maestria
 - puoi utilizzare la tua azione per provare ad ottenere delle informazioni verso un umanoide che puoi vedere, entro 9m da te. Effettua una prova di Saggezza (Intuizione) contro una prova di Carisma (Inganno) del bersaglio. Se superi la prova, ottieni vantaggio nei tiri per colpire e prove di abilita' effettuate contro il bersaglio, fino alla fine del tuo prossimo turno
 
-## Intrattenitore
+## Musicista
 
 Scegli uno strumento musicale.
 
@@ -309,9 +309,9 @@ Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora 
 - aumenta il tuo punteggio di Intelligenza di 1, fino ad un massimo di 20
 - impari 3 linguaggi a scelta
 - puoi creare, abilmente, messaggi scritti cifrati. Possono decifrare il codice:
-   - persone alle quali hai insegnato come funziona il messaggio cifrato
-   - chi supera una prova di Intelligenza contro la tua CD (CD = il tuo punteggio di Intelligenza + il tuo bonus di competenza)
-   - chi utilizza un potere per decifrare il codice
+  - persone alle quali hai insegnato come funziona il messaggio cifrato
+  - chi supera una prova di Intelligenza contro la tua CD (CD = il tuo punteggio di Intelligenza + il tuo bonus di competenza)
+  - chi utilizza un potere per decifrare il codice
 
 ## Maestro del Sapere
 
@@ -386,8 +386,6 @@ Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora 
   - elettricita'
   - necrotici
   
-<p>
-
 - i poteri che lanci ignorano la resistenza al tipo di danno scelto. Inoltre, per i tiri per i danni dei poteri che infliggono lo stesso tipo di danno scelto, consideri ogni 1 come se fosse, invece, uscito 2 dal tiro di dado
 
 - puoi scegliere questo talento piu' volte, scegliendo un tipo di danno diverso ogni volta

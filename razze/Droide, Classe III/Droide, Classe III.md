@@ -1,9 +1,10 @@
 # Droide, Classe III
 
-![](species_droidclas03_01.png)
+![droide_classe_III](species_droidclas03_01.png)
 
 ## Tratti del Droide, Classe III
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Carisma aumenta di 2 ed Intelligenza o Saggezza aumentano di 1
 |Eta'|I droidi non invecchiano, ma hanno bisogno di manutenzione per continuare a funzionare

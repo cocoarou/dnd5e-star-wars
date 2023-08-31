@@ -1,9 +1,10 @@
 # Ewok
 
-![](species_ewok.png)
+![ewok](species_ewok.png)
 
 ## Tratti degli Ewok
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Destrezza aumenta di 2 e la Costituzione aumenta di 1
 |Eta'|Gli ewok raggiungono la maturita' intorno ai 13 anni e vivono fino a circa 50 anni

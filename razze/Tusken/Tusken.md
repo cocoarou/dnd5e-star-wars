@@ -1,9 +1,10 @@
 # Tusken
 
-![](species_tusken.png)
+![tusken](species_tusken.png)
 
 ## Tratti dei Tusken
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Costituzione aumenta di 2 e la Forza od il Carisma aumentano di 1
 |Eta'|I tusken sono considerati adulti a 15 anni. Per colpa del clima ostile del loro mondo d'origine raramente vivono per piu' di meta' secolo

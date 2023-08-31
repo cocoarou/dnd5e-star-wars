@@ -1,7 +1,8 @@
 # Droide, Classe IV
 
-![](species_droidclass04.png)
-|||
+![droide_classe_IV](species_droidclass04.png)
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Costituzione aumenta di 2 e Forza o Destrezza aumentano di 1
 |Eta'|I droidi non invecchiano, ma hanno bisogno di manutenzione per continuare a funzionare

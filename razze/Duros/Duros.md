@@ -1,9 +1,10 @@
 # Duros
 
-![](species_duros.png)
+![duros](species_duros.png)
 
 ## Tratti dei Duros
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Destrezza aumenta di 2 e l'Intelligenza aumenta di 1
 |Eta'|I duros raggiungono la maturita' intorno ai 20 anni e vivono fino a circa 150 anni

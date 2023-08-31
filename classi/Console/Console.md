@@ -1,8 +1,11 @@
+# Console
+
 - [Console](#console)
   - [Privilegi di Classe](#privilegi-di-classe)
-    - [**Punti Ferita**](#punti-ferita)
-    - [**Competenze**](#competenze)
-    - [**Equipaggiamento**](#equipaggiamento)
+    - [Punti Ferita](#punti-ferita)
+    - [Competenze](#competenze)
+    - [Equipaggiamento](#equipaggiamento)
+      - [Variante: ricchezza iniziale](#variante-ricchezza-iniziale)
     - [Forza-lancio](#forza-lancio)
     - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
     - [Punti Forza](#punti-forza)
@@ -16,12 +19,7 @@
     - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
     - [Tutt'uno con la Forza](#tuttuno-con-la-forza)
 
-</br>
-</br>
-
-# Console
-
-![](consular_01.png)
+![console](consular_01.png)
 
 |Livello|Bonus Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Forza|Livello Massimo del Potere|Opzioni di Forza-lancio Potenziato
 |---|---|---|---|---|---|---
@@ -50,7 +48,7 @@
 
 ---
 
-### **Punti Ferita**
+### Punti Ferita
 
 **Dadi Vita:** 1d6 per livello
 
@@ -60,7 +58,7 @@
 
 ---
 
-### **Competenze**
+### Competenze
 
 **Armature:** nessuna
 
@@ -74,14 +72,14 @@
 
 ---
 
-### **Equipaggiamento**
+### Equipaggiamento
 
 - (a) 1 arma-laser semplice | (b) 1 vibro-arma semplice
 - (a) 1 dotazione da studioso | (b) 1 dotazione da esploratore | (c) 1 dotazione da diplomatico
 
-**Variante: ricchezza iniziale**
+#### Variante: ricchezza iniziale
 
-<p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:</p>
+Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:
 
 |Classe|Fondi
 |---|---
@@ -90,20 +88,25 @@
 ---
 
 ### Forza-lancio
+
 Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la lista dei poteri della forza.
 
 ### Poteri della Forza Conosciuti
+
 Impari 9 poteri della forza a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti.
 
 ### Punti Forza
+
 Possiedi un numero di punti forza pari al tuo livello da console x 4 (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti forza per lanciare i poteri della forza. Recuperi tutti i punti forza spesi quando completi un riposo lungo.
 
 ### Livello Massimo del Potere
-Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella. 
+
+Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
 
 Puoi lanciare dei poteri di livello 6, 7, 8 e 9 solamente una volta ogni riposo lungo.
 
 ### Caratteristica da forza-lancio
+
 Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri del lato oscuro della forza e Carisma o Saggezza per i poteri universali (scegli tu). Utilizzi questa abilita' ogni volta che un potere fa riferimento alla caratteristica da forza-lancio. Inoltre utilizzi questo modificatore quando devi determinare la CD dei tiri salvezza dei poteri della forza che lanci e quando effettui un attacco con un potere della forza.
 
 **CD del tiro salvezza della forza:** 8 + bonus di competenza + il tuo modificatore di forza-lancio
@@ -111,16 +114,19 @@ Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri
 **Modificatore di attacco della forza:** bonus di competenza + il tuo modificatore di forza-lancio
 
 ### Recupero della Forza
+
 Quando completi un riposo breve puoi scegliere di recuperare un numero di punti forza pari a meta' del tuo livello da console + il modificatore di Saggezza o Carisma (scegli tu, minimo 1).
 
 Puoi riutilizzare questo privilegio dopo aver completato un riposo lungo
 
 ### Forza-lancio Potenziato
+
 Quando lanci un potere della forza puoi spendere punti forza addizionali per modificarlo. Ottieni 2 opzioni di forza-lancio potenziato, [dettagliate in questa sezione](./Forza-lancio%20Potenziato.md#forza-lancio-potenziato). Ai livelli successivi ne impari di ulteriori (come indicato nella colonna Opzioni di Forza-lancio Potenziato della tabella).
 
 Puoi solamente utilizzare 1 opzione di forza-lancio potenziato su un potere mentre lo lanci, almenoche' non sia elencato diversamente nella descrizione del potere.
 
 ### Scudo della Forza
+
 Quando vieni colpito da un attacco puoi utilizzare la tua reazione per ricoprirti di energia della forza. Fino all'inizio del tuo prossimo turno ottieni un bonus alla CA pari al tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1). Questo bonus si applica anche all'attacco che ha innescato questo privilegio.
 
 Puoi utilizzare questo privilegio 2 volte. Guadagni degli utilizzi aggiuntivi ai livelli: 5, 9, 13 e 17.
@@ -128,6 +134,7 @@ Puoi utilizzare questo privilegio 2 volte. Guadagni degli utilizzi aggiuntivi ai
 Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
 
 ### Affinita' alla Forza
+
 Scegli uno dei 3 aspetti della forza:
 
 - **Ashla:** quando lanci con successo un potere del lato chiaro della forza, i tuoi punti ferita massimi e punti ferita attuali o quelli del bersaglio del potere (scegli tu) aumentano di un ammontare pari al livello del potere. Questo effetto dura 1 minuto. Puoi avere attivo solamente uno di questi effetti alla volta.
@@ -135,12 +142,15 @@ Scegli uno dei 3 aspetti della forza:
 - **Bogan:** i tiri per i danni dei tuoi poteri del lato oscuro della forza ottengono una soglia minima del tiro.
 
 ### Tradizione Consolare
+
 Scegli una tradizione consolare dettagliata in [questa sezione](./Tradizioni%20Consolari.md#tradizioni-consolari).
 
 ### Aumento dei Punteggi Caratteristica
+
 Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio
 
 ### Tutt'uno con la Forza
+
 Il tuo punteggio di Saggezza o Carisma aumenta di 4 ed il punteggio massimo della caratteristica scelta aumenta di 4. Scegli un potere della vorza di livello 3 che conosci come il tuo potere simbolo. Puoi lanciarlo, una volta, al livello 3 senza spendere punti forza.
 
 Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.

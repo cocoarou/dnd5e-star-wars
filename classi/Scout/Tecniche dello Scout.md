@@ -2,7 +2,7 @@
 
 - [Tecniche dello Scout](#tecniche-dello-scout)
   - [Tecnica del Bastione](#tecnica-del-bastione)
-    - [Competenze Bonus](#competenze-bonus)
+    - [Competenze Bonus - Tecnica del Bastione](#competenze-bonus---tecnica-del-bastione)
     - [Barriera Personale](#barriera-personale)
     - [Marchio del Bastione](#marchio-del-bastione)
     - [Barriera Proiettata](#barriera-proiettata)
@@ -29,7 +29,7 @@
       - [Andare Controcorrente](#andare-controcorrente)
       - [Schivata Prodigiosa](#schivata-prodigiosa)
   - [Tecnica dell'Assassino](#tecnica-dellassassino)
-    - [Competenze Bonus](#competenze-bonus-1)
+    - [Competenze Bonus - Tecnica dell'Assassino](#competenze-bonus---tecnica-dellassassino)
     - [Orgoglio dell'Assassino](#orgoglio-dellassassino)
     - [Marchio dell'Assassino](#marchio-dellassassino)
     - [Difesa Sovrannaturale](#difesa-sovrannaturale)
@@ -44,7 +44,7 @@
 
 ## Tecnica del Bastione
 
-### Competenze Bonus
+### Competenze Bonus - Tecnica del Bastione
 
 **Livello:** 3
 
@@ -93,7 +93,7 @@ Crei una barriera protettiva, di forma sferica, con raggio 1.5m, in un punto che
 
 La sfera dura fino all'inizio del tuo prossimo turno.
 
-Le creature all'interno della barriera ricevono 3/4 di copertura dagli attacchi provenienti dal di fuori della barriera. 
+Le creature all'interno della barriera ricevono 3/4 di copertura dagli attacchi provenienti dal di fuori della barriera.
 
 Puoi mantenere attiva la barriera spendendo un punto ferita addizionale della [Barriera Personale](#barriera-personale) all'inizio di ogni tuo turno (non e' un'azione).
 
@@ -203,7 +203,7 @@ Quando un attaccante, che puoi vedere, ti colpisce con un attacco, puoi utilizza
 
 ## Tecnica dell'Assassino
 
-### Competenze Bonus
+### Competenze Bonus - Tecnica dell'Assassino
 
 Ottieni competenza nelle armature pesanti
 
@@ -239,9 +239,9 @@ Quando sei nascosto dal bersaglio della tua [Preda del Ranger](./Scout.md#preda-
 
 ### Occultamento
 
-Quando sei nell'oscurita', sei invisibile ad ogni creatura che utilizza la scurovisione per cercarti al buio. 
+Quando sei nell'oscurita', sei invisibile ad ogni creatura che utilizza la scurovisione per cercarti al buio.
 
-Inoltre, quando colpisci una creatura con un attacco a distanza con l'arma mentre sei nascosto, puoi obbligare quella creatura ad effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza tecnologico. Se fallisce la prova, la velocita' della creatura viene ridotta a 0 fino alla fine del tuo prossimo turno. 
+Inoltre, quando colpisci una creatura con un attacco a distanza con l'arma mentre sei nascosto, puoi obbligare quella creatura ad effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza tecnologico. Se fallisce la prova, la velocita' della creatura viene ridotta a 0 fino alla fine del tuo prossimo turno.
 
 Puoi utilizzare questo privilegio 3 volte. Ottieni degli utilizzi aggiuntivi ai livelli: 9, 13 e 17.
 

@@ -1,9 +1,10 @@
 # Droide, Classe II
 
-![](species_droidclass02_01.png)
+![droide_classe_II](species_droidclass02_01.png)
 
 ## Tratti del Droide, Classe II
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Intelligenza aumenta di 2 e la Destrezza o la Saggezza aumentano di 1
 |Eta'|I droidi non invecchiano, ma hanno bisogno di manutenzione per continuare a funzionare

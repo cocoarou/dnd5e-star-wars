@@ -1,9 +1,10 @@
 # Rodian
 
-![](species_rodian.png)
+![rodian](species_rodian.png)
 
 ## Tratti dei Rodian
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Destrezza aumenta di 2 e la Costituzione aumenta di 1
 |Eta'|I rodian raggiungono la maturita' intorno ai 18 anni e vivono per meno di un secolo

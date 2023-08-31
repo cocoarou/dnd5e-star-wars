@@ -378,7 +378,7 @@
 ## Investigare
 
 - Tipo: Generico
-- Prerequisito: competenza nelle prove di Indagare 
+- Prerequisito: competenza nelle prove di Indagare
 - Effetto: quando effettui una prova di Indagare puoi spendere 1 dado di superiorita' ed aggiungere il risultato alla prova. Puoi utilizzare il dato anche dopo aver effettuato il tiro per la prova, ma prima che il Dungeon Master riferisca se tu abbia fallito o meno.
 
 ## Attacco Lungo
@@ -589,7 +589,7 @@
 - Tipo: Generico
 - Prerequisito: competenza nelle prove di Persuasione
 - Azione: 1 azione standard
-- Effetto: puoi spendere 1 dado di superiorita' e conferire a tutti gli alleati che si trovano 1.5m da te, fino alla fine del tuo prossimo turno, un bonus ai tiri salvezza pari al risultato del dado di superiorita'. 
+- Effetto: puoi spendere 1 dado di superiorita' e conferire a tutti gli alleati che si trovano 1.5m da te, fino alla fine del tuo prossimo turno, un bonus ai tiri salvezza pari al risultato del dado di superiorita'.
 
 ## Colpo della Forza
 

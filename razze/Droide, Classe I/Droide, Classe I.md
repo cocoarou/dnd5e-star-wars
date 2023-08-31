@@ -1,9 +1,10 @@
 # Droide, Classe I
 
-![](species_droidclass01.png)
+![droide_classe_I](species_droidclass01.png)
 
 ## Tratti del Droide, Classe I
-|||
+
+|<!-- -->|<!-- -->
 |---|---
 |Aumento dei punteggi caratteristica|Il punteggio di Intelligenza aumenta di 2 e la Saggezza od il Carisma aumentano di 1
 |Eta'|I droidi non invecchiano, ma hanno bisogno di manutenzione per continuare a funzionare
