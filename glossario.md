@@ -1,3 +1,5 @@
+# Glossario
+
 - wristpad: computerino da polso
 - Potent Aptitude: Prontezza
 - vibropike: vibro-lancia
@@ -52,7 +54,8 @@
 - bulky: ingombrante
 - traumakit: kit da pronto soccorso
 
-# Condizioni
+## Condizioni
+
 - shocked: scioccato
 - restrained: trattenuto
 - incapacitated: incapacitato
