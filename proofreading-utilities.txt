@@ -1,1 +1,2 @@
+// regex per individuare parentesi alle quali manca lo spazio all'inizio (eliminando dall'equazione quelle che iniziano con parentesi quadra chiusa)
 (?<!\s|\])\(
