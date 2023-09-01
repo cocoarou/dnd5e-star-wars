@@ -53,6 +53,7 @@
 - unenhanced: non potenziato (controparte di SW di non magico/non magicamente)
 - bulky: ingombrante
 - traumakit: kit da pronto soccorso
+- slicer's kit: kit da riprogrammatore
 
 ## Condizioni
 
