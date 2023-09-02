@@ -4,6 +4,7 @@
   - [Agente (Agent)](#agente-agent)
   - [Cacciatore di Taglie (Bounty Hunter)](#cacciatore-di-taglie-bounty-hunter)
   - [Criminale (Criminal)](#criminale-criminal)
+  - [Intrattenitore (Entertainer)](#intrattenitore-entertainer)
 
 ## Agente (Agent)
 
@@ -118,3 +119,50 @@ Hai un contatto affidabile che funge da tramite con la rete di informazioni degl
 |6|[Specialista](../talenti/talenti.md#specialista-specialist)
 |7|[Finta Sicurezza di Se'](../talenti/talenti.md#finta-sicurezza-di-se-feigned-confidence)
 |8|[Perspicace](../talenti/talenti.md#perspicace-observant)
+
+## Intrattenitore (Entertainer)
+
+### Competenze nelle Abilita' <!-- omit in toc -->
+
+Scegli 2 tra: Acrobatica, Intuizione, Intrattenere e Rapidita' di Mano
+
+### Competenze negli Strumenti <!-- omit in toc -->
+
+Trucchi per il camuffamento, 1 tipo di strumento musicale
+
+### Equipaggiamento <!-- omit in toc -->
+
+1 strumento musicale (a scelta), il pegno di un ammiratore (lettera d'amore, ciocca di caplli od un gioiello), 1 costume ed una sacchetta legata alla cinta contenente 150 cr
+
+### Specialita' dell'Intrattenitore <!-- omit in toc -->
+
+|d10|Specialita' dell'Intrattenitore
+|---|---
+|1|Attore
+|2|Ballerino
+|3|Mangia-fuoco
+|4|Giullare
+|5|Giocoliere
+|6|Strumentalista
+|7|Poeta
+|8|Cantante
+|9|Racconta Storie
+|10|Acrobata
+
+### Tratto: A Furor di Popolo <!-- omit in toc -->
+
+Riesci sempre a trovare un posto in cui esibirti, che sia una taverna, un bar, un circo, un teatro od un palazzo nobiliare. Ricevi sempre, in questi luoghi, vitto ed alloggio gratis con qualita' di comfort dipendenti dal posto in cui ti trovi (di solito si tratta di uno stato di comfort medio/alto), a patto che ti esibisca ogni notte. Inoltre, grazie alle tue esibizioni vieni riconosciuto come una figura locale famosa. Quando gli sconosciuti di riconoscono in una citta' nella quale ti sei esibito, tendono ad essere amichevoli nei tuoi confronti
+
+### Talento del Background <!-- omit in toc -->
+
+|d8|Talento
+|---|---
+|1|[Acrobata](../talenti/talenti.md#acrobata-acrobat)
+|2|[Empatico](../talenti/talenti.md#empatico-empathic)
+|3|[Intrattenitore](../talenti/talenti.md#intrattenitore-performer)
+|4|[Dita Veloci](../talenti/talenti.md#dita-veloci-quick-fingered)
+|5|[Specialista](../talenti/talenti.md#specialista-specialist)
+|6|[Musicista](../talenti/talenti.md#musicista-entertainer)
+|7|[Esperto](../talenti/talenti.md#esperto-practiced)
+|8|[Attore](../talenti/talenti.md#attore-actor)
+
