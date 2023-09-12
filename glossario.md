@@ -61,3 +61,18 @@
 - shocked: scioccato
 - restrained: trattenuto
 - incapacitated: incapacitato
+
+## Templates
+
+ <!-- omit in toc -->
+
+|d8|Talento
+|---|---
+|1|[](../talenti/talenti.md#)
+|2|[](../talenti/talenti.md#)
+|3|[](../talenti/talenti.md#)
+|4|[](../talenti/talenti.md#)
+|5|[](../talenti/talenti.md#)
+|6|[](../talenti/talenti.md#)
+|7|[](../talenti/talenti.md#)
+|8|[](../talenti/talenti.md#)
