@@ -9,8 +9,11 @@
   - [Giocatore d'Azzardo (Gambler)](#giocatore-dazzardo-gambler)
   - [Investigatore (Investigator)](#investigatore-investigator)
   - [Jedi](#jedi)
-    - [Talento del Background](#talento-del-background)
-  - [Mandalorian (Mandalorian)](#mandalorian-mandalorian)
+  - [Mandaloriano (Mandalorian)](#mandaloriano-mandalorian)
+  - [Mercenario (Mercenary)](#mercenario-mercenary)
+  - [Nobile (Noble)](#nobile-noble)
+  - [Nomade (Nomad)](#nomade-nomad)
+    - [Competenze](#competenze)
 
 ## Agente (Agent)
 
@@ -53,7 +56,7 @@ Questi agenti non rischiano mai la propria vita per te e cercano in tutti i modi
 
 Scegli 2 tra: Inganno, Intuizione, Persuasione e Furtivita'
 
-### Competenza negli Strumenti <!-- omit in toc -->
+### Competenze negli Strumenti <!-- omit in toc -->
 
 Scegli 1 tra: kit da demolizione, kit di sicurezza o kit da riprogrammatore
 
@@ -289,7 +292,7 @@ Essendo uno Jedi hai il rispetto di coloro che sono fedeli all'Ordine degli Jedi
 
 Potresti anche avere dei legami con un tempio Jedi specifico, nel quale hai residenza. Questo puo' essere il tempio in cui vieni allenato od un tempio nel quale hai trovato una nuova casa. Quando sei vicino al tuo tempio puoi chiedere aiuto agli Jedi a patto che le tue richieste non siano pericolose e che le relazioni con il tempio rimangano in buoni termini
 
-### Talento del Background
+### Talento del Background <!-- omit in toc -->
 
 |d8|Talento
 |---|---
@@ -302,5 +305,111 @@ Potresti anche avere dei legami con un tempio Jedi specifico, nel quale hai resi
 |7|[Dilettante negli Stili delle Spade Laser](../talenti/talenti.md#dilettante-negli-stili-delle-spade-laser-formfighting-dabbler)
 |8|[Sensitivo della Forza](../talenti/talenti.md#sensitivo-della-forza-force-sensitive)
 
-## Mandalorian (Mandalorian)
+## Mandaloriano (Mandalorian)
 
+### Competenze nelle Abilita' <!-- omit in toc -->
+
+Scegli 2 tra: Atletica, Intimidire, Guidare e Sopravvivenza
+
+### Competenze negli Strumenti <!-- omit in toc -->
+
+1 dotazione da artigiano
+
+### Linguaggi <!-- omit in toc -->
+
+Mando'a
+
+### Equipaggiamento <!-- omit in toc -->
+
+1 set di abiti da viaggio, 1 trofeo di una vittoria avvenuta in precedenza ed una sacchetta contenente 200 cr
+
+### Tratto: Figlio di Mandalore <!-- omit in toc -->
+
+Gli altri Mandaloriani hanno un occhio di riguardo verso te. Qualora avessi necessita' di vitto od allogio, gli altri Mandaloriani ti aiuteranno, salvo se in faida con il tuo clan. Questo aiuto puo' avvenire sotto forma di: rifugi, pasti o cure. Se i Mandaloriani fanno parte del tuo clan o di un clan alleato potrebbero addirittura offrire soccorso a loro spese
+
+### Talento del Background <!-- omit in toc -->
+
+|d8|Talento
+|---|---
+|1|[Nerboruto](../talenti/talenti.md#nerboruto-brawny)
+|2|[Imponente](../talenti/talenti.md#imponente-threatening)
+|3|[Asso nella Guida](../talenti/talenti.md#asso-nella-guida-ace-pilot)
+|4|[Survivalista](../talenti/talenti.md#survivalista-survivalist)
+|5|[Artigiano](../talenti/talenti.md#artigiano-crafter)
+|6|[Resistente](../talenti/talenti.md#resistente-durable)
+|7|[Esperto di Armi](../talenti/talenti.md#esperto-di-armi-weapon-expert)
+|8|[Atleta](../talenti/talenti.md#atleta-athlete)
+
+## Mercenario (Mercenary)
+
+### Competenze nelle Abilita' <!-- omit in toc -->
+
+Scegli 2 tra: Atletica, Investigare, Persuasione e Guidare
+
+### Competenze negli Strumenti <!-- omit in toc -->
+
+1 strumento da gioco
+
+### Linguaggi <!-- omit in toc -->
+
+1 a scelta
+
+### Equipaggiamento <!-- omit in toc -->
+
+1 uniforme della tua associazione (di qualita' pari ad abiti da viaggio), 1 adornamento riportante il tuo rango, 1 strumento da gioco (scegli tu) ed una sacchetta contenente la rimanenza del tuo ultimo stipendio (100 cr)
+
+### Tratto: Vita da Mercenario <!-- omit in toc -->
+
+Conosci la vita da mercenario come solo chi l'ha vissuta può fare. Sei in grado di identificare le associazioni di mercenari dai loro emblemi e sai qualcosa su qualsiasi compagnia del genere, inclusi i nomi e la reputazione dei suoi comandanti e leader, nonché chi li ha recentemente assunti. Puoi trovare le cantine e le sale da festa dove i mercenari risiedono in qualsiasi area, purché tu parli la lingua, e se trascorri almeno un'ora in un luogo del genere, puoi scoprire una delle seguenti informazioni: un'offerta di lavoro, un significativo pettegolezzo, un rinvio a un abile mercante, fabbro, ecc., o un suggerimento per perseguire la tua missione attuale. Inoltre, puoi trovare lavoro come mercenario tra un'avventura e l'altra sufficiente a mantenere uno stile di vita confortevole 
+
+### Talento del Background <!-- omit in toc -->
+
+|d8|Talento
+|---|---
+|1|[Nerboruto](../talenti/talenti.md#nerboruto-brawny)
+|2|[Investigatore](../talenti/talenti.md#investigatore-investigator)
+|3|[Ammaliatore](../talenti/talenti.md#ammaliatore-charmer)
+|4|[Asso nella Guida](../talenti/talenti.md#asso-nella-guida-ace-pilot)
+|5|[Concorrente](../talenti/talenti.md#concorrente-competitor)
+|6|[Linguista](../talenti/talenti.md#linguista-linguist)
+|7|[Esperto di Armi](../talenti/talenti.md#esperto-di-armi-weapon-expert)
+|8|[Resistente](../talenti/talenti.md#resistente-durable)
+
+## Nobile (Noble)
+
+### Competenze nelle Abilita' <!-- omit in toc -->
+
+Scegli 2 tra: Inganno, Intuizione, Storia e Persuasione
+
+### Competenze negli Strumenti <!-- omit in toc -->
+
+1 strumento da gioco
+
+### Linguaggi <!-- omit in toc -->
+
+1 a scelta
+
+### Equipaggiamento <!-- omit in toc -->
+
+1 set di abiti pregiati, 1 anello con sigillo, 1 lettera di pedigree ed 1 borsa contenente 250 cr
+
+### Tratto: Posizione Privilegiata <!-- omit in toc -->
+
+Sei benvenuto nelle sfere alte della societa' e puoi ottenere un'udienza con un nobile locale, qualora tu ne abbia bisogno. La gente comune fa ogni sforzo per accontentarti ed evitare il tuo dispiacere.
+
+### Talento del Background <!-- omit in toc -->
+
+|d8|Talento
+|---|---
+|1|[Parlantina](../talenti/talenti.md#parlantina-silver-tongued)
+|2|[Empatico](../talenti/talenti.md#empatico-empathic)
+|3|[Maestro del Sapere](../talenti/talenti.md#maestro-del-sapere-loremaster)
+|4|[Ammaliatore](../talenti/talenti.md#ammaliatore-charmer)
+|5|[Concorrente](../talenti/talenti.md#concorrente-competitor)
+|6|[Linguista](../talenti/talenti.md#linguista-linguist)
+|7|[Leader Carismatico](../talenti/talenti.md#leader-carismatico-inspiring-leader)
+|8|[Perspicace](../talenti/talenti.md#perspicace-observant)
+
+## Nomade (Nomad)
+
+### Competenze
