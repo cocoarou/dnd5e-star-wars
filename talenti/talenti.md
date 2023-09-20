@@ -39,7 +39,7 @@
   - [Maestro del Sapere (Loremaster)](#maestro-del-sapere-loremaster)
   - [Fortunato (Lucky)](#fortunato-lucky)
   - [Marinaio (Mariner)](#marinaio-mariner)
-  - [Medico (Medico)](#medico-medico)
+  - [Medico (Medic)](#medico-medic)
   - [Mobile (Mobile)](#mobile-mobile)
   - [Naturalista (Naturalist)](#naturalista-naturalist)
   - [Perspicace (Observant)](#perspicace-observant)
@@ -335,7 +335,7 @@ Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora 
 - ottieni vantaggio nelle prove di abilita' e tiri salvezza inerenti al nuotare
 - puoi trattenere il respiro sott'acqua per un numero di minuti pari a 1 + il doppio del tuo modificatore di Costituzione
 
-## Medico (Medico)
+## Medico (Medic)
 
 - aumenta il tuo punteggio di Saggezza di 1, fino ad un massimo di 20
 - ottieni competenza nell'abilita' Medicina. Se gia' sei competente nell'abilita' ottieni, invece, maestria

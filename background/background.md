@@ -13,7 +13,7 @@
   - [Mercenario (Mercenary)](#mercenario-mercenary)
   - [Nobile (Noble)](#nobile-noble)
   - [Nomade (Nomad)](#nomade-nomad)
-    - [Competenze](#competenze)
+  - [Criminale (Outlaw)](#criminale-outlaw)
 
 ## Agente (Agent)
 
@@ -412,4 +412,44 @@ Sei benvenuto nelle sfere alte della societa' e puoi ottenere un'udienza con un 
 
 ## Nomade (Nomad)
 
-### Competenze
+### Competenze nelle Abilita' <!-- omit in toc -->
+
+Scegli 2 tra: Addestrare Animali, Atletica, Medicina e Sopravvivenza
+
+### Competenze negli Strumenti <!-- omit in toc -->
+
+1 tipo di strumento musicale
+
+### Linguaggi <!-- omit in toc -->
+
+1 a scelta
+
+### Equipaggiamento <!-- omit in toc -->
+
+1 bastone da passeggio, 1 trappola per la caccia, 1 trofeo creato dai resti di un animale che hai ucciso, 1 set di abiti da viaggiatore ed una sacchetta legata alla cinta contenente 100 cr
+
+### Tratto: Viaggiatore <!-- omit in toc -->
+
+Hai una memoria eccellente per quanto riguarda mappe e la geografia, riesci sempre a ricordare la forma generale del terreno, degli accampamenti ed altri particolari intorno a te. Inoltre, sai trovare cibo ed acqua potabile per te e fino a 5 altre persone, al giorno, a patto che la zona nella quale ti trovi sia in grado di fornire tali nutrimenti
+
+### Talento del Background <!-- omit in toc -->
+
+|d8|Talento
+|---|---
+|1|[Addestratore di Animali](../talenti/talenti.md#addestratore-di-animali-animal-handler)
+|2|[Nerboruto](../talenti/talenti.md#nerboruto-brawny)
+|3|[Medico](../talenti/talenti.md#medico-medic)
+|4|[Survivalista](../talenti/talenti.md#survivalista-survivalist)
+|5|[Musicista](../talenti/talenti.md#musicista-entertainer)
+|6|[Linguista](../talenti/talenti.md#linguista-linguist)
+|7|[Esploratore](../talenti/talenti.md#esploratore-dungeon-delver)
+|8|[Perspicace](../talenti/talenti.md#perspicace-observant)
+
+## Criminale (Outlaw)
+
+### Competenze nelle Abilita' <!-- omit in toc -->
+
+Scegli 2 tra: Acrobatica, Atletica, Intuizione e Sopravvivenza
+
+### Competenze negli Strumenti <!-- omit in toc -->
+
