@@ -453,3 +453,30 @@ Scegli 2 tra: Acrobatica, Atletica, Intuizione e Sopravvivenza
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
+Trucchi per il camuffamento
+
+### Linguaggi <!-- omit in toc -->
+
+1 a scelta
+
+### Equipaggiamento <!-- omit in toc -->
+
+1 trappola per la caccia, 1 pentola di ferro, 1 set di abiti da viaggiatore, una sacchetta contenente 150 cr
+
+### Tratto: Famigerato <!-- omit in toc -->
+
+Sei in grado di trovare posti nei quali nasconderti o riposare tra la gente comune a patto che non ti sia mostrato come ostile nei loro confronti. Ti proteggeranno dalla legge o da qualsiasi persona che ti stia cercando, senza rischiare la propria vita per portare a termine queste azioni.
+
+### Talento del Background <!-- omit in toc -->
+
+|d8|Talento
+|---|---
+|1|[Acrobata](../talenti/talenti.md#acrobata-acrobat)
+|2|[Nerboruto](../talenti/talenti.md#nerboruto-brawny)
+|3|[Empatico](../talenti/talenti.md#empatico-empathic)
+|4|[Survivalista](../talenti/talenti.md#survivalista-survivalist)
+|5|[Specialista](../talenti/talenti.md#specialista-specialist)
+|6|[Linguista](../talenti/talenti.md#linguista-linguist)
+|7|[Allerta](../talenti/talenti.md#allerta-alert)
+|8|[Perspicace](../talenti/talenti.md#perspicace-observant)
+
