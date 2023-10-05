@@ -14,6 +14,7 @@
   - [Nobile (Noble)](#nobile-noble)
   - [Nomade (Nomad)](#nomade-nomad)
   - [Criminale (Outlaw)](#criminale-outlaw)
+  - [Pirata (Pirate)](#pirata-pirate)
 
 ## Agente (Agent)
 
@@ -479,4 +480,18 @@ Sei in grado di trovare posti nei quali nasconderti o riposare tra la gente comu
 |6|[Linguista](../talenti/talenti.md#linguista-linguist)
 |7|[Allerta](../talenti/talenti.md#allerta-alert)
 |8|[Perspicace](../talenti/talenti.md#perspicace-observant)
+
+## Pirata (Pirate)
+
+### Competenze nelle Abilita' <!-- omit in toc -->
+
+Scegli 2 tra: Atletica, Inganno, Intimidire e Guidare
+
+### Competenze negli Strumenti <!-- omit in toc -->
+
+1 tipo di strumento da gioco, 1 a scelta tra: kit da demolitore, kit di sicurezza, kit da riprogrammatore
+
+### Equipaggiamento <!-- omit in toc -->
+
+1 set di abiti da viaggio, 1 set di strumenti da gioco nei quali sei competente, mappe con indicazioni approssimate delle Cinta Esterne nel tuo territorio, un piccolo gioiello proveniente da un pianeta esotico dal valore di 100 cr, una sacchetta contenente 50 cr
 
