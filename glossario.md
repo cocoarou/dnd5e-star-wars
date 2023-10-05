@@ -55,6 +55,7 @@
 - traumakit: kit da pronto soccorso
 - slicer's kit: kit da riprogrammatore
 - disguise kit: trucchi per il camuffamento
+- Outer Rim: Cinta Esterne
 
 ## Condizioni
 
