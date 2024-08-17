@@ -56,6 +56,8 @@
 - slicer's kit: kit da riprogrammatore
 - disguise kit: trucchi per il camuffamento
 - Outer Rim: Cinta Esterne
+- datapad: dispositivo dati
+- artificer's implements: dotazione da artefice
 
 ## Condizioni
 
