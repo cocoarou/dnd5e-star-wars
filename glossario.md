@@ -58,6 +58,16 @@
 - Outer Rim: Cinta Esterne
 - datapad: dispositivo dati
 - artificer's implements: dotazione da artefice
+- glowrod: bastoni luminescenti
+- fusion cutter: fresa a fusione
+- datacards: carte dati
+- mess kit: gavetta
+- commlink: dispositivo di comunicazione
+- holorecorder: registratore olografico
+- holocomm: comunicatore olografico
+- HoloNet: ReteOlografica
+- Datacron: Registratore Rati
+- Holocron: Registratore Ologrammi
 
 ## Condizioni
 
