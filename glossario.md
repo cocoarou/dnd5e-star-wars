@@ -47,7 +47,7 @@
 - stance: posizione
 - unenhanced weapon: arma non potenziata
 - finesse: accurata
-- biochemist's kits: strumenti da biochimico
+- biochemist's kits: kit da biochimico
 - hold-out: blaster-occultato
 - enhanced: potenziato (controparte di SW di magico/magicamente)
 - unenhanced: non potenziato (controparte di SW di non magico/non magicamente)
@@ -68,6 +68,22 @@
 - HoloNet: ReteOlografica
 - Datacron: Registratore Rati
 - Holocron: Registratore Ologrammi
+- canteen: borraccia
+- bedroll: giaciglio
+- hydrospanner: idrochiave
+- hand-held control unit: unita' di controllo palmare
+- astrotech's implements: dotazione astro-tecnica
+- cybertech's implements: dotazione cyber-tecnica
+- biotech's implements: dotazione bio-tecnica
+- gaming sets: strumenti da gioco
+- chef's kit: kit da cuoco
+- demolitions kit: kit per demolizioni
+- forgery kit: arnesi da falsario
+- mechanic's kit: kit da meccanico
+- poisoner's kit: kit da avvelenatore
+- security kit: kit di sicurezza
+- trapper's kit: kit da intrappolatore
+
 
 ## Condizioni
 
