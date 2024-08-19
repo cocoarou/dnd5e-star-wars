@@ -84,7 +84,6 @@
 - security kit: kit di sicurezza
 - trapper's kit: kit da intrappolatore
 
-
 ## Condizioni
 
 - shocked: scioccato
