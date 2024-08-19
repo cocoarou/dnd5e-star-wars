@@ -83,7 +83,7 @@
 
  **Livello:** 18
 
- Le prove di abilita' di: Forza, Destrezza o Costituzione ottengono una soglia minima del tiro. Per utilizzare questa abilita' devi indossare la tua armatura modificata od il tuo scudo modificato.
+ Le prove di abilita' di: Forza, Destrezza o Costituzione ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro). Per utilizzare questa abilita' devi indossare la tua armatura modificata od il tuo scudo modificato.
 
 ### [Lista delle Modifiche della Meccano-armatura](./Modifiche%20della%20Meccano-armatura.md#modifiche-della-meccano-armatura)
 

@@ -139,7 +139,7 @@ Scegli uno dei 3 aspetti della forza:
 
 - **Ashla:** quando lanci con successo un potere del lato chiaro della forza, i tuoi punti ferita massimi e punti ferita attuali o quelli del bersaglio del potere (scegli tu) aumentano di un ammontare pari al livello del potere. Questo effetto dura 1 minuto. Puoi avere attivo solamente uno di questi effetti alla volta.
 - **Bendu:** puoi aggiungere sia il modificatore di Saggezza che di Carisma al totale dei tuoi punti forza anziche' un modificatore solo.
-- **Bogan:** i tiri per i danni dei tuoi poteri del lato oscuro della forza ottengono una soglia minima del tiro.
+- **Bogan:** i tiri per i danni dei tuoi poteri del lato oscuro della forza ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro).
 
 ### Tradizione Consolare
 

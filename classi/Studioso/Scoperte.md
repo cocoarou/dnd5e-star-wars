@@ -102,7 +102,7 @@ Ottieni competenza nelle armature medie
 
 ## Manovra Perfetta
 
-I tuoi tiri dei dadi di superiorita' ottengono una soglia minima del tiro
+I tuoi tiri dei dadi di superiorita' ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro)
 
 ## Analisi Veloce
 
@@ -118,7 +118,7 @@ Puoi sostituire Saggezza o Carisma (scelto quando studi questa disciplina) con I
 
 **Prerequisito:** livello 9
 
-Le prove di abilita' Intelligenza (Storia) od Intelligenza (Natura) alle quali aggiungi il bonus di competenza ottengono una soglia minima del tiro.
+Le prove di abilita' Intelligenza (Storia) od Intelligenza (Natura) alle quali aggiungi il bonus di competenza ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro).
 
 ## Risoluto
 

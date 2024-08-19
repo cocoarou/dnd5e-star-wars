@@ -273,7 +273,7 @@ Se impieghi almeno 1 minuto nell'osservare nell'interagire con un'altra creatura
 
 **Livello:** 10
 
-Una volta per turno i tuoi tiri di dado di superiorita' ottengono una soglia minima del tiro
+Una volta per turno i tuoi tiri di dado di superiorita' ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro)
 
 ### Inarrestabile
 

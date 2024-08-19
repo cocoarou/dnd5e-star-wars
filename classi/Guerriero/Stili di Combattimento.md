@@ -117,7 +117,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 ## Stile delle Armi Possenti
 
-- Quando impugni una spada-laser o una vibro-arma a due mani, nelle quali sei competente, i tiri per i danni ottengono una soglia minima del tiro.
+- Quando impugni una spada-laser o una vibro-arma a due mani, nelle quali sei competente, i tiri per i danni ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro).
 - Cambiare l'impugnatura dell'arma da due mani ad una mano, e viceversa, non richiede piu' un'azione di interazione con oggetto.
 
 ## Stile da Guerriglia
@@ -172,7 +172,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 - Non subisci piu' svantaggio quando effettui tiri per colpire a distanza contro bersagli a 1.5m da te.
 - I tuoi attacchi a distanza con l'arma, contro bersagli entro 9m, riducono la copertura parziale dei nemici come se fosse di uno step inferiore (3/4 a 1/2 o da 1/2 a 1/4). Se il bersaglio ha 1/4 di copertura, la ignori competalemente.
-- I tiri per i danni del tuo blaster inferti a creature entro 9m da te ottengono una soglia minima del tiro.
+- I tiri per i danni del tuo blaster inferti a creature entro 9m da te ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro).
 - Cambiare l'impugnatura dell'arma da due mani ad una mano, e viceversa, non richiede piu' un'azione di interazione con oggetto.
 
 ## Stile della Scissione

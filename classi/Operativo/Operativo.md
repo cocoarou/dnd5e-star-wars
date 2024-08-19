@@ -162,7 +162,7 @@ Quando effettui un tiro salvezza su Destrezza per dimezzare i danni, se superi l
 
 **Livello:** 11
 
-Le prove di abilita' che effettui, se comprendono il tuo bonus di competenza, ottengono una soglia minima del tiro.
+Le prove di abilita' che effettui, se comprendono il tuo bonus di competenza, ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro).
 
 ### Percezione Cieca
 

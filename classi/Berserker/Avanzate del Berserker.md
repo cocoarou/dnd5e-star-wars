@@ -46,7 +46,7 @@ Sei competente nei blaster da guerra con la proprieta': rapida e deflagrante. In
 
 Mentre sei in ira ottieni i seguenti benefici:
 
-- I tiri per i danni del blaster ottengono una soglia minima del tiro
+- I tiri per i danni del blaster ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro)
 - Aggiungi il danno dell'ira ai tiri per i danni delle armi a distanza che utilizzano il modificatore di Forza
 - Al livello 9, quando una creatura tira 1 per superare il tiro salvezza delle proprieta' rapida o deflagrante, puoi aggiungere i dadi del [Critico Brutale](Berserker.md#critico-brutale) ai danni dell'arma.
 

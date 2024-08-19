@@ -188,7 +188,7 @@ Ottieni uno dei seguenti privilegi. Scegli Negoziati Aggressivi per Shien o Vigo
 Ottieni uno dei seguenti privilegi. Scegli Deviare Accurato per Shien o Colpi Brutali per Djem So
 
 - **Deviare Accurato:** quando metti a segno un attacco scaturito dal potere Deviare Lame (Saber Reflect), puoi spendere dei punti forza per infliggere danni aggiuntivi, dello stesso tipo del danno dell'arma. I danni aggiuntivi ammontano ad 1d8 per punto potere speso. Non puoi infliggere piu' danni di quelli indicati nella colonna Colpi Focalizzati della tabella del guardiano.
-- **Colpi Brutali:** i danni dei [Colpi Potenziati dalla Forza](./Guardiano.md#colpi-potenziati-dalla-forza) e dei [Colpi Potenziati dalla Forza Migliorati](./Guardiano.md#colpi-potenziati-dalla-forza-migliorati) ottengono una soglia minima del tiro. Inoltre, quando spendi punti forza per il privilegio dei Colpi Potenziati dalla Forza ottieni punti ferita temporanei pari al doppio del numero di punti spesi
+- **Colpi Brutali:** i danni dei [Colpi Potenziati dalla Forza](./Guardiano.md#colpi-potenziati-dalla-forza) e dei [Colpi Potenziati dalla Forza Migliorati](./Guardiano.md#colpi-potenziati-dalla-forza-migliorati) ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro). Inoltre, quando spendi punti forza per il privilegio dei Colpi Potenziati dalla Forza ottieni punti ferita temporanei pari al doppio del numero di punti spesi
 
 ### Maestro della Perseveranza
 
