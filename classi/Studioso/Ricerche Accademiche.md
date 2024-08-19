@@ -80,7 +80,7 @@ Quando scegli questa ricerca, ottieni accesso alle seguenti [scoperte](./Scopert
 
 **Livello:** 3
 
-Ottieni competenza con uno strumento da biochimico a scelta ed in 1 tra le abilita: Medicina o Natura. Inoltre, non puoi subire svantaggio nell'utilizzo dello strumento scelto o l'abilita' scelta.
+Ottieni competenza con un kit biochimico ed in 1 tra le abilita: Medicina o Natura. Inoltre, non puoi subire svantaggio nell'utilizzo dello strumento scelto o l'abilita' scelta.
 
 ### Curatore a Distanza
 
