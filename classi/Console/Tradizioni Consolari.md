@@ -112,7 +112,7 @@ Puoi utilizzare questa capacita' senza ripercussioni fino ad un massimo del tuo 
 
 Con un'azione puoi costringere una creatura entro 9m e che puoi vedere ad effettuare un tiro salvezza su Saggezza (CD = la tua CD universale). Se fallisce, puoi convincere la creatura nel credere o dimenticare una parte di conversazione, osservazione od incontro che ha avuto, mentre tu eri presente, negli ultimi 10 minuti. Se la creatura supera il tiro salvezza non puo' essere influenzata nuovamente finche non completi un riposo lungo.
 
-Le creature che cercano di discernere il tuo utilizzo della forza subiscono svantaggio alle prove abilita' che cercheranno di effettuare e se una creatura ha i seguenti poteri attivi: Individuazione della Forza (Sense Force) o Visione della Forza (Force Sight), devono superare una prova di caratteristica universale di lancio-forza contro la tua CD universale per captare il tuo utilizzo della forza, il tuo allineamento della forza o capire quanto sia forte la tua connessione con la forza.
+Le creature che cercano di discernere il tuo utilizzo della forza subiscono svantaggio alle prove abilita' che cercheranno di effettuare e se una creatura ha i seguenti poteri attivi: Individuazione della Forza (Sense Force) o Visione della Forza (Force Sight), devono superare una prova di caratteristica universale di forza-lancio contro la tua CD universale per captare il tuo utilizzo della forza, il tuo allineamento della forza o capire quanto sia forte la tua connessione con la forza.
 
 ### Togliere il Disturbo
 
