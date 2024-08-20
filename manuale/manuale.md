@@ -732,27 +732,21 @@
 
 ## Forza- e Tecno-Lancio
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sortable Table</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 8px;
-            text-align: left;
-            border: 1px solid #ddd;
-        }
-        th {
-            cursor: pointer;
-        }
-    </style>
-</head>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border: 1px solid #ddd;
+    }
+    th {
+        cursor: pointer;
+    }
+</style>
+
 <body>
     <table id="forcePowersTable">
         <thead>
@@ -2800,7 +2794,6 @@
 </script>
 
 </body>
-</html>
 
 
 ## Condizioni
