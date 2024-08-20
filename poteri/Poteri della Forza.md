@@ -7,8 +7,8 @@
 |Influenzare la Mente (Affect Mind)|0|Universale|1 azione standard|9 m|Fino ad 1 minuto|Concentrazione|-
 |Affliggere (Affliction)|2|Oscuro|1 azione standard|9 m|Fino ad 1 minuto|Concentrazione|Lentezza (Slow)
 |Animare Arma (Animate Weapon)|2|Universale|1 azione bonus|18 m|1 minuto|-|Disarmare con la Forza (Force Disarm)
-|Armatura di Abeloth (Armor of Abeloth)|1|Oscuro|1 azione standard|Personale|1 ora|-|-
-|Aura di Purezza (Aura of Purity)|4|Chiaro|1 azione standard|Personale (raggio di 9 m)|Fino a 10 minuti|Concentrazione|Ristorare (Restoration)
+|<span style="color:red">Armatura di Abeloth (Armor of Abeloth)</span>|1|Oscuro|1 azione standard|Personale|1 ora|-|-
+|<span style="color:rgb(56, 168, 255)">Aura di Purezza (Aura of Purity)</span>|4|Chiaro|1 azione standard|Personale (raggio di 9 m)|Fino a 10 minuti|Concentrazione|Ristorare (Restoration)
 |Aura di Vigore (Aura of Vigor)|3|Chiaro|1 azione standard|Personale (raggio di 9 m)|Fino ad 1 minuto|Concentrazione|Valore (Valor)
 |Intuizione da Battaglia (Battle Insight)|0|Universale|1 azione standard|9 m|Fino ad 1 round|Concentrazione|-
 |Meditazione da Battaglia (Battle Meditation)|2|Universale|1 azione standard|Personale (raggio di 1.5 m)|Fino ad 1 minuto|Concentrazione|-
