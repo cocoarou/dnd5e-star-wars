@@ -37,3 +37,7 @@
 ### Guerriero
 
 - Inserire link per le sezioni: tecno-lancio e lista poteri tecnologici della specializzazione Maestro degli Scudi
+
+### Descrizione Poteri della Forza
+
+- Riprendere da Dominare Bestie (Dominate Beast)
