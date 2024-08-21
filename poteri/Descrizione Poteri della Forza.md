@@ -1873,22 +1873,186 @@ Questo potere blocca poteri, od effetti simili, utilizzati per influenzare la me
 
 #### Prigione Mentale (Mind Prison)
 
+Una creatura, entro gittata, che puoi vedere deve effettuare un tiro salvezza su Intelligenza.
 
+Se il bersaglio e' immune agli ammaliamenti supera, automaticamente il tiro.
+
+Se fallisce il tiro, il bersaglio subisce 5d10 danni psichici e fai apparire l'area appena attorno al bersaglio come uno spazio pericoloso (per esempio puo' pensare di essere circondata da: fiamme, gas tossico, una tempesta di colpi da blaster).
+
+A valle della forma scelta per l'illusione, il bersaglio non puo' vedere o sentira nulla che provenga al di fuori dell'area interessata dall'illusione ed e' trattenuta fino alla fine della durata del potere.
+
+Se il bersaglio si muove (anche involontariamente) oltre l'illusione, effettua un attacco corpo a corpo attraverso l'illusione o fa oltrepassare qualsiasi parte del suo corpo oltre l'illusione, subisce 10d10 danni psichici ed il potere termina.
+
+Questo potere non ha effetto contro droidi o costrutti.
 
 #### Squarcio Mentale (Mind Spike)
+
+Scegli una creatura, entro gittata, che puoi vedere.
+
+Il bersaglio deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, subisce 3d8 danni psichici. Inoltre, sei sempre a conoscenza della sua posizione, a patto che vi troviate entrambi sullo stesso pianeta.
+
+Se supera il tiro, subisce la meta' dei danni.
+
+Il bersaglio non puo' nascondersi da te e qualora sia invisibile, non ottiene alcun tipo di vantaggio contro di te.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
 #### Trappola Mentale (Mind Trap)
+
+Scegli un bersaglio entro gittata che deve effettuare un tiro salvezza su Carisma.
+
+Se fallisce il tiro, il bersaglio e' incapacitato per tutta la durata del potere.
+
+E' in grado di pensare, ma non e' in grado di percepire il mondo circostante.
+
+Se la creatura subisce danni effettua un nuovo tiro salvezza su Carisma.
+
+Se supera il tiro, l'effetto del potere termina.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+**Potenziamento della Forza:** quando lanci questo incantesimo utilizzando uno slot di livello 6 o superiore, dopo aver passato 1 minuto di concentrazione, la durata del potere diventa di 24 ore e non necessita piu' che venga mantenuta la concentrazione.
+
 #### Trucco Mentale (Mind Trick)
+
+Scegli una creatura non ostile, entro gittata.
+
+Il bersaglio deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, il bersaglio subisce svantaggio nelle prove di Saggezza (Percezione) ed Intelligenza (Investigare).
+
+Se supera il tiro, la creatura realizza che tu abbia provato ad influenzarla attraverso la forza e diventa ostile nei tuoi confronti. Una creatura incline alla violenza potrebbe attaccarti. Un'altra creatura potrebbe cercare di fartela pagare in un'altra maniera (tutto a discrezione del Dungeon Master).
+
+Questo potere non ha effetto contro droidi o costrutti.
+
 #### Morichro
+
+Tocchi una creatura consenziente e la induci in uno stato catalettico, simile alla morte.
+
+Per la durata del potere, o finche' non utilizzi la tua azione standard per toccare il bersaglio e porre fine gli effetti del potere, il bersaglio apparira' come deceduto di fronte a qualsiasi tipo di ispezione superficiale od effettuata con dei poteri per verificare lo stato del bersaglio.
+
+Il bersaglio e' accecato ed incapacitato e la sua velocita' di movimento scende a 0.
+
+Il bersaglio ottiene resistenza a tutti i tipi di danno, eccetto quelli psichici.
+
+Se il bersaglio e' ammalato od avvelenato quando lanci questo potere o diventa ammalato od avvelenato quando e' sotto gli effetti di questo potere, le malattie ed i veleni non hanno effetto fino al termine della durata del potere.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
 #### Carica Necrotica (Necrotic Charge)
+
+Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un tiro per colpire corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
+
+Se l'attacco va a segno, il bersaglio subisce i normali effetti dell'attacco e puoi decidere se infliggere fino ad 1d8 ulteriore di danni necrotici, questa danni vengono subiti sia da te che dal bersaglio. Questi danni non possono essere ridotti o negati in alcuna maniera.
+
+I danni di questo potere aumentano al raggiungimento di livelli superiori, ovvero:
+
+- **livello 5:** l'attacco corpo a corpo infligge 1d8 danni necrotici e puoi aumentare i danni secondari a 2d8 necrotici
+- **livello 11:** l'attacco corpo a corpo infligge 2d8 danni necrotici e puoi aumentare i danni secondari a 3d8 necrotici
+- **livello 17:** l'attacco corpo a corpo infligge 3d8 danni necrotici e puoi aumentare i danni secondari a 4d8 necrotici
+
 #### Tocco Necrotico (Necrotic Touch)
+
+Effettua un attacco della forza corpo a corpo contro il bersaglio.
+
+Se l'attacco va a segno, la creatura subisce 1d6 danni necrotici e tu ottieni punti ferita temporanei pari al danno inferto. Questo punti ferita durano fino alla fine del tuo prossimo turno.
+
+I danni di questo potere aumentano al raggiungimento di livelli superiori, ovvero:
+
+- **livello 5:** 2d6
+- **livello 11:** 3d6
+- **livello 17:** 4d6
+
 #### Colpo in Fase (Phasestrike)
+
+Fino al termine della durata del potere, il tuo movimento non causa attacchi d'opportunita'.
+
+Una volta, prima della fine del potere, nel tuo turno, puoi fornire vantaggio a te stesso per un tiro per colpire.
+
+Quell'attacco infligge 1d8 danni da forza addizionali.
+
+Che l'attacco vada a segno o meno, la tua velocita' di movimento aumenta comunque di 9 m fino alla fine di quel turno.
+
 #### Camminata in Fase (Phasewalk)
+
+Ti teletrasporti in uno spazio non occupato, che puoi vedere, entro 9 m
+
 #### Piaga (Plague)
+
+Scegli fino a 6 creature, a piacere, che si trovano in un'area pari ad un cubo di 12 m, entro gittata.
+
+Ogni bersaglio deve effettuare un tiro salvezza su Costituzione.
+
+Chi fallisce il tiro, subisce:
+
+- 1 livello di lentezza
+- penalita' di -2 alla CA ed ai tiri salvezza su Destrezza
+- impossibilita' nell'utilizzare reazioni
+
+Durante il suo turno, puo' solamente utilizzare un'azione standard od un'azione bonus, non entrambe. Inoltre, indipendentemente dalle abilita' e gli oggetti della creatura, non puo' effettuare piu' di un attacco corpo a corpo od un attacco a distanza.
+
+Se la creatura tenta di lanciare un potere con un tempo di lancio di 1 azione standard, tira 1d20. Dall'11 in su' il potere non si attivera' fino all'inizio del prossimo turno della creatura ed essa dovra' utilizzare la propria azione standard per ultimare il lancio del potere. Qualora non ne sia in grado, il potere e' perduto.
+
+La creatura effettua un altro tiro salvezza su Costituzione alla fine di ogni suo turno.
+
+Se supera il tiro, l'effetto del potere termina (solamente per la creatura che supera il tiro salvezza).
+
 #### Impeto Botanico (Plant Surge)
+
+Se lanci questo potere utilizzando un'azione standard, tutte le piante normali presenti in un raggio di 30 m, che si irradia da un punto entro gittata, crescono abbondantemente.
+
+Muoversi attraverso l'area costa il quadruplo.
+
+Puoi escludere aree di qualsiasi tipo, nell'area, dall'effetto del potere.
+
+Se lanci questo potere nel corso di 8 ore, tutte le piante presenti in un raggio di 1.5 km, che si irradia da un punto, produce il doppio dei frutti, una volta raccolti, per 1 anno
+
 #### Premonizione (Precognition)
+
+Per la durata del potere ottieni i seguenti benefici:
+
+- non puoi essere colto alla sprovvista
+- ottieni vantaggio nei tiri per colpire, nelle prove di abilita' e nei tiri salvezza
+- le creature subiscono svantaggio nei tiri per colpire effettuati contro di te
+
 #### Proiettare (Project)
+
+Sollevi 3 pile di detriti o piccoli oggetti dal terreno e li lanci.
+
+Ogni pila colpisce una creatura, a piacere, che puoi vedere, entro gittata.
+
+La pila infligge 1d4 + 1 danni da forza.
+
+Le pile colpiscono simultaneamente e puoi decidere di lanciarle tutte sullo stesso bersaglio oppure su bersagli differenti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, sollevi e lanci 1 pila aggiuntiva per ogni slot di livello superiore all'1.
+
 #### Carica Psichica (Psychic Charge)
+
+Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un tiro per colpire corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
+
+Se l'attacco va a segno, il bersaglio subisce i normali effetti dell'attacco e la sua bocca e' ricoperta da un velo violaceo fino all'inizio del tuo prossimo turno.
+
+Se il bersaglio tenta di parlare, autonomamente, prima dell'inizio del tuo prossimo turno, subisce immediatamente 1d8 danni psichici ed il potere termina.
+
+I danni di questo potere aumentano con l'aumentare dei livelli, ovvero:
+
+- **livello 5:** l'attacco corpo a corpo infligge 1d8 danni psichici extra ed i danni inferti se prova a parlare aumentano a 2d8.
+- **livello 11:**l'attacco corpo a corpo infligge 2d8 danni psichici extra ed i danni inferti se prova a parlare aumentano a 3d8.
+- **livello 17:**l'attacco corpo a corpo infligge 3d8 danni psichici extra ed i danni inferti se prova a parlare aumentano a 4d8.
+
 #### Psicometria (Psychometry)
+
+Per la durata del potere ottieni la capacita' di poter "comunicare" telepaticamente con oggetti inanimati che tocchi.
+
+Puoi chiedere fino a 5 domande e ricevere delle risposte dagli oggetti (solitamente sotto forma di allucinazioni uditive o visive).
+
+Un oggetto al quale e' stata posta una domanda in questa maniera, puo' solo fornire informazioni riguardo il suo passato.
+
+Il Dungeon Master ha l'ultima parola nel decidere quali oggetti possano essere interpellati ed in che misura
+
 #### Ira (Rage)
 #### Redarguire (Rebuke)
 #### Rimuovere Maledizioni (Remove Curse)

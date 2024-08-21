@@ -40,4 +40,4 @@
 
 ### Descrizione Poteri della Forza
 
-- Riprendere da Dominare Bestie (Dominate Beast)
+- Riprendere da Ira (Rage)
