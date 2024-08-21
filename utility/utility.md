@@ -29,7 +29,7 @@ Una creatura puo' avere un numero di tali oggetti, su ogni avambraccio, pari a m
 - Energia: il danno inferto da blaster, armi-laser ed altri poteri od abilita'
 - Fuoco
 - Forza: alcuni poteri della forza infliggono danno incanalando la pura energia della forza stessa
-- Ioni: tipo di danno speciale molto efficace contro droidi e costrutti. Condotti elettronici semplici che vengono colpiti da danni a ioni sono disabilitati finche' non vengono riavviati (qualora il danno non li distrugga definitivamente)
+- Ioni: tipo di danno speciale molto efficace contro droidi o costrutti. Condotti elettronici semplici che vengono colpiti da danni a ioni sono disabilitati finche' non vengono riavviati (qualora il danno non li distrugga definitivamente)
 - Cinetici: danni fisici
 - Elettrici
 - Necrotici

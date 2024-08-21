@@ -42,7 +42,7 @@ Una volta creata una barriera non puoi crearne un'altra finche' non termini un r
 
 **Livello:** 6
 
-Quando una cretura che puoi vedere, entro 9m da te, subisce danno, puoi utilizzare la tua reazione per assorbire il danno con il privilegio [Barriera della Forza](#barriera-della-forza). Se il danno riduce la barriera a 0 punti ferita, la creatura protetta subisce i danni rimanenti.
+Quando una creatura che puoi vedere, entro 9m da te, subisce danno, puoi utilizzare la tua reazione per assorbire il danno con il privilegio [Barriera della Forza](#barriera-della-forza). Se il danno riduce la barriera a 0 punti ferita, la creatura protetta subisce i danni rimanenti.
 
 ### Barriera a Volonta'
 
@@ -166,7 +166,7 @@ Con un'azione puoi scegliere un qualsiasi numero di creature nel raggio di 9m e 
 
 Questa capacita' non puo' curare piu' della meta' dei punti ferita massimi degli eventuali bersagli.
 
-Questa capacita' non ha effetto sui droidi e costrutti.
+Questa capacita' non ha effetto sui droidi o costrutti.
 
 Puoi utilizzare questa capacita' 3 volte e guadagni 1 utilizzo extra al livello: 9, 13 e 17. Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
 

@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---
 |[Influenzare la Mente (Affect Mind)](./Descrizione%20Poteri%20della%20Forza.md#influenzare-la-mente-affect-mind)|0|Universale|1 azione standard|9 m|Fino ad 1 minuto|Concentrazione|-
 |[Affliggere (Affliction)](./Descrizione%20Poteri%20della%20Forza.md#affliggere-affliction)|2|Oscuro|1 azione standard|9 m|Fino ad 1 minuto|Concentrazione|Lentezza (Slow)
-|Animare Arma (Animate Weapon)|2|Universale|1 azione bonus|18 m|1 minuto|-|Disarmare con la Forza (Force Disarm)
+|Animare Arma (Animate Weapon)|2|Universale|1 azione bonus|18 m|1 minuto|-|Disarmare tramite la Forza (Force Disarm)
 |Armatura di Abeloth (Armor of Abeloth)|1|Oscuro|1 azione standard|Personale|1 ora|-|-
 |Aura di Purezza (Aura of Purity)|4|Chiaro|1 azione standard|Personale (raggio di 9 m)|Fino a 10 minuti|Concentrazione|Ristorare (Restoration)
 |Aura di Vigore (Aura of Vigor)|3|Chiaro|1 azione standard|Personale (raggio di 9 m)|Fino ad 1 minuto|Concentrazione|Valore (Valor)
@@ -58,7 +58,7 @@
 |Catena di Fulmini della Forza (Force Chain Lightning)|6|Oscuro|1 azione standard|45 m|Istantanea|-|Fulmini della Forza (Force Lightning)
 |Occultamento della Forza (Force Concealment)|2|Universale|1 azione standard|A contatto|24 ore|-|-
 |Confusione della Forza (Force Confusion)|2|Universale|1 azione standard|36 m|Fino ad 1 minuto|Concentrazione|-
-|Disarmare con la Forza (Force Disarm)|0|Universale|1 azione standard|9 m|Istantanea|-|-
+|Disarmare tramite la Forza (Force Disarm)|0|Universale|1 azione standard|9 m|Istantanea|-|-
 |Illuminazione della Forza (Force Enlightenment)|2|Chiaro|1 azione standard|A contatto|Fino ad 1 ora|Concentrazione|Guida (Guidance)
 |Concentrazione della Forza (Force Focus)|1|Chiaro|1 azione bonus|Personale|Fino ad 1 minuto|Concentrazione|Tecnica della Forza (Force Technique)
 |Irrorare la Forza (Force Imbuement)|0|Universale|1 azione bonus|A contatto|1 minuto|-|-
@@ -74,7 +74,7 @@
 |Proiettare la Forza (Force Project)|7|Universale|1 azione standard|Personale|Fino ad 1 giorno|Concentrazione|-
 |Propulsione della Forza (Force Propel)|1|Universale|1 azione standard|18 m|Istantanea|-|Spinta/Attrazione della Forza (Force Push/Pull)
 |Spinta/Attrazione della Forza (Force Push/Pull)|0|Universale|1 azione standard|18 m|Istantanea|-|-
-|Deflezione della Forza (Force Reflection)|1|Universale|1 reazione che puoi compiere se verresti colpito da un attacco a distanza|Personale|Istantanea|-|Deflettere Lame (Saber Reflect)
+|Deflessione della Forza (Force Deflect)|1|Universale|1 reazione che puoi compiere se verresti colpito da un attacco a distanza|Personale|Istantanea|-|Deflettere Lame (Saber Reflect)
 |Espulsione della Forza (Force Repulse)|3|Universale|1 azione standard|Personale (raggio di 6 m)|Istantanea|-|-
 |Urlo della Forza (Force Scream)|3|Oscuro|1 azione standard|Personale (raggio di 4.5 m)|Istantanea|-|-
 |Atterramento della Forza (Force Shunt)|0|Universale|1 azione standard|9 m|Istantanea|-|-
@@ -98,7 +98,7 @@
 |Cura Ferite (Heal)|1|Chiaro|1 azione standard|A contatto|Istantanea|-|-
 |Eroismo (Heroism)|1|Chiaro|1 azione standard|A contatto|Fino ad 1 minuto|Concentrazione|-
 |Stregare (Hex)|1|Oscuro|1 azione bonus|27 m|Fino ad 1 ora|Concentrazione|-
-|Orrore (Horror)|3|Oscuro|1 azione standard|Personale (cono di 9 m)|Fino ad 1 minuto|Concentrazione|Paura (Fear)
+|Orrore (Horror)|3|Oscuro|1 azione standard|Personale (cono di 9 m)|Fino ad 1 minuto|Concentrazione|Incutere Paura (Fear)
 |Isteria (Hysteria)|4|Oscuro|1 azione standard|36 m|Fino ad 1 minuto|Concentrazione|Allucinazione (Hallucination)
 |Meditazione da Battaglia Migliorata (Improved Battle Meditation)|5|Universale|1 azione standard|Personale (raggio di 4.5 m)|Fino ad 1 minuto|Concentrazione|Meditazione da Battaglia (Battle Meditation)
 |Tentacoli del Lato Oscuro Migliorati (Improved Dark Side Tendrils)|3|Oscuro|1 azione standard|45 m|Fino ad 1 minuto|Concentrazione|Tentacoli del Lato Oscuro (Dark Side Tendrils)

@@ -62,7 +62,7 @@
                 <td>18 m</td>
                 <td>1 minuto</td>
                 <td>-</td>
-                <td>Disarmare con la Forza (Force Disarm)</td>
+                <td>Disarmare tramite la Forza (Force Disarm)</td>
             </tr>
             <tr style="color: red">
                 <td>Armatura di Abeloth (Armor of Abeloth)</td>
@@ -595,7 +595,7 @@
                 <td>-</td>
             </tr>
             <tr>
-                <td>Disarmare con la Forza (Force Disarm)</td>
+                <td>Disarmare tramite la Forza (Force Disarm)</td>
                 <td>0</td>
                 <td>Universale</td>
                 <td>1 azione standard</td>
@@ -755,7 +755,7 @@
                 <td>-</td>
             </tr>
             <tr>
-                <td>Deflezione della Forza (Force Reflection)</td>
+                <td>Deflessione della Forza (Force Deflect)</td>
                 <td>1</td>
                 <td>Universale</td>
                 <td>1 reazione che puoi compiere se verresti colpito da un attacco a distanza</td>

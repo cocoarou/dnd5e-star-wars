@@ -87,7 +87,7 @@ Ogni creatura non ostile all'interno dell'aura (tu incluso) infligge 1d4 danni e
 
 Ti focalizzi su un bersaglio entro gittata.
 
-Attraverso la forza ottieni delle informazioni riguardo la sua difesa.
+Tramite la forza ottieni delle informazioni riguardo la sua difesa.
 
 Nel tuo prossimo turno ottieni vantaggio nel primo tiro per colpire che effettueresti contro quel bersaglio, ammesso che la durata del potere non sia terminata.
 
@@ -133,7 +133,7 @@ Altrimenti, la bestia deve superare un tiro salvezza su Saggezza o venire ammali
 
 Se tu od un tuo alleato minacciate la creatura, l'effetto del potere termina.
 
-**Potenziamento della Forza:** quando lanci quqesto potere utilizzando uno slot di livello 2 o superiore, puoi influenzare una bestia addizionale per ogni slot superiore al livello 1
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, puoi influenzare una bestia addizionale per ogni slot superiore al livello 1
 
 #### Scagliare Maledizioni (Bestow Curse)
 
@@ -154,7 +154,7 @@ A discrezione del Dungeon Master puoi scegliere degli effetti della maledizione 
 
 Il Dungeon Master ha l'ultima parola riguardo l'accettare o meno questo effetto alternativo.
 
-Questo potere non ha effetto su droidi e costrutti.
+Questo potere non ha effetto contro droidi o costrutti.
 
 **Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 4 o superiore, la durata diventa: Concentrazione, fino a 10 minuti. Se utilizzi uno slot di livello 5 o superiore, la durata diventa: 8 ore. Se utilizzi uno slot di livello 7 o superiore, la durata diventa: 24 ore. Se utilizzi uno slot di livello 9, il potere dura finche' non viene neutralizzato. Utilizzare uno slot dal livello 5 in su' fornisce una durata che non richiede piu' concentrazione.
 
@@ -201,7 +201,7 @@ Se sei all'esterno ed in una tempesta, il potere ti da il controllo dell'evento 
 
 Scegli un punto entro gittata influenzando un'area pari ad una sfera con raggio di 6 m. 
 
-Ogni umanoide all'interno dell'area deve effettuare un tiro savlezza su Carisma (una creatura puo' scegliere di fallire automaticamente questo tiro).
+Ogni umanoide all'interno dell'area deve effettuare un tiro salvezza su Carisma (una creatura puo' scegliere di fallire automaticamente questo tiro).
 
 Chi fallisce il tiro e' soggetto ad uno di questi effetti:
 
@@ -232,13 +232,13 @@ Se il potere termina, la creatura addormentata subisce danni o qualcuno utilizza
 
 Sottrai i punti ferita della prima creatura bersagliata e procedi con la prossima creatura avente i punti ferita piu' bassi. Per essere soggiogata, i punti ferita della creatura devono essere pari od inferiori al totale rimanente del tiro effettuato al lancio del potere.
 
-Questo potere non ha effetto contro droidi e costrutti.
+Questo potere non ha effetto contro droidi o costrutti.
 
 **Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, puoi tirare 2d8 aggiuntivi per ogni slot superiore al livello 1
 
 #### Manipolare la Mente (Coerce Mind)
 
-Suggerisci un'attivita' da compiere (limitata ad una o due frasi) ed influenzi con la forza una creatura, entro gittata, che puoi vedere e che sia in grado di sentirti e capirti.
+Suggerisci un'attivita' da compiere (limitata ad una o due frasi) ed influenzi tramite la forza una creatura, entro gittata, che puoi vedere e che sia in grado di sentirti e capirti.
 
 Le creature che non possono essere affascinate sono immuni a questo effetto.
 
@@ -248,13 +248,13 @@ Chiedere alla creatura di farsi del male termina, automaticamente, l'effetto del
 
 Il bersaglio deve effettuare un tiro salvezza su Saggezza.
 
-Se fallisce il tiro, segue il comando descritto al meglio delle proprie possibilita'. L'attivita' suggerita dal comando puo' perdurare fino alla fine della durata del potere. Se l'attivita' suggerita puo' essere terminata nel breve periodo, l'effetto del potere termina nonappena il soggetto termini quello che gli e' stato chiesto di fare.
+Se fallisce il tiro, segue il comando descritto al meglio delle proprie possibilita'. L'attivita' suggerita dal comando puo' perdurare fino alla fine della durata del potere. Se l'attivita' suggerita puo' essere terminata nel breve periodo, l'effetto del potere termina non appena il soggetto termini quello che gli e' stato chiesto di fare.
 
 Puoi specificare delle condizioni che attiverebbero delle azioni particolari nel corso della durata del potere. Per esempio: potresti dire ad un soldato di donare il suo sguscio al primo viandante che incontra. Se la condizione non si verifica prima della fine della durata del potere, l'attivita' non verra' effettuata.
 
 Se tu od uno dei tuoi alleati danneggiate il bersaglio, il potere termina.
 
-Questo potere non ha effetto contro droidi e costrutti.
+Questo potere non ha effetto contro droidi o costrutti.
 
 #### Comprensione dei Linguaggi (Comprehend Speech)
 
@@ -372,7 +372,7 @@ L'oscurita' permea anche negli angoli.
 
 Una creatura con scurovisione non puo' vedere attraverso l'oscurita' ed una luce non potenziata non puo' illuminare l'area.
 
-Se il punto scelto e' un oggetto che stai trasportando od un oggetto che non e' indossato o trasportato, l'oscurita' viene emanata dall'oggetto scelto e si muove insieme ad esso.
+Se il punto scelto e' un oggetto che stai trasportando od un oggetto incustodito, l'oscurita' viene emanata dall'oggetto scelto e si muove insieme ad esso.
 
 Coprire completamente la sorgente dell'oscurita' con un oggetto opaco ne blocca l'effetto.
 
@@ -390,7 +390,7 @@ Chi supera il tiro, subisce la meta' dei danni.
 
 Se riduci un nemico a 0 punti ferita, ottieni punti ferita temporanei pari a meta' del danno inferto.
 
-Questo potere non ha effetto contro droidi e costrutti.
+Questo potere non ha effetto contro droidi o costrutti.
 
 #### Denunciare (Denounce)
 
@@ -412,7 +412,7 @@ All'inizio di ognuno dei suoi turni, il bersaglio affetto dal potere subisce dan
 
 #### Disabilitare Droide (Disable Droid)
 
-cegli un punto, entro gittata, che puoi vedere.
+Scegli un punto, entro gittata, che puoi vedere.
 
 Ogni droide o costrutto nell'area deve effettuare un tiro salvezza su Costituzione.
 
@@ -426,111 +426,1455 @@ Ottieni resistenza al tipo di danno che ha azionato l'attivazione di questo pote
 
 Inoltre, ottieni immediatamente 5 punti ferita temporanei che aiutano ad attutire il danno. Questi punti ferita temporanei durano fino all'inizio del tuo prossimo turno.
 
-**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, i punti ferita temporanei aumentano di 5 per ogni slot supreiore al livello 1
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, i punti ferita temporanei aumentano di 5 per ogni slot superiore al livello 1
 
 #### Dominare Bestie (Dominate Beast)
 
+Una bestia, che puo' vederti, deve effettuare un tiro salvezza su Saggezza.
 
+Se fallisce il tiro, viene ammaliata.
+
+Se tu od uno dei tuoi alleati state combattendo con la bestia, essa ottiene vantaggio nel tiro salvezza.
+
+Finche' la bestia e' ammaliata, condividete un legame telepatico (a patto che vi troviate sullo stesso pianeta). Puoi utilizzare questo legame per impartire dei comandi (non richiede nessuna azione) che cerca di obbedire al massimo delle sue capacita'. Puoi specificare delle azioni semplici od un generale corso d'azioni. Qualora la bestia porti a termine l'ordine e non ne vengano impartiti di nuovi, si concentrera' nel difendersi.
+
+Puoi utilizzare un'azione standard per assumere il controllo totale della creatura.
+
+Fino alla fine del tuo prossimo turno, la bestia esegue solo le azioni che tu decidi debba compiere. Puoi anche decidere di farle spendere la sua reazione (al costo della tua).
+
+Se la bestia riceve dei danni, effettua nuovamente il tiro salvezza su Saggezza. Se supera il tiro, il potere termina.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 5, la durata diventa: fino a 10 minuti. Utilizzando uno slot di livello 6, la durata diventa: fino ad 1 ora. Utilizzando uno slot di livello 7 o superiore, la durata diventa: fino ad 8 ore.
 
 #### Dominare Menti (Dominate Mind)
+
+Un umanoide che puoi vedere, entro gittata, deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, viene ammaliato da te per la durata del potere.
+
+Se tu od uno dei tuoi alleati state combattendo con il bersaglio, esso ottiene vantaggio nel tiro salvezza.
+
+Finche' il bersaglio e' ammaliato, condividete un legame telepatico (a patto che vi troviate entro 1.5 km l'uno dall'altro). Puoi utilizzare questo legame per impartire dei comandi (non richiede nessuna azione) che cerca di obbedire al massimo delle sue capacita'. Puoi specificare delle azioni semplici od un generale corso d'azioni. Qualora il bersaglio porti a termine l'ordine e non ne vengano impartiti di nuovi, si concentrera' nel difendersi.
+
+Puoi utilizzare un'azione standard per assumere il controllo totale del bersaglio.
+
+Fino alla fine del tuo prossimo turno, il bersaglio esegue solo le azioni che tu decidi debba compiere. Puoi anche decidere di fargli spendere la sua reazione (al costo della tua).
+
+Se il bersaglio riceve dei danni, effettua nuovamente il tiro salvezza su Saggezza. Se supera il tiro, il potere termina.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 6, la durata diventa: fino a 10 minuti. Utilizzando uno slot di livello 7, la durata diventa: fino ad 1 ora. Utilizzando uno slot di livello 8 o superiore, la durata diventa: fino ad 8 ore.
+
+
 #### Dominare Mostri (Dominate Monster)
+
+Una creatura che puoi vedere, entro gittata, deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, viene ammaliata da te per la durata del potere.
+
+Se tu od uno dei tuoi alleati state combattendo con il bersaglio, esso ottiene vantaggio nel tiro salvezza.
+
+Finche' il bersaglio e' ammaliato, condividete un legame telepatico (a patto che vi troviate entro 1.5 km l'uno dall'altro). Puoi utilizzare questo legame per impartire dei comandi (non richiede nessuna azione) che cerca di obbedire al massimo delle sue capacita'. Puoi specificare delle azioni semplici od un generale corso d'azioni. Qualora il bersaglio porti a termine l'ordine e non ne vengano impartiti di nuovi, si concentrera' nel difendersi.
+
+Puoi utilizzare un'azione standard per assumere il controllo totale del bersaglio.
+
+Fino alla fine del tuo prossimo turno, il bersaglio esegue solo le azioni che tu decidi debba compiere. Puoi anche decidere di fargli spendere la sua reazione (al costo della tua).
+
+Se il bersaglio riceve dei danni, effettua nuovamente il tiro salvezza su Saggezza. Se supera il tiro, il potere termina.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 9, la durata diventa: concentrazione, fino ad 8 ore.
+
 #### Risucchio Vitale (Drain Life)
+
+Il bersaglio deve superare un tiro salvezza su Costituzione.
+
+Se fallisce il tiro, subisce 8d8 danni necrotici.
+
+Se supera il tiro, subisce la meta' dei danni.
+
+Se riduci un nemico a 0 punti ferita, ottieni dei punti ferita temporanei pari a meta' del danno inferto.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 5 o superiore, i danni aumentano di 1d8 per ogni slot superiore al livello 4
+
 #### Risucchiare Vitalita' (Drain Vitality)
+
+Effettui un attacco della forza a distanza contro un bersaglio, entro gittata.
+
+Se colpisci, il bersaglio subisce 2d6 danni necrotici. Inoltre, per la durata del potere, il bersaglio infligge solamente meta' dei danni negli attacchi con le armi basati sulla Forza.
+
+Alla fine di ognuno dei turni del bersaglio, puo' effettuare un tiro salvezza su Costituzione contro questo potere.
+
+Se supera il tiro, il potere termina.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3 o superiore, i danni aumentano di 1d6 per ogni slot superiore al livello 2.
+
 #### Dun Moch
+
+Una creatura, entro gittata, che puoi vedere, effettua un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, la creatura e' attratta da te e, per la durata del potere, e' assoggettato ai seguenti effetti:
+
+- subisce svantaggio nei tiri per colpire effettuati contro creature che non siano te.
+- deve superare un tiro salvezza su Saggezza ogni volta che tenta di muoversi in uno spazio che si trovi a piu' di 9 m da te. Se supera il tiro salvezza, questo potere non blocca, per questo turno, il movimento del bersaglio.
+
+Questo potere termina se:
+
+- attacchi una creatura diversa dal bersaglio.
+- lanci un potere che bersagli un nemico diverso dal bersaglio.
+- se un alleato infligge danni o lancia dei poteri sul bersaglio.
+- se termini il tuo turno lontano oltre i 9 m dal bersaglio.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
 #### Terremoto (Earthquake)
+
+Scegli un punto, entro gittata, che puoi vedere.
+
+Un tremore intenso, che si espande dal punti indicato per un raggio di 30 m, squarcia il terreno nell'area.
+
+L'area influenzata diventa terreno difficile.
+
+Ogni creatura sul terreno influenzato che si sta concentrando, deve effettuare un tiro salvezza su Costituzione.
+
+Chi fallisce il tiro, perde la concentrazione.
+
+Quando lanci questo potere ad alla fine di ogni turno che spendi concentrandosi su esso, ogni creatura sul terreno influenzato deve effettuare un tiro salvezza su Destrezza.
+
+Chi fallisce il tiro, cade a terra prono.
+
+A discrezione del Dungeon Master, questo potere puo' avere anche effetti addizionali, a seconda del terreno.
+
+**Crepe:** delle crepe si aprono, nell'area influenzata, all'inizio del turno successivo al lancio di questo potere. 
+
+Si aprono un totale di 1d6 crepe, in posizioni decise dal Dungeon Master.
+
+Ogni crepa e' profonda 1d10 x 3 m e larga 3 m. L'estensione di una crepa parte da uno degli angoli dell'area del potere e si estende verso l'angolo opposto.
+
+Una creatura che si trova nel punto dove si apre una crepa, deve effettuare un tiro salvezza su Destrezza.
+
+Se fallisce il tiro, cade all'interno.
+
+Se supera il tiro, si sposta insieme al bordo mentre si apre.
+
+Una crepa che si apre al di sotto di una struttura, ne causa l'immediato crollo (vedi sotto).
+
+**Strutture:** il tremore infligge 50 danni cinetici a tutte le strutture che toccano il terreno influenzato dal potere. Questi danni vengono inferti al momento del lancio del potere ed all'inizio di ognuno dei tuoi turni, per tutta la durata del potere.
+
+Se una struttura scende a 0 punti ferita, collassa su se' stessa e potrebbe danneggiare le creature vicine alla zona d'impatto dei detriti.
+
+Una creatura situata entro una distanza pari alla metà dell'altezza della struttura deve effettuare un tiro salvezza su Destrezza.
+
+Chi fallisce il tiro, subisce 5d6 danni cinetici, cade a terra prono ed e' sepolto dai detriti.
+
+Per liberarsi deve usare un'azione standard ed effettuare una prova di Forza (Atletica) con CD 20.
+
+Il Dungeon Master puo' aumentare o ridurre la CD, in base alla natura dei detriti.
+
+Chi supera il tiro, subisce la meta' dei danni, non cade a terra prono e non viene sepolto.
+
 #### Indebolire (Enfeeble)
+
+Una creatura, entro gittata, deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, subisce 1d8 danni necrotici. Se aveva gia' dei punti ferita mancanti subisce, invece, 1d12 danni necrotici.
+
+I danni di questo potere aumentano di 1 dado (cumulativo) al raggiungimento dei livelli: 5, 11 e 17
+
 #### Eruzione (Eruption)
+
+Fai emergere dal terreno 6 pilastri dal terreno, nei punti che preferisci, entro gittata.
+
+Ogni pilastro e' un cilindro con diametro di 1.5 m ed alto 9 m.
+
+Il terreno dal quale esce il pilastro deve essere largo abbastanza per contenere il suo diametro e puoi bersagliare il terreno che si trovi sotto i piedi di una creatura di taglia media od inferiore.
+
+Ogni pilastro ha una CA pari a 5 e possiede 30 punti ferita. 
+
+Quando un pilastro viene ridotto a 0 punti ferita si sgretola ed i suoi detriti creano un'area, con raggio 3 m, di terreno difficile che perdura finche' i detriti non vengano ripuliti. Ogni porzione dal diametro di 1.5 m cubo d'area influenzata richiede, almeno, 1 minuto per essere pulita a mano.
+
+Se un pilastro viene creato sotto i piedi di una creatura, essa deve effettuare un tiro salvezza su Destrezza.
+
+Se fallisce il tiro, la creatura viene sollevata dal pilastro. Una creatura puo' scegliere di fallire, volontariamente, il tiro salvezza.
+
+Se l'ascesa di un pilastro viene bloccata da un soffitto od un altro ostacolo, la creatura che si trova su esso subisce 6d6 danni cinetici ed e' considerata trattenuta, incastrata tra il pilastro e l'ostacolo.
+
+La creatura trattenuta puo' utilizzare la propria azione standard per effettuare una prova di Forza o Destrezza (a piacere) contro la CD del potere.
+
+Se supera il tiro, la creatura non e' piu' trattenuta e deve lasciare il pilastro (allontanandosi o lasciandosi cadere)
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 7 o superiore, puoi creare 2 pilastri aggiuntivi per ogni slot utilizzato superiore al livello 6.
+
 #### Incutere Paura (Fear)
+
+Una creatura, entro gittata, che puoi vedere deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, la creatura e' spaventata per la durata del potere.
+
+Un bersaglio con 25 punti ferita o meno subisce svantaggio nel tiro salvezza.
+
+Una creatura spaventata puo' ripetere il tiro salvezza al termine di ogni suo turno.
+
+Se supera il tiro, l'effetto del potere termina.
+
+Questo potere non ha effetto contro droidi o costrutti
+
 #### Retroazione (Feedback)
+
+Un bersaglio, entro gittata, che puo' sentirti deve effettuare un tiro salvezza su Intelligenza.
+
+Se fallisce il tiro, subisce 1d4 danni psichici ed il prossimo tiro per colpire che effettuerebbe prima della fino del suo prossimo turno subisce svantaggio.
+
+I danni di questo potere aumentano di 1 dado (cumulativo) al raggiungimento dei livelli: 5, 11 e 17
+
 #### Barriera della Forza (Force Barrier)
+
+Scegli fino a 3 creature entro gittata.
+
+I punti ferita massimi ed i punti ferita attuali dei bersagli aumentano di 5, fino al termine della durata di questo potere.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3 o superiore, i punti ferita dei bersagli aumentano di 5 per ogni slot superiore al livello 2
+
 #### Cecita'/Sordita' della Forza (Force Blind/Deafen)
+
+Una creatura, entro gittata, che puoi vedere deve effettuare un tiro salvezza su Costituzione.
+
+Se fallisce il tiro, il bersaglio diventa cieco o sordo (scegli tu) per la durata del potere.
+
+Il bersaglio puo', al termine di ogni suo turno, effettuare un tiro salvezza su Costituzione.
+
+Se supera il tiro, gli effetti del potere terminano.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3 o superiore, puoi bersagliare una creatura addizionale per ogni slot di livello superiore al 2.
+
 #### Bagliore della Forza (Force Blinding)
+
+Tira 6d10, il risultato del tiro rappresenta quanti punti ferita totali delle creature puoi influenzare con questo potere.
+
+Le creature presenti nell'area influenzata dal potere sono affette, in ordine crescente dei punti ferita rimanenti (il potere non ha effetto contro creature prive di sensi o cieche).
+
+Partendo dalla creatura che ha meno punti ferita, ogni bersaglio affetto da questo potere viene accecato fino al termine della durata del potere.
+
+Sottrai i punti ferita della prima creatura bersagliata dal totale e procedi con la prossima creatura avente i punti ferita piu' bassi. Per essere soggiogata, i punti ferita della creatura devono essere pari od inferiori al totale rimanente del tiro effettuato al lancio del potere.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, aggiungi 2d10 per ogni slot superiore al livello 1.
+
 #### Sfocatura della Forza (Force Blur)
+
+Per la durata del potere, ogni creatura subisce svantaggio nei tiri per colpire effettuati contro di te.
+
+Questo potere non ha effetto su creature che non utilizzano la vista come, per esempio, se provviste di vista cieca o contro creature in grado di vedere attraverso le illusioni come, per esempio, se provviste di Visione del Vero (True Sight).
+
 #### Corpo della Forza (Force Body)
+
+Per la durata del potere, quando lanci un potere della forza, puoi scegliere di pagare meta' del costo utilizzando i tuoi punti ferita' anziche' i punti potere.
+
+Se lo fai, i tuoi punti ferita massimi vengono ridotti dell'ammontare pagato.
+
+Recuperi i punti ferita massimo al termine di un riposo lungo.
+
+Puoi terminare l'effetto di questo potere in qualsiasi momento.
+
+Se il lancio di un potere ridurrebbe a 0 i tuoi punti ferita, esso fallisce automaticamente e questo effetto termina immediatamente.
+
 #### Dissolvere la Forza (Force Breach)
+
+Scegli un punto, entro gittata.
+
+Tutti i poteri di livello 5 od inferiore, che si trovano nell'area, terminano.
+
+Per ogni potere della forza di livello 6 o superiore, effettui una prova di caratteristica utilizzando il tuo modificatore di forza-lancio.
+
+La CD e' pari a 10 + il potere del livello bersagliato.
+
+Se superi la prova, gli effetti del potere terminano.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 6 o superiore, poni fine, automaticamente, ai poteri di livello pari od inferiore al livello dello slot utilizzato.
+
 #### Camuffamento della Forza (Force Camouflage)
+
+Diventi invisibile fino alla fine della durata del potere.
+
+Qualsiasi oggetto che stai indossando o trasportando diventa invisibile insieme a te.
+
+Gli effetti di questo potere terminano se:
+
+- attacchi
+- lanci un potere
+- effettui un'azione ostile
+
 #### Catena di Fulmini della Forza (Force Chain Lightning)
+
+Crei un fulmine che si staglia verso un bersaglio, entro gittata, che puoi vedere.
+
+Da quel bersaglio 3 fulmini ulteriori balzano e colpiscono fino ad altri 3 bersagli, che non si trovino oltre i 9 m dal primo bersaglio.
+
+Puoi bersagliare una creatura od un oggetto.
+
+Un bersaglio puo' essere colpito da un solo fulmine.
+
+I bersagli effettuano un tiro salvezza su Destrezza.
+
+Chi fallisce il tiro, subisce 10d8 danni elettrici.
+
+Chi supera il tiro, subisce la meta' dei danni.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 7 o superiore, un fulmine addizionale balza dal primo bersaglio su di un altro per ogni slot di livello superiore al 6.
+
 #### Occultamento della Forza (Force Concealment)
+
+Nascondi o modifichi l'aura di una creatura o di un oggetto toccato, cosi' da fornire false informazioni ai poteri della forza che cerchino di indagare il bersaglio.
+
+Il bersaglio puo' essere una creatura consenziente od un oggetto incustodito.
+
+Quando lanci questo potere scegli uno od entrambi gli effetti indicati qua sotto.
+
+L'effetto permane per tutta la durata del potere.
+
+Se lanci questo potere sullo stesso bersaglio, ogni giorno, per 30 giorni, scegliendo di utilizzare sempre lo stesso effetto, gli effetti del potere permangono finche' il potere non venga dissolto.
+
+**Falsa Aura:** cambi l'aspetto del bersaglio che possa essere rivelato da poteri della forza od effetti della forza potenziati come, per esempio, il potere [Percepire la Forza (Sense Force)](#percepire-la-forza-sense-force) che individua la presenza della forza. 
+
+Puoi fare si' che un oggetto della forza non potenziato od una creatura appaiano, invece, potenziati ed emanino un'aura pregna impregnata dalla forza oppure fare si' che un oggetto della forza potenziato od una creatura non emettano alcun tipo di aura.
+
+Quando utilizzi questo effetto su un oggetto puoi fare si' che la falsa aura venga percepita da chi lo stia maneggiando.
+
+**Manto:** puoi cambiare l'apparenza dell'affinita' verso la forza del bersaglio. Per esempio, un Signore Oscuro dei Sith con una grande affinita' al lato oscuro della forza puo' apparire come se possegga una piccola affinita' alla forza, tendente verso il lato chiaro.
+
 #### Confusione della Forza (Force Confusion)
-#### Disarmare con la Forza (Force Disarm)
+
+Un umanoide, entro gittata, che puoi vedere deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, e' ammaliato da te per la durata del potere.
+
+La creatura ammaliata deve utilizzare la sua azione standard, prima del movimento, in ognuno dei suoi turni, per effettuare un attacco corpo a corpo contro una creatura, che non sia se' stesso. 
+
+Indichi mentalmente il bersaglio da attaccare.
+
+Il bersaglio puo' agire normalmente, nel suo turno, se non scegli alcun bersaglio o se esso non si trovi entro portata.
+
+Nei tuoi turni successivi, devi utilizzare la tua azione standard per mantenere il controllo del bersaglio, altrimenti gli effetti del potere terminano.
+
+Il bersaglio puo' effettuare un tiro salvezza su Saggezza alla fine di ogni suo turno.
+
+Se supera il tiro, il potere termina.
+
+#### Disarmare tramite la Forza (Force Disarm)
+
+Scegli un'arma od un oggetto indossato o trasportato da una creatura di taglia grande od inferiore, entro gittata.
+
+La creatura deve effettuare un tiro salvezza su Forza o Destrezza (la creatura sceglie quale utilizzare).
+
+Se l'oggetto e' trasportato, la creatura ottiene vantaggio nel tiro salvezza.
+
+Se fallisce il tiro, attiri a te l'oggetto.
+
+Se hai una mano libera afferri l'oggetto, altrimenti cade ai tuoi piedi.
+
 #### Illuminazione della Forza (Force Enlightenment)
+
+Scegli uno dei seguenti effetti; il bersaglio guadagna l'effetto selezionato fino alla fine della durata del potere.
+
+- **Forza:** il bersaglio ottiene vantaggio nelle prove di Forza e la capacita' di carico si raddoppia.
+- **Grazia:** il bersaglio ottiene vantaggio nelle prove di Destrezza. Non subisce danni se cade da 6 m o meno (a patto che non sia incapacitato).
+- **Resistenza:** il bersaglio ottiene vantaggio nelle prove di Costituzione. Ottiene, inoltre, 2d6 punti ferita temporanei che svaniscono al termine della durata del potere.
+- **Astuzia:** il bersaglio ottiene vantaggio alle prove di Intelligenza.
+- **Saggezza:** il bersaglio ottiene vantaggio nelle prove di Saggezza.
+- **Splendore:** il bersaglio ottiene vantaggio nelle prove di Carisma.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+**Potenziamento della Forza:** quando lanci questo incantesimo utilizzando uno slot di livello 3 o superiore, puoi bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 2
+
 #### Concentrazione della Forza (Force Focus)
+
+Fino al termine della durata del potere, i tuoi attacchi con le armi infliggono 1d4 danni extra da forza.
+
 #### Irrorare la Forza (Force Imbuement)
+
+Infondi la forza nel cristallo all'interno di una spada-laser, nel materiale di una vibro-arma od in un'arma improvvisata.
+
+Fino al termine della durata del potere puoi utilizzare il tuo modificatore di forza-lancio anziche' Forza per i tiri per colpire ed i danni ed il dado per i danni dell'arma diventa 1d8.
+
+L'arma diventa potenziata, qualora gia' non lo fosse, e diventi competente nel suo utilizzo, qualora gia' non lo fossi.
+
+Gli effetti di questo potere terminano se lo lanci nuovamente o se abbandoni l'arma.
+
 #### Immunita della Forza (Force Immunity)
+
+Evochi una barriera intorno a te che permane per la durata del potere.
+
+La barriera si muove insieme a te.
+
+Qualsiasi potere della forza di livello 3 od inferiore, lanciato al di fuori della barriera non ha effetto su di te, anche se quel potere sta venendo lanciato usufruendo del potenziamento della forza.
+
+Il potere puo' comunque bersagliarti, ma non ha effetto.
+
+Qualora un potere influenzi un'area, la barriera fa si' che tu venga escluso tra i potenziali bersagli.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 5 o superiore, la barriera blocca poteri della forza di 1 livello superiore per ogni slot di livello superiore al 4.
+
 #### Salto della Forza (Force Jump)
+
+Utilizzando la forza, effettui un salto, fino ad un massimo di 9 m, arrivando in uno spazio non occupato, ammesso che esista una traiettoria diretta verso questo spazio.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, la distanza del salto aumenta di 1.5 m per ogni slot di livello superiore all'1
+
 #### Slancio della Forza (Force Leap)
+
+Fino alla fine del tuo prossimo turno, puoi utilizzare il tuo modificatore di forza-lancio anziche' Forza quando effettui un salto. La rincorsa da fare prima di un salto e' gia' inclusa, quando salti utilizzando gli effetti di questo potere.
+
 #### Fulmini della Forza (Force Lightning)
+
+Una pioggia di fulmini si espande da te, in un lineare lungo 30 m e largo 1.5 m, verso la direzione che preferisci.
+
+Ogni creatura colpita dal lineare deve effettuare un tiro salvezza su Destrezza.
+
+Chi fallisce il tiro, subisce 8d6 danni elettrici.
+
+Chi supera il tiro, subisce la meta' dei danni.
+
+I fulmini danno fuoco ad oggetti infiammabili, nell'area, che non sono indossati o trasportati.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 4 o superiore, i danni aumentano di 1d6 per ogni slot di livello superiore al 3.
+
 #### Cono di Fulmini della Forza (Force Lightning Cone)
+
+Ogni creatura all'interno di un cono di 18 m deve effettuare un tiro salvezza su Destrezza.
+
+Chi fallisce il tiro, subisce 12d6 danni elettrici.
+
+Chi supera il tiro, subisce la meta' dei danni.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 8 o superiore, i danni aumentano di 2d6 per ogni slot di livello superiore al 7.
+
 #### Legame della Forza (Force Link)
+
+Crei un legame telepatico con una creatura consenziente che conosci.
+
+Fino al termine della durata del potere, sia tu che il bersaglio potete condividere, istantaneamente, parole, immagini, suoni e sensazioni attraverso il legame.
+
+Il bersaglio riconosce che sia tu la creatura con la quale stia comunicando.
+
+Questo potere rende una creatura, con un punteggio di Intelligenza di almeno 1, in grado di capire il significato delle tue parole e dei messaggi sensoriali che le invii.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
 #### Maschera della Forza (Force Mask)
+
+Fino al termine della durata del potere o fino a che non utilizzi un'azione standard per terminare il potere, puoi camuffare te stesso, tramite l'utilizzo della forza, in svariati modi.
+
+Puoi sembrare piu' alto o piu' basso di circa 1.5 m e cambiare l'aspetto del tuo corpo ed il peso.
+
+Non puoi cambiare la struttura basilare del tuo corpo.
+
+Questo effetto puo' includere i tuoi vestiti, le tue armi ed altre tue possessioni.
+
+Questo effetto e' puramente visivo, qualsiasi tipo di contatto fisico interagira' con le tue vere dimensioni.
+
+Una creatura che spende la sua azione standard per esaminare la tua identita' puo' capire l'illusione superando la tua CD da forza-lancio tramite una prova di Intelligenza (Investigare).
+
 #### Infusione della Forza (Force Meld)
+
+Crei un legame telepatico con delle creature (massimo 8) che si trovano entro gittata.
+
+Il legame telepatico permette ad ogni creatura di comunicare con un'altra che faccia parte della rete telepatica.
+
+Droidi, costrutti e creature con un punteggio di Intelligenza di 2 od inferiore non possono beneficiare di questo potere.
+
+Fino al termine della durata del potere le creature possono comunicare tra loro anche qualora non abbiano dei linguaggi in comune.
+
+La comunicazione e' non curante delle distanze ma non puo' estendersi oltre un singolo pianeta.
+
 #### Cura della Forza (Force Mend)
+
+La creatura toccata recupera 4d8 + 15 punti ferita.
+
+Per la durata del potere il bersaglio recupera 1 punto ferita ad ogni inizio dei suoi turni (10 punti ferita per minuto).
+
+Se la creatura ha una parte del corpo mozzata, puoi avvicinarla al moncherino ed il potere colleghera' immediatamente la parte mancante al corpo.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
 #### Proiettare la Forza (Force Project)
+
+Crei una tua copia illusoria che perdura fino al termine della durata del potere.
+
+La copia puo' apparire in qualsiasi luogo che tu abbia visitato, ignorando qualsiasi tipo di ostacolo.
+
+L'illusione ha il tuo stesso aspetto e la tua stessa voce, ma risulta intangibile.
+
+Se l'illusione subisce qualsiasi tipo di danno, essa scompare ed il potere termina.
+
+Puoi vedere tramite i suoi occhi ed ascoltare tramite le sue orecchie come se ti trovassi fisicamente in quel luogo.
+
+Durante il tuo turno, con un'azione bonus, puoi decidere di tornare ad utilizzare i tuoi sensi anziche' quelli dell'illusione e viceversa.
+
+Quando utilizzi i sensi dell'illusione risulti come accecato ed assordato per quello che riguarda cio' circonda il tuo corpo fisico.
+
+Interazioni fisiche con l'immagine rivelano il fatto che si tratti di un'illusione, perche' le cose le passano attraverso.
+
+Una creatura che spende la propria azione standard ad esaminare l'immagine puo' capire che si tratti di un'illusione superando la tua CD di forza-lancio, effettuando una prova di Intelligenza (Investigare).
+
+Se una creatura svela l'illusione puo' vedere attraverso essa ed ogni suono che emette non arriva alle orecchie della creatura.
+
 #### Propulsione della Forza (Force Propel)
+
+Scegli una o piu' creature od uno o piu' oggetti non indossati o trasportati, entro 18 m, per un peso totale di 7.5 kg.
+
+Le creature o gli oggetti cominciano a muoversi, immediatamente, di 18 m in una direzione scelta da te.
+
+Se terminano il movimento in aria, cadono immediatamente al suolo.
+
+Se si scontrano con un bersaglio, sia le creature od oggetti che il bersaglio subiscono 3d8 danni cinetici. 
+
+Se il bersaglio e' una creatura deve effettuare un tiro salvezza su Destrezza.
+
+Se fallisce il tiro, subisce i danni cinetici.
+
+Se supera il tiro, subisce la meta' dei danni.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore il peso massimo aumenta di 7.5 kg ed i danni di 1d8 per ogni slot di livello superiore all'1.
+
 #### Spinta/Attrazione della Forza (Force Push/Pull)
-#### Deflezione della Forza (Force Reflection)
+
+Sei in grado di muovere o manipolare creature ed oggetti tramite la forza.
+
+Puoi controllare con maestria gli oggetti effettuando delle azioni tipo:
+
+- manipolare uno strumento
+- aprire una porta od un contenitore
+- riporre od estrarre un oggetto da un contenitore aperto
+- versare i contenuti di una fiala
+
+Alternativamente, puoi spingere od attirare a te delle creature od oggetti che puoi vedere.
+
+Puoi usare la forza per muovere una creatura di taglia media od inferiore od un oggetto incustodito, sempre di taglia media od inferiore, entro gittata.
+
+Il bersaglio deve effettuare un tiro salvezza su Forza.
+
+Gli oggetti falliscono automaticamente il tiro.
+
+Chi fallisce il tiro, viene spostato in una direzione decisa da te. La distanza percorsa dipende dalla taglia del bersaglio, ovvero:
+
+- **minuscola:** fino a 6 m
+- **piccola:** fino a 3 m
+- **media:** fino a 1.5 m
+
+Se al termine del movimento il bersaglio colpisce un'altra creatura od oggetto, questo ultimo bersaglio deve effettuare un tiro salvezza su Destrezza.
+
+L'oggetto fallisce automaticamente il tiro.
+
+Chi fallisce il tiro, subisce 1d4 danni cinetici.
+
+L'entita' di questo potere aumenta con l'aumentare dei livelli. Nello specifico:
+
+- livello 5: 
+  - **minuscola:** 9 m
+  - **piccola:** 6 m
+  - **media:** 3 m
+  - **danni:** 2d4
+- livello 11: 
+  - **minuscola:** 9 m
+  - **piccola:** 9 m
+  - **media:** 6 m
+  - **danni:** 3d4
+- livello 17: 
+  - **minuscola:** 9 m
+  - **piccola:** 9 m
+  - **media:** 9 m
+  - **danni:** 4d4
+
+#### Deflessione della Forza (Force Reflect)
+
+Quando utilizzi questo potere i danni ricevuti dall'attacco che lo hanno azionato vengono ridotti di 1d10.
+
+Se il danno viene ridotto a 0 ed il tipo di danno e': energia, forza, ioni, cinetici, elettrici, necrotici o sonori, puoi riflettere l'attacco su un bersaglio entro gittata, come parte della stessa reazione.
+
+Effettua un attacco della forza verso una creatura che puoi vedere.
+
+La gittata dell'attacco e' 9/27.
+
+Se colpisci il bersaglio subisce i danni che avresti dovuto subire tu.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore la riduzione dei danni aumenta di 1d10 per ogni slot di livello superiore all'1.
+
 #### Espulsione della Forza (Force Repulse)
+
+Ogni creatura entro 6 m deve effettuare un tiro salvezza su Destrezza.
+
+Chi fallisce il tiro, subisce 8d6 danni da forza e viene spinto indietro di 1.5 m
+
+Chi supera il tiro, subisce la meta' dei danni e non viene spinto.
+
+Tutti i piccoli oggetti che non sono indossati o trasportati vengono spinti di 1.5 m
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 4 o superiore, i danni aumentano di 1d6 per ogni slot di livello superiore al 3.
+
 #### Urlo della Forza (Force Scream)
+
+Ogni creatura, scelta da te, che si trova entro 4.5 m da te deve effettuare un tiro salvezza su Costituzione.
+
+Chi fallisce il tiro, subisce 4d6 danni psichici, 4d6 danni sonori ed e' assordato fino alla fine del suo prossimo turno.
+
+Chi supera il tiro, subisce la meta' dei danni e non e' assordato.
+
 #### Atterramento della Forza (Force Shunt)
+
+Utilizzi la forza per atterrare una creatura.
+
+Il bersaglio deve superare un tiro salvezza su Forza.
+
+Se fallisce il tiro, subisce 1d4 danni cinetici e cade a terra prono.
+
+I danni di questo potere aumentano di 1d4 al livello 5 (2d4), livello 11 (3d4) e livello 17 (4d4).
+
 #### Vista della Forza (Force Sight)
+
+Per la durata del potere ottieni i seguenti benefici:
+
+- Gli esseri viventi brillano con il potere della forza. Coloro affini al lato chiaro brillano di blu, coloro affini al lato oscuro brillano di rosse e coloro senza affiliazione brillano di giallo. Piu' e' forte il legame con la forza e piu' sara' forte l'entita del bagliore.
+- Ottieni vista cieca 9 m
+- Ottieni vantaggio nelle prove di Saggezza (Percezione) basate sulla vista, effettuate verso creature viventi entro 9 m da te.
+
 #### Tempesta della Forza (Force Storm)
+
+Una tempesta di fulmini con diametro di 18 m ed un'altezza di 36 m appare in un punto, da te selezionato, entro gittata.
+
+Quando una creatura entra nella tempesta od inizia il turno al suo interno deve effettuare un tiro salvezza su Destrezza.
+
+Se fallisce il tiro, subisce 30d6 danni elettrici.
+
+Se supera il tiro, subisce la meta' dei danni.
+
+Questo potere danneggia gli oggetti e da fuoco ad oggetti infiammabili che non sono indossati o trasportati.
+
 #### Soppressione della Forza (Force Suppression)
+
+Scegli 1 effetto, entro gittata, tra:
+
+- creatura
+- oggetto
+- effetto della forza
+
+Qualsiasi potere di livello 3 od inferiore termina.
+
+Per ogni potere della forza di livello 4 o superiore va effettuata una prova utilizzando il tuo modificatore di forza-lancio. La CD da superare e' 10 + il livello del potere da dissolvere.
+
+Se superi la prova, il potere termina.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 4 o superiore, poni fine, immediatamente, agli effetti di un potere della forza di livello pari od inferiore al livello dello slot utilizzato.
+
 #### Tecnica della Forza (Force Technique)
+
+Impregni la tua arma con la luce purificante della forza.
+
+Come parte dell'azione standard utilizzata per lanciare questo potere, puoi effettuare un attacco corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
+
+Se colpisci, il bersaglio subisce i normali effetti dell'attacco e viene avvolta da una barriera della forza, luminescente, fino all'inizio del tuo prossimo turno.
+
+Se il bersaglio si muove, volontariamente, prima dell'inizio del tuo prossimo turno, subisce immediatamente 1d8 danni da forza ed il potere termina.
+
+I danni di questo potere aumentano con l'aumentare dei livelli in questo modo:
+
+- livello 5: 1d8 aggiuntivo nell'attacco con l'arma, 2d8 quando il bersaglio si muove.
+- livello 11: 2d8 aggiuntivi nell'attacco con l'arma, 3d8 quando il bersaglio si muove.
+- livello 17: 3d8 aggiuntivi nell'attacco con l'arma, 4d8 quando il bersaglio si muove.
+
 #### Lancio della Forza (Force Throw)
+
+Sposti una creatura od un oggetto incustodito, entro gittata, di taglia grande od inferiore, tramite la forza.
+
+Il bersaglio deve effettuare un tiro salvezza su Forza.
+
+Gli oggetti falliscono automaticamente il tiro.
+
+Chi fallisce il tiro, si muove in una direzione scelta da te, in base alla sua taglia, ovvero:
+
+- **minuscola:** fino a 27 m
+- **piccola:** fino a 18 m
+- **media:** fino a 9 m
+- **grande:** fino a 3 m
+
+Se al termine del movimento il bersaglio colpisce un'altra creatura od oggetto, entrambi subiscono 2d8 danni da forza.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3 o superiore, la distanza di movimento aumenta di 3 m, fino ad un massimo di 27 m ed i danni aumentano di 1d8 per ogni slot di livello superiore al 2.
+
 #### Trance della Forza (Force Trance)
+
+Puoi selezionare fino a 3 creature consenzienti, entro gittata, che puoi vedere.
+
+Esse perdono i sensi per tutta la durata del potere.
+
+Il potere termina anticipatamente se il bersaglio subisce dei danni o viene svegliato.
+
+Se il bersaglio rimane privo di sensi per tutta la durata del potere, riceve i benefici di un riposo breve e non puo' essere nuovamente bersaglio di questo potere finche' non termina un riposo lungo.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 4 o superiore, puoi bersagliare 1 creatura consenziente addizionale per ogni slot di livello superiore al 3.
+
 #### Visione della Forza (Force Vision)
+
+Ricevi una visione del futuro tramite la forza, fornendo a te o ad una creatura, entro gittata, che puoi vedere, la possibilita' di cambiare il fato.
+
+Quando il bersaglio scelto effettua, prima del termine del potere:
+
+- una prova di abilita'
+- un tiro per colpire
+- un tiro salvezza
+
+Puo' consumare questo potere per tirare 1d20 addizionale e scegliere quale risultato utilizzare.
+
+In alternativa, quando viene effettuato un tiro per colpire contro il beneficiario di questo potere, esso puo' consumare gli effetti dello stesso per tirare 1d20 e decidere se fare utilizzare, o meno, questo nuovo tiro all'attaccante.
+
+Se il tiro originale era oggetti di vantaggio o svantaggio, il tiro del d20 addizionale di questo potere viene effettuato dopo la risoluzione del vantaggio o dello svantaggio.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3 o superiore puoi selezionare 1 creatura aggiuntiva per ogni slot di livello superiore al 2.
+
 #### Arma della Forza (Force Weapon)
+
+Tocchi un'arma non potenziata, nella quale sei competente.
+
+Finche' la impugni, per la durata del potere, quell'arma diventa un'arma potenziata con un bonus di +1 ai tiri per colpire e ai danni.
+
+Inoltre, puoi utilizzare il tuo modificatore di forza-lancio anziche' il modificatore di Forza o Destrezza per il tiro per colpire ed i danni dell'arma.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 5 o superiore, i bonus aumentano a +2. Quando utilizzi uno slot di livello 7 o superiore, i bonus aumentano a +3.
+
 #### Bisbiglio della Forza (Force Whisper)
+
+Trasmetti un messaggio con la tua voce, tramite la forza, verso un'altra creatura, entro gittata.
+
+Il bersaglio (e solo quel bersaglio) sente il messaggio e puo' risponderti con un'altro bisbiglio che solo tu puoi sentire.
+
+Puoi lanciare questo potere attraverso oggetti solidi se hai familiarita con il bersaglio e sai che si trovi oltre l'ostacolo.
+
+Il potere viene bloccato da:
+
+- un effetto di silenzio potenziato
+- 0.3 m di pietra
+- 2.5 cm di metallo
+- una lastra di piombo poco spessa
+- 9 m di legno
+
+Il potere non ha bisogno di seguire una linea retta e puo' viaggiare aggirando curve ed aperture.
+
 #### Liberta' di Movimento (Freedom of Movement)
+
+Tocchi una creatura consenziente, donando i seguenti effetti:
+
+- il movimento del bersaglio ignora il terreno difficile
+- poteri ed effetti potenziati non possono ridurre la velocita' o rendere il bersaglio paralizzato o trattenuto
+- il bersaglio puo' spendere 1.5 m di movimento per divincolarsi da qualsiasi restrizione non potenziata
+- il bersaglio non riceve alcuna penalita' al movimento od agli attacchi effettuati sott'acqua.
+
 #### Donare Vita (Give Life)
+
+Puoi spendere e tirare uno dei tuoi Dadi Vita per far recuperare alla creatura toccata tanti punti ferita pari al risultato del tiro.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
 #### Rampicante Afferrante (Grasping Vine)
+
+Fai emergere un rampicante dal terreno, in uno spazio non occupato, entro gittata, che puoi vedere.
+
+Quando lanci questo potere puoi far colpire al rampicante una creatura, che puoi vedere, entro 9 m da essa.
+
+Il bersaglio deve superare un tiro salvezza su Destrezza.
+
+Se fallisce il tiro, viene tirato di 6 m verso il rampicante.
+
+Fino al termine della durata del potere, puoi utilizzare la tua azione bonus per tentare nuovamente di colpire con il rampicante.
+
 #### Retroazione Potenziata (Greater Feedback)
+
+Scegli un punto, entro gittata, dal quale scaturisce un'esplosione d'energia psichica.
+
+Ogni creatura all'interno dell'area influenzata (una sfera con raggio 6 m, avente come centro il punto selezionato al lancio del potere) deve effettuare un tiro salvezza su Intelligenza.
+
+Chi fallisce il tiro, subisce 8d6 danni psichici.
+
+Chi supera il tiro, subisce la meta' dei danni.
+
+Inoltre, chi fallisce il tiro salvezza e' disorientato per 1 minuto. Durante questo periodo di tempo, quando effettua:
+
+- tiri per colpire
+- prove di abilita'
+- tiri salvezza su Costituzione per mantenere la concentrazione
+
+tira 1d6 e sottrae il risultato al tiro.
+
+Il bersaglio puo' effettuare un tiro salvezza su Intelligenza alla fine di ognuno dei suoi turni.
+
+Se supera il tiro, non e' piu' disorientato.
+
 #### Cura Potenziata (Greater Heal)
+
+Scegli una creatura, entro gittata, che puoi vedere.
+
+Il bersaglio recupera 70 punti ferita.
+
+Questo potere fa terminare, immediatamente, tutti gli effetti come:
+
+- cecita'
+- sordita'
+- malattie
+
+Questo potere non ha effetto contro droidi e costrutti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 7 o superiore, le cure aumentano di 10 per ogni slot di livello superiore al 6.
+
 #### Lancio della Spada Potenziato (Greater Saber Throw)
+
+Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio entro la gittata del potere, altrimenti il potere fallisce.
+
+Se l'attacco va a segno, il bersaglio subisce 6d8 dello stesso tipo di danno dell'arma.
+
+Dopodiche' deve effettuare un tiro salvezza su Costituzione contro uno dei seguenti effetti (applicato a seconda della caratteristica di forza-lancio utilizzata per lanciare questo potere):
+
+- **Saggezza:** Se fallisce il tiro, il bersaglio subisce 4d6 danni da forza addizionali e subisce 4 livelli di lentezza fino alla fine del suo prossimo turno.
+
+Se supera il tiro, subisce la meta' dei danni e non viene rallentato.
+
+- **Carisma:** Se fallisce il tiro, il bersaglio subisce 4d6 danni necrotici e non puo' recuperare punti ferita fino alla fine del suo prossimo turno.
+
+Se supera il tiro, subisce la meta' dei danni e recupera punti ferita normalmente.
+
+Dopo essere lanciata, l'arma torna immediatamente nella tua mano.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 6 o superiore, i danni da forza o necrotici aumentano di 1d6 per ogni slot di livello superiore al 5.
+
 #### Guida (Guidance)
+
+Una creatura consenziente toccata tira 1d4 aggiuntivo e lo aggiunge al risultato di una prova d'abilita', dopodiche' il potere termina.
+
+Il tipo di dado di questo potere aumenta all'aumentare dei livelli diventando:
+
+- 1d6 al livello 5
+- 1d8 al livello 11
+- 1d10 al livello 17
+
 #### Allucinazione (Hallucination)
+
+Crei una pericolosa illusione nella mente di una creatura, entro gittata, che puoi vedere.
+
+Il bersaglio deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, crei un oggetto, una creatura od un qualsiasi altro fenomeno visivo a piacere che non sia piu' grande di un cubo di 3 m. Questo effetto e' visibile soltanto dal bersaglio.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+L'allucinazione include suoni, temperature ed altri stimoli, anch'essi percepibili solamente dal bersaglio.
+
+Finche' il bersaglio e' affetto da questo potere, reputa le allucinazioni come se fossero vere.
+
+Il bersaglio cerca di razionalizzare qualsiasi interazione illogica abbia con l'illusione, per esempio: il bersaglio che tenta di oltrepassare un ponte illusorio cade, invece, nel crepaccio sottostante. Se sopravvive alla caduta, credera' comunque all'esistenza del ponte e cerchera' di razionalizzare l'accadimento legato alla sua caduta con un'altra spiegazione; e' stato spinto, e' scivolato od un forte vento, probabilmente, l'ha fatto cadere.
+
+Il bersaglio e' talmente convinto che l'allucinazione sia reale che potrebbe anche subire danni da essa.
+
+Un'allucinazione creata con le fattezze di una creatura, puo' attaccare il bersaglio.
+
+Similmente, un'allucinazione creata con le fattezze di un fuoco, una pozza d'acido o lava puo' bruciare il bersaglio.
+
+Ogni round, nel tuo turno, l'allucinazione puo' infliggere 1d6 danni psichici al bersaglio, qualora si trovasse nell'area dell'allucinazione o entro 1.5 m da essa e sempre ammesso che l'illusione abbia le fattezze di una creatura o di un pericolo che potrebbe, logicamente, infliggere danni.
+
+Il bersaglio percepisce i danni subiti del tipo appropriato all'illusione.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3 o superiore la gittata aumenta di 6 m, le dimensioni dell'allucinazione aumentano di 1.5 m e puoi influenzare 1 creatura addizionale per ogni 2 slot di livello superiore al 2.
+
 #### Cura Ferite (Heal)
+
+La creatura toccata recupera punti ferita pari a 1d8 + il tuo modificatore di forza-lancio.
+
+Questo potere non ha effetto su droidi e costrutti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, le cure aumentano di 1d8 per ogni slot di livello superiore all'1.
+
 #### Eroismo (Heroism)
+
+Fino al termine della durata del potere il bersaglio ottiene:
+
+- immunita' alla paura.
+- punti ferita temporanei pari al tuo modificatore di forza-lancio all'inizio di ognuno dei suoi turni.
+
+Quando il potere termina, il bersaglio perde tutti i punti ferita temporanei rimanenti acquisiti da questo potere.
+
+Questo potere non ha effetto contro droidi o costrutti
+
+**Potenziamento della Forza:** quando lanci questo incantesimo utilizzando uno slot di livello 2 o superiore puoi bersagliare 1 creatura aggiuntiva per ogni slot di livello superiore all'1.
+
 #### Stregare (Hex)
+
+Maledici un nemico, entro gittata.
+
+Fino alla fine della durata del potere, infliggi 1d6 danni necrotici aggiuntivi al bersaglio quando lo colpisci con un attacco.
+
+Inoltre, scegli una caratteristica quando lanci questo potere. Il bersaglio subisce svantaggio nelle prove di caratteristica effettuate con la caratteristica scelta.
+
+Se il bersaglio scende a 0 punti ferita, prima del termine di questo potere, puoi utilizzare la tua azione bonus, in uno dei tuoi turni successivi, per maledire una nuova creatura.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3 o 4, puoi mantenere la concentrazione su questo potere fino ad una durata di 8 ora. QUando utilizzi uno slot di livello 5 o superiore, puoi mantenere la concentrazione su questo potere per una durata di 24 ore.
+
 #### Orrore (Horror)
+
+Ogni creatura in un cono di 9 m deve effettuare un tiro salvezza su Saggezza.
+
+Chi fallisce il tiro, lascia cadere a terra tutto cio' che stesse impugnando ed e' spaventato fino alla fine della durata del potere.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+Una creatura spaventata tramite questo potere deve effettuare l'azione di Scatto ed allontanarsi da te, il piu' lontano possibile (ammesso che ci sia lo spazio per muoversi).
+
+Se il bersaglio termina il suo turno in un luogo dal quale non riesce piu' a vederti, puo effettuare un tiro salvezza su Saggezza.
+
+Se supera il tiro, gli effetti del potere, su quella creatura, terminano.
+
 #### Isteria (Hysteria)
+
+Risvegli le paure piu' profonde di una creatura, entro gittata, che puoi vedere.
+
+Il bersaglio deve superare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, e' spaventata fino al termine del potere.
+
+Alla fine di ogni suo turno, prima del termine del potere, deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, subisce 4d10 danni psichici.
+
+Se supera il tiro, il potere termina.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 5 o superiore, i danni aumentano di 1d10 per ogni slot di livello superiore al 4.
+
 #### Meditazione da Battaglia Migliorata (Improved Battle Meditation)
+
+Emani un'aura di 4.5 m che alza il morale e le prestazioni fisiche di chi si trova all'interno dell'area (tu incluso) e, nello stesso tempo, demoralizza i nemici.
+
+Quando tu od un alleato, all'interno dell'area influenzata dal potere, effettuate un tiro per colpire od un tiro salvezza, potete tirare 1d6 addizionale ed aggiungerlo al risultato del tiro per colpire o del tiro salvezza.
+
+Quando un nemico entra nell'area od inizia il suo turno all'interno, deve effettuare un tiro salvezza su Carisma.
+
+Se fallisce il tiro, quando effettua un tiro per colpire od un tiro salvezza deve tirare 1d6 addizionale e sottrarre il risultato dal tiro per colpire od il tiro salvezza che effettua prima della fine del tuo prossimo turno.
+
+Se supera il tiro, diventa immune agli effetti del potere per 24 ore.
+
 #### Tentacoli del Lato Oscuro Migliorati (Improved Dark Side Tendrils)
+
+Evochi una sfera nera come la pece, con raggio di 6 m, in un punto, entro gittata.
+
+Nessuna luce, potenziata e non, puo' illuminare l'area.
+
+Le creature all'interno dell'area sono accecate ed il terreno e' considerato terreno difficile.
+
+Qualsiasi creatura che inizi il proprio turno all'interno dell'area subisce 2d6 danni necrotici.
+
+Qualsiasi creatura che termini il proprio turno all'interno dell'area deve effettuare un tiro salvezza su Forza.
+
+Se fallisce il tiro, subisce 2d6 danni da veleno causato dal contatto con i tentacoli d'energia oscura.
+
 #### Retroazione Migliorata (Improved Feedback)
+
+Scateni un'esplosione d'energia psichica verso un bersaglio, entro gittata.
+
+Se il bersaglio puo' sentirti, deve effettuare un tiro salvezza su Intelligenza.
+
+Se fallisce il tiro, subisce 3d6 danni psichici e deve immediatamente utilizzare la propria reazione, se disponibile, per allontanarsi da te fino al massimo della sua velocita'.
+
+Fuggendo, la creatura evita ostacoli palesemente pericolosi come, per esempio, del fuoco od un burrone.
+
+Se supera il tiro, subisce meta' dei danni e non fugge.
+
+Una creatura assordata supera, automaticamente, il tiro salvezza.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, i danni aumentano di 1d6 per ogni slot di livello superiore all'1.
+
 #### Barriera della Forza Migliorata (Improved Force Barrier)
+
+Scegli fino a 12 creature entro gittata, esse ricevono i seguenti benefici:
+
+- immunita' a veleno e malattie. Qualsiasi veleno o malattia gia' presenti continuano ad esistere.
+- immunita' alla paura causata da poteri
+- i punti ferita massimi ed i punti ferita correnti aumentano di 2d10 fino al termine della durata del potere.
+
+Questi benefici durano per 24 ore o fino al termine del tuo riposo lungo (qualunque di questi due eventi accada per primo).
+
 #### Camuffamento della Forza Migliorato (Improved Force Camouflage)
+
+Una creatura consenziente diventa invisibile fino al termine della durata del potere.
+
+Qualsiasi oggetto indossato o trasformato diventa invisibile insieme al bersaglio.
+
 #### Immunita della Forza Migliorata (Improved Force Immunity)
+
+Evochi una barriera intorno a te, e che si espande in un raggio di 4.5 m, che permane per la durata del potere.
+
+La barriera si muove insieme a te.
+
+Qualsiasi potere della forza di livello 5 od inferiore, lanciato al di fuori della barriera, non ha effetto su chi si trova all'interno dell'area, anche se quel potere sta venendo lanciato usufruendo del potenziamento della forza.
+
+Il potere puo' comunque bersagliare chi si trova all'interno della barriera, ma non ha effetto.
+
+Qualora un potere influenzi un'area, la barriera fa si' che chi si trova al suo interno venga escluso tra i potenziali bersagli.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 7 o superiore, la barriera blocca poteri della forza di 1 livello superiore per ogni slot di livello superiore al 6.
+
 #### Urlo della Forza Migliorato (Improved Force Scream)
+
+Ogni creatura, scelta da te, che si trova entro 9 m da te deve effettuare un tiro salvezza su Costituzione.
+
+Chi fallisce il tiro, subisce 5d6 danni psichici, 5d6 danni sonori, e' assordato fino alla fine del suo prossimo turno e cade a terra prono.
+
+Chi supera il tiro, subisce la meta' dei danni, non e' assordato e non cade a terra prono.
+
 #### Cura Ferite Migliorato (Improved Heal)
+
+Emani un'onda di energia curativa da un punto scelto, entro gittata, influenzando un'area pari ad una sfera con raggio di 9 m.
+
+Fino a 6 creature all'interno dell'area recuperano punti ferita pari a 3d8 + il tuo modificatore di forza-lancio.
+
+Questo potere non ha effetto su droidi e costrutti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 6 o superiore, le cure aumentano di 1d8 per ogni slot di livello superiore al 5.
+
 #### Colpo in Fase Migliorato (Improved Phasestrike)
+
+Scegli fino a 5 creature, entro gittata, che puoi vedere.
+
+Effettua un tiro per colpire della forza contro ognuna di esse.
+
+I bersagli colpiti subiscono 6d10 danni da forza.
+
+Puoi decidere di teletrasportarti in uno spazio non occupato, che puoi vedere, entro 1.5 m da una delle creature che hai bersagliato
+
 #### Camminata in Fase Migliorata (Improved Phasewalk)
+
+Ti teletrasporti fino ad un massimo di 18 m in uno spazio non occupato, che puoi vedere.
+
+In ognuno dei tuoi turni, prima del termine di questo potere, puoi utilizzare la tua azione bonus per teletrasportarti nuovamente, alla stessa maniera.
+
 #### Ripristinare Migliorato (Improved Restoration)
+
+Infondi energia positiva nella creatura toccata.
+
+Puoi ridurre di 1 il livello di esaurimento del bersaglio o porre fine ad 1 dei seguenti effetti presenti sul bersaglio:
+
+- ammaliamento
+- maledizione, inclusa la sintonizzazione verso un oggetto maledetto
+- malus ad una caratteristica
+- riduzione dei punti ferita massimi
+
 #### Ravvivare Migliorato (Improved Revitalize)
+
+Resusciti la creatura toccata, a patto che non sia deceduta da piu' di 1 ora.
+
+Se l'anima della creatura e' consenziente e non e' intrappolata, puo' decidere di ricongiungersi con il suo corpo, ritornando con tutti i suoi punti ferita.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+Questo potere chiude tutte le ferite mortali e rigenera eventuali parti del corpo mancanti.
+
+Tornare in vita dal regno dei morti e' una dura prova.
+
+Il bersaglio subisce una penalita di -4 a:
+
+- tiri per colpire
+- tiri salvezza
+- prove di abilita'
+
+Al termine di ogni riposo lungo, la penalita' si riduce di 1, fino a scomparire del tutto.
+
 #### Lancio della Spada Migliorato (Improved Saber Throw)
+
+Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio, entro la gittata del potere, altrimenti il potere fallisce.
+
+Se colpisci, il bersaglio subisce 2d8 danni dello stesso tipo di danni dell'arma e deve effettuare un tiro salvezza su Costituzione.
+
+Se fallisce il tiro, il bersaglio subisce 1 livello di lentezza fino alla fine del suo prossimo turno ed il prossimo attacco andato a segno contro il bersaglio, effettuato prima della fine del suo prossimo turno, infligge 1d10 danni da forza aggiuntivi.
+
+Se supera il tiro, il bersaglio subisce solamente meta' dei danni da forza aggiuntivi, provenienti da un attacco che lo colpisce prima della fine del suo prossimo turno e non viene rallentato.
+
+Risolto il risultato del tiro salvezza, l'arma torna immediatamente nella tua mano.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3 o superiore, i danni da forza aumentano di 1d10 per ogni slot di livello superiore al 2.
+
 #### Insanita' (Insanity)
+
+Ogni creatura all'interno dell'emanazione a forma di sfera avente 9 m di raggio, che parte da te, deve effettuare un tiro salvezza su Saggezza.
+
+Chi fallisce il tiro, e' affetto da questo potere non puo' effettuare reazioni e deve tirare 1d8 all'inizio di ognuno dei suoi turni per determinare come si comportera' in quel determinato turno.
+
+|d8|Comportamento
+|---|---
+|1|La creatura utilizza l'interno movimento per recarsi in una direzione casuale. Per determinare la direzione, tira 1d8 ed assegna una direzione ad ogni faccia. La creatura non effettuera' alcuna azione standard questo turno
+|2-6|La creatura rimane immobili e non compie azioni
+|7-8|La creatura utilizza la sua azione standard per effettuare un tiro per colpire corpo a corpo contro una creatura casuale, entro portata. Se non ci sono creature a portata, la creatura passa il turno a non fare nulla
+
+Alla fine di ognuno dei suoi turni, un bersaglio affetto da questo potere puo' effettuare un tiro salvezza su Saggezza.
+
+Se supera il tiro, gli effetti di questo potere, presenti sul bersaglio, terminano.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+**Potenziamento della Forza:** Quando lanci questo potere utilizzando uno slot di livello 6 o superiore, il raggio della sfera aumenta di 1.5 m per ogni slot di livello superiore al 5
+
 #### Uccidere (Kill)
+
+Costringi una creatura che puoi vedere, entro gittata, a morire.
+
+Se il bersaglio e' a 100 o meno punti ferita, muore all'istante.
+
+Altrimenti, il potere non ha effetto.
+
 #### Velocita' del Cavaliere (Knight Speed)
+
+Scegli una creatura consenziente che puoi vedere, entro gittata.
+
+Fino al termine del potere, il bersaglio ottiene i seguenti benefici:
+
+- velocita' di movimento raddoppiata
+- bonus +2 alla CA
+- vantaggio nei tiri salvezza su Destrezza
+- 1 azione standard aggiuntiva per turno, utilizzabile solo per compiere le azioni di:
+  - Attacco (1 solo attacco con le armi)
+  - Scatto
+  - Disimpegno
+  - Nascondersi
+  - Utilizzare un Oggetto
+
+Quando questo potere termina, il beneficiario non puo' muoversi od effettuare azioni fino alla fine del suo prossimo turno.
+
 #### Carica Fulminea (Lightning Charge)
+
+Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
+
+Se l'attacco va a segno, il bersaglio subisce i normali effetti dell'attacco ed una scarica elettrica balza dal bersaglio su di una creatura differente, che non si trovi oltre 1.5 m dal bersaglio originale, che puoi vedere.
+
+Il secondo bersaglio subisce danni elettrici pari al tuo modificatore di forza-lancio
+
+I danni di questo potere aumentano all'aumentare dei livelli, in questa maniera:
+
+- **livello 5:** l'attacco corpo a corpo infligge 1d8 danni elettrici extra al bersaglio principale ed i danni contro il secondo bersaglio diventano 1d8 + il tuo modificatore di forza-lancio
+- **livello 11:** entrambi i danni aumentano di 1d8 (2d8/2d8 + modificatore di forza-lancio)
+- **livello 17:** entrambi i danni aumentano di 1d8 (3d8/3d8 + modificatore di forza-lancio)
+
 #### Localizzare Creatura (Locate Creature)
+
+Descrivi le fattezze od il nome di una creatura a te familiare.
+
+Percepisci il percorso da seguire per raggiungere la posizione della creatura, a patto che si trovi entro 300 m da te.
+
+Se la creatura si sta muovendo, capisci la direzione in cui sta andando.
+
+Questo potere puo' localizzare una creatura specifica, che conosci, oppure la persona di un tipo specifico piu' vicina al bersaglio che si vuole localizzare, entro 9 m da esso.
+
+Se la creatura ha cambiato forma, il potere non ha effetto.
+
+Questo potere non puo' localizzare una creatura qualora dell'acqua corrente, larga almeno 3 m, blocchi un percorso diretto fra te e la creatura.
+
 #### Localizzare Oggetto (Locate Object)
+
+Descrivi le fattezze od il nome di un oggetto.
+
+Percepisci il percorso da seguire per raggiungere la posizione dell'oggetto, a patto che si trovi entro 300 m da te.
+
+Se l'oggetto si sta muovendo, capisci la direzione in cui sta andando.
+
+Questo potere puo' localizzare un oggetto specifico, che conosci, affinche tu l'abbia gia' visto da una distanza di almeno 9 m
+
+In alternativa, questo potere puo' localizzare l'oggetto di un tipo specifico piu' vicino al bersaglio che si vuole localizzare.
+
+Questo potere non puo' localizzare un oggetto qualora del piombo, di qualsiasi spessore, blocchi il percorso diretto fra te e l'oggetto.
+
 #### Oscurita' Esasperante (Maddening Darkness)
+
+Dell'oscurita' terrificante si staglia da un punto, entro gittata, riempiendo un'area pari ad una sfera con raggio di 18 m.
+
+L'oscurita' permea anche negli angoli.
+
+Una creatura con scurovisione non riesce a vedere attraverso questa oscurita'.
+
+Luce non potenziata e luce creata da poteri di livello 8 od inferiore non riescono ad illuminare l'area.
+
+Urla, parole alla rinfusa e risate folli possono essere sentite all'interno della sfera.
+
+Quando una creatura inizia il proprio turno all'interno della sfera, deve effettuare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, subisce 8d8 danni psichici.
+
+Se supera il tiro, subisce meta' dei danni.
+
 #### Malessere (Malacia)
+
+Scegli una creatura, entro gittata, che puoi vedere.
+
+Deve superare un tiro salvezza su Saggezza.
+
+Se fallisce il tiro, cade a terra prona, diviene incapacitata e non e' in grado di rialzarsi.
+
+Al termine di ogni suo turno, ed ogni volta che subisce danni, puo' tentare di effettuare un nuovo tiro salvezza su Saggezza. La creatura ottiene vantaggio se il tiro salvezza e' effettuato a causa dell'aver ricevuto danni.
+
+Se supera il tiro, l'effetto del potere termina.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
 #### Animare di Massa (Mass Animation)
+
+Scegli fino a 10 oggetti incustoditi, non potenziati, entro gittata.
+
+I bersagli di taglia media contano come 2 oggetti.
+
+I bersagli di taglia grande contano come 4 oggetti.
+
+I bersagli di taglia enorme contano come 8 oggetti.
+
+Puoi controllare oggetti di taglia pari od inferiore ad enorme.
+
+Ogni oggetto animato levita vicino a te, rimanendo entro 30 m dalla tua posizione, per tutta la durata del potere.
+
+Un oggetto animato si comporta come se fosse un costrutto, con una CA, punti ferita ed attacchi, determinati dalla sua taglia. Inoltre riceve una velocita' di volare di 9 m.
+
+Con un'azione bonus, puoi controllare qualsiasi numero degli oggetti controllati da questo potere.
+
+Deciderai tu quale azione l'oggetto compiera' e dove si muovera'.
+
+Gli oggetti agiscono alla fine del tuo turno.
+
+Se comandi ad un'oggetto di attaccare, puo' effettuare un singolo attacco corpo a corpo contro una creatura entro 1.5 m da esso.
+
+L'attacco consiste in uno schianto avente un bonus ai tiri per colpire ed ai danni determinati dalla sua taglia.
+
+|Taglia|PF|CA|Attacco
+|---|---|---|---
+|Minuscola|20|16|+6 per colpire, 1d4 + 3 danni cinetici
+|Piccola|25|15|+6 per colpire, 1d8 + 2 danni cinetici
+|Media|40|13|+5 per colpire, 2d6 + 1 danni cinetici
+|Grande|50|10|+6 per colpire, 2d10 + 2 danni cinetici
+|Enorme|80|10|+8 per colpire, 2d12 + 4 danni cinetici
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 6 o superiore, puoi animare 2 oggetti addizionali per ogni slot di livello superiore al 5.
+
 #### Manipolare la Mente di Massa(Mass Coerce Mind)
+
+Suggerisci un'attivita' da compiere (limitata ad una o due frasi) ed influenzi tramite la forza fino a 12 creature, entro gittata, che puoi vedere e che siano in grado di sentirti e capirti.
+
+Le creature che non possono essere affascinate sono immuni a questo effetto.
+
+Il suggerimento deve essere fornito in maniera tale da risultare ragionevole.
+
+Chiedere alle creature di farsi del male termina, automaticamente, l'effetto del potere.
+
+I bersagli devono effettuare un tiro salvezza su Saggezza.
+
+Chi fallisce il tiro, segue il comando descritto al meglio delle proprie possibilita'. L'attivita' suggerita dal comando puo' perdurare fino alla fine della durata del potere. Se l'attivita' suggerita puo' essere terminata nel breve periodo, l'effetto del potere termina non appena il soggetto termini quello che gli e' stato chiesto di fare.
+
+Puoi specificare delle condizioni che attiverebbero delle azioni particolari nel corso della durata del potere. Per esempio: potresti dire ad gruppo di soldati di donare tutti i soldi che hanno al primo viandante che incontrano. Se la condizione non si verifica prima della fine della durata del potere, l'attivita' non verra' effettuata.
+
+Se tu od uno dei tuoi alleati danneggiate una creatura affetta da questo effetto, il potere termina.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 7, la durata del potere diventa: 10 giorni. Quando utilizzi uno slot di livello 8 la durata diventa: 30 giorni. Quando utilizzi uno slot di livello 9 la durata diventa: 1 anno ed 1 giorno
+
 #### Isteria di Massa (Mass Hysteria)
+
+Risvegli le paure piu' profonde di una gruppo di creature, entro gittata, influenzando un'area pari ad una sfera con raggio di 9 m.
+
+I bersagli sono spaventati fino al termine del potere.
+
+I bersagli, alla fine dei rispettivi turni, devono effettuare un tiro salvezza su Saggezza.
+
+Chi fallisce il tiro, subisce 5d10 danni psichici.
+
+Chi supera il tiro, il potere termina.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
 #### Malessere di Massa (Mass Malacia)
+
+Ogni creatura presente in un'area pari ad un cubo di 9 m, entro gittata, deve effettuare un tiro salvezza su Saggezza.
+
+Chi fallisce il tiro, viene affascinato.
+
+Finche' una creatura rimane affascinata da questo potere, e' incapacitata e la sua velocita' scende a 0
+
+Questo potere termina su uno dei bersagli che ne sono affetti se quest'ultimo riceve dei danni o se qualcun altro utilizzi la propria azione standard per tentare di far rinsavire la creatura.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
 #### Meditazione da Battaglia Magistrale (Master Battle Meditation)
+
+Emani un'aura di 9 m che alza il morale e le prestazioni fisiche di chi si trova all'interno dell'area (tu incluso) e, nello stesso tempo, demoralizza i nemici.
+
+Quando tu od un alleato, all'interno dell'area influenzata dal potere, effettuate un tiro per colpire od un tiro salvezza, potete tirare 1d8 addizionale ed aggiungerlo al risultato del tiro per colpire o del tiro salvezza.
+
+Quando un nemico entra nell'area od inizia il suo turno all'interno, deve effettuare un tiro salvezza su Carisma.
+
+Se fallisce il tiro, quando effettua un tiro per colpire od un tiro salvezza deve tirare 1d8 addizionale e sottrarre il risultato dal tiro per colpire od il tiro salvezza che effettua prima della fine del tuo prossimo turno.
+
+Se supera il tiro, diventa immune agli effetti del potere per 24 ore.
+
 #### Retroazione Magistrale (Master Feedback)
+
+Scegli fino a 10 creature, entro gittata, che puoi vedere.
+
+Le creature con un punteggio di Intelligenza pari od inferiore a 2 non sono affette da questo potere.
+
+Ogni bersaglio deve effettuare un tiro salvezza su Intelligenza.
+
+Chi fallisce il tiro, subisce 14d6 danni psichici ed e' stordito.
+
+Chi supera il tiro, subisce la meta' dei danni e non e' stordito.
+
+Un bersaglio stordito puo' effettuare un tiro salvezza su Saggezza al termine di ognuno dei suoi turni.
+
+Se supera il tiro, non e' piu' stordito.
+
 #### Barriera della Forza Magistrale (Master Force Barrier)
+
+Le creature (da te scelte) che si trovano in un raggio di 9 m da te mentre lanci questo potere ottengono i seguenti benefici:
+
+- la creatura emette luce fioca in un raggio di 1.5 m
+- la creatura ottiene vantaggio in tutti i tiri salvezza
+- le altre creature subiscono svantaggio nei tiri per colpire effettuati contro la creatura
+- quando una creatura del lato oscuro della forza colpisce il beneficiario degli effetti di questo potere con un attacco corpo a corpo, quella creatura deve superare un tiro salvezza su Costituzione o venire accecata per la durata del potere.
+
 #### Immunita' della Forza Magistrale (Master Force Immunity)
+
+Evochi una barriera luminescente che ti avvolge e si espande, influenzando un'area pari ad una sfera con raggio di 3 m.
+
+All'interno di questa sfera, i poteri non possono essere lanciati e gli oggetti potenziati perdono i propri effetti.
+
+Fino al termine della durata del potere, la sfera, incentrata su di te, segue i tuoi passi.
+
+I poteri ed altri effetti potenziati vengono soppressi dalla sfera e non possono sporgersi all'interno.
+
+Se viene speso uno slot per lanciare un potere soppresso dalla sfera, lo slot verra' comunque consumato.
+
+Finche' un effetto e' soppresso, non funziona, ma il tempo speso in questa situazione di non funzionamento, viene comunque calcolato ai fini della turata.
+
+Di seguito la descrizione delle varie restrizioni causate dalla sfera:
+
+- **Effetti che Bersagliano:** i poteri ed altri effetti potenziati che bersagliano una creatura od un oggetto all'interno della sfera non hanno alcun effetto sul bersaglio
+- **Aree Potenziate:** l'area di un altro potere o di un effetto potenziato come, per esempio, [Tempesta della Forza](#tempesta-della-forza-force-storm) non puo' estendersi all'interno della sfera. Se l'area della sfera si sovrappone ad un'area potenziata, la parte dell'area potenziata coperta dalla sfera viene soppressa.
+- **Poteri:** qualsiasi potere attivo od un qualsiasi altro effetto potenziato su una creatura od un oggetto che si trova all'interno della sfera, viene soppresso finche' quella creatura o quell'oggetto non si allontanino dalla sfera.
+- **Oggetti Potenziati:** Le proprieta' ed i poteri di oggetti potenziati vengono soppressi finche' si trovano all'interno della sfera. Per esempio, una vibro-spada +1 funzionera' come una vibro-spada non potenziata. 
+
+Le proprieta' ed i poteri potenziati sono soppressi se utilizzati contro bersagli all'interno della sfera o se sono impugnati da un attaccante che si trova sempre all'interno della sfera.
+
+Se un'arma potenziata od una munizione potenziata lascia, completamente, la sfera (per esempio, spari un colpo potenziato o lanci un'arma potenziata) il potenziamento presente sull'oggetto cessa di essere soppresso non appena lascia l'area della sfera.
+
+- **Viaggio Potenziato:** i teletrasporti non funzionano all'interno della sfera, sia che se la sfera sia la destinazione od il punto di partenza. Un portale verso un altro luogo si chiude temporaneamente finche' si trova all'interno della sfera.
+- **Creature ed Oggetti:** una creatura evocata od un oggetto creato da poteri della forza cessano, temporaneamente, di esistere, finche' si trovano all'interno della sfera. Una volta che la sfera abbandona lo spazio occupato dalla creatura o dall'oggetto, essi riappaiono immediatamente nel punto.
+- **Tecno-Sovrascrittura/Soppressione della Forza:** poteri ed effetti potenziati come [Soppressione della Forza](#soppressione-della-forza-force-suppression) non hanno effetto sulla sfera. Inoltre, sfere create da differenti sorgenti di potere non si annullano a vicenda.
+
 #### Urlo della Forza Magistrale (Master Force Scream)
+
+Ogni creatura, scelta da te, che si trova entro 18 m da te deve effettuare un tiro salvezza su Costituzione.
+
+Chi fallisce il tiro, subisce 6d6 danni psichici, 6d6 danni sonori, e' assordato ed accecato per 1 minuto e cade a terra prono.
+
+Chi supera il tiro, subisce la meta' dei danni, non e' assordato ed accecato e non cade a terra prono.
+
 #### Cura Ferite Magistrale (Master Heal)
+
+La creatura toccata recupera tutti i suoi punti ferita
+
+Questo potere fa terminare, immediatamente, tutti gli effetti di:
+
+- ammaliamento
+- paura
+- paralisi
+- stordimento
+
+Se la creatura e' prona, puo' utilizzare la sua reazione per alzarsi in piedi.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
 #### Malessere Magistrale (Master Malacia)
+
+Scegli una creatura, entro gittata, che puoi vedere.
+
+La creatura bersagliata non puo' lasciare lo spazio che sta occupando e subisce svantaggio nei tiri salvezza su Destrezza e nei tiri per colpire.
+
+Finche' la creatura e' affetta da questo potere, le altre creature ottengono vantaggio nei tiri per colpire contro di essa.
+
+Con un'azione standard, la creatura puo' effettuare un tiro salvezza su Saggezza per recuperare le proprie facolta'.
+
+Se supera il tiro, gli effetti del potere terminano.
+
+Le creature che non possono essere affascinate sono immuni agli effetti di questo potere.
+
+Questo potere non ha effetto contro droidi e costrutti.
+
 #### Ravvivare Magistrale (Master Revitalize)
+
+Resusciti la creatura toccata, a patto che non sia deceduta da piu' di 1 ora.
+
+Se l'anima della creatura e' consenziente e non e' intrappolata, puo' decidere di ricongiungersi con il suo corpo, ritornando in vita in salute, con tutti i suoi punti ferita.
+
+Questo potere non ha effetto contro droidi o costrutti.
+
+Questo potere chiude tutte le ferite, cura tutte le malattie, rimuove tutte le maledizioni e rigenera eventuali parti del corpo od organi mancanti e/o danneggiati.
+
 #### Lancio della Spada Magistrale (Master Saber Throw)
+
+Quando lanci questo potere devi impugnare, almeno, 1 spada-laser o vibro-arma, altrimenti il potere fallisce.
+
+Quando lanci questo potere, puoi tirare 2 armi, danneggiando tutte le creature che si trovano nella traiettoria dei due lineari, entrambi lungi 27 m e larghi 1.5 m.
+
+Altrimenti, puoi lanciare una sola arma in un lineare lungo 27 m e largo 1.5 m e cambiarne la direzione per farla muovere in un secondo lineare identico al precedente.
+
+Ogni creatura colpita dai lineari deve effettuare un tiro salvezza su Destrezza.
+
+Chi fallisce il tiro, subisce 5d8 danni dello stesso tipo dei danni dell'arma e 5d8 danni da forza.
+
+Chi supera il tiro, subisce la meta' dei danni.
+
+Una creatura presente in entrambe le aree dei lineari subisce i danni una volta sola.
+
+Al termine del viaggio, le armi tornano tra le tue mani.
+
+**Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 8 o superiore i danni dell'arma ed i danni da forza aumentano di 1d8 per ogni slot di livello superiore al 7.
+
 #### Velocita' Magistrale (Master Speed)
+
+Scegli fino a 2 creature consenzienti, entro gittata, che puoi vedere.
+
+Per la durata del potere, i bersagli ottengono:
+
+- velocita' di movimento raddoppiata
+- bonus +2 alla CA
+- vantaggio nei tiri salvezza su Destrezza
+- 1 azione standard aggiuntiva per turno, utilizzabile solo per compiere le azioni di:
+  - Attacco (1 solo attacco con le armi)
+  - Scatto
+  - Disimpegno
+  - Nascondersi
+  - Utilizzare un Oggetto
+
+Quando questo potere termina, il beneficiario non puo' muoversi od effettuare azioni fino alla fine del suo prossimo turno.
+
+**Potenziamento della Forza:**  quando lanci questo potere utilizzando uno slot di livello 8 o superiore, puoi bersagliare 1 creatura aggiuntiva per ogni slot di livello superiore al 7.
+
 #### Vuoto Mentale (Mind Blank)
+
+Per la durata del potere, 1 creatura senziente, toccata, e' immune a:
+
+- danni psichici
+- danni sonori
+- effetti in grado di percepire emozioni o leggere pensieri
+- affascinamento
+
+Questo potere blocca poteri, od effetti simili, utilizzati per influenzare la mente del bersaglio o per carpirne informazioni.
+
 #### Prigione Mentale (Mind Prison)
+
+
+
 #### Squarcio Mentale (Mind Spike)
 #### Trappola Mentale (Mind Trap)
 #### Trucco Mentale (Mind Trick)
