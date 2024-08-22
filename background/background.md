@@ -111,7 +111,7 @@ Scegli 1 tipo di strumento da gioco ed 1 tra: kit da demolizione, kit di sicurez
 |d8|Specialita' Criminale
 |---|---
 |1|Ricattatore
-|2|Svaliggiatore
+|2|Svaligiatore
 |3|Esecutore
 |4|Ricettatore di Beni Rubati
 |5|Rapinatore su Strada
@@ -148,7 +148,7 @@ Trucchi per il camuffamento, 1 tipo di strumento musicale
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 strumento musicale (a piacere), il pegno di un ammiratore (lettera d'amore, ciocca di caplli od un gioiello), 1 costume ed una sacchetta legata alla cinta contenente 150 cr
+1 strumento musicale (a piacere), il pegno di un ammiratore (lettera d'amore, ciocca di capelli od un gioiello), 1 costume ed una sacchetta legata alla cinta contenente 150 cr
 
 ### Specialita' dell'Intrattenitore <!-- omit in toc -->
 
@@ -159,7 +159,7 @@ Trucchi per il camuffamento, 1 tipo di strumento musicale
 |3|Mangia-fuoco
 |4|Giullare
 |5|Giocoliere
-|6|Strumentalista
+|6|Strumentista
 |7|Poeta
 |8|Cantante
 |9|Racconta Storie
@@ -198,7 +198,7 @@ Scegli 2 tra: Inganno, Intuizione, Percezione, Persuasione
 
 ### Tratto: Guidato dalla Forza <!-- omit in toc -->
 
-Quando cerchi di apprendere una parte di conoscienza, sai istintivamente dove e come ottenerla. Di solito queste informazioni provengono da una persona apparentemente sconosciuta, libri o file di dati. Il tuo Dungeon Master puo' decidere che la conoscenza della quale sei alla ricerca sia nascosta in un luogo quasi impossibile da raggiungere o che non possa proprio essere trovata
+Quando cerchi di apprendere una parte di conoscenza, sai istintivamente dove e come ottenerla. Di solito queste informazioni provengono da una persona apparentemente sconosciuta, libri o file di dati. Il tuo Dungeon Master puo' decidere che la conoscenza della quale sei alla ricerca sia nascosta in un luogo quasi impossibile da raggiungere o che non possa proprio essere trovata
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -260,7 +260,7 @@ Un'uniforme nello stile della tua unita' riportante anche il tuo rango, 1 corno 
 
 ### Tratto: Occhio della Sentinella <!-- omit in toc -->
 
-La tua esperienza nell'applicare la legge e nel trattare con i fuorilegge, ti consente di capire quali siano le leggi ed i criminali locali. Puoi facilmente trovare l'avamposto locale delle guerdie od un'organizzazione simile ed, in egual modo, dei covi criminali presenti in una comunita', essendo conscio del fatto che sarai il benvenuto piu' dal primo gruppo che dal secondo.
+La tua esperienza nell'applicare la legge e nel trattare con i fuorilegge, ti consente di capire quali siano le leggi ed i criminali locali. Puoi facilmente trovare l'avamposto locale delle guardie od un'organizzazione simile ed, in egual modo, dei covi criminali presenti in una comunita', essendo conscio del fatto che sarai il benvenuto piu' dal primo gruppo che dal secondo.
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -332,7 +332,7 @@ Mando'a
 
 ### Tratto: Figlio di Mandalore <!-- omit in toc -->
 
-Gli altri Mandaloriani hanno un occhio di riguardo verso te. Qualora avessi necessita' di vitto od allogio, gli altri Mandaloriani ti aiuteranno, salvo se in faida con il tuo clan. Questo aiuto puo' avvenire sotto forma di: rifugi, pasti o cure. Se i Mandaloriani fanno parte del tuo clan o di un clan alleato potrebbero addirittura offrire soccorso a loro spese
+Gli altri Mandaloriani hanno un occhio di riguardo verso te. Qualora avessi necessita' di vitto od alloggio, gli altri Mandaloriani ti aiuteranno, salvo se in faida con il tuo clan. Questo aiuto puo' avvenire sotto forma di: rifugi, pasti o cure. Se i Mandaloriani fanno parte del tuo clan o di un clan alleato potrebbero addirittura offrire soccorso a loro spese
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -363,7 +363,7 @@ Scegli 2 tra: Atletica, Investigare, Persuasione e Guidare
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 uniforme della tua associazione (di qualita' pari ad abiti da viaggio), 1 adornamento riportante il tuo rango, 1 strumento da gioco (scegli tu) ed una sacchetta contenente la rimanenza del tuo ultimo stipendio (100 cr)
+1 uniforme della tua associazione (di qualita' pari ad abiti da viaggio), 1 ornamento riportante il tuo rango, 1 strumento da gioco (scegli tu) ed una sacchetta contenente la rimanenza del tuo ultimo stipendio (100 cr)
 
 ### Tratto: Vita da Mercenario <!-- omit in toc -->
 
@@ -690,7 +690,7 @@ Scegli 2 tra: Intuizione, Investigare, Guidare e Tecnologia
 
 ### Tratto: Viaggiatore Provetto <!-- omit in toc -->
 
-Hai viaggiato da un capo all'altro della galassia. Hai percorso molte delle rotte commerciali e conosci i percorsi più sicuri. Hai una conoscenza esperta delle varie ipervie. Inoltre, conosci un gran numero di modelli e design delle astronavi comuni che si trovano nella galassia.
+Hai viaggiato da un capo all'altro della galassia. Hai percorso molte delle rotte commerciali e conosci i percorsi più sicuri. Hai una conoscenza esperta delle varie rotte iperspaziali. Inoltre, conosci un gran numero di modelli e design delle astronavi comuni che si trovano nella galassia.
 
 ### Talento del Background <!-- omit in toc -->
 
