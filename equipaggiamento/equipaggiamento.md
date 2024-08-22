@@ -21,7 +21,7 @@
       - [Accurata (Finesse)](#accurata-finesse)
       - [Fissa (Fixed)](#fissa-fixed)
       - [Pesante (Heavy)](#pesante-heavy)
-      - [Nascosa (Hidden)](#nascosa-hidden)
+      - [Nascosta (Hidden)](#nascosta-hidden)
       - [Ad Incastro (Interlocking)](#ad-incastro-interlocking)
       - [Leggera (Light)](#leggera-light)
       - [Luminescente (Luminous)](#luminescente-luminous)
@@ -57,7 +57,7 @@
     - [Dotazioni da Artigiano](#dotazioni-da-artigiano)
     - [Strumenti da Gioco](#strumenti-da-gioco)
     - [Strumenti Musicali](#strumenti-musicali)
-    - [Kita da Specialista](#kita-da-specialista)
+    - [Kit da Specialista](#kit-da-specialista)
 
 ## Variante: ricchezza iniziale per classe
 
@@ -105,11 +105,11 @@ Indossando un'armatura con questa proprieta' subisci svantaggio nelle prove di D
 
 #### Invadente (Obtrusive)
 
-Indossando uno scudo con questa proprieta' subisci svantaggio nelle prove di Destrezza (Furtivita') basade sulla vista
+Indossando uno scudo con questa proprieta' subisci svantaggio nelle prove di Destrezza (Furtivita') basate sulla vista
 
 #### Prestanza Fisica (Strength)
 
-Indossando un'armatura od uno scudo con questa proprieta' la tua velocita diminuisce di 3m almenoche' il tuo punteggio di Forza sia pari o superiore al punteggio di Forza indicato nella descrizione dell'armatura o dello scudo
+Indossando un'armatura od uno scudo con questa proprieta' la tua velocita diminuisce di 3m almeno che il tuo punteggio di Forza sia pari o superiore al punteggio di Forza indicato nella descrizione dell'armatura o dello scudo
 
 ### Scudi
 
@@ -231,7 +231,7 @@ Prima di utilizzare questa proprieta', puoi indicare una delle creature affette 
 
 ##### Destrezza (Dexterity)
 
-Quando impugni un'arma con questa proprieta' subisci svantaggio almenoche' non si soddisfino i requisiti di Destrezza indicati nella descrizione
+Quando impugni un'arma con questa proprieta' subisci svantaggio almeno che non si soddisfino i requisiti di Destrezza indicati nella descrizione
 
 ##### Camuffata (Disguised)
 
@@ -253,13 +253,13 @@ Un'arma con questa proprieta' viene installata sull'avambraccio ma non puo' esse
 
 Quando colpisci con un tiro per colpire, utilizzando Forza, con un'arma che possiede questa proprieta', infliggi danni addizionali pari a meta' del tuo modificatore di Forza (minimo +1)
 
-#### Nascosa (Hidden)
+#### Nascosta (Hidden)
 
 Ottieni vantaggio nelle prove di Destrezza (Rapidita' di Mano) effettuate per nascondere l'arma che possiede questa proprieta'
 
 #### Ad Incastro (Interlocking)
 
-Puoi utilizzare l'azione di interazione con oggetto per separare l'arma in due armi distinte oppure ricollegarle. Finche' sono separate, le armi infliggono gli stessi danni, lo stesso tipo di danno, peso e valure combinato e le stesse proprieta' (fatta eccezione per la proprieta' Doppia).
+Puoi utilizzare l'azione di interazione con oggetto per separare l'arma in due armi distinte oppure ricollegarle. Finche' sono separate, le armi infliggono gli stessi danni, lo stesso tipo di danno, peso e valore combinato e le stesse proprieta' (fatta eccezione per la proprieta' Doppia).
 
 #### Leggera (Light)
 
@@ -279,7 +279,7 @@ Le armi con questa proprieta' sono alimentate da delle batterie che devono esser
 
 #### Gittata (Range)
 
-Un'arma con questa proprieta' puo' essere utilizzata per effettuare attachi a distanza. La gittata indica 2 valori. Il primo valore indica, in metri, la normale gittata dell'arma ed il secondo la gittata lunga dell'arma. Se attacchi un bersaglio fuori la normale gittata dell'arma, subisci svantaggio nel tiro per colpire. Non puoi colpire bersagli che si trovino fuori la gittata lunga dell'arma
+Un'arma con questa proprieta' puo' essere utilizzata per effettuare attacchi a distanza. La gittata indica 2 valori. Il primo valore indica, in metri, la normale gittata dell'arma ed il secondo la gittata lunga dell'arma. Se attacchi un bersaglio fuori la normale gittata dell'arma, subisci svantaggio nel tiro per colpire. Non puoi colpire bersagli che si trovino fuori la gittata lunga dell'arma
 
 #### Rapida (Rapid)
 
@@ -307,7 +307,7 @@ Un'arma con questa proprieta' possiede delle misteriose ed inusuali regole che n
 
 #### Rinculo (Strength)
 
-Un'arma con questa proprieta' ha un forte rinculo. Mentre la impugni, subisci svantaggio nei tiri per colpire almenoche' non soddisfi i requisiti della caratteristica Forza indicati. Se l'arma possiede le proprieta': deflagrante, penetrante o rapida, devi soddisfare i requisiti della caratteristica Forza indicati. Se l'arma non possiede la proprieta' A Due Mani puoi impugnarla con due mani per ridurre, temporaneamente, il numero di Forza necessario di 1 step (da 19 a 17, da 17 a 15, da 15 a 13, da 13 a 11). Se si riduce il numero di Forza sotto 11, il requisito viene ignorato completamente
+Un'arma con questa proprieta' ha un forte rinculo. Mentre la impugni, subisci svantaggio nei tiri per colpire almeno che non soddisfi i requisiti della caratteristica Forza indicati. Se l'arma possiede le proprieta': deflagrante, penetrante o rapida, devi soddisfare i requisiti della caratteristica Forza indicati. Se l'arma non possiede la proprieta' A Due Mani puoi impugnarla con due mani per ridurre, temporaneamente, il numero di Forza necessario di 1 step (da 19 a 17, da 17 a 15, da 15 a 13, da 13 a 11). Se si riduce il numero di Forza sotto 11, il requisito viene ignorato completamente
 
 #### Da Lancio (Thrown)
 
@@ -444,7 +444,7 @@ E' un dispositivo piatto e portatile utilizzato insieme ad un dispositivo dati p
 
 #### Registratore di Dati <!-- omit in toc -->
 
-Ha la stessa funzionalita di un registratore di ologrammi, realizzato per i non sensitivi della forza. Viene principalmente utilizzato per salvare dati criptati. Sono equipaggati con un proiettore interattivo per l'accesso alle informazioni
+Ha la stessa funzionalita di un registratore di ologrammi, realizzato per i non sensitivi della forza. Viene principalmente utilizzato per salvare dati criptati. Sono equipaggiati con un proiettore interattivo per l'accesso alle informazioni
 
 #### Dispositivo Dati <!-- omit in toc -->
 
@@ -781,7 +781,7 @@ Inoltre, finche' e' aperto, ottieni un bonus di +10 alle prove di abilita' o tir
 |Dotazione per Meccano-Armature|200 cr|4 kg
 |Dotazione per Meccano-Armi|250 cr|4.5 kg
 |Dotazione da Artefice|300 cr|2.5 kg
-|Dotazione Astro-Tenica|400 cr|6 kg
+|Dotazione Astro-Tecnica|400 cr|6 kg
 |Dotazione Bio-Tecnica|450 cr|3 kg
 |Dotazione Cyber-Tecnica|500 cr|5 kg
 |Dotazione per Gadgettista|350 cr|3.5 kg
@@ -790,9 +790,9 @@ Inoltre, finche' e' aperto, ottieni un bonus di +10 alle prove di abilita' o tir
 - **Dotazione per Meccano-Armature:** utilizzata per creare e riparare armature e scudi
 - **Dotazione per Meccano-Armi:** utilizzata per creare e riparare blaster e vibro-armi
 - **Dotazione da Artefice:** utilizzata per creare armi-laser
-- **Dotazione Astro-Tenica:** utilizzata per creare o midificare droidi
+- **Dotazione Astro-Tecnica:** utilizzata per creare o modificare droidi
 - **Dotazione Bio-Tecnica:** utilizzata per creare potenziamenti cibernetici
-- **Dotazione Cyber-Tecnica:** utilizzata per creare e midificare computerini da polso
+- **Dotazione Cyber-Tecnica:** utilizzata per creare e modificare computerini da polso
 - **Dotazione per Gadgettista:** utilizzata per creare la maggior parte dell'equipaggiamento d'avventura come, per esempio: jetpack o equipaggiamento per arrampicata facilitata
 - **Dotazione da Armeggiatore:** utilizzata per la creazione di oggetti e ninnoli di vario tipo.
 
@@ -812,9 +812,9 @@ Inoltre, finche' e' aperto, ottieni un bonus di +10 alle prove di abilita' o tir
 |Tamburo|60 cr|1.5 kg
 |Flauto|20 cr|0.5 kg
 |Liuto|350 cr|1 kg
-|Ommni-Scatola|250 cr|5 kg
+|Omni-Scatola|250 cr|5 kg
 
-### Kita da Specialista
+### Kit da Specialista
 
 |Oggetto|Costo|Peso
 |---|---|---
