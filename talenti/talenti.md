@@ -146,7 +146,7 @@
 - aumenta il tuo punteggio di Destrezza di 1, fino ad un massimo di 20
 - ottieni una velocita' di strisciare pari alla tua velocita' di movimento
 - mentre sei prono non subisci piu' svantaggio, derivante dall'essere prono, nei tiri per colpire a distanza contro bersagli entro 9m
-- se provi a nasconderti, nel tuo turno, mentre sei prono, puoi scegliere di non muoverti in quel turno. Se lo fai, vieni considerato come oscurato leggermente. Perdi questo beneficio se ti muovi o ti alzi (sia volontariamente che per colpa di un effetto). Vieni comunque individuato automaticamente se un qualsiasi effetto od azione facciano si che tu non possa essere piu' nascosto. Se rimani nascosto nel tuo turno puoi continuare a rimanere immobile ed ottenere qquesto beneficio finche' non vieni identificato
+- se provi a nasconderti, nel tuo turno, mentre sei prono, puoi scegliere di non muoverti in quel turno. Se lo fai, vieni considerato come oscurato leggermente. Perdi questo beneficio se ti muovi o ti alzi (sia volontariamente che per colpa di un effetto). Vieni comunque individuato automaticamente se un qualsiasi effetto od azione facciano si che tu non possa essere piu' nascosto. Se rimani nascosto nel tuo turno puoi continuare a rimanere immobile ed ottenere questo beneficio finche' non vieni identificato
 
 ## Concorrente (Competitor)
 
@@ -172,7 +172,7 @@ Puoi scegliere questo talento piu' volte, scegliendo uno strumento diverso ogni 
 ## Esploratore (Dungeon Delver)
 
 - aumenta il tuo punteggio di Intelligenza o Saggezza di 1, fino ad un massimo di 20
-- ottieni vantaggio nelle prove di Sagezza (Percezione) ed Intelligenza (Investigare) effettuate per trovare la presenza di porte segrete
+- ottieni vantaggio nelle prove di Saggezza (Percezione) ed Intelligenza (Investigare) effettuate per trovare la presenza di porte segrete
 - ottieni vantaggio nei tiri salvezza effettuati per evitare o resistere a trappole
 - ottieni resistenza ai danni inferti dalle trappole
 - viaggiare con passo veloce non impone piu' la penalita' di -5 al tuo punteggio di passivo di Saggezza (Percezione)
@@ -203,7 +203,7 @@ Puoi scegliere questo talento piu' volte, scegliendo uno strumento musicale dive
 
 **Prerequisito:** livello 4
 
-- quando metti a segno un colpo critico con un attaco o porti una creatura a 0 punti ferita, puoi effettuare un attacco con l'arma con l'azione bonus
+- quando metti a segno un colpo critico con un attacco o porti una creatura a 0 punti ferita, puoi effettuare un attacco con l'arma con l'azione bonus
 - ogniqualvolta una creatura che puoi vedere, entro 9m, viene portata a 0 punti ferita, puoi ottenere dei punti ferita temporanei pari a 1d4 + il tuo modificatore di Costituzione
 
 ## Finta Sicurezza di Se' (Feigned Confidence)
@@ -249,7 +249,7 @@ Puoi scegliere questo talento piu' volte, scegliendo uno strumento od un'abilita
 
 - conosci 2 poteri della forza a volonta'
 - al livello 3 impari 1 potere della forza di livello 1 che puoi lanciare 1 volta per riposo lungo
-- al livello 5 impari 1 potere della forza di livello 2 che puoi lancaire 1 volta per riposo lungo
+- al livello 5 impari 1 potere della forza di livello 2 che puoi lanciare 1 volta per riposo lungo
 
 Il modificatore di forza-lancio di questi poteri e' Saggezza o Carisma (a seconda dell'allineamento del potere).
 
@@ -276,7 +276,7 @@ Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora 
 ## Contrattatore (Haggler)
 
 - aumenta il tuo punteggio di Carisma di 1, fino ad un massimo di 20
-- ottieni vantggio nelle prove di Carisma (Persuasione) e Carisma (Inganno) effettuate per contrattare o barattare
+- ottieni vantaggio nelle prove di Carisma (Persuasione) e Carisma (Inganno) effettuate per contrattare o barattare
 - sei sempre al corrente del valore di mercato di oggetti non potenziati od oggetti comuni potenziati. Ogni volta che identifichi un oggetto riesci a stimarne il possibile valore monetario
 
 ## Curatore (Healer)
@@ -294,7 +294,7 @@ Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora 
 ## Investigatore (Investigator)
 
 - aumenta il tuo punteggio di Intelligenza di 1, fino ad un massimo di 20
-- ottieni competenza nell'ablita' Investigare. Se gia' sei competente nell'abilita' ottieni, invece, maestria
+- ottieni competenza nell'abilita' Investigare. Se gia' sei competente nell'abilita' ottieni, invece, maestria
 - puoi effettuare l'azione di Cercare con 1 azione bonus
 
 ## Mente Acuta (Keen Mind)
@@ -317,7 +317,7 @@ Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora 
 
 - aumenta il tuo punteggio di Intelligenza di 1, fino ad un massimo di 20
 - ottieni competenza nell'abilita' Storia. Se gia' sei competente nell'abilita' ottieni, invece, maestria
-- quando utilizzi l'azione di Aiuto per intervenire nella prova di abilita' di un'altra creatura, puoi effettuare una prova di Intelligenza (Storia) con CD 15. Se superi la prova, la creatura che stai aiutanto ottiene un bonus alla prova pari al tuo bonus di competenza. Per ricevere questo bonus la creatura deve essere in grado di capire cio' che le stai dicendo.
+- quando utilizzi l'azione di Aiuto per intervenire nella prova di abilita' di un'altra creatura, puoi effettuare una prova di Intelligenza (Storia) con CD 15. Se superi la prova, la creatura che stai aiutando ottiene un bonus alla prova pari al tuo bonus di competenza. Per ricevere questo bonus la creatura deve essere in grado di capire cio' che le stai dicendo.
 
 ## Fortunato (Lucky)
 
@@ -440,12 +440,12 @@ Scegli 1 tra forza-lancio o tecno-lancio
 
 - aumenta il tuo punteggio di Carisma di 1, fino ad un massimo di 20
 - ottieni competenza nell'abilita' Inganno. Se gia' sei competente nell'abilita' ottieni, invece, maestria
-- quando effettui l'azione di Attacco puoi rimpiazzare un attacco con un tentativo volto ad ingannare un umanoide che puoi vedere, entro 9m da te, che puoi' vederti e sentirti. Effettui una prova di Carisma (Inganno) contro una prova contrapposta di Saggezza (Intuizione) del bersaglio. Se superi la prova, il tuo modivmento non provoca attacchi d'opportunita' dal bersaglio e gli attacchi effettuati contro il bersaglio ottengono vantaggio. Entrambi i benefici rimangono fino alla fine del tuo prossimo turno o finche' non utilizzi questo privilegio su un'altro bersaglio. Se fallisci la prova, il bersaglio non puo' essere assoggettato agli effetti di questo privilegio per 1 ora
+- quando effettui l'azione di Attacco puoi rimpiazzare un attacco con un tentativo volto ad ingannare un umanoide che puoi vedere, entro 9m da te, che puoi' vederti e sentirti. Effettui una prova di Carisma (Inganno) contro una prova contrapposta di Saggezza (Intuizione) del bersaglio. Se superi la prova, il tuo movimento non provoca attacchi d'opportunita' dal bersaglio e gli attacchi effettuati contro il bersaglio ottengono vantaggio. Entrambi i benefici rimangono fino alla fine del tuo prossimo turno o finche' non utilizzi questo privilegio su un'altro bersaglio. Se fallisci la prova, il bersaglio non puo' essere assoggettato agli effetti di questo privilegio per 1 ora
 
 ## Intervento Brillante (Snappy Interjection)
 
 - aumenta il tuo punteggio di Carisma di 1, fino ad un massimo di 20
-- una vola per riposo breve o lungo, quando un alleato effettua un tiro per colpire, una prova di abilita' od un tiro savlezza, puoi utilizzare la tua reazione per fornirgli vantaggio
+- una vola per riposo breve o lungo, quando un alleato effettua un tiro per colpire, una prova di abilita' od un tiro salvezza, puoi utilizzare la tua reazione per fornirgli vantaggio
 
 ## Specialista (Specialist)
 
@@ -508,7 +508,7 @@ Scegli un tipo di dotazione a piacere
 
 - aumenta il tuo punteggio di Carisma di 1, fino ad un massimo di 20
 - ottieni competenza nell'abilita' Intimidire. Se gia' sei competente nell'abilita' ottieni, invece, maestria
-- quando effetuti l'azione di Attacco puoi rimpiazzare un attacco con un tentativo di demoralizzare un umanoide che puoi vedere, entro 9m da te, che puo' vederti e sentirti. Effettua una prova di Carisma (Intimidire) contro una prova contrapposta di Saggezza (Intuizione) del bersaglio. Se superi la prova il bersaglio e' spaventato fino alla fine del tuo prossimo turno. Se fallisci la prova, il bersaglio non puo' essere spaventato da te, in questa maniera, per 1 ora
+- quando effettuati l'azione di Attacco puoi rimpiazzare un attacco con un tentativo di demoralizzare un umanoide che puoi vedere, entro 9m da te, che puo' vederti e sentirti. Effettua una prova di Carisma (Intimidire) contro una prova contrapposta di Saggezza (Intuizione) del bersaglio. Se superi la prova il bersaglio e' spaventato fino alla fine del tuo prossimo turno. Se fallisci la prova, il bersaglio non puo' essere spaventato da te, in questa maniera, per 1 ora
 
 ## Inflessibile (Tough)
 
