@@ -152,7 +152,7 @@
 #### Resistenza (Resistance)
 #### Ravvivare (Revitalize)
 #### Rovina (Ruin)
-#### Deflettere Lame (Saber Reflect)
+#### Deflettere con la Spada (Saber Reflect)
 #### Lancio della Spada (Saber Throw)
 #### Protezione dalle Lame (Saber Ward)
 #### Santuario
@@ -192,6 +192,6 @@
 #### Valore (Valor)
 #### Muro di Luce (Wall of Light)
 #### Turbine (Whirlwind)
-#### Muro della Forza (Wall of the Force)
+#### Volonta' della Forza (Will of the Force)
 #### Ferire (Wound)
 #### Distruzione (Wrack)

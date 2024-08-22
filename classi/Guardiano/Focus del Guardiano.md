@@ -187,7 +187,7 @@ Ottieni uno dei seguenti privilegi. Scegli Negoziati Aggressivi per Shien o Vigo
 
 Ottieni uno dei seguenti privilegi. Scegli Deviare Accurato per Shien o Colpi Brutali per Djem So
 
-- **Deviare Accurato:** quando metti a segno un attacco scaturito dal potere Deviare Lame (Saber Reflect), puoi spendere dei punti forza per infliggere danni aggiuntivi, dello stesso tipo del danno dell'arma. I danni aggiuntivi ammontano ad 1d8 per punto potere speso. Non puoi infliggere piu' danni di quelli indicati nella colonna Colpi Focalizzati della tabella del guardiano.
+- **Deviare Accurato:** quando metti a segno un attacco scaturito dal potere Deflettere con la Spada (Saber Reflect), puoi spendere dei punti forza per infliggere danni aggiuntivi, dello stesso tipo del danno dell'arma. I danni aggiuntivi ammontano ad 1d8 per punto potere speso. Non puoi infliggere piu' danni di quelli indicati nella colonna Colpi Focalizzati della tabella del guardiano.
 - **Colpi Brutali:** i danni dei [Colpi Potenziati dalla Forza](./Guardiano.md#colpi-potenziati-dalla-forza) e dei [Colpi Potenziati dalla Forza Migliorati](./Guardiano.md#colpi-potenziati-dalla-forza-migliorati) ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro). Inoltre, quando spendi punti forza per il privilegio dei Colpi Potenziati dalla Forza ottieni punti ferita temporanei pari al doppio del numero di punti spesi
 
 ### Maestro della Perseveranza
@@ -222,7 +222,7 @@ Ottieni lo stile delle spade-laser [Soresu](../Guerriero/Stili%20delle%20Spade-L
 
 **Livello:** 3
 
-Con 1 azione bonus puoi entrare in una posizione difensiva per 1 minuto. Come parte dell'azione bonus e come azione bonus in ognuno dei tuoi turni, puoi lanciare il potere Protezione dalle Lame (Saber Ward). Quando lanci il potere ottieni un numero di reazioni speciali pari al tuo bonus do competenza che puoi utilizzare solo per lanciare il potere Deviare Lame (Saber Reflect).
+Con 1 azione bonus puoi entrare in una posizione difensiva per 1 minuto. Come parte dell'azione bonus e come azione bonus in ognuno dei tuoi turni, puoi lanciare il potere Protezione dalle Lame (Saber Ward). Quando lanci il potere ottieni un numero di reazioni speciali pari al tuo bonus do competenza che puoi utilizzare solo per lanciare il potere Deflettere con la Spada (Saber Reflect).
 
 Questo effetto termina prima della fine della durata se sei incapacitato o se muori.
 
@@ -234,7 +234,7 @@ Puoi utilizzare nuovamente questo privilegio una volta completato un riposo lung
 
 Ottieni la seguente opzione di [Incanalare la Forza](./Guardiano.md#incanalare-la-forza).
 
-- **Difensore Mobile**: quando lanci il potere Deviare Lame (Saber Reflect) puoi spendere un utilizzo di Incanalare la Forza per muoverti di 3m come parte della reazione. Questo movimento non provoca attacchi d'opportunita'.
+- **Difensore Mobile**: quando lanci il potere Deflettere con la Spada (Saber Reflect) puoi spendere un utilizzo di Incanalare la Forza per muoverti di 3m come parte della reazione. Questo movimento non provoca attacchi d'opportunita'.
 
 ### Cerchio di Protezione
 
@@ -259,7 +259,7 @@ Quando un nemico ti manca con un attacco corpo a corpo, puoi utilizzare la tua r
 Il tuo punteggio di Costituzione e Saggezza o Carisma (scegli tu) aumenta di 2 ed il punteggio massimo delle caratteristiche scelte aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
 
 - Ottieni resistenza ai danni cinetici e da energia subiti da armi non potenziate
-- Quando lanci il potere Deviare Lame (Saber Reflect) puoi effettuare un singolo attacco corpo a corpo contro un nemico, entro 1.5m , come parte della reazione
+- Quando lanci il potere Deflettere con la Spada (Saber Reflect) puoi effettuare un singolo attacco corpo a corpo contro un nemico, entro 1.5m , come parte della reazione
 - Ottieni vantaggio nei tiri salvezza su Destrezza. Questo effetto si applica anche a tutti gli alleati entro 9m da te.
 
 Questi effetti terminano prima della fine della durata se sei incapacitato o se muori.

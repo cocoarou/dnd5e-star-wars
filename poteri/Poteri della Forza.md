@@ -74,7 +74,7 @@
 |Proiettare la Forza (Force Project)|7|Universale|1 azione standard|Personale|Fino ad 1 giorno|Concentrazione|-
 |Propulsione della Forza (Force Propel)|1|Universale|1 azione standard|18 m|Istantanea|-|Spinta/Attrazione della Forza (Force Push/Pull)
 |Spinta/Attrazione della Forza (Force Push/Pull)|0|Universale|1 azione standard|18 m|Istantanea|-|-
-|Deflessione della Forza (Force Deflect)|1|Universale|1 reazione che puoi compiere se verresti colpito da un attacco a distanza|Personale|Istantanea|-|Deflettere Lame (Saber Reflect)
+|Deflessione della Forza (Force Deflect)|1|Universale|1 reazione che puoi compiere se verresti colpito da un attacco a distanza|Personale|Istantanea|-|Deflettere con la Spada (Saber Reflect)
 |Espulsione della Forza (Force Repulse)|3|Universale|1 azione standard|Personale (raggio di 6 m)|Istantanea|-|-
 |Urlo della Forza (Force Scream)|3|Oscuro|1 azione standard|Personale (raggio di 4.5 m)|Istantanea|-|-
 |Atterramento della Forza (Force Shunt)|0|Universale|1 azione standard|9 m|Istantanea|-|-
@@ -156,9 +156,10 @@
 |Rimuovere Maledizioni (Remove Curse)|3|Chiaro|1 azione standard|A contatto|Istantanea|-|-
 |Salvataggio (Rescue)|2|Universale|1 azione bonus|9 m|Istantanea|-|-
 |Resistenza (Resistance)|0|Universale|1 azione standard|A contatto|Fino ad 1 minuto|Concentrazione|-
+|Ristorare (Restoration)|2|Chiaro|1 azione standard|A contatto|Istantanea|-|-
 |Ravvivare (Revitalize)|5|Chiaro|1 minuto|A contatto|Istantanea|-|Risparmiare i Morenti (Spare the Dying)
 |Rovina (Ruin)|7|Oscuro|1 azione standared|18 m|Istantanea|-|Ferire (Wound)
-|Deflettere Lame (Saber Reflect)|0|Universale|1 reazione che puoi compiere se subisci danni da un attacco a distanza|Personale|Istantanea|-|-
+|Deflettere con la Spada (Saber Reflect)|0|Universale|1 reazione che puoi compiere se subisci danni da un attacco a distanza|Personale|Istantanea|-|-
 |Lancio della Spada (Saber Throw)|0|Universale|1 azione standard|9 m|Istantanea|-|-
 |Protezione dalle Lame (Saber Ward)|0|Universale|1 azione standard|Personale|1 round|-|-
 |Santuario|1|Chiaro|1 azione bonus|9 m|1 minuto|-|-
@@ -198,6 +199,6 @@
 |Valore (Valor)|1|Chiaro|1 azione standard|9 m|Fino ad 1 minuto|Concentrazione|Resistenza (Resistance)
 |Muro di Luce (Wall of Light)|6|Chiaro|1 azione standard|27 m|Fino a 10 minuti|Concentrazione|-
 |Turbine (Whirlwind)|7|Universale|1 azione standard|90 m|Fino ad 1 minuto|Concentrazione|-
-|Muro della Forza (Wall of the Force)|9|Chiaro|1 azione standard|Personale|Istantanea|-|-
+|Volonta' della Forza (Will of the Force)|9|Chiaro|1 azione standard|Personale|Istantanea|-|-
 |Ferire (Wound)|1|Oscuro|1 azione standard|18 m|Istantanea|-|-
 |Distruzione (Wrack)|6|Oscuro|1 azione standard|18 m|Istantanea|-|Piaga (Plague)

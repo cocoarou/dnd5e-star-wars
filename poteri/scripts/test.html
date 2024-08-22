@@ -762,7 +762,7 @@
                 <td>Personale</td>
                 <td>Istantanea</td>
                 <td>-</td>
-                <td>Deflettere Lame (Saber Reflect)</td>
+                <td>Deflettere con la Spada (Saber Reflect)</td>
             </tr>
             <tr>
                 <td>Espulsione della Forza (Force Repulse)</td>
@@ -1595,7 +1595,7 @@
                 <td>Ferire (Wound)</td>
             </tr>
             <tr>
-                <td>Deflettere Lame (Saber Reflect)</td>
+                <td>Deflettere con la Spada (Saber Reflect)</td>
                 <td>0</td>
                 <td>Universale</td>
                 <td>1 reazione che puoi compiere se subisci danni da un attacco a distanza</td>
@@ -1995,7 +1995,7 @@
                 <td>-</td>
             </tr>
             <tr>
-                <td>Muro della Forza (Wall of the Force)</td>
+                <td>Volonta' della Forza (Will of the Force)</td>
                 <td>9</td>
                 <td>Chiaro</td>
                 <td>1 azione standard</td>
