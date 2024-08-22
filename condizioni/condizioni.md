@@ -63,7 +63,7 @@ Al termine di un riposo lungo, il livello di esaurimento viene ridotto di 1 (dev
 #### Incendiato
 
 - una creatura incendiata subisce danni da fuoco al termine di ogni suo turno. L'entita' del danno da fuoco e' indicato tra parentesi nella descrizione dell'effetto che applicherebbe questa condizione
-- se il bersaglio o una creatura entro 1.5 m da esso utilizza un'azione standard per spengere le fiamme, o se un effetto va a dosare il fuoco, la creatura non e' piu' incendiata
+- se il bersaglio o una creatura entro 1.5 m da esso utilizza un'azione standard per spegnere le fiamme, o se un effetto va a dosare il fuoco, la creatura non e' piu' incendiata
 
 #### Incapacitato
 
@@ -135,7 +135,7 @@ Un effetto che riduce la lentezza, ne abbassa il livello dell'ammontare specific
 
 #### Privo di Sensi
 
-- una creatura priva di sensi e' [incapacitata](#incapacitato), non puo' ne' muoversi, ne' perlare e non si rende conto di cio' che accade nelle sue vicinanze
+- una creatura priva di sensi e' [incapacitata](#incapacitato), non puo' ne' muoversi, ne' parlare e non si rende conto di cio' che accade nelle sue vicinanze
 - la creatura lascia cadere tutto cio' che stava impugnando e cade a terra [prona](#prono)
 - la creatura fallisce, automaticamente, i tiri salvezza su Forza e Destrezza
 - i tiri per colpire contro la creatura ottengono vantaggio
