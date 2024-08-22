@@ -1,6 +1,6 @@
 # Twi'lek
 
-![twilek](species_twilek.png)
+![twi'lek](species_twilek.png)
 
 ## Tratti dei Twi'lek
 
@@ -11,7 +11,7 @@
 |Allineamento|Tendente al lato oscuro della forza
 |Taglia|Media
 |Velocita'|9m
-|Carismatico|Sei competente nelle abilita' di Inganno o Persuasione (segline una)
+|Carismatico|Sei competente nelle abilita' di Inganno o Persuasione (ne scegli una)
 |Scurovisione|Vedi 18m attraverso luce fioca come se fosse luce intensa e nell'oscurita' come se fosse luce fioca. Nell'oscurita' non vedi i colori, solo gradazioni di grigio
 |Ballerino Elegante|Sei competente nell'abilita' di Intrattenere
 |Antitossine Innate|Ottieni vantaggio nei tiri salvezza contro l'avvelenamento e la malattia ed ottieni resistenza ai danni da veleno

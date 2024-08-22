@@ -1,6 +1,6 @@
 # Mon Calamari
 
-![moncalamari](species_moncalamari.png)
+![mon calamari](species_moncalamari.png)
 
 ## Tratti dei Mon Calamari
 

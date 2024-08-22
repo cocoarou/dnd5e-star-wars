@@ -1,6 +1,6 @@
 # Kel Dor
 
-![keldor](species_keldor.png)
+![kel dor](species_keldor.png)
 
 ## Tratti dei Kel Dor
 

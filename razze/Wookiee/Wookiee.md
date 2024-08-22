@@ -1,6 +1,6 @@
 # Wookiee
 
-![wookie](species_wookiee.png)
+![wookiee](species_wookiee.png)
 
 ## Tratti dei wookiee
 

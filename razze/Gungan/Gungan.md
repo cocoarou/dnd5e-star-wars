@@ -18,4 +18,4 @@
 |Competenza Marziale|Sei competente nell'utilizzo di armature leggere e medie e nell'utilizzo delle armi: tecno-bastone e vibro-lancia
 |Gambe Forti|Quando effettui un salto orizzontale, percorri un numero di metri pari al tuo punteggio di Forza diviso 4 (arrotondato per eccesso al piu' vicino multiplo di 1.5). Quando effettui un salto in verticale il numero di metri del tuo balzo e' 3 + due volte il modificatore di Forza
 |Nuotare|Ottieni velocita' di nuotare 9m
-|Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Grungan. Quando parli il Galattico Base trovi difficolta' nel pronunciare alcune parole o coniugare alcuni verbi.
+|Linguaggi|Sai parlare, leggere e scrivere: Galattico Base e Gungan. Quando parli il Galattico Base trovi difficolta' nel pronunciare alcune parole o coniugare alcuni verbi.
