@@ -5,7 +5,7 @@
 
 ## Punti Forza e Punti Tecnologici
 
-Quando un personaggio lancia un potere spende un numero di punti potere in base al livello del potere + 1 (i poteri a volonta' non spendono punti potere)
+Quando un personaggio lancia un potere spende un numero di punti potere in base al livello del potere + 1 (i poteri di livello 0 non spendono punti potere)
 
 |Livello del Potere|Costo
 |---|---
