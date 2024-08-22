@@ -41,7 +41,7 @@
 |Dominare Menti (Dominate Mind)|5|Oscuro|1 azione standard|18 m|Fino ad 1 minuto|Concentrazione|Dominare Bestie (Dominate Beast)
 |Dominare Mostri (Dominate Monster)|8|Oscuro|1 azione standard|18 m|Fino ad 1 ora|Concentrazione|Dominare Menti (Dominate Mind)
 |Risucchio Vitale (Drain Life)|4|Oscuro|1 azione standard|18 m|Istantanea|-|Risucchiare Vitalita' (Drain Vitality)
-|Risucchiare Vitalita' (Drain Vitality)|2|Oscuro|1 azione tandard|18 m|Fino ad 1 minuto|Concentrazione|Affaticare (Sap Vitality)
+|Risucchiare Vitalita' (Drain Vitality)|2|Oscuro|1 azione standard|18 m|Fino ad 1 minuto|Concentrazione|Affaticare (Sap Vitality)
 |Dun Moch|1|Oscuro|1 azione bonus|9 m|Fino ad 1 minuto|Concentrazione|-
 |Terremoto (Earthquake)|8|Universale|1 azione standard|150 m|Fino ad 1 minuto|Concentrazione|Eruzione (Eruption)
 |Indebolire (Enfeeble)|0|Oscuro|1 azione standard|18 m|Istantanea|-|-
@@ -158,7 +158,7 @@
 |Resistenza (Resistance)|0|Universale|1 azione standard|A contatto|Fino ad 1 minuto|Concentrazione|-
 |Ristorare (Restoration)|2|Chiaro|1 azione standard|A contatto|Istantanea|-|-
 |Ravvivare (Revitalize)|5|Chiaro|1 minuto|A contatto|Istantanea|-|Risparmiare i Morenti (Spare the Dying)
-|Rovina (Ruin)|7|Oscuro|1 azione standared|18 m|Istantanea|-|Ferire (Wound)
+|Rovina (Ruin)|7|Oscuro|1 azione standard|18 m|Istantanea|-|Ferire (Wound)
 |Deflettere con la Spada (Saber Reflect)|0|Universale|1 reazione che puoi compiere se subisci danni da un attacco a distanza|Personale|Istantanea|-|-
 |Lancio della Spada (Saber Throw)|0|Universale|1 azione standard|9 m|Istantanea|-|-
 |Protezione dalle Lame (Saber Ward)|0|Universale|1 azione standard|Personale|1 round|-|-

@@ -2175,7 +2175,7 @@ La riduzione dei danni conferita da questo potere aumenta di 1d6 (cumulativo) ai
 
 #### Lancio della Spada (Saber Throw)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attaco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio, entro la gittata del potere, altrimenti il potere fallisce.
+Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio, entro la gittata del potere, altrimenti il potere fallisce.
 
 Se l'attacco va a segno, il bersaglio subisce 1d8 danni dello stesso tipo dei danni dell'arma.
 
@@ -2363,7 +2363,7 @@ Alla fine di ogni turno della creatura, essa puo' tentare nuovamente di superare
 
 Se supera il tiro, l'effetto di questo potere termina.
 
-Questo potere puo' essere utilizzato su bersagli addizionali al raggiungimento di livelli superiorei, ovvero:
+Questo potere puo' essere utilizzato su bersagli addizionali al raggiungimento di livelli superiori, ovvero:
 
 - **livello 5:** 2 bersagli
 - **livello 11:** 3 bersagli
@@ -2443,7 +2443,7 @@ Alla fine di ognuno dei suoi turni, il bersaglio puo' effettuare un tiro salvezz
 
 Se supera il tiro, l'effetto del potere termina.
 
-Questo potere non ha effetto contro doridi o costrutti
+Questo potere non ha effetto contro droidi o costrutti
 
 **Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 6 o superiore, puoi bersagliare una creatura addizionale per ogni slot di livello superiore al 5. Le creature devono trovarsi entro 9 m l'una dall'altra quando le bersagli.
 
@@ -2714,7 +2714,7 @@ Se l'attacco va a segno, il bersaglio subisce 2d8 danni necrotici e deve effettu
 
 Se fallisce il tiro, e' avvelenato fino alla fine del tuo prossimo turno.
 
-**Potenziamento della Forza:** Quando lanci questo potere utilizzando uno slot di livello 2 o superiore, i danni aumentano di 1d8 per ogni slot di livello supriore all'1.
+**Potenziamento della Forza:** Quando lanci questo potere utilizzando uno slot di livello 2 o superiore, i danni aumentano di 1d8 per ogni slot di livello superiore all'1.
 
 #### Distruzione (Wrack)
 
