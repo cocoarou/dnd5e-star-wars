@@ -7,7 +7,7 @@
   - [Stile del Combattimento alla Cieca](#stile-del-combattimento-alla-cieca)
   - [Stile del Lottatore](#stile-del-lottatore)
   - [Stile del Contrattacco](#stile-del-contrattacco)
-  - [Stile dell'Inflitrazione](#stile-dellinflitrazione)
+  - [Stile dell'Infiltrazione](#stile-dellinfiltrazione)
   - [Stile Difensivo](#stile-difensivo)
   - [Stile dell'Interruzione](#stile-dellinterruzione)
   - [Stile del Combattimento con Due Armi](#stile-del-combattimento-con-due-armi)
@@ -36,7 +36,7 @@
 ## Stile del Controllo dell'Area
 
 - Quando una creatura supera un tiro salvezza contro un tuo contenitore proiettante, puoi utilizzare 1 azione bonus per fargli ripetere il tiro salvezza
-- Quando una creatura tira 1 di dado per superare il tiro savlezza di un tuo contenitore proiettante, subisce il massimo dei danni inferti dal contenitore
+- Quando una creatura tira 1 di dado per superare il tiro salvezza di un tuo contenitore proiettante, subisce il massimo dei danni inferti dal contenitore
 
 ## Stile dell'Assistenza
 
@@ -61,10 +61,10 @@
 
 ## Stile del Contrattacco
 
-- Quando provocheresti un attacco d'opoortunita' nel tuo turno, puoi utilizzare 1 azione bonus per costringere la creature nell'effettuare l'attacco, se ne e' in grado.
+- Quando provocheresti un attacco d'opportunita' nel tuo turno, puoi utilizzare 1 azione bonus per costringere la creature nell'effettuare l'attacco, se ne e' in grado.
 - Le creature che effettuano attacchi d'opportunita' contro di te provocano attacchi d'opportunita' che puoi mettere a segno di conseguenza.
 
-## Stile dell'Inflitrazione
+## Stile dell'Infiltrazione
 
 - Puoi compiere l'azione di Nascondersi utilizzando l'azione bonus. Se potevi gia' farlo, puoi utilizzare la reazione, nel tuo turno, per effettuare l'azione.
 - Le creature che hanno ricevuto danno da te, dall'inizio del tuo turno precedente, subiscono svantaggio nelle prove di Saggezza (Percezione) effettuate per riuscire a trovarti.
@@ -100,12 +100,12 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 ## Stile Esplosivo
 
 - Puoi lanciare granate e piazzare mine con 1 azione bonus anziche' 1 azione standard. Se potevi gia' farlo, puoi utilizzare la reazione, nel tuo turno, per effettuare l'azione.
-- Quando una creatura tira 1 di dado per superare il tiro savlezza derivante da: una granata, una mina od un missile che controlli, subisce il massimo dei danni
+- Quando una creatura tira 1 di dado per superare il tiro salvezza derivante da: una granata, una mina od un missile che controlli, subisce il massimo dei danni
 
 ## Stile della Formazione
 
 - Puoi compiere l'azione di Guardia utilizzando l'azione bonus. Se potevi gia' farlo, puoi utilizzare la reazione, nel tuo turno, per effettuare l'azione.
-- Guando ti muovi, nel tuo turno, puoi utilizzare 1 azione bonus per permettere ad un alleato, entro 1.5m, di muoversi con te (non e' un'azione da parte dell'alleato). L'alleato deve terminare questo movimento entro 1.5m da te e questo movimento non puo' eccedere la velocita' di movimento dell'alleato.
+- Quando ti muovi, nel tuo turno, puoi utilizzare 1 azione bonus per permettere ad un alleato, entro 1.5m, di muoversi con te (non e' un'azione da parte dell'alleato). L'alleato deve terminare questo movimento entro 1.5m da te e questo movimento non puo' eccedere la velocita' di movimento dell'alleato.
 - Quando scegli di farti colpire da un attacco che ti avrebbe mancato, la creatura effettua il tiro per i danni anziche' infliggere il massimo
 
 ## Stile del Combattimento con Spade-Laser
@@ -159,7 +159,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 ## Stile del Cecchino
 
 - Puoi utilizzare 1 azione bonus per designare un bersaglio entro 9m che puoi vedere. Se quel bersaglio si muove di almeno 1.5m prima del tuo prossimo turno, provoca un attacco d'opportunita' che puoi compiere mettendo a segno un attacco a distanza con il blaster.
-- I tuoi attacchi a distanza con l'arma, contro bersagli entro 9m, riducono la copertura parziale dei nemici come se fosse di uno step inferiore (3/4 a 1/2 o da 1/2 a 1/4). Se il bersaglio ha 1/4 di copertura, la ignori competalemente.
+- I tuoi attacchi a distanza con l'arma, contro bersagli entro 9m, riducono la copertura parziale dei nemici come se fosse di uno step inferiore (3/4 a 1/2 o da 1/2 a 1/4). Se il bersaglio ha 1/4 di copertura, la ignori completamente.
 - Cambiare l'impugnatura dell'arma da due mani ad una mano, e viceversa, non richiede piu' un'azione di interazione con oggetto.
 
 ## Stile con lo Scudo
@@ -171,7 +171,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 ## Stile del Tiro Veloce
 
 - Non subisci piu' svantaggio quando effettui tiri per colpire a distanza contro bersagli a 1.5m da te.
-- I tuoi attacchi a distanza con l'arma, contro bersagli entro 9m, riducono la copertura parziale dei nemici come se fosse di uno step inferiore (3/4 a 1/2 o da 1/2 a 1/4). Se il bersaglio ha 1/4 di copertura, la ignori competalemente.
+- I tuoi attacchi a distanza con l'arma, contro bersagli entro 9m, riducono la copertura parziale dei nemici come se fosse di uno step inferiore (3/4 a 1/2 o da 1/2 a 1/4). Se il bersaglio ha 1/4 di copertura, la ignori completamente.
 - I tiri per i danni del tuo blaster inferti a creature entro 9m da te ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro).
 - Cambiare l'impugnatura dell'arma da due mani ad una mano, e viceversa, non richiede piu' un'azione di interazione con oggetto.
 

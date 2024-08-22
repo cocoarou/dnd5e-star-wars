@@ -152,7 +152,7 @@
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Persuasione
 - Azione: reazione
-- Effetto: quando una creatura ti atttacca puoi spendere 1 dado di superiorita' e comandare ad un alleato consenziente, che si trova 1.5m dalla creatura, di utilizzare la propria reazione per intercedere. La creatura e' quindi obbligata ad attaccare l'alleato. Se l'attacco non va a segno, l'alleato puo' immediatamente effettuare un tiro per colpire corpo a corpo come parte della reazione. Al suo tiro per colpire va aggiunto il risultato del tiro del dado di superiorita'.
+- Effetto: quando una creatura ti attacca puoi spendere 1 dado di superiorita' e comandare ad un alleato consenziente, che si trova 1.5m dalla creatura, di utilizzare la propria reazione per intercedere. La creatura e' quindi obbligata ad attaccare l'alleato. Se l'attacco non va a segno, l'alleato puo' immediatamente effettuare un tiro per colpire corpo a corpo come parte della reazione. Al suo tiro per colpire va aggiunto il risultato del tiro del dado di superiorita'.
 
 ## Chiamata alle Armi
 
@@ -196,7 +196,7 @@
 ## Colpo del Comandante
 
 - Tipo: Fisico
-- Effetto: quando utilizzi la tua azione standard per attaccare, puoi decidere di non mettere a segno uno di quegli attacchi e, con un'azione bonus, puoi fare invece effettuare un attacco corpo a coropo ad un tuo alleato. Se decidi di farlo, scegli una alleato che puo' vederti o sentirti e spendi 1 dado di superiorita'. Il tuo alleato puo' utilizzare la sua reazione per effettuare, immediatamente, un attacco con l'arma, aggiungendo il risultato del tiro di dado di superiorita' al danno dell'arma.
+- Effetto: quando utilizzi la tua azione standard per attaccare, puoi decidere di non mettere a segno uno di quegli attacchi e, con un'azione bonus, puoi fare invece effettuare un attacco corpo a corpo ad un tuo alleato. Se decidi di farlo, scegli una alleato che puo' vederti o sentirti e spendi 1 dado di superiorita'. Il tuo alleato puo' utilizzare la sua reazione per effettuare, immediatamente, un attacco con l'arma, aggiungendo il risultato del tiro di dado di superiorita' al danno dell'arma.
 
 ## Colpo del Comandante (Maggiore)
 
@@ -230,7 +230,7 @@
 ## Colpo Disarmante
 
 - Tipo: Fisico
-- Effetto: quando colpisci una creatura con un attacco con l'arma, puoi spendere 1 dado di superiorita' per tentare di disarmare il bersaglio, forzandolo a gettare a terra un'oggetto (scegli tu) che sta tenendo. Aggiungi il risultato del dado di superiorita' ai danni dell'attacco e costringi il tuo bersagno ad effettuare un tiro salvezza su Forza. Se il bersaglio fallisce la prova fa cadere a terra l'oggetto che hai scelto. Se hai una mano libera e sei entro 1.5m dalla creatura, puoi afferrare l'oggetto. Altrimenti cade ai piedi della creatura.
+- Effetto: quando colpisci una creatura con un attacco con l'arma, puoi spendere 1 dado di superiorita' per tentare di disarmare il bersaglio, forzandolo a gettare a terra un'oggetto (scegli tu) che sta tenendo. Aggiungi il risultato del dado di superiorita' ai danni dell'attacco e costringi il tuo bersaglio ad effettuare un tiro salvezza su Forza. Se il bersaglio fallisce la prova fa cadere a terra l'oggetto che hai scelto. Se hai una mano libera e sei entro 1.5m dalla creatura, puoi afferrare l'oggetto. Altrimenti cade ai piedi della creatura.
 
 ## Colpo Distraente
 
@@ -270,7 +270,7 @@
 ## Discorso Incoraggiante
 
 - Tipo Mentale
-- Effetto: puoi spendere 1 dado di superiorita' e spendere il prossimo minuto nel quale fai un discorso incoraggiante per aumentare il morale dei tuoi alleati. Fornisci a 2 alleati dei punti ferita temporanei pari al risultao del dado di superiorita' + il tuo modificatore di manovra. Gli alleati che puoi influenzare aumentano all'aumentare dei livelli, in questo modo: 3 alleati al livello 5, 4 alleati al livello 9, 5 alleati al livello 13 e 6 alleati al livello 17.
+- Effetto: puoi spendere 1 dado di superiorita' e spendere il prossimo minuto nel quale fai un discorso incoraggiante per aumentare il morale dei tuoi alleati. Fornisci a 2 alleati dei punti ferita temporanei pari al risultato del dado di superiorita' + il tuo modificatore di manovra. Gli alleati che puoi influenzare aumentano all'aumentare dei livelli, in questo modo: 3 alleati al livello 5, 4 alleati al livello 9, 5 alleati al livello 13 e 6 alleati al livello 17.
 
 ## Iniezione di Potenza
 
@@ -399,7 +399,7 @@
 ## Dominio della Mente sulla Materia
 
 - Tipo: Mentale
-- Effetto: quando devi effettuare un tiro salvezza su: Intelligenza, Saggezza o Carisma puoi spendere 1 dado di superiorita' per cambiare la caratteristica con la caratteristica del tuo modficatore di manovra
+- Effetto: quando devi effettuare un tiro salvezza su: Intelligenza, Saggezza o Carisma puoi spendere 1 dado di superiorita' per cambiare la caratteristica con la caratteristica del tuo modificatore di manovra
 
 ## Naturalizzare
 
@@ -411,7 +411,7 @@
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Medicina
-- Effetto: quando effettui un tiro per colpire puoi spendere 1 dado di superiorita' ed aggiungere il risultato al tiro. Se l'attacco va a segno il prossimo attacco del bersaglio subiesce svantaggio e la creatura non puo' guadagnare punti ferita fino all'inizio del tuo prossimo turno.
+- Effetto: quando effettui un tiro per colpire puoi spendere 1 dado di superiorita' ed aggiungere il risultato al tiro. Se l'attacco va a segno il prossimo attacco del bersaglio subisce svantaggio e la creatura non puo' guadagnare punti ferita fino all'inizio del tuo prossimo turno.
 
 ## Nessuna Via di Scampo
 
@@ -440,7 +440,7 @@
 
 - Tipo: Mentale
 - Prerequisito: poter lanciare poteri tecnologici
-- Effetto: quando lanci un potere tecnologico di livello 1 o superiore puoi spendere 1 dado di superiorita' per lanciare il potere ad un livello superiore, senza eccedere il Livello Massimo del Potere. Tiri il dado di superirita' ed aggiungi il risultato al livello nel quale lanci il potere tecnologico. Puoi decidere di lanciare il potere a questo nuovo livello od inferiore (esempio: potere tecnologico di livello 1, risultato del dado di superiorita': 3, puoi lanciare il potere dal livello 4 (3 + 1) in giu').
+- Effetto: quando lanci un potere tecnologico di livello 1 o superiore puoi spendere 1 dado di superiorita' per lanciare il potere ad un livello superiore, senza eccedere il Livello Massimo del Potere. Tiri il dado di superiorita' ed aggiungi il risultato al livello nel quale lanci il potere tecnologico. Puoi decidere di lanciare il potere a questo nuovo livello od inferiore (esempio: potere tecnologico di livello 1, risultato del dado di superiorita': 3, puoi lanciare il potere dal livello 4 (3 + 1) in giu').
 
 ## Arguzia Opprimente
 
@@ -525,7 +525,7 @@
 
 - Tipo: Fisico
 - Azione: 1 azione bonus
-- Effetto: quando mandi una creatura a 0 punti ferita, puoi spendere 1 dado di superiorita' per muoverti fino a meta' della tua velocita'. Se alla fine di questo modivmento ti trovi a 1.5m da una creatura puoi effettuare un singolo attacco corpo a corpo con l'arma contro di essa, aggiungendo il risultato del tiro di dado di superiorita' al tiro per colpire
+- Effetto: quando mandi una creatura a 0 punti ferita, puoi spendere 1 dado di superiorita' per muoverti fino a meta' della tua velocita'. Se alla fine di questo movimento ti trovi a 1.5m da una creatura puoi effettuare un singolo attacco corpo a corpo con l'arma contro di essa, aggiungendo il risultato del tiro di dado di superiorita' al tiro per colpire
 
 ## Innervosire
 
@@ -594,7 +594,7 @@
 ## Colpo della Forza
 
 - Tipo: Fisico
-- Preequisito: poter lanciare poteri della forza
+- Prerequisito: poter lanciare poteri della forza
 - Effetto: quando effettui un tiro per colpire corpo a corpo con l'arma, puoi spendere 1 dado di superiorita' ed aggiungere il risultato al tiro per colpire. Se l'attacco va a segno il bersaglio subisce danni da forza addizionali pari al risultato del dado di superiorita'.
 
 ## Studioso
@@ -607,7 +607,7 @@
 
 - Tipo: Mentale
 - Prerequisito: poter lanciare poteri tecnologici
-- Effetto: quando lanci un potere tecnologico puoi spendere 1 dado di superiorita' senza emettere suoni o fare gesti. Le creture subiscono svantaggio nelle prove di Intelligenza (Indagare) o Saggezza (Percezione) effettuate per capire se sia stato tu a lanciare il potere
+- Effetto: quando lanci un potere tecnologico puoi spendere 1 dado di superiorita' senza emettere suoni o fare gesti. Le creature subiscono svantaggio nelle prove di Intelligenza (Indagare) o Saggezza (Percezione) effettuate per capire se sia stato tu a lanciare il potere
 
 ## Survivalista
 

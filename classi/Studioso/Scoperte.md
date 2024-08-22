@@ -54,7 +54,7 @@ Puoi utilizzare il tuo privilegio di [Analisi Critica](./Studioso.md#analisi-cri
 
 ## Consiglio dell'Esperto
 
-Quando utilizzi il tuo privilegio di [Analisi Critica](./Studioso.md#analisi-critica), la prima volta che il bersaglio effettua una delle prove infuenzate dal privilegio, ottiene un bonus aggiuntivo al tiro pari a meta' del tuo modificatore di Analisi Critica.
+Quando utilizzi il tuo privilegio di [Analisi Critica](./Studioso.md#analisi-critica), la prima volta che il bersaglio effettua una delle prove influenzate dal privilegio, ottiene un bonus aggiuntivo al tiro pari a meta' del tuo modificatore di Analisi Critica.
 
 ## Mente Temprata
 
@@ -156,6 +156,6 @@ Puoi comunicare idee semplici a qualsiasi creatura con un punteggio di Intellige
 
 ## Manovre Versatili
 
-Scegli 2 manovre che conosci. Le manovre scelte sono gonsiderate come manovre generiche. Puoi scegliere 1 manovra addizionale ai livelli: 5, 9, 13 e 17.
+Scegli 2 manovre che conosci. Le manovre scelte sono considerate come manovre generiche. Puoi scegliere 1 manovra addizionale ai livelli: 5, 9, 13 e 17.
 
 Ogniqualvolta ottieni un livello in questa classe puoi sostituire una di queste manovre con un'altra che conosci.

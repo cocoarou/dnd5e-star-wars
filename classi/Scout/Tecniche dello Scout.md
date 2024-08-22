@@ -107,7 +107,7 @@ Una creatura subisce 4d4 danni da energia quando entra nell'area per la prima vo
 
 Puoi mantenere attiva la tempesta spendendo un punto ferita addizionale della [Barriera Personale](#barriera-personale) all'inizio di ogni tuo turno (non e' un'azione).
 
-I dannni di questo privilegio aumentano di 1d4 al livello 11 (5d4 totali) ed al livello 17 (6d4 totali).
+I danni di questo privilegio aumentano di 1d4 al livello 11 (5d4 totali) ed al livello 17 (6d4 totali).
 
 #### Onda Proiettata
 

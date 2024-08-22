@@ -47,7 +47,7 @@
 
  **Livello:** 3
 
- Compreso nella durata del riposo lungo, puoi effettuare delle [modifiche](./Modifiche%20della%20Meccano-armatura.md#modifiche-della-meccano-armatura) ad un'armatura o ad uno scudo, non potenziati, che possiedi, utilizzando la dotazione per maccano-armature.
+ Compreso nella durata del riposo lungo, puoi effettuare delle [modifiche](./Modifiche%20della%20Meccano-armatura.md#modifiche-della-meccano-armatura) ad un'armatura o ad uno scudo, non potenziati, che possiedi, utilizzando la dotazione per meccano-armature.
 
  L'oggetto modificato e' considerato potenziato, richiede sintonizzazione, puo' solamente essere utilizzato da te e viene considerato come tecno-focus dei tuoi poteri tecnologici finche' sei sintonizzato con esso.
 
@@ -100,7 +100,7 @@
 ### Arma Modificata
 
  **Livello:** 3
- Compreso nella durata del riposo lungo, puoi effettuare delle [modifiche](./Modifiche%20della%20Meccano-arma.md#modifiche-della-meccano-arma) ad un'arma, non potenziata, che possiedi, utilizzando la dotazione per maccano-armi.
+ Compreso nella durata del riposo lungo, puoi effettuare delle [modifiche](./Modifiche%20della%20Meccano-arma.md#modifiche-della-meccano-arma) ad un'arma, non potenziata, che possiedi, utilizzando la dotazione per meccano-armi.
 
  L'oggetto modificato e' considerato potenziato, richiede sintonizzazione, puo' solamente essere utilizzato da te e viene considerato come tecno-focus dei tuoi poteri tecnologici finche' sei sintonizzato con esso.
 
@@ -236,7 +236,7 @@ Quando lavori utilizzando la dotazione da armeggiatore il tempo di realizzazione
 
 **Livello:** 3, 9 e 17
 
-Compreso nella durata del riposo lungo, puoi modificare la tua dotazione da armeggiatore in u narmeggio-cannone.
+Compreso nella durata del riposo lungo, puoi modificare la tua dotazione da armeggiatore in un armeggio-cannone.
 
 Ogni volta che lanci un potere tecnologico di livello 1 o superiore mentre maneggi il cannone potresti rischiare che si verifichino effetti inaspettati. Il Dungeon Master puo' farti tirare 1d20. Se il risultato e' 1 tiri 1d100 ed associ il risultato al numero presente nella tabella [Impulsi dell'Ingegneria Instabile](./Impulsi%20dell'Ingegneria%20Instabile.md#impulsi-dell-ingegneria-instabile) Instabile scatenando l'effetto indicato.
 
@@ -248,7 +248,7 @@ Recuperi tutti gli utilizzi di sovrascrittura al completamento di un riposo lung
 
 **Livello:** 3, 9 e 17
 
-Con un'azione bonus puoi spendere un utilizzo di Prontezza per scagliare una raffica di energia instabile verso una superficio a 9m da te che puoi vedere. Questa energia aderisce al terreno per 1 minuto, dopo il quale esplode. Come parte dell'azione bonus o con 1 azione bonus nel turno successivo, puoi far esplodere l'energia prematuramente. Ogni creatura entro 1.5m dall'esplosione deve effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza tecnologico. Chi fallisce il tiro salvezza subisce 1d6 danni da elettricita', chi supera la prova ne riceve la meta'.
+Con un'azione bonus puoi spendere un utilizzo di Prontezza per scagliare una raffica di energia instabile verso una superficie a 9m da te che puoi vedere. Questa energia aderisce al terreno per 1 minuto, dopo il quale esplode. Come parte dell'azione bonus o con 1 azione bonus nel turno successivo, puoi far esplodere l'energia prematuramente. Ogni creatura entro 1.5m dall'esplosione deve effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza tecnologico. Chi fallisce il tiro salvezza subisce 1d6 danni da elettricita', chi supera la prova ne riceve la meta'.
 
 La gittata del privilegio aumenta ai livelli successivi in questo modo:
 

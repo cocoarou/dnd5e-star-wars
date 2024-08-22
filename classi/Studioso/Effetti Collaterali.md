@@ -15,7 +15,7 @@
 |11|La pelle della creatura diventa di un colore scuro e purpureo. Qualora fossero gia' di colore viola diventano, invece, di colore rosa acceso.
 |12|La creatura si ricopre di pustole verdognole. Quando viene colpita da un attacco corpo a corpo l'attaccante subisce 1d4 danni da veleno
 |13|La pelle della creatura comincia a gonfiarsi per colpa della pressione interna immagazzinata ed un impatto violento potrebbe causare un'esplosione. Quando la creatura subisce danni deve superare una prova di concentrazione o subire danni cinetici pari a meta' del massimo dei suoi punti ferita. Le altre creature che si trovano entro 3m dall'esplosione subiscono 1/4 del danno. Una volta che avviene l'esplosione la pelle della creatura diventa molto morbida.
-|14|La creatura si riempie di peli, quasi a sembrare uno [Wookie](../../razze/Wookiee/Wookiee.md#wookiee). Qualora la creatura fosse uno Wookie, subisce l'effetto inverso, perdendo tutti i peli.
+|14|La creatura si riempie di peli, quasi a sembrare uno [Wookiee](../../razze/Wookiee/Wookiee.md#wookiee). Qualora la creatura fosse uno Wookiee, subisce l'effetto inverso, perdendo tutti i peli.
 |15|La temperatura corporea della creatura fluttua da un estremo all'altro, ottenendo resistenza ai danni da fuoco e da freddo
 |16|La creatura diventa affamata. Se non mangiano 1 volta ogni ora subiscono 1 livello di esaurimento
 |17|La creatura crede di essere il prescelto

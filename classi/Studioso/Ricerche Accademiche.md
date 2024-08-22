@@ -17,7 +17,7 @@
     - [Scoperte del Medico](#scoperte-del-medico)
   - [Ricerca del Politico](#ricerca-del-politico)
     - [Parlantina](#parlantina)
-    - [Dimplomatico Motivazionale](#dimplomatico-motivazionale)
+    - [Diplomatico Motivazionale](#diplomatico-motivazionale)
     - [Personalita' Potente](#personalita-potente)
     - [Assemblea](#assemblea)
     - [Presenza Ammaliante](#presenza-ammaliante)
@@ -66,7 +66,7 @@ Questo dado diventa 1d10 al livello 13 ed 1d12 al livello 17
 
 **Livello:** 17
 
-1 volta per round, dopo che un tiro per colpire, un tiro salvezza od una prova di abilita' vengono effettuati da te od una creatura che puoi vedere, puoi sostituire il risultado del d20 con un 7. Segna il risultato del d20 che e' stato sostituito e mettilo da parte. Quel numero diventa il tuo tiro di fortuna in prestito.
+1 volta per round, dopo che un tiro per colpire, un tiro salvezza od una prova di abilita' vengono effettuati da te od una creatura che puoi vedere, puoi sostituire il risultato del d20 con un 7. Segna il risultato del d20 che e' stato sostituito e mettilo da parte. Quel numero diventa il tuo tiro di fortuna in prestito.
 
 Quando hai un tiro di fortuna in prestito, puoi spenderlo per sostituire qualsiasi prova di abilita, tiro per colpire o tiro salvezza effettuato da te od una creatura che puoi vedere con il valore del tiro di fortuna in prestito. Puoi avere solamente 1 tiro di fortuna in prestito alla volta e perdi tutti i tiri non utilizzati al completamento di un riposo breve o lungo.
 
@@ -94,7 +94,7 @@ Quando effettui una manovra bersagliando un alleato che e' anche il bersaglio de
 
 Ogni volta che spendi dei dadi di superiorita' per curare punti ferita o fornire punti ferita temporanei, di una creatura, puoi tirare 1d6 aggiuntivo ed aggiungere il risultato al tiro. Questo dado diventa 1d8 al livello 9, 1d10 al livello 13 ed 1d12 al livello 17.
 
-Inoltre, ogni volta che psendi dei dadi di superiorita' per curare punti ferita o fornire punti ferita temporanei, di una creatura, che e' anche il bersaglio della tua [Analisi Critica](./Studioso.md#analisi-critica) puoi, invece di tirare, scegliere direttamente il massimo di entrambi i dadi.
+Inoltre, ogni volta che spendi dei dadi di superiorita' per curare punti ferita o fornire punti ferita temporanei, di una creatura, che e' anche il bersaglio della tua [Analisi Critica](./Studioso.md#analisi-critica) puoi, invece di tirare, scegliere direttamente il massimo di entrambi i dadi.
 
 Puoi utilizzare questo privilegio 1 volta per riposo breve o lungo. Dal livello 11, puoi utilizzare questo privilegio 2 volte per riposo breve o lungo, ma solo 1 volta per turno.
 
@@ -134,7 +134,7 @@ Quando scegli questa ricerca, ottieni accesso alle seguenti [scoperte](./Scopert
 
 Impari 2 linguaggi a scelta ed 1 abilita' basata su Carisma a scelta. Non puoi subire svantaggio nelle prove con l'abilita' scelta.
 
-### Dimplomatico Motivazionale
+### Diplomatico Motivazionale
 
 **Livello:** 3
 

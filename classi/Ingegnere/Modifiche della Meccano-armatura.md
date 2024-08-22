@@ -177,7 +177,7 @@
 **Prerequisito:** livello 5, [Pugno Energetico](#pugno-energetico)
 
 - Azione: vedi effetto
-- Effetto: i tuoi attacchi senz'armi infliggono 1d6 danni cinetici ed ottengono la seguente proprieta': se tu od il tuo avversiario vi siete mossi di almeno 3m in linea retta, il primo attacco senz'armi che effettui infligge, qualora vada a segno, danni aggiuntivi pari al tuo modificatore di Intelligenza.
+- Effetto: i tuoi attacchi senz'armi infliggono 1d6 danni cinetici ed ottengono la seguente proprieta': se tu od il tuo avversario vi siete mossi di almeno 3m in linea retta, il primo attacco senz'armi che effettui infligge, qualora vada a segno, danni aggiuntivi pari al tuo modificatore di Intelligenza.
 
 ## Sottofondo Rinforzato
 
@@ -236,7 +236,7 @@
 **Prerequisito:** Armatura
 
 - Azione: vedi testo
-- Effetto: installi un blaster, nel quale sei competente, nel guando dell'armatura. L'arma utilizza il tuo modificatore di Intelligenza per i tiri per colpire ed i danni ed infligge 1d8 danni da energia. Il raggio e' 9/36
+- Effetto: installi un blaster, nel quale sei competente, nel quando dell'armatura. L'arma utilizza il tuo modificatore di Intelligenza per i tiri per colpire ed i danni ed infligge 1d8 danni da energia. Il raggio e' 9/36
 
 ## Armatura con Arma Integrata
 

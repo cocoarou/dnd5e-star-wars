@@ -56,7 +56,7 @@ Puoi utilizzare nuovamente questo privilegio una volta completato un riposo lung
 
 Ottieni la seguente opzione di [Incanalare la Forza](./Guardiano.md#incanalare-la-forza):
 
-- **Contrattatto Makashi**: quando una creatura ti infligge danni tramite un attacco corpo a corpo, puoi spendere un utilizzo di Incanalare la Forza ed utilizzare la tua reazione per deflettere l'attacco. Se lo fai, il danno che subisci dall'attacco viene ridotto di 1d10 + il tuo modificatore di Destrezza + il tuo livello da guardiano. Se il danno viene ridotto a 0 o meno puoi immediatamente effettuare un singolo attacco corpo a corpo con l'arma contro la creatura, come parte della reazione.
+- **Contrattacco Makashi**: quando una creatura ti infligge danni tramite un attacco corpo a corpo, puoi spendere un utilizzo di Incanalare la Forza ed utilizzare la tua reazione per deflettere l'attacco. Se lo fai, il danno che subisci dall'attacco viene ridotto di 1d10 + il tuo modificatore di Destrezza + il tuo livello da guardiano. Se il danno viene ridotto a 0 o meno puoi immediatamente effettuare un singolo attacco corpo a corpo con l'arma contro la creatura, come parte della reazione.
 
 ### Riflessi Potenziati dalla Forza
 
@@ -134,7 +134,7 @@ Il tuo punteggio di Destrezza e Saggezza o Carisma (scegli tu) aumenta di 2 ed i
 
 - Ottieni resistenza ai danni cinetici subiti da armi non potenziate
 - Ottieni vantaggio nei tiri salvezza dei poteri della forza. Inoltre ottieni resistenza ai danni inferti dai poteri della forza
-- Quando utilizzi la tua azione standard per lanciare un potere della froza a volonta', che bersaglia una sola creatura, puoi scegliere un bersaglio aggiuntivo che si trova entro 1.5m dal bersaglio originale e che si trova entro la gittata del potere
+- Quando utilizzi la tua azione standard per lanciare un potere della forza a volonta', che bersaglia una sola creatura, puoi scegliere un bersaglio aggiuntivo che si trova entro 1.5m dal bersaglio originale e che si trova entro la gittata del potere
 
 Questi effetti terminano prima della fine della durata se sei incapacitato o se muori.
 

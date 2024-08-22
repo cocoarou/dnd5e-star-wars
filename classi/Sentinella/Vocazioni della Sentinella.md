@@ -193,10 +193,10 @@ Crei un legame con una arma-laser o vibro-arma, tramite la forza, rendendola una
 Effettui un rituale dalla durata di 1 ora, che puo' essere effettuato durante un riposo breve. L'arma deve essere entro la tua gittata durante il rituale al termine del quale, tocchi l'arma e crei il legame, ottenendo i seguenti benefici:
 
 - Non puoi essere disarmato dell'arma scelta mentre sei cosciente
-- Se l'arma e' entro 18m da te e puoi vederla, puoi richiamarla, con un'azione bonus, tra le tue mani. Se hai una mano libera, afferri l'arma, altrimenti attera ai toui piedi
+- Se l'arma e' entro 18m da te e puoi vederla, puoi richiamarla, con un'azione bonus, tra le tue mani. Se hai una mano libera, afferri l'arma, altrimenti attera ai tuoi piedi
 - Puoi utilizzare Saggezza o Carisma anziche' Forza o Destrezza per i tiri per colpire ed i danni dell'arma
 
-Puoi avere un massimo di 2 armi legate alla volta e puoi richiamarl entrambe con un'unica azione bonus.
+Puoi avere un massimo di 2 armi legate alla volta e puoi richiamarle entrambe con un'unica azione bonus.
 
 ### Lancio della Lama Gemella
 

@@ -9,7 +9,7 @@
   - [Serbatoio Grande](#serbatoio-grande)
   - [Prese d'Aria Roventi](#prese-daria-roventi)
   - [Inibitori Fisici](#inibitori-fisici)
-  - [Systema di Messa a Terra](#systema-di-messa-a-terra)
+  - [Sistema di Messa a Terra](#sistema-di-messa-a-terra)
   - [Amplificatore Integrato](#amplificatore-integrato)
   - [Telemetro Integrato](#telemetro-integrato)
   - [Sovrascrittura del Nucleo Informativo](#sovrascrittura-del-nucleo-informativo)
@@ -75,7 +75,7 @@
 
 ## Prese d'Aria Roventi
 
-**Prerequisit:** livello 9, Jet Pack
+**Prerequisito:** livello 9, Jet Pack
 
 - Azione: vedi effetto
 - Effetto: impari il potere tecnologico Spazzata Rovente (Flame Sweep) e puoi lanciarlo come potere di primo livello senza spendere punti tecnologici.
@@ -90,7 +90,7 @@
 - Azione: non richiede un'azione
 - Effetto: bonus +1 alle CD del tiro salvezza tecnologico, dei poteri che lanci, basate su Forza o Costituzione. Il bonus aumenta a +2 al livello 9 ed a +3 al livello 13
 
-## Systema di Messa a Terra
+## Sistema di Messa a Terra
 
 - Azione: non richiede un'azione
 - Effetto: finche' indossi l'imbracatura da gadgettista sei immune alla condizione: scioccato
@@ -136,7 +136,7 @@
 ## Braccio Meccanico
 
 - Azione: non richiede un'azione
-- Effetto: installi, all'altezza delle spalle, un braccio meccanico che puoi utilizzare indipendendentemente. In presenza di piu' braccia, puoi comunque ricevere i benefici di oggetti tenuti da non piu' di due braccia alla volta
+- Effetto: installi, all'altezza delle spalle, un braccio meccanico che puoi utilizzare indipendentemente. In presenza di piu' braccia, puoi comunque ricevere i benefici di oggetti tenuti da non piu' di due braccia alla volta
 - Speciale: puoi scegliere questa modifica 2 volte
 
 ## Supporto di Distrazione
@@ -184,7 +184,7 @@
 **Prerequisito:** livello 5, Jet Pack
 
 - Azione: vedi effetto
-- Effetto: puoi attivare il jet pack come se si trattase di un'interazione con oggetto anziche' 1 azione bonus
+- Effetto: puoi attivare il jet pack come se si trattasse di un'interazione con oggetto anziche' 1 azione bonus
 
 ## Surrenali Riciclati
 
@@ -196,7 +196,7 @@
 ## Esplosivi Riciclati
 
 - Azione: non richiede un'azione
-- Effetto: puoi fare recuperare 1 carica ad un singolo esplosivo. Questo esplosivo puo' essere utilizzato solo da te ed utilizza la tua CD del tiro salvezza tecnologico anziche' la sua, almenoche' la CD dell'esplosivo non sia piu' alta.
+- Effetto: puoi fare recuperare 1 carica ad un singolo esplosivo. Questo esplosivo puo' essere utilizzato solo da te ed utilizza la tua CD del tiro salvezza tecnologico anziche' la sua, almeno che la CD dell'esplosivo non sia piu' alta.
 - Utilizzi: 1
 - Recupero utilizzi: completamento di un riposo lungo
 
@@ -243,7 +243,7 @@
 **Prerequisito:** livello 11, [Occhiali con Scurovisione](#occhiali-con-scurovisione)
 
 - Azione: 1 azione bonus per attivare
-- Effetto: per 1 minuto i tuoi occhiali dissolgono, automaticamente, le illusioni e rendono possibile vedere l'invisibilita', proprio come succederebbe con il potere della forza Visione del Vero (True Sight)
+- Effetto: per 1 minuto i tuoi occhiali dissolvono, automaticamente, le illusioni e rendono possibile vedere l'invisibilita', proprio come succederebbe con il potere della forza Visione del Vero (True Sight)
 - Utilizzi: 1
 - Recupero utilizzi: completamento di un riposo breve e lungo
 

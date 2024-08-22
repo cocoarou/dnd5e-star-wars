@@ -27,7 +27,7 @@
 
 ![scout](scout_01.png)
 
-|Livello|Bonus Compe|Privilegi|Preda del Ranger|Poteri Tecnologici Conosciuti|Punti Tecnologici|Livello Massimo del Potere|Routine Conosciute|Gittata Routine
+|Livello|Bonus Competenza|Privilegi|Preda del Ranger|Poteri Tecnologici Conosciuti|Punti Tecnologici|Livello Massimo del Potere|Routine Conosciute|Gittata Routine
 |---|---|---|---|---|---|---|---|---
 |1|+2|Preda del Ranger, Esploratore Nato|d4|-|-|-|-|-
 |2|+2|Tecno-Lancio, Stile di Combattimento|d4|4|2|1|-|-
@@ -205,7 +205,7 @@ Quando provi a nasconderti, nel tuo turno, puoi scegliere di non muoverti. Se lo
 
 Se sei rimasto nascosto, nel tuo turno successivo, puoi continuare a rimanere fermo ed ottenere questo beneficio finche' non vieni trovato.
 
-Infine, non puoi piu' essere tracciato tramite metodi non potenziati, almenoche' tu non scelga di lasciare una traccia.
+Infine, non puoi piu' essere tracciato tramite metodi non potenziati, almeno che tu non scelga di lasciare una traccia.
 
 ### Tecno-Combattimento
 

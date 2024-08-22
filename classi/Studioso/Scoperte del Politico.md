@@ -7,7 +7,7 @@
   - [Influente](#influente)
   - [Parole Affidabili](#parole-affidabili)
   - [Scalatore Sociale](#scalatore-sociale)
-  - [Ferocita' del Tiranno](#ferocita-del-tiranno)
+  - [Ferocia del Tiranno](#ferocia-del-tiranno)
 
 ## Finta Ammaliante
 
@@ -25,7 +25,7 @@ La gittata delle tue manovre aumenta di 3m. Se la gittata e' a contatto, diventa
 
 Con 1 azione bonus, puoi interloquire con un umanoide, in grado di capirti, che e' affascinato o spaventato da te, per comandare la sua prossima azione. Il bersaglio deve superare un tiro salvezza su Saggezza contro la tua CD della manovra. Se fallisce la prova, fino alla fine del tuo prossimo turno, la creatura effettua solamente le azioni che hai scelto e non fa altro che non gli sia stato comandato di fare.
 
-Per la durata dell'effetto puoi anche utilizzare la tua reaziione per obbligare la creatura ad usare la propria reazione.
+Per la durata dell'effetto puoi anche utilizzare la tua reazione per obbligare la creatura ad usare la propria reazione.
 
 Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.
 
@@ -45,6 +45,6 @@ Le tue prove di Carisma (Inganno, Intimidire o Persuasione) ottengono una [sogli
 
 Puoi aggiungere meta' del tuo bonus di competenza a ogni prova basata sul Carisma alla quale gia' non viene applicato il bonus di competenza.
 
-## Ferocita' del Tiranno
+## Ferocia del Tiranno
 
 Ottieni vantaggio in tutti gli attacchi effettuati contro una creatura affascinata od impaurita da te.

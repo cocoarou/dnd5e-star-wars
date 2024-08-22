@@ -127,7 +127,7 @@ Alcuni effetti richiedono che venga superato un tiro salvezza. La CD di queste p
 
 Puoi utilizzare questo privilegio 2 volte. Ottieni 1 utilizzo extra ai livelli: 5, 9, 13 e 17. Recuperi tutti gli utilizzi spesi dopo un riposo breve o lungo.
 
-- **Recare Danni:** con un'azione standard puoi spendere un utilizzo di Incanalare la Forza per prosciugare la vita di un nemico, che puoi vedere, entro 18m. Il bresaglio deve superare un tiro salvezza su Costituzione. Se fallisce subisce danni necrotici pari al tuo livello da guardiano + il tuo modificatore di Carisma (minimo +1), se supera il tiro subisce la meta' di quei danni.
+- **Recare Danni:** con un'azione standard puoi spendere un utilizzo di Incanalare la Forza per prosciugare la vita di un nemico, che puoi vedere, entro 18m. Il bersaglio deve superare un tiro salvezza su Costituzione. Se fallisce subisce danni necrotici pari al tuo livello da guardiano + il tuo modificatore di Carisma (minimo +1), se supera il tiro subisce la meta' di quei danni.
 - **Prestare Soccorso:** con un'azione standard puoi spendere un utilizzo di Incanalare la Forza e toccare una bestia od un umanoide entro 1.5m da te. Quella creatura recupera punti ferita pari al tuo livello da guardiano + il tuo modificatore di Saggezza (minimo +1). In alternativa, se la bestia o l'umanoide sono avvelenati od ammalati, puoi neutralizzare il veleno o la malattia. Se sono presenti piu' effetti di veleno o malattia neutralizzi solo uno di quegli effetti, del quale sei a conoscenza, altrimenti curi un effetto scelto casualmente.
 
 ### Colpi Potenziati dalla Forza

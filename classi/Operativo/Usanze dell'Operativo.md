@@ -51,7 +51,7 @@ Puoi utilizzare l'azione bonus fornita dal privilegio [Azione Scaltra](./Operati
 - utilizzare un kit da demolizione o un kit di sicurezza per disarmare una trappola od aprire una serratura
 - effettuare l'azione Utilizzare un Oggetto
 
-Inoltre, l'arrampicarsi non costa piu' movimento extra ed ottieni l'abilita' di muoverti in balzi aerei incredibilmente veloci, precisi e potenti. Quando ti muovi, invece di utilizzare la velocita' di movimento, puoi effettuare 2 movimenti piu' brevi, in volo. Ognuno di questi 2 movimenti viene effettuato alla meta' della tua velocita' di movimento e deve terminare su un oggetto solido, una superfice od il terreno. Se cosi' non fosse, cadi a terra ed il movimento termina. Se utilizzi l'azione di Scatto, il movimento bonus e' applicato solamente alla normale velocita' di movimento e non a questo privilegio.
+Inoltre, l'arrampicarsi non costa piu' movimento extra ed ottieni l'abilita' di muoverti in balzi aerei incredibilmente veloci, precisi e potenti. Quando ti muovi, invece di utilizzare la velocita' di movimento, puoi effettuare 2 movimenti piu' brevi, in volo. Ognuno di questi 2 movimenti viene effettuato alla meta' della tua velocita' di movimento e deve terminare su un oggetto solido, una superficie od il terreno. Se cosi' non fosse, cadi a terra ed il movimento termina. Se utilizzi l'azione di Scatto, il movimento bonus e' applicato solamente alla normale velocita' di movimento e non a questo privilegio.
 
 ### Mani Abili
 
@@ -88,7 +88,7 @@ Ottieni vantaggio delle prove di Destrezza (Furtivita') se, nello stesso turno, 
 Ottieni i seguenti benefici:
 
 - quando ti muovi puoi invece effettuare 3 movimenti piu' brevi, in volo
-- ogni volta che termini il tuo movimento aereo entro 1.5m da una superficie scalabnile, puoi afferrarla come se stessi gia' effettuando la scalata.
+- ogni volta che termini il tuo movimento aereo entro 1.5m da una superficie scalabile, puoi afferrarla come se stessi gia' effettuando la scalata.
 
 ### Riflessi da Ladro
 
@@ -106,7 +106,7 @@ Inoltre, ogni volta che cadi per almeno 15m ed atterri a 1.5m da un nemico, puoi
 
 Quando colpisci una creatura, ed eri nascosto da lei, con un'attacco con l'arma, puoi scegliere di trasformare l'attacco in un colpo critico.
 
-Se l'attacco porta il bersaglio a 0 punti ferita, non vieni automaticamente scoperto dalle altre creature. Effettua una prova di Destrezza (Furtivita') contro una prova di Saggezza (Precezione) delle creature. Se superi la prova rimani nascosto. Qualora gia' effettueresti una prova di Destrezza (Furtivita'), per rimanere nascosto, come parte di un attacco, ottieni vantaggio alla prova.
+Se l'attacco porta il bersaglio a 0 punti ferita, non vieni automaticamente scoperto dalle altre creature. Effettua una prova di Destrezza (Furtivita') contro una prova di Saggezza (Percezione) delle creature. Se superi la prova rimani nascosto. Qualora gia' effettueresti una prova di Destrezza (Furtivita'), per rimanere nascosto, come parte di un attacco, ottieni vantaggio alla prova.
 
 Puoi utilizzare questo privilegio 1 volta. Ottieni degli utilizzi addizionali ai livelli: 9 e 17.
 
@@ -130,11 +130,11 @@ Se fallisce, la prossima volta che infliggi danni da Attacco Furtivo, contro il 
 
 #### Valutare il Bersaglio
 
-La creatura deve effettuare un tiro savlezza su Carisma.
+La creatura deve effettuare un tiro salvezza su Carisma.
 
 Se fallisce, il Dungeon Master ti informa su 2 delle seguenti cose:
 
-- punteggio abilta' piu' alto
+- punteggio abilita' piu' alto
 - punteggio abilita' piu' basso
 - tiro salvezza piu' forte
 - tiro salvezza piu' scarso
@@ -163,7 +163,7 @@ Inoltre, la prima creatura che colpisci durante il primo round di combattimento 
 
 **Livello:** 17
 
-Quando infliggi danni dell'arma ad una creatura, dalla quale sei nascosto o che viene colta di sopresa, puoi obbligarla nell'effettuare un tiro salvezza su Costituzione contro la tua CD del tiro salvezza dei Colpi Letali.
+Quando infliggi danni dell'arma ad una creatura, dalla quale sei nascosto o che viene colta di sorpresa, puoi obbligarla nell'effettuare un tiro salvezza su Costituzione contro la tua CD del tiro salvezza dei Colpi Letali.
 
 Se fallisce il tiro, raddoppia tutti i danni dell'attacco effettuato contro la creatura.
 
@@ -197,7 +197,7 @@ Il bersaglio deve superare un tiro salvezza su Forza o venire obbligato nello bu
 
 #### Colpo Penetrante
 
-Scegli un secondo bersaglio situato entro 4.5m e direttamente dietro il tuo bersaglio principale. Se l'attacco originale colpirebbe anche il secondo berasglio, subisce 2 dadi di Attacco Furtivo. Il tipo di danno e' dello stesso tipo del danno inferto dall'attacco originale
+Scegli un secondo bersaglio situato entro 4.5m e direttamente dietro il tuo bersaglio principale. Se l'attacco originale colpirebbe anche il secondo bersaglio, subisce 2 dadi di Attacco Furtivo. Il tipo di danno e' dello stesso tipo del danno inferto dall'attacco originale
 
 #### Colpo di Soppressione
 
@@ -276,9 +276,9 @@ Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri
 
 Puoi spendere 1 minuto per cercare di distrarre ed affascinare le creature intorno a te.
 
-Scegli un numero di umanoidi fino al massimo del tuo modificatore di Carisma (minimo 1), entro 18m da te, che hanno visto il tuo sfoggio per l'interita' della sua durata.
+Scegli un numero di umanoidi fino al massimo del tuo modificatore di Carisma (minimo 1), entro 18m da te, che hanno visto il tuo sfoggio per l'interezza della sua durata.
 
-Ogni bersaglio deve superare un tiro salvezza (CD = 8 + il tuo bonus di competenza + il modificatore di Carisma) o venire ammaliato da te. Mentre e' ammaliato in questa maniera, il bersaglio ti idolatra, narrando delle tue gesta e della tua bellissima personalita' a chiunque parli con lui. Inoltre, il bersaglio si frappone tra chiunque tenti di opporsi a te, cercando di evitare la violenza dove possibile, almenoche' non fosse gia' propenso a lottare al posto tuo.
+Ogni bersaglio deve superare un tiro salvezza (CD = 8 + il tuo bonus di competenza + il modificatore di Carisma) o venire ammaliato da te. Mentre e' ammaliato in questa maniera, il bersaglio ti idolatra, narrando delle tue gesta e della tua bellissima personalita' a chiunque parli con lui. Inoltre, il bersaglio si frappone tra chiunque tenti di opporsi a te, cercando di evitare la violenza dove possibile, almeno che non fosse gia' propenso a lottare al posto tuo.
 
 Questo effetto termina:
 
@@ -294,7 +294,7 @@ Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo lung
 
 **Livello:** 9
 
-Oggieni vantaggio nei tiri per colpire contro le creature affascinate da te
+Ottieni vantaggio nei tiri per colpire contro le creature affascinate da te
 
 ### Vigore Affascinante
 
@@ -312,6 +312,6 @@ Recuperi tutti gli utilizzi spesi dopo aver terminato un riposo breve o lungo.
 
 Con 1 azione bonus puoi mascherare te stesso con la forza per 1 minuto o finche' non vieni incapacitato.
 
-Per tutta la durata, ogniqualvolta qualsiasi creatura tenti di attaccarti, per la prima volta, in un turno, l'attaccante deve effettuare un tiro salvezza su Carisma (CD = 8 + il tuo bonus di competenza + il modificatore di Carisma). Se fallisce il tiro, non puoo' attaccarti in questo turno e deve scegliere un nuovo bersaglio da attaccare, altrimenti, l'attacco viene annullato. Se supera il tiro, puo' attaccarti questo turno, ma subisce svantaggio ad ogni tiro salvezza che effettua contro i tuoi poteri nel prossimo turno.
+Per tutta la durata, ogniqualvolta qualsiasi creatura tenti di attaccarti, per la prima volta, in un turno, l'attaccante deve effettuare un tiro salvezza su Carisma (CD = 8 + il tuo bonus di competenza + il modificatore di Carisma). Se fallisce il tiro, non puo' attaccarti in questo turno e deve scegliere un nuovo bersaglio da attaccare, altrimenti, l'attacco viene annullato. Se supera il tiro, puo' attaccarti questo turno, ma subisce svantaggio ad ogni tiro salvezza che effettua contro i tuoi poteri nel prossimo turno.
 
 Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.

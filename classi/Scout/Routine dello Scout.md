@@ -12,7 +12,7 @@
 
 ## Routine dell'Adattabilita'
 
-All'inizio di ognuno dei tuoi turni puoi scegliere un punteggio caratteristica di un tuo tiro salvezza, nel quale non sei competente. Fino all'inizio del tuo prossimo turno, aggiungi 1/2 del tuo bonus di competenza ai tiri salvezza effetutati con l'abilita' scelta. In alternativa, puoi scegliere di estendere questo beneficio agli alleati che si trovano a 1.5m da te
+All'inizio di ognuno dei tuoi turni puoi scegliere un punteggio caratteristica di un tuo tiro salvezza, nel quale non sei competente. Fino all'inizio del tuo prossimo turno, aggiungi 1/2 del tuo bonus di competenza ai tiri salvezza effettuati con l'abilita' scelta. In alternativa, puoi scegliere di estendere questo beneficio agli alleati che si trovano a 1.5m da te
 
 ## Routine dello Specialista
 
@@ -20,7 +20,7 @@ All'inizio di ognuno dei tuoi turni puoi scegliere di ottenere resistenza ai dan
 
 ## Routine dell'Adescatore
 
-All'inizio di ognuno dei tuoi turni puoi scegliere di ottenere vantaggio nei tiri salvezza degli effetti che ti incapaciterebbero o ti addormenterebbero, fino all'inizio del tuo prissimo turno. In alternativa, puoi scegliere di estendere questo beneficio agli alleati che si trovano a 1.5m da te
+All'inizio di ognuno dei tuoi turni puoi scegliere di ottenere vantaggio nei tiri salvezza degli effetti che ti incapaciterebbero o ti addormenterebbero, fino all'inizio del tuo prossimo turno. In alternativa, puoi scegliere di estendere questo beneficio agli alleati che si trovano a 1.5m da te
 
 ## Routine del Nomade
 
@@ -40,4 +40,4 @@ All'inizio di ognuno dei tuoi turni puoi abbassare la riduzione di velocita' app
 
 ## Routine del Guardiano
 
-All'inizio di oguno dei tuoi turni puoi scegliere di ottenere una velocita' di strisciare, arrampicarsi e nuotare pari alla tua velocita' sul terreno, fino all'inizio del tuo prossimo turno. In alternativa, puoi scegliere di estendere questo beneficio agli alleati che si trovano a 1.5m da te
+All'inizio di ognuno dei tuoi turni puoi scegliere di ottenere una velocita' di strisciare, arrampicarsi e nuotare pari alla tua velocita' sul terreno, fino all'inizio del tuo prossimo turno. In alternativa, puoi scegliere di estendere questo beneficio agli alleati che si trovano a 1.5m da te

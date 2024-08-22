@@ -118,7 +118,7 @@ Quando utilizzi il privilegio di classe [Azione Impetuosa](./Guerriero.md#azione
 
 **Livello:** 18
 
-Puoi utilizzare l'azione standard per effettuare un attacco corpo a corpo con l'arma contro ogni creatura entro portata. Effettui un tiro separato per ogni attacco. Il primo attacco ottiene un bonus di +1 al tiro per colpire ed ogni attacco dopo il primo ottiene un bonus cumulativo di +1 fino ad un massimo di +6. Se imputni armi-laser, vibro-armi od un'arma con la proprieta' doppia, puoi aggiungere questo bonus anche ai danni e puoi utilizzare la tua azione bonus per Combattere con Due Armi o Combattere con Armi Doppie.
+Puoi utilizzare l'azione standard per effettuare un attacco corpo a corpo con l'arma contro ogni creatura entro portata. Effettui un tiro separato per ogni attacco. Il primo attacco ottiene un bonus di +1 al tiro per colpire ed ogni attacco dopo il primo ottiene un bonus cumulativo di +1 fino ad un massimo di +6. Se impugni armi-laser, vibro-armi od un'arma con la proprieta' doppia, puoi aggiungere questo bonus anche ai danni e puoi utilizzare la tua azione bonus per Combattere con Due Armi o Combattere con Armi Doppie.
 
 Puoi riutilizzare questo privilegio dopo aver completato un riposo breve o lungo
 
@@ -195,7 +195,7 @@ Quando utilizzi il privilegio [Recuperare Energie](./Guerriero.md#recuperare-ene
 
 **Livello:** 10
 
-Quandi utilizzi il privilegio [Azione Impetuosa](./Guerriero.md#azione-impetuosa) puoi scegliere una alleato entro 18m da te. Quella creatura puo' effettuare un attacco corpo a corpo o a distanza con l'arma, utilizzando la sua reazione, ammesso che possa vederti o sentirti.
+Quando utilizzi il privilegio [Azione Impetuosa](./Guerriero.md#azione-impetuosa) puoi scegliere una alleato entro 18m da te. Quella creatura puo' effettuare un attacco corpo a corpo o a distanza con l'arma, utilizzando la sua reazione, ammesso che possa vederti o sentirti.
 
 ### Baluardo
 
@@ -245,7 +245,7 @@ Ottieni competenza nell'uso di una dotazione da artigiano
 Ottieni i seguenti bonus al privilegio [Superiorita' in Combattimento](./Guerriero.md#superiorita-in-combattimento)
 
 - **Manovre Migliorate:** conosci 4 [manovre](./Manovre.md#manovre) a scelta, anziche' le 2 fornite dal guerriero, come elencato nella colonna Manovre Conosciute della tabella dello Specialista Tattico. Con l'aumentare dei livello aumentano anche le manovre conosciute
-- **Dado di Superiorita' Migliorato:** ottieni 4 dadi di superiorita', anziche' i 2 forniti dal guerriero, come elencato nella colnna Q.ta Dadi di Superiorita' della tabella dello Specialista Tattico
+- **Dado di Superiorita' Migliorato:** ottieni 4 dadi di superiorita', anziche' i 2 forniti dal guerriero, come elencato nella colonna Q.ta Dadi di Superiorita' della tabella dello Specialista Tattico
 
 ### Manovre Versatili
 

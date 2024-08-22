@@ -9,7 +9,7 @@
 |05-06 |Un droide DRK-1 appare a 1.5m da te, svanendo dopo 1 minuto.
 |07-08 |Lanci Esplosione (Explosion) al livello 3, centrata su di te, senza spendere punti tecnologici.
 |09-10 |Lanci Missili Guidati (Homing Rockets) al livello 5 senza spendere punti tecnologici.
-|11-12 |Tira 1d10. La tua altezza cambia di un numero di cm pari al risultato del dado x 2. Se il numero e' dispari rimpcciolisci, se il numero e' pari ingrandisci.
+|11-12 |Tira 1d10. La tua altezza cambia di un numero di cm pari al risultato del dado x 2. Se il numero e' dispari rimpicciolisci, se il numero e' pari ingrandisci.
 |13-14 |Ti addormenti per 1 minuto o finche' non ricevi danno.
 |15-16 |Per il prossimo minuto, recuperi 5 punti ferita all'inizio di ogni tuo turno.
 |17-18 |Ti cresce una barba fatta di piume che permane finche' non starnutisci.
@@ -45,7 +45,7 @@
 |77-78 |Ogni creatura entro 9m da te (tu escluso) guadagna i benefici di Immagine Speculare (Mirror Image) per 1 minuto.
 |79-80 |Farfalle illusorie e petali volteggiano nell'aria, nel raggio di 3m da te, per un minuto
 |81-82 |Puoi effettuare immediatamente un'altra azione standard.
-|83-84 |Ogni creatura entro 9m da te subisce 1d10 danni necrotici e tu guadagni tanti punti ferita qauanti danni inferti.
+|83-84 |Ogni creatura entro 9m da te subisce 1d10 danni necrotici e tu guadagni tanti punti ferita quanti danni inferti.
 |85-86 |Lanci Immagine Speculare (Mirror Image) senza spendere punti tecnologici.
 |87-88 |Vieni congelato da uno strato di carbonite e sei considerato paralizzato per 1 minuto o finche' non ricevi danno.
 |89-90 |Diventi invisibile e non sei in grado di emettere alcun suono per 1 minuto o finche' non attacchi od utilizzi un potere.

@@ -120,7 +120,7 @@ Utilizzi un computerino da polso o gli strumenti nei quali sei competente grazie
 
 ### Prontezza
 
-Con'unazione bonus, nel tuo turno, scegli una creatura, escluso te stesso, entro 18m, che puoi sentirti. Quella creatura ottiene 1 dado Prontezza. Il tipo di dado cambia a seconda dei livelli da ingegnere (vedi tabella, colonna Prontezza).
+Con un'azione bonus, nel tuo turno, scegli una creatura, escluso te stesso, entro 18m, che puoi sentirti. Quella creatura ottiene 1 dado Prontezza. Il tipo di dado cambia a seconda dei livelli da ingegnere (vedi tabella, colonna Prontezza).
 
 Entro 10 minuti dall'aver ricevuto i benefici del privilegio, la creatura puo' tirare il dado ed aggiungere il risultato ad una prova abilita', un tiro per colpire od un tiro salvezza. Una volta che il dado Prontezza viene tirato, e' perduto.
 

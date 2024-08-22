@@ -123,7 +123,7 @@ Puoi riutilizzare questo privilegio dopo aver completato un riposo lungo
 
 Quando lanci un potere della forza puoi spendere punti forza addizionali per modificarlo. Ottieni 2 opzioni di forza-lancio potenziato, [dettagliate in questa sezione](./Forza-lancio%20Potenziato.md#forza-lancio-potenziato). Ai livelli successivi ne impari di ulteriori (come indicato nella colonna Opzioni di Forza-lancio Potenziato della tabella).
 
-Puoi solamente utilizzare 1 opzione di forza-lancio potenziato su un potere mentre lo lanci, almenoche' non sia elencato diversamente nella descrizione del potere.
+Puoi solamente utilizzare 1 opzione di forza-lancio potenziato su un potere mentre lo lanci, almeno che non sia elencato diversamente nella descrizione del potere.
 
 ### Scudo della Forza
 
@@ -151,7 +151,7 @@ Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratterist
 
 ### Tutt'uno con la Forza
 
-Il tuo punteggio di Saggezza o Carisma aumenta di 4 ed il punteggio massimo della caratteristica scelta aumenta di 4. Scegli un potere della vorza di livello 3 che conosci come il tuo potere simbolo. Puoi lanciarlo, una volta, al livello 3 senza spendere punti forza.
+Il tuo punteggio di Saggezza o Carisma aumenta di 4 ed il punteggio massimo della caratteristica scelta aumenta di 4. Scegli un potere della forza di livello 3 che conosci come il tuo potere simbolo. Puoi lanciarlo, una volta, al livello 3 senza spendere punti forza.
 
 Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.
 

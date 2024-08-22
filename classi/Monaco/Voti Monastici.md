@@ -135,7 +135,7 @@ Ottieni competenza nelle armature leggere e medie ed ottieni i benefici delle [A
 
 ## Voto della Serenita'
 
-Ottieni punti focus addizionali pari a meta' del tuo modificatore di Saggezza o Carisma (segli tu, minimo +1)
+Ottieni punti focus addizionali pari a meta' del tuo modificatore di Saggezza o Carisma (scegli tu, minimo +1)
 
 ## Voto dello Spirito
 

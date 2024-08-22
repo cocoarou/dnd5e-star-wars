@@ -18,7 +18,7 @@ Finche' usufruisci di copertura, i tuoi attacchi riducono la copertura parziale 
 
 ## Stratega Astuto
 
-Sceltri tra 2 delle seguenti opzioni. Puoi utilizzare 1 azione bonus anziche' 1 azione standard:
+Scegli tra 2 delle seguenti opzioni. Puoi utilizzare 1 azione bonus anziche' 1 azione standard:
 
 - Applicare Veleno
 - Scatto

@@ -87,7 +87,7 @@ Ottieni competenza in queste armi se gia' non la possiedi.
 
 Le armi scelte vengono considerate, da te, come armi da monaco.
 
-Ai liveli 6, 11 e 17 puoi scegliere 1 arma extra, per livello, seguendo sempre i criteri indicati sopra.
+Ai livelli 6, 11 e 17 puoi scegliere 1 arma extra, per livello, seguendo sempre i criteri indicati sopra.
 
 Di seguito le azioni che puoi compiere con le tue armi:
 
@@ -165,7 +165,7 @@ Quando atterri, puoi effettuare un attacco senz'armi, con vantaggio, contro una 
 
 Ottieni una nuova opzione di attacco quando effettui l'azione di Attacco.
 
-Questo attacco speciale e' un attacco a distanza del focus con gittata 9m. Sei competente nell'attacco ed aggiungi il tuo odificatore di attacco del focus al tiro per colpire ed ai danni.
+Questo attacco speciale e' un attacco a distanza del focus con gittata 9m. Sei competente nell'attacco ed aggiungi il tuo modificatore di attacco del focus al tiro per colpire ed ai danni.
 
 I danni inferti da questo attacco sono danni necrotici.
 
@@ -173,7 +173,7 @@ Questo attacco conta come un'attacco senz'armi e quindi ottiene i benefici del t
 
 Quando effettueresti un attacco senz'armi grazie al privilegio delle Arti Marziali o la [Raffica di Colpi](./Monaco.md#raffica-di-colpi) puoi sostituire l'attacco con questo privilegio.
 
-Se porti una creatura a 0 punti ferita con questo attacco guadagni dei punti ferita temporanei pari al tuo modificatore di attacco del focus (scetli tu, minimo 1) + il tuo livello da monaco.
+Se porti una creatura a 0 punti ferita con questo attacco guadagni dei punti ferita temporanei pari al tuo modificatore di attacco del focus (scegli tu, minimo 1) + il tuo livello da monaco.
 
 ### Magia Oscura
 

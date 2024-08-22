@@ -95,7 +95,7 @@ Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo backgro
 
 **Livello:** 1
 
-cegli una delle manovre indicate in [questa sezione](../Guerriero/Manovre.md#manovre).
+Scegli una delle manovre indicate in [questa sezione](../Guerriero/Manovre.md#manovre).
 
 #### Manovre Conosciute
 
@@ -132,7 +132,7 @@ Inoltre, utilizzi quel modificatore per il calcolo delle CD della manovra che st
 Con 1 azione bonus, nel tuo turno, puoi analizzare una creatura che puoi vedere, entro 18m da te. Per il prossimo minuto, o finche' non analizzi un'altra creatura, ottieni i seguenti benefici:
 
 - Se analizzi un nemico, i tuoi tiri per colpire ed i tuoi tiri peri danni, effettuati con armi che hanno la proprieta' affilata o con i blaster, puoi utilizzare il tuo modificatore di Analisi Critica (Intelligenza) anziche' Forza o Destrezza. Devi utilizzare lo stesso modificatore per entrambi i tiri.
-- Se analizzi un alleato, il bersaglio puo' far terminare la tua Analisi Critica su di esso (non e' un'azione) ed aggiungere il tuo modficatore di Analisi Critica (Intelligenza) come bonus in uno dei seguenti modi:
+- Se analizzi un alleato, il bersaglio puo' far terminare la tua Analisi Critica su di esso (non e' un'azione) ed aggiungere il tuo modificatore di Analisi Critica (Intelligenza) come bonus in uno dei seguenti modi:
 
   - tiro per colpire
   - prova di abilita'
@@ -158,7 +158,7 @@ Puoi spendere 1 minuto per divulgare le tue conoscenze ed esperienze a chi ti ci
 
 Una volta, entro la prossima ora, quando una delle creature scelte effettuerebbe una prova di abilita' con l'abilita o lo strumento scelti, essa puo' aggiungere il proprio bonus di competenza al tiro, qualora non sia gia' competente nell'abilita' o nell'utilizzo dello strumento.
 
-Gli effetti del Consiglio del Saggio non sono cumulabili con altri effetti derivanti da altri privilegi Consiglio del Saggio. Se una cretura viene bersagliata nuovamente da questo privilegio prima di averlo utilizzato, puo scegliere di mantenere il bonus all'abilita o lo strumento precedenti oppure sostituirli con il nuovo.
+Gli effetti del Consiglio del Saggio non sono cumulabili con altri effetti derivanti da altri privilegi Consiglio del Saggio. Se una creatura viene bersagliata nuovamente da questo privilegio prima di averlo utilizzato, puo scegliere di mantenere il bonus all'abilita o lo strumento precedenti oppure sostituirli con il nuovo.
 
 Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo lungo.
 
@@ -198,7 +198,7 @@ Inoltre, quando un alleato che puoi vedere e che puo' sentirti viene obbligato a
 
 Quando effettui un tiro salvezza causato da un effetto che sei in grado di vedere, puoi ottenere un bonus al tiro salvezza pari al tuo modificatore di Intelligenza.
 
-Puoi utilizzare questo privilegio 5 volte ed ottieni 1 utilizzo agiuntivo al livello 17.
+Puoi utilizzare questo privilegio 5 volte ed ottieni 1 utilizzo aggiuntivo al livello 17.
 
 Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
 

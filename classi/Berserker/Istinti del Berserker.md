@@ -43,7 +43,7 @@ Mentre sei in ira ottieni una velocita' di volare pari alla tua velocita' di mov
 
 **Prerequisito:** livello 7
 
-Mentre sei in ira ottieni vista cieca 9m ed ottieni vantaggio nelle prove di Saggezza (Percezione) che riguardano l'udito, almenoche' tu non sia assordato.
+Mentre sei in ira ottieni vista cieca 9m ed ottieni vantaggio nelle prove di Saggezza (Percezione) che riguardano l'udito, almeno che tu non sia assordato.
 
 ## Istinto del Dewback
 
@@ -93,7 +93,7 @@ Quando utilizzi il privilegio [Attacco Irruento](./Berserker.md#attacco-irruento
 
 **Prerequisito:** livello 7
 
-Sei in grado di cercare tracce anche quando ti muovi a passo veloce e puoi muoverti di nascosto senza dover dimezzare la tua velocita' di movimento e, quindi, mantere un passo normale.
+Sei in grado di cercare tracce anche quando ti muovi a passo veloce e puoi muoverti di nascosto senza dover dimezzare la tua velocita' di movimento e, quindi, mantenere un passo normale.
 
 ## Istinto del Terentatek
 
@@ -105,4 +105,4 @@ Quando effettui un tiro salvezza contro un potere della forza, puoi immediatamen
 
 **Prerequisito:** livello 13
 
-Mentre sei in ira ottieni vantaggio nelle prove di Destrezza ed i tuoi tiri per colpire non possono subire svantaggio. Ogni effetto di lentezza riduce la tua velocita' di solo 1.5m, almenoche' non riducano la tua velocita' a 0.
+Mentre sei in ira ottieni vantaggio nelle prove di Destrezza ed i tuoi tiri per colpire non possono subire svantaggio. Ogni effetto di lentezza riduce la tua velocita' di solo 1.5m, almeno che non riducano la tua velocita' a 0.
