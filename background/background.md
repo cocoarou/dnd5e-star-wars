@@ -42,7 +42,7 @@ Essendo l'agente di una fazione hai l'accesso ad un network segreto di sostenito
 
 Conosci dei segni segreti e password che puoi utilizzare per identificare questi operativi che possono: fornirti accesso ad una casa sicura e nascosta, vitto ed alloggio gratis o fornire assistenza nel trovare delle informazioni.
 
-Questi agenti non rischiano mai la propria vita per te e cercano in tutti i modi di non far cadere la propria copertura, rilevando la propria identita'.
+Questi agenti non rischiano mai la propria vita per te e cercano in tutti i modi di non far cadere la propria copertura.
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -65,7 +65,7 @@ Scegli 2 tra: Inganno, Intuizione, Persuasione e Furtivita'
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-Scegli 1 tra: kit da demolizione, kit di sicurezza o kit da riprogrammatore
+Scegli 1 tra: [kit per demolizioni, kit di sicurezza o kit da riprogrammatore](../equipaggiamento/equipaggiamento.md#kit-da-specialista)
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -73,7 +73,7 @@ Scegli 1 linguaggio a piacere
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 set di abiti, inerenti alle tue mansioni, 1 raccoglitore ed una sacchetta contenente 200 cr
+1 set di abiti, inerenti alle tue mansioni, 1 set di [manette](../equipaggiamento/equipaggiamento.md#utilita) ed una sacchetta contenente 200 cr
 
 ### Tratto: Orecchie a Terra <!-- omit in toc -->
 
@@ -100,7 +100,7 @@ Scegli 2 tra: Inganno, Intimidire, Rapidita' di Mano e Furtivita'
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-Scegli 1 tipo di strumento da gioco ed 1 tra: kit da demolizione, kit di sicurezza o kit da riprogrammatore
+Scegli 1 tipo di [strumento da gioco](../equipaggiamento/equipaggiamento.md#strumenti-da-gioco) ed 1 tra: [kit per demolizioni, kit di sicurezza o kit da riprogrammatore](../equipaggiamento/equipaggiamento.md#kit-da-specialista)
 
 ### Equipaggiamento <!-- omit in toc -->
 
@@ -256,7 +256,7 @@ Scegli 2 tra: Intuizione, Investigare, Percezione e Sopravvivenza
 
 ### Equipaggiamento <!-- omit in toc -->
 
-Un'uniforme nello stile della tua unita' riportante anche il tuo rango, 1 corno con cui puoi chiamare aiuto, 1 set di raccoglitori ed una sacchetta di 100 cr
+Un'uniforme nello stile della tua unita' riportante anche il tuo rango, 1 corno con cui puoi chiamare aiuto, 1 set di [manette](../equipaggiamento/equipaggiamento.md#utilita) ed una sacchetta di 100 cr
 
 ### Tratto: Occhio della Sentinella <!-- omit in toc -->
 
@@ -612,7 +612,7 @@ Scegli 2 tra: Inganno, Guidare, Rapidita' di Mano e Furtivita'
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-Scegli 1 tipo di strumento da gioco ed 1 tra: kit da demolizione, kit di sicurezza o kit da riprogrammatore
+Scegli 1 tipo di strumento da gioco ed 1 tra: kit per demolizioni, kit di sicurezza o kit da riprogrammatore
 
 ### Equipaggiamento <!-- omit in toc -->
 

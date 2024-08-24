@@ -48,7 +48,7 @@
 Puoi utilizzare l'azione bonus fornita dal privilegio [Azione Scaltra](./Operativo.md#azione-scaltra) per:
 
 - effettuare una prova di Destrezza (Rapidita' di Mano)
-- utilizzare un kit da demolizione o un kit di sicurezza per disarmare una trappola od aprire una serratura
+- utilizzare un kit per demolizioni o un kit di sicurezza per disarmare una trappola od aprire una serratura
 - effettuare l'azione Utilizzare un Oggetto
 
 Inoltre, l'arrampicarsi non costa piu' movimento extra ed ottieni l'abilita' di muoverti in balzi aerei incredibilmente veloci, precisi e potenti. Quando ti muovi, invece di utilizzare la velocita' di movimento, puoi effettuare 2 movimenti piu' brevi, in volo. Ognuno di questi 2 movimenti viene effettuato alla meta' della tua velocita' di movimento e deve terminare su un oggetto solido, una superficie od il terreno. Se cosi' non fosse, cadi a terra ed il movimento termina. Se utilizzi l'azione di Scatto, il movimento bonus e' applicato solamente alla normale velocita' di movimento e non a questo privilegio.
