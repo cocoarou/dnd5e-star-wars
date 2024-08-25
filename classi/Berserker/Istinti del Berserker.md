@@ -27,11 +27,11 @@ Ottieni vantaggio nei tiri salvezza su Costituzione quando sei in ira
 
 **Prerequisito:** livello 7
 
-La tua capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale. Ottieni vantaggio in tutte le prove di Forza effettuate per: spingere, tirare, sollevare o distruggere un oggetto
+Le tua capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale. Ottieni vantaggio in tutte le prove di Forza effettuate per: spingere, tirare, sollevare o distruggere un oggetto
 
 ## Istinto del Blurrg
 
-Quando sei a cavallo o a piedi la tua velocita' di viaggio  e' raddoppiata ed anche quella degli alleati che si trovano entro 18m da te e non sono incapacitati.
+Quando sei a cavallo o a piedi la tua velocita' di viaggio e' raddoppiata ed anche quella degli alleati che si trovano entro 18 m da te e non sono incapacitati.
 
 ## Istinto del Boggdo
 
@@ -43,7 +43,7 @@ Mentre sei in ira ottieni una velocita' di volare pari alla tua velocita' di mov
 
 **Prerequisito:** livello 7
 
-Mentre sei in ira ottieni vista cieca 9m ed ottieni vantaggio nelle prove di Saggezza (Percezione) che riguardano l'udito, almeno che tu non sia assordato.
+Mentre sei in ira ottieni vista cieca 9 m ed ottieni vantaggio nelle prove di Saggezza (Percezione) basate sull'udito, almeno che tu non sia assordato.
 
 ## Istinto del Dewback
 
@@ -51,11 +51,11 @@ Scegli 3 tipi di danno al di fuori del danno-puro. Mentre sei in ira ottieni res
 
 ## Istinto del Combattente
 
-Scegli uno degli stili di combattimento presenti questa sezione.
+Scegli uno degli stili di combattimento presenti [questa sezione](../Guerriero/Stili%20di%20Combattimento.md#stili-di-combattimento).
 
 ## Istinto del Fyrnock
 
-Mentre sei in ira puoi utilizzare un'azione bonus per saltare in orizzontale, in uno spazio non occupato che puoi vedere, entro 9m da te. Quando atterri infliggi danni cinetici pari al tuo modificatore di Forza a tutte le creature che si trovano in 1.5m dal punto di atterraggio.
+Mentre sei in ira puoi utilizzare un'azione bonus per saltare in orizzontale, in uno spazio non occupato che puoi vedere, entro 9 m da te. Quando atterri infliggi danni cinetici pari al tuo modificatore di Forza a tutte le creature che si trovano ad 1.5 m dal punto di atterraggio.
 
 Puoi utilizzare questa capacita' 2 volte. Guadagni 1 utilizzo addizionale ai livelli: 5, 9, 13 e 17.
 
@@ -65,7 +65,7 @@ Recuperi tutti gli utilizzi di questa capacita' dopo aver terminato un riposo lu
 
 **Prerequisito:** livello 7
 
-Sei in grado di vedere fino a 1.5km senza alcuna difficolta'. Puoi discernere i dettagli di cio' che stai guardando come se si trovasse a non piu' di 30m da te. Inoltre, le prove di Saggezza (Percezione) non subiscono svantaggio in presenza di luce fioca.
+Sei in grado di vedere fino a 1.5 km senza alcuna difficolta'. Puoi discernere i dettagli di cio' che stai guardando come se si trovasse a non piu' di 30 m da te. Inoltre, le prove di Saggezza (Percezione) non subiscono svantaggio in presenza di luce fioca.
 
 ## Istinto del Katarn
 
@@ -73,21 +73,21 @@ Ottieni velocita' di scalare pari alla tua velocita' di movimento
 
 ## Istinto del Loth-Cat
 
-Mentre sei in ira le altre creature subiscono svantaggio negli attacchi d'opportunita' effettuati contro di te. Inoltre, puoi effettuare l'azione Scatto con un'azione bonus nel tuo turno.
+Mentre sei in ira le altre creature subiscono svantaggio negli attacchi d'opportunita' effettuati contro di te. Inoltre, puoi effettuare l'azione di Scatto con un'azione bonus nel tuo turno.
 
 ## Istinto del Predatore
 
-La tua velocita' di movimento aumenta di 3m.
+La tua velocita' di movimento aumenta di 3 m.
 
 ## Istinto del Rancore
 
 **Prerequisito:** livello 13
 
-Mentre sei in ira ogni creatura ostile che si trova a 1.5m da te subisce svantaggio ai tiri per colpire contro creature che non siano te od un'altra creatura con la stessa abilita'. Un nemico e' immune a questo effetto se non e' in grado di vederti, sentirti o se non puo' essere spaventata.
+Mentre sei in ira ogni creatura ostile che si trova a 1.5 m da te subisce svantaggio ai tiri per colpire contro creature che non siano te od un'altra creatura con la stessa abilita'. Un nemico e' immune a questo effetto se non e' in grado di vederti, sentirti o se non puo' essere spaventata.
 
 ## Istinto del Tattico
 
-Quando utilizzi il privilegio [Attacco Irruento](./Berserker.md#attacco-irruento) puoi decidere di non ottenere vantaggio al tiro per colpire questo turno. Se lo fai, le creature amiche che si trovano 1.5m da te e 1.5m da creature ostili, ottengono vantaggio ai tiri per colpire.
+Quando utilizzi il privilegio [Attacco Irruento](./Berserker.md#attacco-irruento) puoi decidere di non ottenere vantaggio al tiro per colpire questo turno. Se lo fai, le creature alleate che si trovano ad 1.5 m da te ed 1.5 m da creature ostili, ottengono vantaggio ai tiri per colpire.
 
 ## Istinto dell'Inseguitore
 
@@ -105,4 +105,4 @@ Quando effettui un tiro salvezza contro un potere della forza, puoi immediatamen
 
 **Prerequisito:** livello 13
 
-Mentre sei in ira ottieni vantaggio nelle prove di Destrezza ed i tuoi tiri per colpire non possono subire svantaggio. Ogni effetto di lentezza riduce la tua velocita' di solo 1.5m, almeno che non riducano la tua velocita' a 0.
+Mentre sei in ira ottieni vantaggio nelle prove di Destrezza ed i tuoi tiri per colpire non possono subire svantaggio. Ogni effetto di lentezza riduce la tua velocita' di solo 1.5 m, almeno che non riducano la tua velocita' a 0.

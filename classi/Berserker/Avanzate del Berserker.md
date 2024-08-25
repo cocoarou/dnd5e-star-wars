@@ -116,13 +116,13 @@ Sei competente nelle armature pesanti, puoi entrare in ira indossando armature p
 
 **Livello:** 3
 
-Mentre sei in ira puoi muoverti nello spazio occupato da una creatura ostile, non curandoti della sua taglia. Per fare cio' devi effettuare una prova di Forza (Atletica) contesa con la prova di Forza (Atletica) del bersaglio. Se ti muovi di almeno 3m prima di provare ad occupare lo spazio della creatura e la taglia di quella creatura e' uguale od inferiore alla tua, subiscono svantaggio nella prova. Se superi la prova non consideri il movimento come se fosse stato effettuato attraverso terreno difficile, la creatura viene spinta 1.5m in una direzione da te scelta e non puoi subire attacchi d'opportunita' da quella creatura fino alla fine del tuo turno.
+Mentre sei in ira puoi muoverti nello spazio occupato da una creatura ostile, non curandoti della sua taglia. Per fare cio' devi effettuare una prova di Forza (Atletica) contesa con la prova di Forza (Atletica) del bersaglio. Se ti muovi di almeno 3m prima di provare ad occupare lo spazio della creatura e la taglia di quella creatura e' uguale od inferiore alla tua, essa subisce svantaggio nella prova. Se superi la prova, non consideri il movimento come se fosse stato effettuato attraverso terreno difficile, la creatura viene spinta 1.5m in una direzione da te scelta e non puoi subire attacchi d'opportunita' da quella creatura fino alla fine del tuo turno.
 
 ### Bastione Iracondo
 
 **Livello:** 6
 
-Quando una creatura alleata che puoi vedere e' il bersaglio di un attacco a distanza o e' obbligata ad effettuare un tiro salvezza sulla Destrezza e riesci a vedere la sorgente dell'azione ostile, puoi utilizzare la tua reazione per muoverti fino a meta' della tua velocita' di movimento verso il tuo alleato. Devi terminare questo movimento piu' vicino al tuo alleato di quanto non lo fossi prima di muoverti. Se termini il tuo movimento e ti trovi tra il tuo alleato e la sorgente dell'effetto, fornisci copertura contro questo attacco.
+Quando una creatura alleata, che puoi vedere, e' il bersaglio di un attacco a distanza o e' obbligata ad effettuare un tiro salvezza sulla Destrezza e riesci a vedere la sorgente dell'azione ostile, puoi utilizzare la tua reazione per muoverti fino a meta' della tua velocita' di movimento verso il tuo alleato. Devi terminare questo movimento piu' vicino al tuo alleato di quanto non lo fossi prima di muoverti. Se termini il tuo movimento e ti trovi tra il tuo alleato e la sorgente dell'effetto, fornisci copertura contro questo attacco.
 
 Inoltre, fornisci 3/4 di copertura anziche' 1/2 alle creature di taglia uguale alla tua e fornisci copertura totale anziche' 3/4 alle creature di almeno una taglia piu' piccola della tua.
 
@@ -130,12 +130,12 @@ Inoltre, fornisci 3/4 di copertura anziche' 1/2 alle creature di taglia uguale a
 
 **Livello:** 10
 
-Quando spingi una creatura contro una superficie o contro un'altra creatura mentre sei in ira, la creatura che e' stata spinta subisce danni cinetici pari ai danni dell'ira (vedi tabella del [Berserker](./Berserker.md#berserker)). Inoltre, la prima volta che metti a segno un tiro per colpire che utilizza la Forza, ogni turno, puoi provare ad infliggere danni ad un'altra creatura con lo stesso attacco. Scegli un'altra creatura che si trova 1.5m dal tuo bersaglio originale ed entro la tua portata. Se il tiro per colpire effettuato per colpire il bersaglio principale colpirebbe anche il bersaglio secondario, questo ultimo subisce danni pari al tuo modificatore di Forza. Il tipo di danno inferto e' lo stesso dell'attacco originale.
+Quando spingi una creatura contro una superficie o contro un'altra creatura, mentre sei in ira, la creatura che e' stata spinta subisce danni cinetici pari ai danni dell'ira (vedi tabella del [Berserker](./Berserker.md#berserker)). Inoltre, la prima volta che metti a segno un tiro per colpire che utilizza Forza, ogni turno, puoi provare ad infliggere danni ad un'altra creatura con lo stesso attacco. Scegli un'altra creatura che si trovi ad 1.5 m dal tuo bersaglio originale ed entro la tua portata. Se il tiro per colpire effettuato per colpire il bersaglio principale colpirebbe anche il bersaglio secondario, questo ultimo subisce danni pari al tuo modificatore di Forza. Il tipo di danno inferto e' lo stesso dell'attacco originale.
 
 ### Assalto Implacabile
 
 **Livello:** 14
-Con un'azione puoi effettuare una carica in linea retta al doppio della tua velocita' di movimento senza provocare attacchi d'opportunita'. Ogni creatura che si trova 1.5m dalla tua traiettoria deve effettuare un tiro salvezza su Forza o Destrezza (sceglie la creatura) con CD: 8 + il tuo bonus di competenza + il tuo modificatore di Forza. Chiunque fallisce il tiro salvezza subisce danni pari al tuo modificatore di Forza + i danni dell'ira e se la taglia della creatura non va oltre una categoria superiore alla tua, viene spinta di 1.5m in una direzione da te scelta. Le creature piu' piccole di te effettuano il tiro salvezza subendo svantaggio. Al termine di questo movimento, se una creatura e' a 1.5m da te, puoi effettuare un attacco con l'arma (non e' un'azione). Se colpisci, la creatura subisce, oltre ai danni che si applicherebbero normalmente, dei danni addizionali pari al tuo livello di Berserker.
+Con un'azione standard puoi effettuare una carica in linea retta al doppio della tua velocita' di movimento senza provocare attacchi d'opportunita'. Ogni creatura che si trovi ad 1.5 m dalla tua traiettoria deve effettuare un tiro salvezza su Forza o Destrezza (sceglie la creatura) con CD: 8 + il tuo bonus di competenza + il tuo modificatore di Forza. Chiunque fallisca il tiro salvezza subisce danni pari al tuo modificatore di Forza + i danni dell'ira e se la taglia della creatura non va oltre una categoria superiore alla tua, viene spinta di 1.5 m in una direzione da te scelta. Le creature piu' piccole di te effettuano il tiro salvezza subendo svantaggio. Al termine di questo movimento, se una creatura e' a 1.5m da te, puoi effettuare un attacco con l'arma (non e' un'azione). Se colpisci, la creatura subisce, oltre ai danni che si applicherebbero normalmente, dei danni addizionali pari al tuo livello di Berserker.
 
 Recuperi l'utilizzo di questa capacita' dopo aver completato un riposo breve o lungo.
 
@@ -166,7 +166,7 @@ Recuperi l'utilizzo di questa capacita' dopo aver completato un riposo breve o l
 
 **Livello:** 3
 
-Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la lista dei poteri della forza.
+Vedi [questa sezione](../../poteri/Regole%20sul%20Lancio%20dei%20Poteri.md#regole-sul-lancio-dei-poteri) per i dettagli sul forza-lancio e [questa sezione](../../poteri/Poteri%20della%20Forza.md#poteri-della-forza) per la lista dei poteri della forza.
 
 ### Poteri della Forza Conosciuti
 
@@ -190,7 +190,7 @@ Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri
 
 **Livello:** 3
 
-Puoi lanciare i poteri della forza anche mentre sei in ira se: il tempo di lancio del potere sia di 1 azione, non necessiti di concentrazione e se il berserker non indossa armature pesanti. Mentre sei in ira aggiungi il tuo danno d'ira ai tiri per i danni dei poteri della forza che lanci e che richiedono un attacco della forza o un tiro salvezza. Se il potere della forza danneggia piu' di un bersaglio puoi applicare il danno dell'ira solamente ad uno di essi.
+Puoi lanciare i poteri della forza anche mentre sei in ira se: il tempo di lancio del potere sia di 1 azione standard, non necessiti di concentrazione e se il berserker non indossa armature pesanti. Mentre sei in ira aggiungi il tuo danno d'ira ai tiri per i danni dei poteri della forza che lanci e che richiedono un attacco della forza o un tiro salvezza. Se il potere della forza danneggia piu' di un bersaglio puoi applicare il danno dell'ira solamente ad uno di essi.
 
 Lanciare poteri della forza durante l'ira conta come l'aver effettuato un attacco ai fini di mantenere l'ira e puoi utilizzare la capacita' [Attacco Irruento](./Berserker.md#attacco-irruento) per guadagnare vantaggio mentre lanci un potere della forza che richiede un attacco della forza.
 
@@ -198,13 +198,13 @@ Lanciare poteri della forza durante l'ira conta come l'aver effettuato un attacc
 
 **Livello:** 6
 
-Mentre sei in ira ed utilizzi la tua azione per lanciare un potere della forza, puoi effettuare un singolo attacco corpo a corpo con un'azione bonus.
+Mentre sei in ira ed utilizzi la tua azione standard per lanciare un potere della forza, puoi effettuare un singolo attacco corpo a corpo con un'azione bonus.
 
 ### Presenza Possente
 
 **Livello:** 10
 
-Con un'azione bonus scegli fino a 10 altre creature entro 18m da te che possono sentirti. Le creature alleate guadagnano vantaggio ai tiri per colpire e nei tiri salvezza fino all'inizio del tuo prossimo turno; le creature ostili subiscono svantaggio ai tiri per colpire e nei tiri salvezza fino alla fine del tuo prossimo turno.
+Con un'azione bonus, scegli fino a 10 altre creature entro 18 m da te che possono sentirti. Le creature alleate guadagnano vantaggio ai tiri per colpire e nei tiri salvezza fino all'inizio del tuo prossimo turno; le creature ostili subiscono svantaggio ai tiri per colpire e nei tiri salvezza fino alla fine del tuo prossimo turno.
 
 Recuperi l'utilizzo di questa capacita' dopo aver completato un riposo lungo.
 
@@ -212,4 +212,4 @@ Recuperi l'utilizzo di questa capacita' dopo aver completato un riposo lungo.
 
 **Livello:** 14
 
-Con un'azione puoi terminare la tua ira prematuramente, obbligando ogni creatura entro 4.5m da te ad effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza della forza (universale). Le creature che falliscono il tiro salvezza subiscono 1d12 danni della forza per ogni round nel quale sei rimasto in ira prima di terminarla. Se superano il tiro salvezza ne subiscono la meta'.
+Con un'azione standard puoi terminare la tua ira prematuramente, obbligando ogni creatura entro 4.5 m da te ad effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza della forza (universale). Le creature che falliscono il tiro salvezza subiscono 1d12 danni da forza per ogni round nel quale sei rimasto in ira prima di terminarla. Se superano il tiro salvezza ne subiscono la meta'.

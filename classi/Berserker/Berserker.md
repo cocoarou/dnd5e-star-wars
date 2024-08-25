@@ -78,7 +78,7 @@
 
 - (a) 1 vibro-arma ed uno scudo leggero o medio | (b) 2 vibro-armi
 - (a) 2 tecno-asce | (b) 2 vibro-lance
-- (a) 1 dotazione da avventuriero | (b) 1 dotazione da esploratore
+- (a) 1 dotazione da esploratore dei sotterranei | (b) 1 dotazione da esploratore
 
 #### Variante: ricchezza iniziale
 
@@ -97,12 +97,12 @@ Nel tuo turno puoi entrare in ira con un'azione bonus, se non indossi armature p
 Benefici dell'ira:
 
 - Ottieni vantaggio nelle prove di Forza e nei tiri salvezza su Forza
-- Quando effettui un tiro per colpire utilizzando la Forza guadagni un bonus ai danni indicato nella colonna Danni dell'Ira della tabella del berserker
+- Quando effettui un tiro per colpire utilizzando Forza guadagni un bonus ai danni indicato nella colonna Danni dell'Ira della tabella del berserker
 - Ottieni resistenza ai danni da energia e cinetici
 
 Finche' l'ira persiste non puoi lanciare alcun tipo di potere
 
-L'ira dura per 1 minuto. Se perdi i sensi, indossi un'armatura pesante, termini il turno senza aver compiuto un'azione ostile o non ricevi danno, l'ira termina. Puoi decidere di terminare l'ira volontariamente con un'azione bonus.
+L'ira dura 1 minuto. Se perdi i sensi, indossi un'armatura pesante, termini il turno senza aver compiuto un'azione ostile o non ricevi danno, l'ira termina. Puoi decidere di terminare l'ira volontariamente con un'azione bonus.
 
 Puoi entrare in ira tante volte quanto indicato nella colonna Ira della tabella del berserker. Recuperi tutti gli utilizzi dopo aver completato un riposo lungo
 
@@ -159,7 +159,7 @@ L'ira termina solamente se perdi i sensi o decidi di terminarla volontariamente
 
 ### Potenza Indomabile
 
-Se il risultato di una prova di Forza e' inferiore al tuo punteggio di Forza, puoi utilizzare il tuo punteggio di forza anziche' il totale risultante dal tiro di dado piu' il punteggio dell'abilita'.
+Se il totale di una prova di Forza del berserker e' inferiore al suo punteggio di Forza, il berserker puo' usare il suo punteggio di Forza al posto del totale.
 
 ### Campione Primordiale
 
