@@ -160,7 +160,7 @@ Puoi scegliere questo talento piu' volte, scegliendo uno strumento diverso ogni 
 
 ## Artigiano (Crafter)
 
-Scegli un tipo di dotazione da artigiano.
+Scegli un tipo di dotazione da artigiano
 
 - aumenta un punteggio caratteristica a piacere di 1, fino ad un massimo di 20
 - ottieni competenza nella dotazione scelta. Se gia' sei competente nella dotazione ottieni, invece, maestria
@@ -449,7 +449,7 @@ Scegli 1 tra forza-lancio o tecno-lancio
 
 ## Specialista (Specialist)
 
-Scegli un tipo di dotazione a piacere
+Scegli un tipo di dotazione da artigiano
 
 - aumenta un punteggio caratteristica a piacere di 1, fino ad un massimo di 20
 - ottieni competenza nella dotazione scelta. Se gia' sei competente nell'utilizzo della dotazione ottieni, invece, maestria

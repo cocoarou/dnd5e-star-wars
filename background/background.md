@@ -144,11 +144,11 @@ Scegli 2 tra: Acrobatica, Intuizione, Intrattenere e Rapidita' di Mano
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-Trucchi per il camuffamento, 1 tipo di strumento musicale
+[Trucchi per il camuffamento](../equipaggiamento/equipaggiamento.md#kit-da-specialista), 1 tipo di [strumento musicale](../equipaggiamento/equipaggiamento.md#strumenti-musicali)
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 strumento musicale (a piacere), il pegno di un ammiratore (lettera d'amore, ciocca di capelli od un gioiello), 1 costume ed una sacchetta legata alla cinta contenente 150 cr
+1 [strumento musicale](../equipaggiamento/equipaggiamento.md#strumenti-musicali) (a piacere), il pegno di un ammiratore (lettera d'amore, ciocca di capelli od un gioiello), 1 costume ed una sacchetta legata alla cinta contenente 150 cr
 
 ### Specialita' dell'Intrattenitore <!-- omit in toc -->
 
@@ -167,7 +167,7 @@ Trucchi per il camuffamento, 1 tipo di strumento musicale
 
 ### Tratto: A Furor di Popolo <!-- omit in toc -->
 
-Riesci sempre a trovare un posto in cui esibirti, che sia una taverna, un bar, un circo, un teatro od un palazzo nobiliare. Ricevi sempre, in questi luoghi, vitto ed alloggio gratis con qualita' di comfort dipendenti dal posto in cui ti trovi (di solito si tratta di uno stato di comfort medio/alto), a patto che ti esibisca ogni notte. Inoltre, grazie alle tue esibizioni vieni riconosciuto come una figura locale famosa. Quando gli sconosciuti di riconoscono in una citta' nella quale ti sei esibito, tendono ad essere amichevoli nei tuoi confronti
+Riesci sempre a trovare un posto in cui esibirti, che sia una taverna, un bar, un circo, un teatro od un palazzo nobiliare. Ricevi sempre, in questi luoghi, vitto ed alloggio gratis con qualita' di comfort dipendenti dal posto in cui ti trovi (di solito si tratta di uno stato di comfort medio/alto), a patto che ti esibisca ogni notte. Inoltre, grazie alle tue esibizioni, vieni riconosciuto come una figura locale famosa. Le persone che ti riconoscono in una citta' nella quale ti sei esibito, tendono ad essere amichevoli nei tuoi confronti
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -190,7 +190,7 @@ Scegli 2 tra: Inganno, Intuizione, Percezione, Persuasione
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-2 a piacere tra: dotazione da artigiano, strumento da gioco, strumenti musicali
+2 a piacere tra: [1 dotazione](../equipaggiamento/equipaggiamento.md#dotazioni), [1 strumento da gioco](../equipaggiamento/equipaggiamento.md#strumenti-da-gioco), [1 strumento musicale](../equipaggiamento/equipaggiamento.md#strumenti-musicali)
 
 ### Equipaggiamento <!-- omit in toc -->
 
@@ -320,7 +320,7 @@ Scegli 2 tra: Atletica, Intimidire, Guidare e Sopravvivenza
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-1 dotazione da artigiano
+[1 dotazione da artigiano](../equipaggiamento/equipaggiamento.md#dotazioni-da-artigiano)
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -328,11 +328,11 @@ Mando'a
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 set di abiti da viaggio, 1 trofeo di una vittoria avvenuta in precedenza ed una sacchetta contenente 200 cr
+1 set di abiti da viaggio, 1 trofeo di una vittoria passata ed una sacchetta contenente 200 cr
 
 ### Tratto: Figlio di Mandalore <!-- omit in toc -->
 
-Gli altri Mandaloriani hanno un occhio di riguardo verso te. Qualora avessi necessita' di vitto od alloggio, gli altri Mandaloriani ti aiuteranno, salvo se in faida con il tuo clan. Questo aiuto puo' avvenire sotto forma di: rifugi, pasti o cure. Se i Mandaloriani fanno parte del tuo clan o di un clan alleato potrebbero addirittura offrire soccorso a loro spese
+Gli altri Mandaloriani hanno un occhio di riguardo verso di te. Qualora avessi necessita' di vitto od alloggio, gli altri Mandaloriani ti aiuteranno, salvo se in faida con il tuo clan. Questo aiuto puo' avvenire sotto forma di: rifugi, pasti o cure. Se i Mandaloriani fanno parte del tuo clan o di un clan alleato potrebbero addirittura offrire soccorso a loro spese
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -355,7 +355,7 @@ Scegli 2 tra: Atletica, Investigare, Persuasione e Guidare
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-1 strumento da gioco
+[1 strumento da gioco](../equipaggiamento/equipaggiamento.md#strumenti-da-gioco)
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -367,7 +367,7 @@ Scegli 2 tra: Atletica, Investigare, Persuasione e Guidare
 
 ### Tratto: Vita da Mercenario <!-- omit in toc -->
 
-Conosci la vita da mercenario come solo chi l'ha vissuta può fare. Sei in grado di identificare le associazioni di mercenari dai loro emblemi e sai qualcosa su qualsiasi compagnia del genere, inclusi i nomi e la reputazione dei suoi comandanti e leader, nonché chi li ha recentemente assunti. Puoi trovare le cantine e le sale da festa dove i mercenari risiedono in qualsiasi area, purché tu parli la lingua, e se trascorri almeno un'ora in un luogo del genere, puoi scoprire una delle seguenti informazioni: un'offerta di lavoro, un significativo pettegolezzo, un rinvio a un abile mercante, fabbro, ecc., o un suggerimento per perseguire la tua missione attuale. Inoltre, puoi trovare lavoro come mercenario tra un'avventura e l'altra sufficiente a mantenere uno stile di vita confortevole
+Conosci la vita da mercenario come solo chi l'ha vissuta può fare. Sei in grado di identificare le associazioni di mercenari dai loro emblemi e sai qualcosa su qualsiasi compagnia del genere, inclusi i nomi e la reputazione dei suoi comandanti e leader, nonché chi li ha recentemente assunti. Puoi trovare le cantine e le sale da festa dove i mercenari risiedono, in qualsiasi area, purche' tu conosca la lingua. Se trascorri almeno un'ora in un luogo del genere, puoi scoprire una delle seguenti informazioni: un'offerta di lavoro, un significativo pettegolezzo, il contatto di un abile mercante, di un fabbro, ecc., o un suggerimento per perseguire la tua missione attuale. Inoltre, puoi trovare lavoro come mercenario, tra un'avventura e l'altra, con una remunerazione sufficiente per mantenere uno stile di vita confortevole
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -390,7 +390,7 @@ Scegli 2 tra: Inganno, Intuizione, Storia e Persuasione
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-1 strumento da gioco
+[1 strumento da gioco](../equipaggiamento/equipaggiamento.md#strumenti-da-gioco)
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -425,7 +425,7 @@ Scegli 2 tra: Addestrare Animali, Atletica, Medicina e Sopravvivenza
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-1 tipo di strumento musicale
+[1 strumento musicale](../equipaggiamento/equipaggiamento.md#strumenti-musicali) a piacere
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -433,11 +433,11 @@ Scegli 2 tra: Addestrare Animali, Atletica, Medicina e Sopravvivenza
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 bastone da passeggio, 1 trappola per la caccia, 1 trofeo creato dai resti di un animale che hai ucciso, 1 set di abiti da viaggiatore ed una sacchetta legata alla cinta contenente 100 cr
+1 bastone da passeggio, 1 trappola per la caccia, 1 trofeo ricavato dai resti di un animale che hai ucciso, 1 set di abiti da viaggiatore ed una sacchetta legata alla cinta contenente 100 cr
 
 ### Tratto: Viaggiatore <!-- omit in toc -->
 
-Hai una memoria eccellente per quanto riguarda mappe e la geografia, riesci sempre a ricordare la forma generale del terreno, degli accampamenti ed altri particolari intorno a te. Inoltre, sai trovare cibo ed acqua potabile per te e fino a 5 altre persone, al giorno, a patto che la zona nella quale ti trovi sia in grado di fornire tali nutrimenti
+Hai una memoria eccellente per quanto concerne mappe e la geografia, riesci sempre a ricordare la forma generale del terreno, degli accampamenti ed altri particolari che ti circondano. Inoltre, sai trovare cibo ed acqua potabile per te e fino a 5 altre persone, al giorno, a patto che la zona nella quale ti trovi sia in grado di fornire tali nutrimenti
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -460,7 +460,7 @@ Scegli 2 tra: Acrobatica, Atletica, Intuizione e Sopravvivenza
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-Trucchi per il camuffamento
+[Trucchi per il camuffamento](../equipaggiamento/equipaggiamento.md#kit-da-specialista)
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -495,11 +495,11 @@ Scegli 2 tra: Atletica, Inganno, Intimidire e Guidare
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-1 tipo di strumento da gioco, 1 a piacere tra: kit da demolitore, kit di sicurezza, kit da riprogrammatore
+[1 strumento da gioco](../equipaggiamento/equipaggiamento.md#strumenti-da-gioco), a piacere ed 1 a piacere tra: [kit da demolitore, kit di sicurezza, kit da riprogrammatore](../equipaggiamento/equipaggiamento.md#kit-da-specialista)
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 set di abiti da viaggio, 1 set di strumenti da gioco nei quali sei competente, mappe con indicazioni approssimate delle Cinta Esterne nel tuo territorio, un piccolo gioiello proveniente da un pianeta esotico dal valore di 100 cr, una sacchetta contenente 50 cr
+1 set di abiti da viaggio, 1 set di strumenti da gioco nei quali sei competente, mappe con indicazioni approssimative delle Cinta Esterne nel tuo territorio, un piccolo gioiello proveniente da un pianeta esotico dal valore di 100 cr, una sacchetta contenente 50 cr
 
 ## Scienziato (Scientist)
 
@@ -517,11 +517,11 @@ Scegli 2 tra: Storia, Medicina, Natura e Tecnologia
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 set di abiti comuni, 1 dispositivo dati, 1 libro legato al tuo campo di ricerca, una sacchetta contenente 100 cr
+1 set di abiti comuni, [1 dispositivo dati](../equipaggiamento/equipaggiamento.md#registrazione-e-salvataggio-dati), 1 libro legato al tuo campo di ricerca, una sacchetta contenente 100 cr
 
 ### Tratto: Metodo Scientifico <!-- omit in toc -->
 
-Conosci bene il tuo campo di ricerca avendo letto numerosi articoli o avendo partecipato a conferenze scientifiche. Concetti complicati, che coinvolgono gergo tecnico che di solito va oltre la comprensione della maggior parte delle persone, sono semplici per te. Comprendi pienamente i concetti, puoi ricordare informazioni chiave e sai come usare l'attrezzatura relativa al tuo campo, a meno che la ricerca non sia stata nascosta al pubblico, nel qual caso potresti solo parzialmente capirla. Riconosci anche figure di spicco nel tuo campo.
+Conosci bene il tuo campo di ricerca, avendo letto numerosi articoli od avendo partecipato a conferenze scientifiche. Concetti complicati, che coinvolgono gergo tecnico che di solito va oltre la comprensione della maggior parte delle persone, sono semplici per te. Comprendi pienamente i concetti, puoi ricordare informazioni chiave e sai come usare l'attrezzatura relativa al tuo campo, a meno che la ricerca non sia nascosta al pubblico, nel qual caso potresti solo parzialmente capirla. Riconosci anche figure di spicco nel tuo campo.
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -544,15 +544,15 @@ Scegli 2 tra: Inganno, Intuizione, Intrattenere e Rapidita' di Mano
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-Trucchi per il camuffamento, arnesi da falsario
+[Trucchi per il camuffamento, arnesi da falsario](../equipaggiamento/equipaggiamento.md#kit-da-specialista)
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 set di abiti pregiati, trucchi per il camuffamento, 1 ricordo di una truffa pregressa ed una sacchetta legata alla cinta contenente 150 cr
+1 set di abiti pregiati, trucchi per il camuffamento, 1 cimelio di una truffa pregressa ed una sacchetta legata alla cinta contenente 150 cr
 
 ### Tratto: Falsa Identita' <!-- omit in toc -->
 
-Hai creato una seconda identità che include documenti, conoscenze stabilite e travestimenti che ti permettono di assumere quella persona.
+Hai creato una seconda identità che include documenti, conoscenze stabilite e travestimenti che ti permettono di assumere quella persona fittizia.
 
 Inoltre, puoi falsificare documenti, inclusi documenti ufficiali e lettere personali, purché tu abbia visto un esempio del tipo di documento o della calligrafia che stai cercando di copiare.
 
@@ -577,7 +577,7 @@ Scegli 2 tra: Inganno, Intuizione, Intimidire, Storia
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-Dotazione da artefice
+[Dotazione da artefice](../equipaggiamento/equipaggiamento.md#dotazioni-da-artigiano)
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -589,7 +589,7 @@ Dotazione da artefice
 
 ### Tratto: Temuto <!-- omit in toc -->
 
-Come Sith, instilli paura in coloro che sono consapevoli della tua posizione. Quando ti trovi in un ambiente civilizzato, puoi farla franca con piccoli reati, come rifiutarti di pagare per il cibo in una cantina o tagliare le porte in un negozio locale, poiché la maggior parte delle persone non segnalerà le tue attività alle autorità
+Come Sith, instilli paura in coloro che sono consapevoli della tua posizione. Quando ti trovi in un ambiente civilizzato, puoi farla franca con piccoli reati come , per esempio, il rifiutarti di pagare per il cibo in una cantina, poiché la maggior parte delle persone non segnalerà le tue attività alle autorità
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -612,11 +612,11 @@ Scegli 2 tra: Inganno, Guidare, Rapidita' di Mano e Furtivita'
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-Scegli 1 tipo di strumento da gioco ed 1 tra: kit per demolizioni, kit di sicurezza o kit da riprogrammatore
+Scegli [1 tipo di strumento da gioco](../equipaggiamento/equipaggiamento.md#strumenti-da-gioco) ed 1 tra: [kit per demolizioni, kit di sicurezza o kit da riprogrammatore](../equipaggiamento/equipaggiamento.md#kit-da-specialista)
 
 ### Equipaggiamento <!-- omit in toc -->
 
-1 fresa a fusione, 1 set di abiti comuni scuri, con cappuccio ed una sacchetta legata alla cinta contenente 150 cr
+[1 fresa a fusione](../equipaggiamento/equipaggiamento.md#utilita), 1 set di abiti comuni scuri, con cappuccio ed una sacchetta legata alla cinta contenente 150 cr
 
 ### Tratto: Selezione Oculata <!-- omit in toc -->
 
@@ -643,7 +643,7 @@ Scegli 2 tra: Atletica, Intimidire, Persuasione e Guidare
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-1 strumento da gioco
+[1 strumento da gioco](../equipaggiamento/equipaggiamento.md#strumenti-da-gioco)
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -655,7 +655,7 @@ Scegli 2 tra: Atletica, Intimidire, Persuasione e Guidare
 
 ### Tratto: Rango Militare <!-- omit in toc -->
 
-Hai un grado militare dalla tua carriera come soldato. I soldati fedeli alla tua precedente organizzazione militare riconoscono ancora la tua autorità e influenza e ti deferiscono se sono di grado inferiore. Puoi invocare il tuo grado per esercitare influenza su altri soldati e richiedere attrezzature semplici per uso temporaneo. Di solito, puoi anche ottenere l'accesso ai campi militari amici dove il tuo grado è riconosciuto.
+Hai un grado militare derivante tua carriera come soldato. I soldati fedeli alla tua precedente organizzazione militare riconoscono ancora la tua autorità e influenza e ti deferiscono se sono di grado inferiore. Puoi invocare il tuo grado per esercitare influenza su altri soldati e richiedere attrezzature semplici per un uso temporaneo. Di solito, puoi anche ottenere l'accesso ai campi militari amici dove il tuo grado è riconosciuto.
 
 ### Talento del Background <!-- omit in toc -->
 
@@ -678,7 +678,7 @@ Scegli 2 tra: Intuizione, Investigare, Guidare e Tecnologia
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
-1 tra: strumenti da chef, strumenti da meccanico o strumenti da gioco
+1 tra: [kit da cuoco, kit da meccanico](../equipaggiamento/equipaggiamento.md#kit-da-specialista) o [strumenti da gioco](../equipaggiamento/equipaggiamento.md#strumenti-da-gioco)
 
 ### Linguaggi <!-- omit in toc -->
 

@@ -228,7 +228,7 @@ Quando una creatura, entro 9 metri, che e' protetta da una delle tue barriere ri
 
 **livello:** 3
 
-Ottieni competenza in una dotazione da artigiano a scelta.
+Ottieni competenza in una dotazione da argigiano
 
 Quando lavori utilizzando la dotazione da armeggiatore il tempo di realizzazione si dimezza.
 

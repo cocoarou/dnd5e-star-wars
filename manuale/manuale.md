@@ -301,7 +301,7 @@
 |Vulnerabilita' dei Droidi|Sei vulnerabile ai danni di tipo: ionico. Inoltre subisci svantaggio nei tiri salvezza contro effetti che infliggerebbero danni ionici od elettrici
 |Insensibilita' alla Forza|Non puoi utilizzare poteri della forza o prendere livelli in classi che usano il forza-lancio
 |Modalita' Mantenimento|Invece di dormire, devi spendere 3 ore eseguendo un sottoprogramma di mantenimento durante un riposo lungo per ottenerne i benefici. Durante questa fase subisci svantaggio delle prove di Saggezza (Percezione). Qualora il riposo lungo venisse interrotto, per completarlo non devi cominciare da capo, ma puoi riprendere da dove si e' interrotto
-|Manovale|Sei competente nella abilita' di Atletica e nell'utilizzo di una dotazione da artigiano a scelta
+|Manovale|Sei competente nella abilita' di Atletica e nell'utilizzo di una dotazione da artigiano
 |Stazza Prestante|La capacita' di carico, spingere, trascinare o sollevare un peso vengono duplicate. Se sono gia' duplicate, allora triplicale
 |Ricostruzione Rapida|Come azione bonus puoi spendere uno o piu' Dadi Vita per recuperare punti ferita
 |Linguaggi|Sai parlare, leggere e scrivere: Binario. Comprendi il Galattico Base parlato ed un linguaggio bonus a scelta, ma non sai parlarli
