@@ -146,9 +146,9 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 ## Maestria del Pistolero
 
-- Quando una creatura supera un tiro salvezza contro la proprieta' rapida o deflagrante dell'arma subiscono danni pari al modificatore che aggiungi per i tiri per colpire
+- Quando una creatura supera un tiro salvezza contro la proprieta' rapida o deflagrazione dell'arma subiscono danni pari al modificatore che aggiungi per i tiri per colpire
 - Il prerequisito di Forza delle armi, per te, e' ridotto di uno step (19 > 17, 17 > 15, 15 > 13, 13 > 11, 11 > lo ignori totalmente)
-- Quando usi la proprieta' deflagrante dell'arma, puoi decidere di non applicare il bonus di competenza alla CD. Se lo fai, ogni creatura che fallisce il tiro salvezza subisce danni extra pari al tuo bonus di competenza
+- Quando usi la proprieta' deflagrazione dell'arma, puoi decidere di non applicare il bonus di competenza alla CD. Se lo fai, ogni creatura che fallisce il tiro salvezza subisce danni extra pari al tuo bonus di competenza
 - Quando usi la proprieta' rapida dell'arma, puoi decidere di non applicare il bonus di competenza alla CD. Se lo fai, ed il bersaglio fallisce il tiro, esso subisce danni extra pari al tuo bonus di competenza x 2
 
 ## Maestria in Sella

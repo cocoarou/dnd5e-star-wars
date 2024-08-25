@@ -35,7 +35,7 @@
 
 **Livello:** 3
 
-Sei competente nei blaster da guerra con la proprieta': rapida e deflagrante. Inoltre, se utilizzi un blaster nel quale sei competente ottieni i seguenti benefici:
+Sei competente nei blaster da guerra con la proprieta': rapida e deflagrazione. Inoltre, se utilizzi un blaster nel quale sei competente ottieni i seguenti benefici:
 
 - Puoi utilizzare il modificatore di Forza o Destrezza nei tiri per colpire e per i danni con il blaster contro creature che si trovano entro 9m. Devi utilizzare lo stesso modificatore per entrambi i tiri.
 - Se usi un blaster come un'arma improvvisata, sei comunque considerato competente nell'utilizzo
@@ -48,7 +48,7 @@ Mentre sei in ira ottieni i seguenti benefici:
 
 - I tiri per i danni del blaster ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro)
 - Aggiungi il danno dell'ira ai tiri per i danni delle armi a distanza che utilizzano il modificatore di Forza
-- Al livello 9, quando una creatura tira 1 per superare il tiro salvezza delle proprieta' rapida o deflagrante, puoi aggiungere i dadi del [Critico Brutale](Berserker.md#critico-brutale) ai danni dell'arma.
+- Al livello 9, quando una creatura tira 1 di dado per superare il tiro salvezza delle proprieta' rapida o deflagrazione, puoi aggiungere i dadi del [Critico Brutale](Berserker.md#critico-brutale) ai danni dell'arma.
 
 ### Furia
 
@@ -66,7 +66,7 @@ Se vieni colpito da una creatura entro 9m da te puoi utilizzare la tua reazione 
 
 **Livello:** 14
 
-Quando utilizzi la proprieta' deflagrante del blaster nel quale sei competente, puoi applicare il danno dell'ira ad ogni creatura che subisce danno, anziche' una soltanto. Inoltre, quando una creatura di taglia Grande od inferiore fallisce il tiro salvezza contro le proprieta' deflagrante o rapida e si trova entro 9m da te, cade prona a terra.
+Quando utilizzi la proprieta' deflagrazione del blaster nel quale sei competente, puoi applicare il danno dell'ira ad ogni creatura che subisce danno, anziche' una soltanto. Inoltre, quando una creatura di taglia Grande od inferiore fallisce il tiro salvezza contro le proprieta' deflagrazione o rapida e si trova entro 9m da te, cade prona a terra.
 
 ## Avanzata del Ciclone
 

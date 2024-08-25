@@ -34,7 +34,7 @@
 - projector canister: contenitore proiettante
 - Guard: Guardia
 - rapid: rapida
-- burst: deflagrante
+- burst: deflagrazione
 - Double-Weapon Fighting: Combattere con Armi Doppie
 - Two-Weapon Fighting: Combattere con Due Armi
 - thrown: lancio

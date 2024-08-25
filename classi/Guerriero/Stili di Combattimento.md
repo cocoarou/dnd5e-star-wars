@@ -127,8 +127,8 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 ## Stile del Pistolero
 
-- Quando una creatura tira 1 di dado per superare un tiro salvezza contro le proprieta' rapida o deflagrante dell'arma, subisce il massimo dei danni.
-- Quando usi la proprieta' deflagrante dell'arma, puoi decidere di cambiare l'area d'effetto in un lineare lungo 6m e largo 1.5m.
+- Quando una creatura tira 1 di dado per superare un tiro salvezza contro le proprieta' rapida o deflagrazione dell'arma, subisce il massimo dei danni.
+- Quando usi la proprieta' deflagrazione dell'arma, puoi decidere di cambiare l'area d'effetto in un lineare lungo 6m e largo 1.5m.
 - Quando usi la proprieta' rapida dell'arma, puoi decidere di raddoppiare uno dei risultati dei dadi lanciati ed ignorare l'altro anziche' aggiungerli tra di loro.
 
 ## Stile in Sella

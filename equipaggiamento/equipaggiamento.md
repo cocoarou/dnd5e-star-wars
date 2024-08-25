@@ -14,7 +14,7 @@
   - [Armi](#armi)
     - [Proprieta' delle Armi](#proprieta-delle-armi)
       - [Automatica (Auto)](#automatica-auto)
-      - [Deflagrante (Burst)](#deflagrante-burst)
+      - [Deflagrazione (Burst)](#deflagrazione-burst)
         - [Destrezza (Dexterity)](#destrezza-dexterity)
         - [Camuffata (Disguised)](#camuffata-disguised)
       - [Doppia (Double)](#doppia-double)
@@ -221,9 +221,9 @@ Se impugni uno scudo pesante, puoi impugnare, nell'altra mano, solamente armi le
 
 #### Automatica (Auto)
 
-Le armi con questa proprieta' possono solamente sparare nelle modalita': deflagrante, penetrante e rapida, scegli tu quale modalita' utilizzare. Puoi utilizzare solamente una modalita' alla volta
+Le armi con questa proprieta' possono solamente sparare nelle modalita': deflagrazione, penetrante e rapida, scegli tu quale modalita' utilizzare. Puoi utilizzare solamente una modalita' alla volta
 
-#### Deflagrante (Burst)
+#### Deflagrazione (Burst)
 
 Quando effettueresti un attacco a distanza con l'arma avente questa proprieta' puoi, invece, sparare in un'area, entro gittata, considerando un cubo di 3 m, consumando munizioni pari al valore di deflagrazione. Ogni creatura nell'area deve effettuare un tiro salvezza su Destrezza (CD = 8 + il tuo bonus per gli attacchi con l'arma) o subire il normale danno dell'arma. 
 
@@ -307,7 +307,7 @@ Un'arma con questa proprieta' possiede delle misteriose ed inusuali regole che n
 
 #### Rinculo (Strength)
 
-Un'arma con questa proprieta' ha un forte rinculo. Mentre la impugni, subisci svantaggio nei tiri per colpire almeno che non soddisfi i requisiti della caratteristica Forza indicati. Se l'arma possiede le proprieta': deflagrante, penetrante o rapida, devi soddisfare i requisiti della caratteristica Forza indicati. Se l'arma non possiede la proprieta' A Due Mani puoi impugnarla con due mani per ridurre, temporaneamente, il numero di Forza necessario di 1 step (da 19 a 17, da 17 a 15, da 15 a 13, da 13 a 11). Se si riduce il numero di Forza sotto 11, il requisito viene ignorato completamente
+Un'arma con questa proprieta' ha un forte rinculo. Mentre la impugni, subisci svantaggio nei tiri per colpire almeno che non soddisfi i requisiti della caratteristica Forza indicati. Se l'arma possiede le proprieta': deflagrazione, penetrante o rapida, devi soddisfare i requisiti della caratteristica Forza indicati. Se l'arma non possiede la proprieta' A Due Mani puoi impugnarla con due mani per ridurre, temporaneamente, il numero di Forza necessario di 1 step (da 19 a 17, da 17 a 15, da 15 a 13, da 13 a 11). Se si riduce il numero di Forza sotto 11, il requisito viene ignorato completamente
 
 #### Da Lancio (Thrown)
 
