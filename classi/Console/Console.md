@@ -8,7 +8,7 @@
       - [Variante: ricchezza iniziale](#variante-ricchezza-iniziale)
     - [Forza-lancio](#forza-lancio)
     - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
-    - [Punti Forza](#punti-forza)
+    - [Punti Potere](#punti-potere)
     - [Livello Massimo del Potere](#livello-massimo-del-potere)
     - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
     - [Recupero della Forza](#recupero-della-forza)
@@ -21,7 +21,7 @@
 
 ![console](consular_01.png)
 
-|Livello|Bonus Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Forza|Livello Massimo del Potere|Opzioni di Forza-lancio Potenziato
+|Livello|Bonus Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Potere|Livello Massimo del Potere|Opzioni di Forza-lancio Potenziato
 |---|---|---|---|---|---|---
 |1|+2|[Forza-lancio](#forza-lancio), [Recupero della Forza](#recupero-della-forza)|9|4|1|-
 |2|+2|[Forza-lancio potenziato](#forza-lancio-potenziato), [Scudo della Forza](#scudo-della-forza)|11|8|1|2
@@ -95,13 +95,13 @@ Vedi [questa sezione](../../poteri/Regole%20sul%20Lancio%20dei%20Poteri.md#regol
 
 Impari 9 poteri della forza a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti.
 
-### Punti Forza
+### Punti Potere
 
-Possiedi un numero di punti forza pari al tuo livello da console x 4 (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti forza per lanciare i poteri della forza. Recuperi tutti i punti forza spesi quando completi un riposo lungo.
+Possiedi un numero di punti potere pari al tuo livello da console x 4 (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti potere per lanciare i poteri della forza. Recuperi tutti i punti potere spesi quando completi un riposo lungo.
 
 ### Livello Massimo del Potere
 
-Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
+Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti potere aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
 
 Puoi lanciare dei poteri di livello 6, 7, 8 e 9 solamente una volta ogni riposo lungo.
 
@@ -115,13 +115,13 @@ Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri
 
 ### Recupero della Forza
 
-Quando completi un riposo breve puoi scegliere di recuperare un numero di punti forza pari a meta' del tuo livello da console + il modificatore di Saggezza o Carisma (scegli tu, minimo 1).
+Quando completi un riposo breve puoi scegliere di recuperare un numero di punti potere pari a meta' del tuo livello da console + il modificatore di Saggezza o Carisma (scegli tu, minimo 1).
 
 Puoi riutilizzare questo privilegio dopo aver completato un riposo lungo
 
 ### Forza-lancio Potenziato
 
-Quando lanci un potere della forza puoi spendere punti forza addizionali per modificarlo. Ottieni 2 opzioni di forza-lancio potenziato, [dettagliate in questa sezione](./Forza-lancio%20Potenziato.md#forza-lancio-potenziato). Ai livelli successivi ne impari di ulteriori (come indicato nella colonna Opzioni di Forza-lancio Potenziato della tabella).
+Quando lanci un potere della forza puoi spendere punti potere addizionali per modificarlo. Ottieni 2 opzioni di forza-lancio potenziato, [dettagliate in questa sezione](./Forza-lancio%20Potenziato.md#forza-lancio-potenziato). Ai livelli successivi ne impari di ulteriori (come indicato nella colonna Opzioni di Forza-lancio Potenziato della tabella).
 
 Puoi solamente utilizzare 1 opzione di forza-lancio potenziato su un potere mentre lo lanci, almeno che non sia elencato diversamente nella descrizione del potere.
 
@@ -138,7 +138,7 @@ Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
 Scegli uno dei 3 aspetti della forza:
 
 - **Ashla:** quando lanci con successo un potere del lato chiaro della forza, i tuoi punti ferita massimi e punti ferita attuali o quelli del bersaglio del potere (scegli tu) aumentano di un ammontare pari al livello del potere. Questo effetto dura 1 minuto. Puoi avere attivo solamente uno di questi effetti alla volta.
-- **Bendu:** puoi aggiungere sia il modificatore di Saggezza che di Carisma al totale dei tuoi punti forza anziche' un modificatore solo.
+- **Bendu:** puoi aggiungere sia il modificatore di Saggezza che di Carisma al totale dei tuoi punti potere anziche' un modificatore solo.
 - **Bogan:** i tiri per i danni dei tuoi poteri del lato oscuro della forza ottengono una [soglia minima del tiro](../../utility/utility.md#soglia-minima-del-tiro).
 
 ### Tradizione Consolare
@@ -151,8 +151,8 @@ Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratterist
 
 ### Tutt'uno con la Forza
 
-Il tuo punteggio di Saggezza o Carisma aumenta di 4 ed il punteggio massimo della caratteristica scelta aumenta di 4. Scegli un potere della forza di livello 3 che conosci come il tuo potere simbolo. Puoi lanciarlo, una volta, al livello 3 senza spendere punti forza.
+Il tuo punteggio di Saggezza o Carisma aumenta di 4 ed il punteggio massimo della caratteristica scelta aumenta di 4. Scegli un potere della forza di livello 3 che conosci come il tuo potere simbolo. Puoi lanciarlo, una volta, al livello 3 senza spendere punti potere.
 
 Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.
 
-Se vuoi lanciare quel potere oltre il livello 3, devi spendere i punti forza come di consueto.
+Se vuoi lanciare quel potere oltre il livello 3, devi spendere i punti potere come di consueto.

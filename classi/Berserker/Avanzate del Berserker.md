@@ -141,7 +141,7 @@ Recuperi l'utilizzo di questa capacita' dopo aver completato un riposo breve o l
 
 ## Approccio del Predone
 
-|Livello|Poteri della Forza Conosciuti|Punti Forza|Livello Massimo del Potere
+|Livello|Poteri della Forza Conosciuti|Punti Potere|Livello Massimo del Potere
 |---|---|---|---
 |3|4|3|1
 |4|6|4|1
@@ -174,7 +174,7 @@ Impari 4 poteri della forza a scelta e ne impari altri ai livelli superiori (ved
 
 ### Livello Massimo del Potere
 
-Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
+Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti potere aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
 
 Puoi lanciare dei poteri di livello 4 solamente una volta ogni riposo lungo.
 

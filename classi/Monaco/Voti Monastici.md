@@ -5,7 +5,7 @@
   - [Voto della Devozione](#voto-della-devozione)
     - [Forza-lancio](#forza-lancio)
     - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
-    - [Punti Forza](#punti-forza)
+    - [Punti Potere](#punti-potere)
     - [Livello Massimo del Potere](#livello-massimo-del-potere)
     - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
   - [Voto del Fato](#voto-del-fato)
@@ -41,9 +41,9 @@ Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la list
 
 Impari 2 poteri della forza a scelta e ne impari 1 addizionale ai livelli: 3, 5, 7, 9, 11, 13, 15 e 17. Non puoi imparare un potere di livello superiore a quello indicato nella sezione Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti. Puoi imparare solamente poteri della forza universali.
 
-### Punti Forza
+### Punti Potere
 
-I poteri che impari tramite questo voto non utilizzano punti forza, ma i tuoi punti focus. Il costo e' di 1 punto focus x livello del potere. Puoi lanciare, in questa maniera, solamente poteri della forza universali.
+I poteri che impari tramite questo voto non utilizzano punti potere, ma i tuoi punti focus. Il costo e' di 1 punto focus x livello del potere. Puoi lanciare, in questa maniera, solamente poteri della forza universali.
 
 ### Livello Massimo del Potere
 

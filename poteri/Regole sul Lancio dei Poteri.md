@@ -1,9 +1,9 @@
 # Regole sul Lancio dei Poteri
 
 - [Regole sul Lancio dei Poteri](#regole-sul-lancio-dei-poteri)
-  - [Punti Forza e Punti Tecnologici](#punti-forza-e-punti-tecnologici)
+  - [Punti Potere e Punti Tecnologici](#punti-potere-e-punti-tecnologici)
 
-## Punti Forza e Punti Tecnologici
+## Punti Potere e Punti Tecnologici
 
 Quando un personaggio lancia un potere spende un numero di punti potere in base al livello del potere + 1 (i poteri di livello 0 non spendono punti potere)
 

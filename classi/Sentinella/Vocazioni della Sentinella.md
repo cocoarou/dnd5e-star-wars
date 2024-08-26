@@ -57,7 +57,7 @@ Una volta per turno, quando una creatura subisce, per 2 volte, dei danni da te, 
 
 **Livello:** 13
 
-Ogniqualvolta utilizzi il privilegio di [Corpo Potenziato dalla Forza](./Sentinella.md#corpo-potenziato-dalla-forza) puoi decidere di non spendere punti forza e tirare 1d4 anziche' il dado di Combattimento Cinetico.
+Ogniqualvolta utilizzi il privilegio di [Corpo Potenziato dalla Forza](./Sentinella.md#corpo-potenziato-dalla-forza) puoi decidere di non spendere punti potere e tirare 1d4 anziche' il dado di Combattimento Cinetico.
 
 ### Colpo da Maestro
 
@@ -164,7 +164,7 @@ Una volta per turno, quando infliggi danni grazie al privilegio di [Detonatori P
 
 **Livello:** 18
 
-Quando una creatura fallisce il tiro salvezza derivante dal privilegio [Detonatori Potenziati dalla Forza](#detonatori-potenziati-dalla-forza), puoi spendere 2 punti forza per assoggettarla ad una delle seguenti condizioni, fino alla fine del tuo prossimo turno:
+Quando una creatura fallisce il tiro salvezza derivante dal privilegio [Detonatori Potenziati dalla Forza](#detonatori-potenziati-dalla-forza), puoi spendere 2 punti potere per assoggettarla ad una delle seguenti condizioni, fino alla fine del tuo prossimo turno:
 
 - accecato
 - assordato
@@ -222,6 +222,6 @@ Effettui un attacco della forza a distanza, se colpisci l'attacco infligge danni
 
 **Livello:** 18
 
-Con un'azione puoi controllare la tua Lama della Forza telecineticamente e farle attaccare un numero di creature, entro 3m da te, spendendo 1 punto forza per ogni bersaglio.
+Con un'azione puoi controllare la tua Lama della Forza telecineticamente e farle attaccare un numero di creature, entro 3m da te, spendendo 1 punto potere per ogni bersaglio.
 
 Ogni bersaglio deve effettuare un tiro salvezza su Destrezza (CD = 8 + il bonus che applichi ai tiri per colpire con le armi). Chi fallisce la prova subisce danni pari al tuo dadi di Combattimento Cinetico + 1/2 del tuo livello da sentinella, viene spinto indietro di 3m e cade a terra prono.

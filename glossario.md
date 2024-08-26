@@ -24,7 +24,7 @@
 - Stimpac: Stimpack
 - fixed (weapon): fissa
 - Modified Tinkercannon: Armeggio-Cannone Modificato
-- mesh armor: armatura reticolata
+- mesh armor: armatura di maglie
 - combat suit: armatura da combattimento
 - power cell: batteria
 - light-weapon: armi-laser

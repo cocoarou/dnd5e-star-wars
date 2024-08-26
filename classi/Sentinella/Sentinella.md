@@ -8,7 +8,7 @@
       - [Variante: ricchezza iniziale](#variante-ricchezza-iniziale)
     - [Forza-lanci](#forza-lanci)
     - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
-    - [Punti Forza](#punti-forza)
+    - [Punti Potere](#punti-potere)
     - [Livello Massimo del Potere](#livello-massimo-del-potere)
     - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
     - [Guidato dalla Forza](#guidato-dalla-forza)
@@ -26,7 +26,7 @@
 
 ![sentinella](sentinel_01.png)
 
-|Livello|Bonus di Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Forza|Livello Massimo del Potere|Combattimento Cinetico|Ideali Conosciuti|Manifestazioni degli Ideali
+|Livello|Bonus di Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Potere|Livello Massimo del Potere|Combattimento Cinetico|Ideali Conosciuti|Manifestazioni degli Ideali
 |---|---|---|---|---|---|---|---|---
 |1|+2|Forza-Lancio, Guidato dalla Forza|7|3|1|-|-|-
 |2|+2|Corpo Potenziato dalla Forza, Ideali della Sentinella|9|6|1|d4|2|2
@@ -102,13 +102,13 @@ Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la list
 
 Impari 7 poteri della forza a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti.
 
-### Punti Forza
+### Punti Potere
 
-Possiedi un numero di punti forza pari al tuo livello da sentinella x 3 (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti forza per lanciare i poteri della forza. Recuperi tutti i punti forza spesi quando completi un riposo lungo.
+Possiedi un numero di punti potere pari al tuo livello da sentinella x 3 (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti potere per lanciare i poteri della forza. Recuperi tutti i punti potere spesi quando completi un riposo lungo.
 
 ### Livello Massimo del Potere
 
-Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
+Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti potere aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
 
 Puoi lanciare dei poteri di livello 5, 6 e 7 solamente una volta ogni riposo lungo.
 
@@ -184,7 +184,7 @@ Quando effettui l'azione di Schivare o Disimpegno od utilizzi l'azione per lanci
 
 **Livello:** 15
 
-Quando vieni assoggettato ad un effetto che richiede un tiro salvezza, puoi spendere 2 punti forza per aggiungere il tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1) alla prova. Se superi la prova non ricevi danno, se fallisci la prova ne subisci la meta'.
+Quando vieni assoggettato ad un effetto che richiede un tiro salvezza, puoi spendere 2 punti potere per aggiungere il tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1) alla prova. Se superi la prova non ricevi danno, se fallisci la prova ne subisci la meta'.
 
 ### Centro della Forza
 

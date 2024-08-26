@@ -76,7 +76,7 @@
 
 ### Equipaggiamento
 
-- (a) armatura reticolata | (b) armatura da combattimento, 1 blaster semplice od 1 fucile blaster e 2 batterie
+- (a) armatura di maglie | (b) armatura da combattimento, 1 blaster semplice od 1 fucile blaster e 2 batterie
 
 #### Variante: ricchezza iniziale
 

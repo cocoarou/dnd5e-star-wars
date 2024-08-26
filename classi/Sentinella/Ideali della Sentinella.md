@@ -61,9 +61,9 @@ Inoltre, con un'azione bonus, puoi manifestare questo ideale in un breve impeto 
 
 ## Ideale della Tranquillita'
 
-Al completamento di un riposo breve o lungo ottieni un numero di punti forza temporanei pari a 1/2 del tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1). Quando spenderesti dei punti forza ed hai dei punti forza temporanei, i punti forza temporanei vengono spesi per primi. Tutti i punti forza temporanei svaniscono al completamento del prossimo riposo breve o lungo.
+Al completamento di un riposo breve o lungo ottieni un numero di punti potere temporanei pari a 1/2 del tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1). Quando spenderesti dei punti potere ed hai dei punti potere temporanei, i punti potere temporanei vengono spesi per primi. Tutti i punti potere temporanei svaniscono al completamento del prossimo riposo breve o lungo.
 
-Inoltre, con un'azione, puoi manifestare questo ideale in un breve impeto di energia. Recuperi un ammontare di punti forza pari a 1/2 del tuo modificatore di Saggezza o Carisma (scegli tu, minimo uno).
+Inoltre, con un'azione, puoi manifestare questo ideale in un breve impeto di energia. Recuperi un ammontare di punti potere pari a 1/2 del tuo modificatore di Saggezza o Carisma (scegli tu, minimo uno).
 
 ## Ideale del Vigoroso
 

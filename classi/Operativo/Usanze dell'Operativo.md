@@ -31,7 +31,7 @@
   - [Usanza dell'Inganno](#usanza-dellinganno)
     - [Forza-lancio](#forza-lancio)
       - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
-      - [Punti Forza](#punti-forza)
+      - [Punti Potere](#punti-potere)
       - [Livello Massimo del Potere](#livello-massimo-del-potere)
       - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
     - [Sfoggio Affascinante](#sfoggio-affascinante)
@@ -223,7 +223,7 @@ Quando effettui l'azione di Attacco ed effettui un attacco con vantaggio, puoi s
 
 ## Usanza dell'Inganno
 
-|Livello|Poteri della Forza Conosciuti|Punti Forza|Livello Massimo del Potere
+|Livello|Poteri della Forza Conosciuti|Punti Potere|Livello Massimo del Potere
 |---|---|---|---
 |3|4|3|1
 |4|6|4|1
@@ -252,13 +252,13 @@ Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la list
 
 Impari 4 poteri della forza a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti.
 
-#### Punti Forza
+#### Punti Potere
 
-Possiedi un numero di punti forza pari al tuo livello da operativo (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti forza per lanciare i poteri della forza. Recuperi tutti i punti forza spesi quando completi un riposo lungo.
+Possiedi un numero di punti potere pari al tuo livello da operativo (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti potere per lanciare i poteri della forza. Recuperi tutti i punti potere spesi quando completi un riposo lungo.
 
 #### Livello Massimo del Potere
 
-Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti forza aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
+Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti potere aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.
 
 Puoi lanciare dei poteri di livello 4 solamente una volta ogni riposo lungo.
 

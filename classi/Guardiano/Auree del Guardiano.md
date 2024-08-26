@@ -13,28 +13,28 @@ Se piu' guardiani emettono la stessa aura, le creature che ne sono affette ne tr
 
 ## Aura di Conquista
 
-Quando una creatura che ha paura di te inizia il proprio turno a 1.5m da te, subisce 4 livelli di lentezza e subisce danni psichici pari a 1/2 del tuo livello da guardiano.
+Quando una creatura che ha paura di te inizia il proprio turno a 1.5 m da te, subisce 4 livelli di [lentezza](../../condizioni/condizioni.md#lentezza) e subisce danni psichici pari a 1/2 del tuo livello da guardiano.
 
 ## Aura di Convinzione
 
-Tu e gli alleati entro 1.5m da te ottengono vantaggio nei tiri salvezza contro effetti che renderebbero: affascinati o spaventati.
+Tu e gli alleati entro 1.5 m da te ottenete vantaggio nei tiri salvezza contro effetti che renderebbero: affascinati o spaventati.
 
 ## Aura d'Odio
 
-Tu e gli alleati entro 1.5m da te ottengono un bonus al primo tiro per i danni effettuato, ogni round, pari al tuo modificatore di Carisma (minimo +1)
+Tu e gli alleati entro 1.5 m da te ottenete un bonus al primo tiro per i danni effettuato, ogni round, pari al tuo modificatore di Carisma (minimo +1)
 
 ## Aura di Presenza
 
-Quando tu od un alleato entro 1.5m da te effettuate un tiro salvezza, potete aggiungere il tuo modificatore di Saggezza al risultato del tiro
+Quando tu od un alleato entro 1.5 m da te effettuate un tiro salvezza, potete aggiungere il tuo modificatore di Saggezza al risultato del tiro
 
 ## Aura di Protezione
 
-Quando una creatura entro 1.5m da te riceve danno, puoi utilizzare la tua reazione per subire, al posto suo, quei danni. Questo privilegio non trasferisce eventuali altri effetti inclusi nel danno.
+Quando una creatura entro 1.5 m da te subisce dei danni, puoi utilizzare la tua reazione per subirli al posto suo. Questo privilegio non trasferisce eventuali altri effetti inclusi nel danno.
 
 ## Aura di Vigore
 
-Quando un alleato inizia il proprio turno entro 1.5m da te, quella creatura ottiene punti ferita temporanei pari al tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1)
+Quando un alleato inizia il proprio turno entro 1.5 m da te, esso ottiene punti ferita temporanei pari al tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1)
 
 ## Aura di Tutela
 
-Tu e gli alleati entro 1.5m da te ottenete resistenza ai danni provenienti dai poteri della forza.
+Tu e gli alleati entro 1.5 m da te ottenete resistenza ai danni provenienti dai poteri della forza.

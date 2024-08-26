@@ -80,7 +80,7 @@
 
 ### Equipaggiamento
 
-- (a) armatura reticolata | (b) armatura da combattimento, 1 blaster fucile o 1 blaster semplice e 2 batterie
+- (a) armatura di maglie | (b) armatura da combattimento, 1 blaster fucile o 1 blaster semplice e 2 batterie
 - (a) 1 vibro-arma ed 1 scudo leggero | (b) 2 vibro-armi semplici
 - (a) 1 blaster-occultato ed 1 batteria | (b) 2 vibro-pugnali
 - un computerino da polso
