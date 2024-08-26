@@ -1,4 +1,4 @@
-### Poteri della Forza
+# Poteri della Forza
 
 |Nome|Livello|Allineamento|Tempo di Lancio|Gittata|Durata|Concentrazione|Prerequisiti
 |---|---|---|---|---|---|---|---
