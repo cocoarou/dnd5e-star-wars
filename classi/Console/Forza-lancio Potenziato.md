@@ -19,9 +19,9 @@ Quando lanci un potere che obbliga una creatura ad effettuare un tiro salvezza p
 
 ## Potere Distante
 
-Quando lanci un potere che ha come raggio 1.5m o piu', puoi spendere 1 punto forza per raddoppiare il raggio del potere.
+Quando lanci un potere che ha come gittata 1.5 m o piu', puoi spendere 1 punto forza per raddoppiare la gittata del potere.
 
-Quando lanci un potere a contatto, puoi spendere 1 punto forza per lanciarlo a distanza in un raggio di 9m.
+Quando lanci un potere a contatto, puoi spendere 1 punto forza per lanciarlo a distanza con una gittata di 9 m.
 
 ## Potere Esteso
 

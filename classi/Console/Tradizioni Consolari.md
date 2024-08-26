@@ -42,7 +42,7 @@ Una volta creata una barriera non puoi crearne un'altra finche' non termini un r
 
 **Livello:** 6
 
-Quando una creatura che puoi vedere, entro 9m da te, subisce danno, puoi utilizzare la tua reazione per assorbire il danno con il privilegio [Barriera della Forza](#barriera-della-forza). Se il danno riduce la barriera a 0 punti ferita, la creatura protetta subisce i danni rimanenti.
+Quando una creatura che puoi vedere, entro 9 m da te, subisce danno, puoi utilizzare la tua reazione per assorbire il danno con il privilegio [Barriera della Forza](#barriera-della-forza). Se il danno riduce la barriera a 0 punti ferita, la creatura protetta subisce i danni rimanenti.
 
 ### Barriera a Volonta'
 
@@ -54,7 +54,7 @@ Quando lanci un potere universale a volonta' la barriera recupera 1 punto ferita
 
 **Livello:** 14
 
-Quando lanci un potere che richiede una prova di abilita' come parte del lancio, come Disgiungere la Forza (Sever Force) o Soppressione della Forza (Force Suppression), puoi aggiungere il bonus di competenza alla prova.
+Quando lanci un potere che richiede una prova di abilita' come parte del lancio, come [Disgiungere la Forza (Sever Force)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#disgiungere-la-forza-sever-force) o [Soppressione della Forza (Force Suppression)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#soppressione-della-forza-force-suppression), puoi aggiungere il bonus di competenza alla prova.
 
 ### Resistenza della Forza
 
@@ -70,9 +70,9 @@ Ottieni vantaggio nei tiri salvezza contro i poteri della forza e sei resistente
 
 Quando lanci un potere della forza che infligge danni elettrici puoi utilizzare il modificatore di Saggezza o Carisma come caratteristica di forza-lancio.
 
-Se lanci un potere che infligge danni e che richiede di effettuare un attacco della forza o superare un tiro salvezza puoi trasformare i danni inferti in danni elettrici.
+Se lanci un potere che infligge danni e che richiede di effettuare un attacco della forza o superare un tiro salvezza, puoi trasformare i danni inferti in danni elettrici.
 
-Se metti a segno l'attacco della forza od il bersaglio fallisce il tiro salvezza, la creatura e' scioccata fino all'inizio del tuo prossimo turno.
+Se metti a segno l'attacco della forza od il bersaglio fallisce il tiro salvezza, la creatura e' [scioccata](../../condizioni/condizioni.md#scioccato) fino all'inizio del tuo prossimo turno.
 
 Puoi utilizzare questa capacita' 2 volte e guadagni 1 utilizzo extra al livello: 5, 9, 13 e 17. Recuperi gli utilizzi spesi dopo aver completato un riposo breve o lungo.
 
@@ -80,13 +80,13 @@ Puoi utilizzare questa capacita' 2 volte e guadagni 1 utilizzo extra al livello:
 
 **Livello:** 6
 
-Aggiungi la tua caratteristica di forza-lancio predominante (minimo +1) ad ogni danno elettrico che infliggi con poteri della forza che non lo includono di base.
+Aggiungi la tua caratteristica di forza-lancio predominante (minimo +1) ai danni elettrici che infliggi con poteri della forza che non lo includono di base.
 
 ### Ammonimento Sfigurante
 
 **Livello:** 10, 13 e 17
 
-Quando una creatura in 1.5m da te che puoi vedere ti colpisce con un attacco, puoi utilizzare la tua reazione per costringere il bersaglio ad effettuare un tiro salvezza su Destrezza (CD = la tua CD universale). Se fallisce il tiro salvezza riceve 1D10 danni elettrici + il tuo livello da console, viene spinto indietro 3m ed e' scioccato fino alla fine del suo turno. Se supera il tiro salvezza subisce la meta' dei danni, non viene spinto e non e' scioccato.
+Quando una creatura ad 1.5 m da te, che puoi vedere, ti colpisce con un attacco, puoi utilizzare la tua reazione per costringere il bersaglio ad effettuare un tiro salvezza su Destrezza (CD = la tua CD universale). Se fallisce il tiro salvezza riceve danni pari ad (1D10 danni elettrici + il tuo livello da console), viene spinto indietro 3 m ed e' [scioccato](../../condizioni/condizioni.md#scioccato) fino alla fine del suo turno. Se supera il tiro salvezza subisce la meta' dei danni, non viene spinto e non e' scioccato.
 
 Puoi utilizzare questa capacita' 4 volte e guadagni 1 utilizzo extra al livello: 13 e 17. Recuperi gli utilizzi spesi dopo aver completato un riposo lungo.
 
@@ -102,7 +102,7 @@ Ottieni resistenza ai danni elettrici ed i poteri della forza che lanci ignorano
 
 Quando lanci un potere della forza dal livello 1 al 6 che infligge danni elettrici puoi infliggere il massimo dei danni anziche' tirare i dadi.
 
-Puoi utilizzare questa capacita' senza ripercussioni fino ad un massimo del tuo bonus di competenza. Se utilizzi questa capacita' un numero di volte superiore al bonus di competenza prima di aver completato un riposo lungo, subisci 2d12 danni-puri per livello del potere utilizzato subito dopo averlo lanciato. Ogni volta che utilizzi questa capacita' prima di concludere un riposo lungo, i danni aumentano di 1d12.
+Puoi utilizzare questa capacita' senza ripercussioni fino ad un massimo del tuo bonus di competenza. Se utilizzi questa capacita' un numero di volte superiore al bonus di competenza prima di aver completato un riposo lungo, subisci 2d12 danni-puri per livello del potere utilizzato, subito dopo averlo lanciato. Ogni volta che utilizzi questa capacita' prima di concludere un riposo lungo, i danni aumentano di 1d12.
 
 ## Sentiero della Suggestione
 
@@ -110,15 +110,15 @@ Puoi utilizzare questa capacita' senza ripercussioni fino ad un massimo del tuo 
 
 **Livello:** 3
 
-Con un'azione puoi costringere una creatura entro 9m e che puoi vedere ad effettuare un tiro salvezza su Saggezza (CD = la tua CD universale). Se fallisce, puoi convincere la creatura nel credere o dimenticare una parte di conversazione, osservazione od incontro che ha avuto, mentre tu eri presente, negli ultimi 10 minuti. Se la creatura supera il tiro salvezza non puo' essere influenzata nuovamente finche non completi un riposo lungo.
+Con un'azione standard puoi costringere una creatura entro 9 m, che puoi vedere, ad effettuare un tiro salvezza su Saggezza (CD = la tua CD universale). Se fallisce, puoi convincere la creatura nel credere o dimenticare una parte di conversazione, osservazione od incontro che ha avuto, mentre tu eri presente, negli ultimi 10 minuti. Se la creatura supera il tiro salvezza non puo' essere influenzata nuovamente finche non completi un riposo lungo.
 
-Le creature che cercano di discernere il tuo utilizzo della forza subiscono svantaggio alle prove abilita' che cercheranno di effettuare e se una creatura ha i seguenti poteri attivi: Individuazione della Forza (Sense Force) o Visione della Forza (Force Sight), devono superare una prova di caratteristica universale di forza-lancio contro la tua CD universale per captare il tuo utilizzo della forza, il tuo allineamento della forza o capire quanto sia forte la tua connessione con la forza.
+Le creature che cercano di discernere il tuo utilizzo della forza subiscono svantaggio alle prove abilita' che cercheranno di effettuare e se una creatura ha i seguenti poteri attivi: [Percepire la Forza (Sense Force)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#percepire-la-forza-sense-force) o [Vista della Forza (Force Sight)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#vista-della-forza-force-sight), deve superare una prova di caratteristica universale di forza-lancio contro la tua CD universale per captare la tua maestria nell'utilizzo della forza, il tuo allineamento della forza o capire quanto sia forte la tua connessione con la forza.
 
 ### Togliere il Disturbo
 
 **Livello:** 6
 
-Come un'azione bonus puoi scegliere una creatura entro 18m da te che percepisci. Quella creatura deve superare un tiro salvezza su Volonta' contro la tua CD universale. Se fallisce vieni considerato da essa come so fossi invisibile per 1 minuto o finche' non le infliggi dei danni.
+Con un'azione bonus, puoi scegliere una creatura, che percepisci, entro 18 m da te. La creatura deve superare un tiro salvezza su Saggezza contro la tua CD universale. Se fallisce vieni considerato invisibile da essa per 1 minuto o finche' non le infliggi dei danni.
 
 Puoi utilizzare nuovamente questa capacita' dopo aver completato un riposo breve o lungo.
 
@@ -126,7 +126,7 @@ Puoi utilizzare nuovamente questa capacita' dopo aver completato un riposo breve
 
 **Livello:** 10, 13 e 17
 
-Quando lanci un potere tra: Offuscare Menti (Cloud Mind), Dominare Menti (Dominate Mind), Coercizione Mentale di Massa (Mass Coerce Mind) e Dominare Mostri (Dominate Monster), puoi considerare che sia stato lanciato al tuo [Livello Massimo del Potere](./Console.md#console) (vedi tabella).
+Quando lanci un potere tra: [Offuscare la Mente (Cloud Mind)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#offuscare-la-mente-cloud-mind), [Dominare Menti (Dominate Mind)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#dominare-menti-dominate-mind), [Manipolare la Mente di Massa(Mass Coerce Mind)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#manipolare-la-mente-di-massa-mass-coerce-mind) e [Dominare Mostri (Dominate Monster)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#dominare-mostri-dominate-monster), puoi considerarlo come se sia stato lanciato al tuo [Livello Massimo del Potere](./Console.md#console) (vedi tabella).
 
 Puoi utilizzare questa capacita' 4 volte e guadagni 1 utilizzo extra al livello: 13 e 17. Recuperi tutti gli utilizzi spesi dopo aver concluso un riposo lungo.
 
@@ -142,11 +142,11 @@ Puoi utilizzare nuovamente questa capacita' dopo aver completato un riposo lungo
 
 **Livello:** 18
 
-Con un'azione puoi scegliere di avvolgere il tuo corpo con la trama della forza e, per 10 minuti, ricevere uno dei seguenti effetti:
+Con un'azione standard puoi scegliere di avvolgere il tuo corpo con la trama della forza e, per 10 minuti, ricevere uno dei seguenti effetti:
 
-- **Mantello della Paura:** ogni creatura (a scelta) entro 18m da te deve superare un tiro salvezza su Saggezza contro la tua CD universale od essere spaventata per 1 minuto. Una creatura puo' ripetere questo tiro salvezza alla fine di ogni suo turno, terminando l'effetto di paura se supera la prova.
+- **Mantello della Paura:** ogni creatura (a scelta) entro 18 m da te deve superare un tiro salvezza su Saggezza contro la tua CD universale od essere spaventata per 1 minuto. Una creatura puo' ripetere questo tiro salvezza alla fine di ogni suo turno, terminando l'effetto di paura se supera la prova.
 - **Mantello dell'Invisibilita':** Tu e tutto quello che indossi e trasporti diventate invisibili a delle creature a scelta (decidi tu chi puo' vederti e chi no). Se infliggi danno ad una creatura o utilizzi un potere della forza su di essa, il bersaglio puo' effettuare un tiro salvezza su Saggezza contro la tua CD universale. Se supera la prova non risulterai piu' invisibile alla sua vista.
-- **Mantello della Memoria:** Le creature entro 9m da te non riescono a ricordare il tuo aspetto, il tuo manierismo od altri tuoi tratti distintivi. Le creature che interagiscono con te devono superare un tiro salvezza su Saggezza contro la tua CD universale alla fine dell'interazione (puoi scegliere quali creature escludere da questo effetto). Chi fallisce la prova dimentica i dettagli dell'interazione, razionalizzando qualsiasi risultato derivante dalla stessa.
+- **Mantello della Memoria:** Le creature entro 9 m da te non riescono a ricordare il tuo aspetto, il tuo manierismo od altri tuoi tratti distintivi. Le creature che interagiscono con te devono superare un tiro salvezza su Saggezza contro la tua CD universale, alla fine dell'interazione (puoi scegliere quali creature escludere da questo effetto). Chi fallisce la prova dimentica i dettagli dell'interazione, razionalizzando qualsiasi risultato derivante dalla stessa.
 
 ## Sentiero del Saggio
 
@@ -156,17 +156,17 @@ Con un'azione puoi scegliere di avvolgere il tuo corpo con la trama della forza 
 
 Quando lanci un potere della forza che cura punti ferita, puoi scegliere di utilizzare Saggezza o Carisma come caratteristica di forza-lancio.
 
-Quando lanci un potere di livello 1 o superiore per curare i punti ferita di una creatura, guadagna punti ferita extra pari a 2 + il livello del potere.
+Quando lanci un potere di livello 1 o superiore per curare i punti ferita di una creatura, gessa recupera punti ferita extra pari a 2 + il livello del potere.
 
 ### Preservare la Vita
 
 **Livello:** 6, 9, 13 e 17
 
-Con un'azione puoi scegliere un qualsiasi numero di creature nel raggio di 9m e curare un numero di punti ferita pari al tuo livello da console x 5, distribuiti come preferisci.
+Con un'azione standard, puoi scegliere un qualsiasi numero di creature nel raggio di 9 m e curare un numero di punti ferita pari al tuo livello da console x 5, distribuiti come preferisci.
 
 Questa capacita' non puo' curare piu' della meta' dei punti ferita massimi degli eventuali bersagli.
 
-Questa capacita' non ha effetto sui droidi o costrutti.
+Questa capacita' non ha effetto contro droidi o costrutti.
 
 Puoi utilizzare questa capacita' 3 volte e guadagni 1 utilizzo extra al livello: 9, 13 e 17. Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.
 
@@ -174,13 +174,13 @@ Puoi utilizzare questa capacita' 3 volte e guadagni 1 utilizzo extra al livello:
 
 **Livello:** 10
 
-Quando lanci un potere della forza che cura i punti ferita di una creatura che non sei tu, recuperi punti ferita pari a 2 + il livello del potere.
+Quando lanci un potere della forza che cura i punti ferita di una creatura, che non sei tu, recuperi punti ferita pari a 2 + il livello del potere.
 
 ### Benedetto dalla Forza
 
 **Livello:** 14
 
-Con un'azione bonus, quando sei a meno della meta' dei tuoi punti ferita massimi, puoi guadagnare un numero di punti ferita pari a meta' dei tuoi punti ferita massimi.
+Con un'azione bonus, quando sei a meno della meta' dei tuoi punti ferita massimi, puoi recuperare un numero di punti ferita pari a meta' dei tuoi punti ferita massimi.
 
 Puoi utilizzare nuovamente questa capacita' dopo aver completato un riposo lungo.
 

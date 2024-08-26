@@ -1657,7 +1657,7 @@ L'attacco consiste in uno schianto avente un bonus ai tiri per colpire ed ai dan
 
 **Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 6 o superiore, puoi animare 2 oggetti addizionali per ogni slot di livello superiore al 5.
 
-#### Manipolare la Mente di Massa(Mass Coerce Mind)
+#### Manipolare la Mente di Massa (Mass Coerce Mind)
 
 Suggerisci un'attivita' da compiere (limitata ad una o due frasi) ed influenzi tramite la forza fino a 12 creature, entro gittata, che puoi vedere e che siano in grado di sentirti e capirti.
 
