@@ -2,33 +2,64 @@
 
 ## Assorbire Energia (Absorb Energy)
 
+Ottieni resistenza nel tipo di danno che ha attivato la reazione, fino all'inizio del tuo prossimo turno (nell'effetto della riduzione dei danni, e' incluso il danno che ha attivato la reazione).
 
+Il primo tiro per colpire corpo a corpo che metti a segno, nel tuo prossimo turno, infligge 1d6 danni extra del tipo di danno che ha attivato la reazione.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, i danni extra aumentano di 1d6 per ogni slot di livello superiore all'1
 
 ## Dardo Acido (Acid Dart)
 
+Effettua un attacco tecnologico a distanza contro un bersaglio.
 
+Se l'attacco va a segno, il bersaglio subisce 4d4 danni da acido, immediatamente, e 2d4 danni da acido al termine del suo prossimo turno.
+
+Se l'attacco non va a segno, il bersaglio subisce la meta' dei danni immediati e nessun danno al termine del suo prossimo turno.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere utilizzando uno slot di livello 3 o superiore, i danni (sia immediati che posticipati) aumentano di 1d4 per ogni slot di livello superiore al 2
 
 ## Spruzzo Acido (Acid Splash)
 
+Scegli una creatura, entro gittata, che puoi vedere o scegli due creature, entro gittata, che puoi vedere e che non si trovino oltre 1.5 m l'una dall'altra.
 
+Il bersaglio deve superare un tiro salvezza su Destrezza o subire 1d6 danni da acido.
+
+I dadi di danno aumentano di 1d6 cumulativo ai livelli: 5, 11 e 17
 
 ## Vento Acido (Acid Wind)
 
+Ogni creatura entro l'area di un cubo di 4.5 m, che si emana da te, deve effettuare un tiro salvezza su Costituzione.
 
+Chi fallisce il tiro, subisce 2d4 danni da acido ed e' [accecato](../condizioni/condizioni.md#accecato) fino al termine del tuo prossimo turno.
+
+Chi supera il tiro, subisce la meta' dei danni e non e' accecato.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere utilizzando uno slot di livello 2 o superiore, i danni aumentano di 1d4 per ogni slot di livello superiore all'1
 
 ## Colpo Acido (Acidic Strike)
 
+Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un tiro per colpire corpo a corpo, con l'arma, contro una creatura, entro gittata, altrimenti il potere fallisce.
 
+Se colpisci, il bersaglio subisce i normali effetti dell'attacco e viene avvolto da uno slime acido fino all'inizio del tuo prossimo turno.
+
+Fino all'inizio del tuo prossimo turno, se la creatura viene [presa in lotta](../condizioni/condizioni.md#preso-in-lotta), se riesce ad effettuare una prova di lotta o se riesce a mantenere una prova di lotta, lo slime preme sempre di piu' sul suo corpo, infliggendo, immediatamente, 1d8 danni da acido
 
 ## Allarme (Alarm)
 
+Scegli una porta, una finestra od un'area entro gittata che non sia piu' grande di un cubo di 6 m.
 
+Fino al termine del potere, un allarme ti avvisa se una creatura di taglia minuscola o piu' tocchi od entri nell'area protetta.
+
+Quando lanci questo potere, puoi scegliere quali creature non faranno saltare l'allarme. Scegli anche se il tipo di allarme sara' sonoro o mentale.
+
+- **mentale:** ti avvisa inviando nella tua mente un segnale, a patto che ti trovi entro 1.5 km dall'area protetta. Se stai dormendo, questo segnale ti sveglia.
+- **sonoro:** produce il suono di un campanaccio per 10 secondi, entro 18 m
 
 ## Analizzare (Analyze)
 
 
 
-## Antipatia/Simpatia (Antipathy/Simpathy)
+## Antipatia/Simpatia (Antipathy/Sympathy)
 
 
 
@@ -793,6 +824,5 @@
 
 
 ## Lanciare Cavi (Wire Line)
-
 
 

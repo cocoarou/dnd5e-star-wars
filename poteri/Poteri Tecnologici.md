@@ -9,7 +9,7 @@
 |[Colpo Acido (Acidic Strike)](./Descrizione%20Poteri%20Tecnologici.md#colpo-acido-acidic-strike)|0|1 azione standard|Varia|Istantanea|-
 |[Allarme (Alarm)](./Descrizione%20Poteri%20Tecnologici.md#allarme-alarm)|1|1 minuto|9 m|Fino al termine del tuo prossimo riposo breve o lungo|Concentrazione
 |[Analizzare (Analyze)](./Descrizione%20Poteri%20Tecnologici.md#analizzare-analyze)|1|1 minuto|A contatto|Istantanea|-
-|[Antipatia/Simpatia (Antipathy/Simpathy)](./Descrizione%20Poteri%20Tecnologici.md#antipatiasimpatia-antipathysimpathy)|8|1 ora|18 m|10 giorni|-
+|[Antipatia/Simpatia (Antipathy/Sympathy)](./Descrizione%20Poteri%20Tecnologici.md#antipatiasimpatia-antipathysympathy)|8|1 ora|18 m|10 giorni|-
 |[Analizzare la Situazione (Assess the Situation)](./Descrizione%20Poteri%20Tecnologici.md#analizzare-la-situazione-assess-the-situation)|0|1 azione standard|9 m|Fino ad 1 round|Concentrazione
 |[Servitore Autonomo (Autonomous Servant)](./Descrizione%20Poteri%20Tecnologici.md#servitore-autonomo-autonomous-servant)|3|1 minuto|A contatto|Fino al termine del tuo prossimo riposo breve o lungo|-
 |[Bacta Pack](./Descrizione%20Poteri%20Tecnologici.md#bacta-pack)|1|1 azione standard|18 m|1 minuto|-
