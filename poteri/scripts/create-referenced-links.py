@@ -12,7 +12,7 @@ def create_reference_links(file_path):
 
         # Create a reference link
         apex = "\'"
-        reference_link = f"[{content}](./Descrizione%20Poteri%20della%20Forza.md#{content.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(apex, '')})"
+        reference_link = f"[{content}](./Descrizione%20Poteri%20Tecnologici.md#{content.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(apex, '')})"
         reference_links.append(reference_link)
 
     return reference_links
