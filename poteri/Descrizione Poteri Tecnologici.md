@@ -57,11 +57,29 @@ Quando lanci questo potere, puoi scegliere quali creature non faranno saltare l'
 
 ## Analizzare (Analyze)
 
+Scegli un oggetto che tocchi durante il lancio di questo potere.
 
+Se si tratta di un oggetto potenziato o modificato, ne conosci le proprieta', sai come utilizzarlo, se richiede una sintonizzazione per essere utilizzato e quante cariche rimanenti abbia.
+
+Inoltre, sei anche a conoscenza di eventuali poteri attivi sull'oggetto e di quale potere si tratti.
+
+Se l'oggetto e' stato creato tramite un potere, sai quale potere sia stato a crearlo.
+
+Se, invece, tocchi una creatura mentre lanci questo potere, sei a conoscenza dei poteri tecnologici attivi su di essa, qualora ce ne siano
 
 ## Antipatia/Simpatia (Antipathy/Sympathy)
 
+Bersagli un oggetto od una creatura di taglia grande od inferiore, entro gittata, oppure bersagli un'area che non sia piu' grande di un cubo di 60 m.
 
+Una volta scelto il bersaglio, scegli un tipo di creatura dotata di intelligenza.
+
+Applichi, al bersaglio, un'aura che attrae o repelle la creatura specificata, per tutta la durata del potere.
+
+Scegli tra antipatia o simpatia, come effetto dell'aura
+
+**Antipatia:** il potere causa, alle creature del tipo scelto, un'intenso bisogno di fuggire dall'area o di evitare il bersaglio. Quando una di queste creature vede il bersaglio o si trova entro 18 m da esso, deve superare un tiro salvezza su Saggezza per non essere spaventata. La creatura rimane spaventata finche' puo' vedere il bersaglio o si trovi entro 18 m da esso. Finche' e' in questo stato, la creatura deve utilizzare tutto il suo movimento per fuggire verso il punto piu' sicuro, nelle immediate vicinanze, dal quale puo' ripararsi dalla visione del bersaglio. Se la creatura si muove oltre i 18 m e non e' piu' in grado di vedere il bersaglio, non e' piu' da considerarsi spaventata, ma essa ottiene nuovamente questo stato se vede nuovamente il bersaglio o se si muove entro 18 m da esso.
+
+**Simpatia:** 
 
 ## Analizzare la Situazione (Assess the Situation)
 
