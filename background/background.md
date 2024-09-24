@@ -26,7 +26,7 @@
 
 ### Competenze nelle Abilita' <!-- omit in toc -->
 
-Scegli 2 tra: Inganno, Investigare, Storia e Persuasione
+Scegli 2 tra: Inganno, Indagare, Storia e Persuasione
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -248,7 +248,7 @@ Sei in grado di convincere chiunque a scommettere qualcosa (proprieta' od inform
 
 ### Competenze nelle Abilita' <!-- omit in toc -->
 
-Scegli 2 tra: Intuizione, Investigare, Percezione e Sopravvivenza
+Scegli 2 tra: Intuizione, Indagare, Percezione e Sopravvivenza
 
 ### Linguaggi <!-- omit in toc -->
 
@@ -279,7 +279,7 @@ La tua esperienza nell'applicare la legge e nel trattare con i fuorilegge, ti co
 
 ### Competenze nelle Abilita' <!-- omit in toc -->
 
-Scegli 2 tra: Intuizione, Investigare, Storia e Persuasione
+Scegli 2 tra: Intuizione, Indagare, Storia e Persuasione
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
@@ -351,7 +351,7 @@ Gli altri Mandaloriani hanno un occhio di riguardo verso di te. Qualora avessi n
 
 ### Competenze nelle Abilita' <!-- omit in toc -->
 
-Scegli 2 tra: Atletica, Investigare, Persuasione e Guidare
+Scegli 2 tra: Atletica, Indagare, Persuasione e Guidare
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 
@@ -674,7 +674,7 @@ Hai un grado militare derivante tua carriera come soldato. I soldati fedeli alla
 
 ### Competenze nelle Abilita' <!-- omit in toc -->
 
-Scegli 2 tra: Intuizione, Investigare, Guidare e Tecnologia
+Scegli 2 tra: Intuizione, Indagare, Guidare e Tecnologia
 
 ### Competenze negli Strumenti <!-- omit in toc -->
 

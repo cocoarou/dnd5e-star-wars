@@ -874,7 +874,7 @@ Questo effetto puo' includere i tuoi vestiti, le tue armi ed altre tue possessio
 
 Questo effetto e' puramente visivo, qualsiasi tipo di contatto fisico interagira' con le tue vere dimensioni.
 
-Una creatura che spende la sua azione standard per esaminare la tua identita' puo' capire l'illusione superando la tua CD da forza-lancio tramite una prova di Intelligenza (Investigare).
+Una creatura che spende la sua azione standard per esaminare la tua identita' puo' capire l'illusione superando la tua CD da forza-lancio tramite una prova di Intelligenza (Indagare).
 
 ## Infusione della Forza (Force Meld)
 
@@ -916,7 +916,7 @@ Quando utilizzi i sensi dell'illusione risulti come accecato ed assordato per qu
 
 Interazioni fisiche con l'immagine rivelano il fatto che si tratti di un'illusione, perche' le cose le passano attraverso.
 
-Una creatura che spende la propria azione standard ad esaminare l'immagine puo' capire che si tratti di un'illusione superando la tua CD del tiro salvezza della forza, effettuando una prova di Intelligenza (Investigare).
+Una creatura che spende la propria azione standard ad esaminare l'immagine puo' capire che si tratti di un'illusione superando la tua CD del tiro salvezza della forza, effettuando una prova di Intelligenza (Indagare).
 
 Se una creatura svela l'illusione puo' vedere attraverso essa ed ogni suono che emette non arriva alle orecchie della creatura.
 
@@ -1921,7 +1921,7 @@ Scegli una creatura non ostile, entro gittata.
 
 Il bersaglio deve effettuare un tiro salvezza su Saggezza.
 
-Se fallisce il tiro, il bersaglio subisce svantaggio nelle prove di Saggezza (Percezione) ed Intelligenza (Investigare).
+Se fallisce il tiro, il bersaglio subisce svantaggio nelle prove di Saggezza (Percezione) ed Intelligenza (Indagare).
 
 Se supera il tiro, la creatura realizza che tu abbia provato ad influenzarla attraverso la forza e diventa ostile nei tuoi confronti. Una creatura incline alla violenza potrebbe attaccarti. Un'altra creatura potrebbe cercare di fartela pagare in un'altra maniera (tutto a discrezione del Dungeon Master).
 
@@ -2401,7 +2401,7 @@ Crei, entro gittata, uno dei seguenti effetti speciali:
 - ottieni la capacita' di poter parlare come un'altra specie, per 1 minuto, permettendoti di parlare un linguaggio che conosci ma per il quale non possiedi le capacita' linguistiche nel parlato come, per esempio, un Wookiee che parla Galattico Base
 - crei, istantaneamente, un effetto sensoriale innocuo come, per esempio, il cadere delle foglie, una piccola folata di vento, l'ondeggiare dei vestiti altrui o far tremolare una luce non potenziata entro gittata.
 
-Una creatura allerta puo' utilizzare la propria azione per effettuare una prova di Intelligenza (Investigare) contro la tua CD del tiro salvezza della forza.
+Una creatura allerta puo' utilizzare la propria azione per effettuare una prova di Intelligenza (Indagare) contro la tua CD del tiro salvezza della forza.
 
 Se supera il tiro, capisce che si tratta di un'illusione.
 

@@ -71,7 +71,7 @@
 
 - aumenta il tuo punteggio di Intelligenza di 1, fino ad un massimo di 20
 - ottieni competenza nell'abilita' Guida. Se gia' sei competente nell'abilita' ottieni, invece, maestria
-- ogniqualvolta effettui una prova di Intelligenza (Investigare) o Saggezza (Percezione) che riguarda veicoli o navi, ottieni maestria nelle abilita'
+- ogniqualvolta effettui una prova di Intelligenza (Indagare) o Saggezza (Percezione) che riguarda veicoli o navi, ottieni maestria nelle abilita'
 
 ## Acrobata (Acrobat)
 
@@ -172,7 +172,7 @@ Puoi scegliere questo talento piu' volte, scegliendo uno strumento diverso ogni 
 ## Esploratore (Dungeon Delver)
 
 - aumenta il tuo punteggio di Intelligenza o Saggezza di 1, fino ad un massimo di 20
-- ottieni vantaggio nelle prove di Saggezza (Percezione) ed Intelligenza (Investigare) effettuate per trovare la presenza di porte segrete
+- ottieni vantaggio nelle prove di Saggezza (Percezione) ed Intelligenza (Indagare) effettuate per trovare la presenza di porte segrete
 - ottieni vantaggio nei tiri salvezza effettuati per evitare o resistere a trappole
 - ottieni resistenza ai danni inferti dalle trappole
 - viaggiare con passo veloce non impone piu' la penalita' di -5 al tuo punteggio di passivo di Saggezza (Percezione)
@@ -294,7 +294,7 @@ Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora 
 ## Investigatore (Investigator)
 
 - aumenta il tuo punteggio di Intelligenza di 1, fino ad un massimo di 20
-- ottieni competenza nell'abilita' Investigare. Se gia' sei competente nell'abilita' ottieni, invece, maestria
+- ottieni competenza nell'abilita' Indagare. Se gia' sei competente nell'abilita' ottieni, invece, maestria
 - puoi effettuare l'azione di Cercare con 1 azione bonus
 
 ## Mente Acuta (Keen Mind)
@@ -359,7 +359,7 @@ Quando scegli questo talento perdi il tratto Insensibilita' alla Forza, qualora 
 
 - aumenta il tuo punteggio di Saggezza di 1, fino ad un massimo di 20
 - se riesci a vedere la bocca di una creatura, mentre parla un linguaggio che conosci, puoi interpretare cio' che sta dicendo leggendo il labiale
-- le tue prove passive di Saggezza (Percezione) ed Intelligenza (Investigare) vengono considerate aventi vantaggio
+- le tue prove passive di Saggezza (Percezione) ed Intelligenza (Indagare) vengono considerate aventi vantaggio
 
 ## Percettivo (Perceptive)
 

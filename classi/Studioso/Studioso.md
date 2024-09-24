@@ -70,7 +70,7 @@
 
 **Tiri Salvezza:** Intelligenza, Saggezza
 
-**Abilita':** 3 tra: Inganno, Intuizione, Intimidire, Investigare, Storia, Medicina, Natura, Persuasione e Sopravvivenza
+**Abilita':** 3 tra: Inganno, Intuizione, Intimidire, Indagare, Storia, Medicina, Natura, Persuasione e Sopravvivenza
 
 ---
 
