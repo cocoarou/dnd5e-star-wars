@@ -156,7 +156,7 @@ Con un'azione standard puoi scegliere di avvolgere il tuo corpo con la trama del
 
 Quando lanci un potere della forza che cura punti ferita, puoi scegliere di utilizzare Saggezza o Carisma come caratteristica di forza-lancio.
 
-Quando lanci un potere di livello 1 o superiore per curare i punti ferita di una creatura, gessa recupera punti ferita extra pari a 2 + il livello del potere.
+Quando lanci un potere di livello 1 o superiore per curare i punti ferita di una creatura, essa recupera punti ferita extra pari a 2 + il livello del potere.
 
 ### Preservare la Vita
 
