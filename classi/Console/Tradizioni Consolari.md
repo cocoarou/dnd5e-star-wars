@@ -70,9 +70,7 @@ Ottieni vantaggio nei tiri salvezza contro i poteri della forza e sei resistente
 
 Quando lanci un potere della forza che infligge danni elettrici puoi utilizzare il modificatore di Saggezza o Carisma come caratteristica di forza-lancio.
 
-Se lanci un potere che infligge danni e che richiede di effettuare un attacco della forza o superare un tiro salvezza, puoi trasformare i danni inferti in danni elettrici.
-
-Se metti a segno l'attacco della forza od il bersaglio fallisce il tiro salvezza, la creatura e' [scioccata](../../condizioni/condizioni.md#scioccato) fino all'inizio del tuo prossimo turno.
+Se lanci un potere che infligge danni e che richiede di effettuare un attacco della forza o superare un tiro salvezza, puoi trasformare i danni inferti in danni elettrici. Se il potere impone di effettuare un tiro salvezza, che non sia su Destrezza, diventa un tiro salvezza su Destrezza. Se metti a segno l'attacco della forza od il bersaglio fallisce il tiro salvezza, la creatura e' [scioccata](../../condizioni/condizioni.md#scioccato) fino all'inizio del tuo prossimo turno.
 
 Puoi utilizzare questa capacita' 2 volte e guadagni 1 utilizzo extra al livello: 5, 9, 13 e 17. Recuperi gli utilizzi spesi dopo aver completato un riposo breve o lungo.
 
