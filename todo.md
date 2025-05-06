@@ -14,7 +14,7 @@
 
 - Inserire link alle proprieta' delle armi da fuoco
 - Inserire link per lo stato prono
-- Inserire link per i tipi di attacco (combattere co narmi a due mani ecc)
+- Inserire link per i tipi di attacco (combattere con armi a due mani ecc)
 - Inserire dettagli sul terreno difficile
 - Inserire dettagli sulla copertura
 - Inserire link per le sezioni: forza-lancio e lista poteri della forza
