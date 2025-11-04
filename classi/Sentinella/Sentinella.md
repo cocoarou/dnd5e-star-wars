@@ -96,7 +96,7 @@ Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo backgro
 
 ### Forza-lanci
 
-Vedi questa sezione per i dettagli sul forza-lancio e questa sezione per la lista dei poteri della forza.
+Vedi [questa sezione](../../poteri/Regole%20sul%20Lancio%20dei%20Poteri.md) per i dettagli sul forza-lancio e [questa sezione](../../poteri/Poteri%20della%20Forza.md) per la lista dei poteri della forza.
 
 ### Poteri della Forza Conosciuti
 

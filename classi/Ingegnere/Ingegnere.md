@@ -90,7 +90,7 @@ Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo backgro
 
 ### Tecno-lancio
 
-Vedi questa sezione per i dettagli sul tecno-lancio e questa sezione per la lista dei poteri tecnologici.
+Vedi [questa sezione](../../poteri/Regole%20sul%20Lancio%20dei%20Poteri.md) per i dettagli sul tecno-lancio e [questa sezione](../../poteri/Poteri%20Tecnologici.md) per la lista dei poteri tecnologici.
 
 ### Poteri Tecnologici Conosciuti
 

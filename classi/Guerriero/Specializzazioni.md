@@ -149,7 +149,7 @@ Puoi riutilizzare questo privilegio dopo aver completato un riposo breve o lungo
 
 **Livello:** 3
 
-Vedi [questa sezione] per le regole del tecno-lancio e [questa sezione] per la lista dei poteri tecnologici
+Vedi [questa sezione](../../poteri/Regole%20sul%20Lancio%20dei%20Poteri.md) per le regole del tecno-lancio e [questa sezione](../../poteri/Poteri%20Tecnologici.md) per la lista dei poteri tecnologici
 
 #### Poteri Tecnologici Conosciuti
 

@@ -303,7 +303,7 @@ Le armi con questa proprieta' spara dei proiettili che devono essere caricati me
 
 #### Speciale (Special)
 
-Un'arma con questa proprieta' possiede delle misteriose ed inusuali regole che ne regola il funzionamento. Questo comportamento speciale e' indicato nella descrizione dell'arma ed in questa sezione
+Un'arma con questa proprieta' possiede delle misteriose ed inusuali regole che ne regola il funzionamento. Questo comportamento speciale e' indicato nella descrizione dell'arma ed in [questa sezione](#armi-speciali)
 
 #### Rinculo (Strength)
 

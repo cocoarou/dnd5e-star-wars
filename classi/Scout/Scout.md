@@ -129,7 +129,7 @@ Ignori il terreno difficile e quando viaggi per 1 ora o piu' guadagni i seguenti
 
 **Livello:** 2
 
-Vedi questa sezione per i dettagli sul tecno-lancio e questa sezione per la lista dei poteri tecnologici.
+Vedi [questa sezione](../../poteri/Regole%20sul%20Lancio%20dei%20Poteri.md) per i dettagli sul tecno-lancio e [questa sezione](../../poteri/Poteri%20Tecnologici.md) per la lista dei poteri tecnologici.
 
 ### Poteri Tecnologici Conosciuti
 
