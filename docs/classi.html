@@ -287,15 +287,15 @@
             // --- Determine base path for class pages ---
             const pathParts = window.location.pathname.split('/').filter(p => p !== '');
             const isGitHub = window.location.hostname.includes('github.io');
-            // Local: /classi/, GitHub: /repoName/classi/
             const repoBase = isGitHub ? `/${pathParts[0]}/classi/` : '/classi/';
 
-            // --- Load class content dynamically ---
             document.querySelectorAll('.classi-list .class-link').forEach(link => {
                 link.addEventListener('click', function (e) {
                     e.preventDefault();
-                    const filename = this.getAttribute('href').split('/').pop();
-                    const htmlPath = new URL(filename, window.location.origin + repoBase).href;
+                    const href = this.getAttribute('href'); // e.g., ./classi/Berserker/Berserker.html
+                    // Extract the relative path after ./classi/
+                    const relPath = href.split('./classi/')[1]; // e.g., Berserker/Berserker.html
+                    const htmlPath = new URL(relPath, window.location.origin + repoBase).href;
 
                     fetch(htmlPath)
                         .then(response => response.text())
@@ -311,6 +311,7 @@
                         .catch(err => console.error('Failed to load class content:', err));
                 });
             });
+
 
             // --- Navbar links dynamically reset URL from any depth ---
             document.querySelectorAll('.site-nav .nav-link').forEach(link => {
