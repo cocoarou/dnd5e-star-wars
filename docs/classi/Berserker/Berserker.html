@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Berserker — GDR</title>
+<style>
+body { margin:0; font-family: system-ui, sans-serif; background:#0b0c10; color:#e0e0e0; padding:0 20px; }
+header { background:#111; color:#ffd54a; padding:16px; text-align:center; font-size:22px; font-weight:700; border-bottom:1px solid #333; position: sticky; top:0; z-index:1000; }
+nav { display:flex; justify-content:center; gap:12px; flex-wrap:wrap; padding:12px; background:#141414; margin-bottom:20px; position: sticky; top:56px; z-index:999; }
+nav a { text-decoration:none; color:#ffd54a; border:1px solid #ffd54a44; padding:6px 12px; border-radius:6px; transition: all .2s; }
+nav a:hover { background:#ffd54a; color:#111; }
+main { max-width:900px; margin:auto; padding-bottom:40px; }
+h1, h2, h3, h4 { color:#ffd54a; }
+table { border-collapse: collapse; width:100%; margin-bottom:20px; }
+th, td { border:1px solid #ffd54a44; padding:8px; text-align:left; }
+th { background:#222; }
+img { max-width:100%; height:auto; margin:20px 0; }
+footer { text-align:center; font-size:14px; padding:16px; border-top:1px solid #222; margin-top:40px; color:#888; }
+#back-to-top { position: fixed; bottom:24px; right:24px; width:44px; height:44px; background:#ffd54a; color:#111; border-radius:50%; text-align:center; line-height:44px; font-size:24px; font-weight:bold; cursor:pointer; z-index:9999; opacity:0; pointer-events:none; transition: opacity .3s; }
+#back-to-top.show { opacity:1; pointer-events:auto; }
+#back-to-top:hover { opacity:0.8; }
+main a { color: #ffd54a; text-decoration:none; transition: color 0.2s ease; }
+main a:hover { color: #ffcc00; text-decoration: underline; }
+
+/* TOC accordion */
+.toc { background: #111; border:1px solid #333; border-radius:8px; padding:16px; margin:20px 0; }
+.toc summary { cursor: pointer; font-weight: bold; font-size:16px; color:#ffd54a; margin-bottom:8px; }
+.toc summary:hover { color:#ffcc00; }
+.toc ul { list-style:none; padding-left:0; }
+.toc li { margin:4px 0; }
+.toc li ul { padding-left:16px; }
+.toc a { color:#ffd54a; text-decoration:none; }
+.toc a:hover { color:#ffcc00; text-decoration: underline; }
+
+/* Nested list fix for main content */
+main ul { list-style-type: disc; margin:8px 0 8px 20px; padding-left:20px; }
+main ul ul { list-style-type: circle; margin:4px 0 4px 20px; padding-left:20px; }
+main ul ul ul { list-style-type: square; margin:2px 0 2px 20px; padding-left:20px; }
+main ul li { display:list-item; }
+</style>
+</head>
+<body>
+
+<header>Berserker</header>
+
+<nav>
+<a href="../../classi.html">🔙 Indice Classi</a>
+<a href="../../index.html">🏠 Home</a>
+</nav>
+
+<main>
+<details class="toc" open><summary>Indice</summary>
+<ul>
+<li><a href="#privilegi-di-classe">Privilegi di Classe</a></li>
+<li><a href="#punti-ferita">Punti Ferita</a></li>
+<li><a href="#competenze">Competenze</a></li>
+<li><a href="#equipaggiamento">Equipaggiamento</a><ul>
+<li><a href="#variante-ricchezza-iniziale">Variante: ricchezza iniziale</a></li>
+</ul>
+</li>
+<li><a href="#ira">Ira</a></li>
+<li><a href="#difesa-senza-armatura">Difesa Senza Armatura</a></li>
+<li><a href="#attacco-irruento">Attacco Irruento</a></li>
+<li><a href="#istinti-del-berserker">Istinti del Berserker</a></li>
+<li><a href="#percezione-del-pericolo">Percezione del Pericolo</a></li>
+<li><a href="#avanzata-del-berserker">Avanzata del Berserker</a></li>
+<li><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></li>
+<li><a href="#attacco-extra">Attacco Extra</a></li>
+<li><a href="#impulso-selvaggio">Impulso Selvaggio</a></li>
+<li><a href="#critico-brutale">Critico Brutale</a></li>
+<li><a href="#ira-implacabile">Ira Implacabile</a></li>
+<li><a href="#ira-persistente">Ira Persistente</a></li>
+<li><a href="#potenza-indomabile">Potenza Indomabile</a></li>
+<li><a href="#campione-primordiale">Campione Primordiale</a></li>
+</ul>
+</details>
+<h1 id="berserker">Berserker <!-- omit in toc --></h1>
+<!-- ![berserker](berserker_01.png) -->
+
+<table>
+<thead>
+<tr>
+<th>Livello</th>
+<th>Bonus Competenza</th>
+<th>Privilegi</th>
+<th>Ira</th>
+<th>Danni dell'Ira</th>
+<th>Istinti del Berserker</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+2</td>
+<td><a href="#ira">Ira</a>, <a href="#difesa-senza-armatura">Difesa Senza Armatura</a></td>
+<td>2</td>
+<td>+2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+2</td>
+<td><a href="#attacco-irruento">Attacco Irruento</a>, <a href="#istinti-del-berserker">Istinti del Berserker</a></td>
+<td>2</td>
+<td>+2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+2</td>
+<td><a href="#percezione-del-pericolo">Percezione del Pericolo</a>, <a href="#avanzata-del-berserker">Avanzata del Berserker</a></td>
+<td>3</td>
+<td>+2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+2</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>3</td>
+<td>+2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>+3</td>
+<td><a href="#attacco-extra">Attacco Extra</a></td>
+<td>3</td>
+<td>+2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+3</td>
+<td><a href="#avanzata-del-berserker">Tratto dell'Avanzata</a></td>
+<td>4</td>
+<td>+2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>+3</td>
+<td><a href="#impulso-selvaggio">Impulso Selvaggio</a></td>
+<td>4</td>
+<td>+2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+3</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>4</td>
+<td>+2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>9</td>
+<td>+4</td>
+<td><a href="#critico-brutale">Critico Brutale (1 dado)</a></td>
+<td>4</td>
+<td>+3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+4</td>
+<td><a href="#avanzata-del-berserker">Tratto dell'Avanzata</a></td>
+<td>4</td>
+<td>+3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>11</td>
+<td>+4</td>
+<td><a href="#ira-implacabile">Ira Implacabile</a></td>
+<td>4</td>
+<td>+3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>+4</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>5</td>
+<td>+3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>13</td>
+<td>+5</td>
+<td><a href="#critico-brutale">Critico Brutale (2 dadi)</a></td>
+<td>5</td>
+<td>+4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>+5</td>
+<td><a href="#avanzata-del-berserker">Tratto dell'Avanzata</a></td>
+<td>5</td>
+<td>+4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>15</td>
+<td>+5</td>
+<td><a href="#ira-persistente">Ira Persistente</a></td>
+<td>5</td>
+<td>+4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>16</td>
+<td>+5</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>5</td>
+<td>+4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>17</td>
+<td>+6</td>
+<td><a href="#critico-brutale">Critico Brutale (3 dadi)</a></td>
+<td>6</td>
+<td>+5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>18</td>
+<td>+6</td>
+<td><a href="#potenza-indomabile">Potenza Indomabile</a></td>
+<td>6</td>
+<td>+5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>19</td>
+<td>+6</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>6</td>
+<td>+5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>20</td>
+<td>+6</td>
+<td><a href="#campione-primordiale">Campione Primordiale</a></td>
+<td>Illimitata</td>
+<td>+5</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<h2 id="privilegi-di-classe">Privilegi di Classe</h2>
+<hr />
+<h3 id="punti-ferita">Punti Ferita</h3>
+<p><strong>Dadi Vita:</strong> 1d12 per livello</p>
+<p><strong>Punti Ferita al livello 1:</strong> 12 + modificatore di Costituzione</p>
+<p><strong>Punti Ferita ai Livelli Successivi:</strong> 1d12 (o 7) + modificatore di Costituzione</p>
+<hr />
+<h3 id="competenze">Competenze</h3>
+<p><strong>Armature:</strong> leggere, medie</p>
+<p><strong>Armi:</strong> tutte le vibro-armi, blaster semplici</p>
+<p><strong>Strumenti:</strong> nessuno</p>
+<p><strong>Tiri Salvezza:</strong> Forza, Costituzione</p>
+<p><strong>Abilita':</strong> 2 tra: Addestrare Animali, Atletica, Intimidire, Natura, Percezione, Sopravvivenza</p>
+<hr />
+<h3 id="equipaggiamento">Equipaggiamento</h3>
+<ul>
+<li>
+<ul>
+<li>(a) 1 vibro-arma ed uno scudo leggero o medio | (b) 2 vibro-armi</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>(a) 2 tecno-asce | (b) 2 vibro-lance</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>(a) 1 dotazione da esploratore dei sotterranei | (b) 1 dotazione da esploratore</li>
+</ul>
+</li>
+</ul>
+<h4 id="variante-ricchezza-iniziale">Variante: ricchezza iniziale</h4>
+<p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:</p>
+<table>
+<thead>
+<tr>
+<th>Classe</th>
+<th>Fondi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Berserker</td>
+<td>5d4 x 100 cr</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="ira">Ira</h3>
+<p>Nel tuo turno puoi entrare in ira con un'azione bonus, se non indossi armature pesanti.</p>
+<p>Benefici dell'ira:</p>
+<ul>
+<li>
+<ul>
+<li>Ottieni vantaggio nelle prove di Forza e nei tiri salvezza su Forza</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Quando effettui un tiro per colpire utilizzando Forza guadagni un bonus ai danni indicato nella colonna Danni dell'Ira della tabella del berserker</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Ottieni resistenza ai danni da energia e cinetici</li>
+</ul>
+</li>
+</ul>
+<p>Finche' l'ira persiste non puoi lanciare alcun tipo di potere</p>
+<p>L'ira dura 1 minuto. Se perdi i sensi, indossi un'armatura pesante, termini il turno senza aver compiuto un'azione ostile o non ricevi danno, l'ira termina. Puoi decidere di terminare l'ira volontariamente con un'azione bonus.</p>
+<p>Puoi entrare in ira tante volte quanto indicato nella colonna Ira della tabella del berserker. Recuperi tutti gli utilizzi dopo aver completato un riposo lungo</p>
+<h3 id="difesa-senza-armatura">Difesa Senza Armatura</h3>
+<p>Se non indossi alcuna armatura, la tua CA diventa: 10 + modificatore di Destrezza + modificatore di Costituzione. Puoi comunque utilizzare uno scudo.</p>
+<h3 id="attacco-irruento">Attacco Irruento</h3>
+<p>Quando attacchi nel tuo turno puoi decidere di ottenere vantaggio al tiro per colpire. Se decidi di utilizzare questo privilegio tutti gli attacchi effettuati contro di te ottengono vantaggio fino all'inizio del tuo prossimo turno</p>
+<h3 id="istinti-del-berserker">Istinti del Berserker</h3>
+<p>Guadagni tanti Istinti quanto indicato nella colonna Istinti del Berserker della tabella del berserker.
+La lista degli istinti si trova in <a href="./Istinti%20del%20Berserker.md">questa sezione</a>.</p>
+<h3 id="percezione-del-pericolo">Percezione del Pericolo</h3>
+<p>Ottieni vantaggio nei tiri salvezza su Destrezza contro effetti che riesci a vedere come, per esempio, poteri o trappole. Non puoi utilizzare questo effetto se sei:</p>
+<ul>
+<li>
+<ul>
+<li>accecato</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>assordato</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>incapacitato</li>
+</ul>
+</li>
+</ul>
+<h3 id="avanzata-del-berserker">Avanzata del Berserker</h3>
+<p>Scegli l'avanzata che plasma la natura dell'ira dettagliata in <a href="./Avanzate%20del%20Berserker.md">questa sezione</a>.</p>
+<h3 id="aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</h3>
+<p>Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio</p>
+<h3 id="attacco-extra">Attacco Extra</h3>
+<p>Puoi attaccare 2 volte</p>
+<h3 id="impulso-selvaggio">Impulso Selvaggio</h3>
+<p>Ottieni vantaggio nei tiri di iniziativa</p>
+<p>Se vieni colto alla sprovvista all'inizio del combattimento e non sei incapacitato puoi agire normalmente nel tuo turno, ma solamente se entri in ira prima di effettuare qualsiasi altra azione.</p>
+<h3 id="critico-brutale">Critico Brutale</h3>
+<p>Tiri 1 dado dell'arma extra quando metti a segno un colpo critico. Questo bonus diventa 2 dadi al livello 13 e 3 dadi al livello 17.</p>
+<h3 id="ira-implacabile">Ira Implacabile</h3>
+<p>Se scendi a 0 punti ferita mentre sei in ira e non muori, puoi effettuare un tiro salvezza su Costituzione con CD 10. Se superi la prova rimani ad 1 punto ferita. Ogni volta che utilizzi questo privilegio, dopo la prima, la CD aumenta di 5. Dopo aver terminato un riposo breve o lungo la CD torna a 10.</p>
+<h3 id="ira-persistente">Ira Persistente</h3>
+<p>L'ira termina solamente se perdi i sensi o decidi di terminarla volontariamente</p>
+<h3 id="potenza-indomabile">Potenza Indomabile</h3>
+<p>Se il totale di una prova di Forza del berserker e' inferiore al suo punteggio di Forza, il berserker puo' usare il suo punteggio di Forza al posto del totale.</p>
+<h3 id="campione-primordiale">Campione Primordiale</h3>
+<p>I punteggi di Forza o Destrezza aumentano di 2 e la Costituzione aumenta di 2. Il punteggio massimo di queste caratteristiche aumenta di 2. Puoi entrare in ira un numero illimitato di volte e non e' piu' necessario utilizzare un'azione bonus nel tuo turno per entrare in ira.</p>
+</main>
+
+<footer>© 2025 GDR Docs</footer>
+<a id="back-to-top" title="Torna su">↑</a>
+
+<script>
+// Back-to-top button
+const backToTop = document.getElementById('back-to-top');
+window.addEventListener('scroll', () => {
+    if(window.scrollY > 200) backToTop.classList.add('show');
+    else backToTop.classList.remove('show');
+});
+backToTop.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+// Smooth scroll for internal links accounting for sticky header
+document.addEventListener('DOMContentLoaded', () => {
+    const header = document.querySelector('header');
+    const headerOffset = header ? header.offsetHeight + 8 : 0;
+
+    // Scroll to hash if page loaded with one
+    if (window.location.hash) {
+        const targetId = window.location.hash.substring(1);
+        const targetEl = document.getElementById(targetId);
+        if (targetEl) {
+            const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
+            const offsetPosition = elementPosition - headerOffset;
+            window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+        }
+    }
+
+    // Smooth scroll for internal links
+    document.querySelectorAll('main a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            const targetId = this.getAttribute('href').substring(1);
+            const targetEl = document.getElementById(targetId);
+            if (targetEl) {
+                e.preventDefault();
+                const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
+                const offsetPosition = elementPosition - headerOffset;
+                window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+                // Update URL hash without jumping
+                history.pushState(null, '', `#${targetId}`);
+            }
+        });
+    });
+});
+</script>
+
+</body>
+</html>

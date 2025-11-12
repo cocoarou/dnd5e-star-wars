@@ -398,5 +398,5 @@ FodyWeavers.xsd
 *.sln.iml
 tests
 scripts
-docs
+# docs
 custom-scripts
