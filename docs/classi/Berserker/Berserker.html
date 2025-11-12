@@ -44,10 +44,10 @@ main ul li { display:list-item; }
 
 <header>Berserker</header>
 
-<nav>
-<a href="../../classi.html">🔙 Indice Classi</a>
-<a href="../../index.html">🏠 Home</a>
-</nav>
+# <nav>
+# <a href="../../classi.html">🔙 Indice Classi</a>
+# <a href="../../index.html">🏠 Home</a>
+# </nav>
 
 <main>
 <details class="toc" open><summary>Indice</summary>
@@ -386,35 +386,17 @@ backToTop.addEventListener('click', () => {
 });
 
 // Smooth scroll for internal links accounting for sticky header
-document.addEventListener('DOMContentLoaded', () => {
-    const header = document.querySelector('header');
-    const headerOffset = header ? header.offsetHeight + 8 : 0;
-
-    // Scroll to hash if page loaded with one
-    if (window.location.hash) {
-        const targetId = window.location.hash.substring(1);
+document.querySelectorAll('main a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+        const targetId = this.getAttribute('href').substring(1);
         const targetEl = document.getElementById(targetId);
+        const headerOffset = document.querySelector('header').offsetHeight + 8;
         if (targetEl) {
+            e.preventDefault();
             const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
             const offsetPosition = elementPosition - headerOffset;
             window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
         }
-    }
-
-    // Smooth scroll for internal links
-    document.querySelectorAll('main a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function(e) {
-            const targetId = this.getAttribute('href').substring(1);
-            const targetEl = document.getElementById(targetId);
-            if (targetEl) {
-                e.preventDefault();
-                const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
-                const offsetPosition = elementPosition - headerOffset;
-                window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
-                // Update URL hash without jumping
-                history.pushState(null, '', `#${targetId}`);
-            }
-        });
     });
 });
 </script>
