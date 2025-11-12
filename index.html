@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Galactic Boilerplate — Opening Crawl</title>
+  <meta name="description" content="A modern HTML boilerplate with a Star Wars-inspired opening crawl and starfield background, now mobile friendly.">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root{
+      --bg:#03040a;
+      --accent:#ffd54a;
+      --muted:#9aa4b2;
+      --max-width:1100px;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: 'Poppins', system-ui;
+      background: radial-gradient(ellipse at center, rgba(255,255,255,0.02) 0%, transparent 40%), var(--bg);
+      color:#e6eef6;
+      overflow-x:hidden;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      padding:24px 16px;
+    }
+
+    .starfield{
+      position:fixed;
+      inset:0;
+      z-index:0;
+      background-image:
+        radial-gradient(1px 1px at 10% 20%, rgba(255,255,255,0.9) 50%, transparent 51%),
+        radial-gradient(1px 1px at 80% 40%, rgba(255,255,255,0.7) 50%, transparent 51%),
+        radial-gradient(1px 1px at 50% 80%, rgba(255,255,255,0.6) 50%, transparent 51%),
+        radial-gradient(1px 1px at 30% 60%, rgba(255,255,255,0.5) 50%, transparent 51%),
+        radial-gradient(1px 1px at 70% 10%, rgba(255,255,255,0.6) 50%, transparent 51%);
+      background-size: 1200px 800px;
+      animation: drift 120s linear infinite;
+      pointer-events:none;
+      opacity:0.9;
+    }
+    @keyframes drift{to{background-position:2000px -1000px}}
+
+    .container{position:relative; z-index:10; width:100%; max-width:var(--max-width)}
+    header{
+      display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; margin-bottom:24px;
+    }
+    .logo{display:flex; align-items:center; gap:8px; text-decoration:none; color:inherit;}
+    .logo .symbol{font-family: 'Orbitron', sans-serif; font-weight:700; color:var(--accent); font-size:20px;}
+    nav{display:flex; flex-wrap:wrap; gap:8px}
+    a.btn, button.btn{
+      display:inline-block; padding:8px 14px; border-radius:999px; text-decoration:none; font-weight:600;
+      background:transparent; border:1px solid rgba(255,255,255,0.06); color:var(--muted);
+      backdrop-filter: blur(6px); cursor:pointer;
+    }
+    a.btn.primary, button.btn.primary{background:rgba(255,215,90,0.08); color:var(--accent); border-color:rgba(255,215,90,0.2)}
+
+    .hero{
+      padding:20px; border-radius:12px; overflow:hidden; backdrop-filter: blur(6px);
+      background: rgba(255,255,255,0.015);
+      box-shadow: 0 10px 30px rgba(2,6,23,0.6);
+    }
+    .hero-grid{display:grid; grid-template-columns: 1fr 360px; gap:20px; align-items:start}
+
+    .headline{font-family:'Orbitron',sans-serif; font-weight:700; font-size:26px; color:var(--accent); margin:0 0 10px 0;}
+    .sub{color:var(--muted); margin:0 0 22px 0;}
+
+    .preview-card{position:relative; height:360px; border-radius:12px; overflow:hidden; background:linear-gradient(180deg,#061025 0%, #02040a 100%); border:1px solid rgba(255,255,255,0.03)}
+    .stage{position:absolute; inset:0; display:flex; align-items:flex-end; justify-content:center; perspective:800px;}
+    .crawl{
+      width:70%; max-width:700px; transform-origin:center bottom; transform: rotateX(20deg);
+      animation: crawl 30s linear infinite;
+      font-size:16px; line-height:1.6; color:var(--accent); text-align:justify;
+    }
+    .crawl h1{font-family:'Orbitron',sans-serif; font-size:20px; margin:0 0 12px 0; text-align:center}
+    @keyframes crawl{
+      0%{transform: translateY(60%) rotateX(20deg)}
+      100%{transform: translateY(-250%) rotateX(25deg)}
+    }
+
+    .muted{color:var(--muted); font-size:14px}
+
+    @media (max-width:900px){
+      .hero-grid{grid-template-columns:1fr}
+      .preview-card{height:320px}
+    }
+    @media (max-width:600px){
+      header{flex-direction:column; align-items:flex-start}
+      .headline{font-size:22px}
+      .crawl{width:90%; font-size:14px}
+      .hero{padding:16px}
+      a.btn, button.btn{padding:6px 12px; font-size:14px}
+    }
+  </style>
+</head>
+<body>
+  <div class="starfield"></div>
+  <div class="container">
+    <header>
+      <a class="logo" href="#"><div class="symbol">GALACTIC</div><div class="muted">Boilerplate</div></a>
+      <nav>
+        <a class="btn" href="#">Docs</a>
+        <a class="btn" href="#">Components</a>
+        <a class="btn primary" id="toggleCrawl" href="#">Pause</a>
+      </nav>
+    </header>
+
+    <main class="hero">
+      <div class="hero-grid">
+        <section>
+          <h1 class="headline">A Starry HTML Boilerplate</h1>
+          <p class="sub">Includes a cinematic opening crawl, CSS-only starfield, and a clean modern UI for your sci-fi project. Fully responsive for mobile screens.</p>
+          <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+            <a class="btn primary" href="#" onclick="event.preventDefault(); downloadDemo();">Download HTML</a>
+            <a class="btn" href="#" onclick="event.preventDefault(); copyMarkup();">Copy Markup</a>
+          </div>
+        </section>
+        <aside class="preview-card">
+          <div class="stage">
+            <div class="crawl" id="crawl">
+              <h1>Episode I — A New Boilerplate</h1>
+              <p>It is a time of rapid prototyping. Developers across the galaxy seek a clean, modern starting point — one that captures the epic scale of space without the cruft of outdated templates.</p>
+              <p>This template provides a stylish starfield, cinematic crawl, and a minimal UI so your project looks stellar from the first commit.</p>
+              <p>Use it for landing pages, demos, or to inject interstellar flair into your next frontend experiment.</p>
+            </div>
+          </div>
+        </aside>
+      </div>
+      <div style="margin-top:18px; display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:10px;">
+        <div class="muted">Built with ❤️ — remix freely</div>
+        <button class="btn" id="restart">Restart Crawl</button>
+      </div>
+    </main>
+  </div>
+  <script>
+    const crawl = document.getElementById('crawl');
+    const toggle = document.getElementById('toggleCrawl');
+    const restart = document.getElementById('restart');
+    let paused = false;
+
+    toggle.addEventListener('click', (e)=>{
+      e.preventDefault();
+      paused = !paused;
+      crawl.style.animationPlayState = paused ? 'paused' : 'running';
+      toggle.textContent = paused ? 'Resume' : 'Pause';
+    });
+
+    restart.addEventListener('click', ()=>{
+      crawl.style.animation='none';
+      void crawl.offsetWidth;
+      crawl.style.animation=null;
+    });
+
+    function copyMarkup(){
+      navigator.clipboard?.writeText(document.documentElement.outerHTML).then(()=>alert('Copied!'));
+    }
+    function downloadDemo(){
+      const blob=new Blob([document.documentElement.outerHTML],{type:'text/html'});
+      const url=URL.createObjectURL(blob);
+      const a=document.createElement('a');
+      a.href=url;a.download='index.html';a.click();
+      URL.revokeObjectURL(url);
+    }
+  </script>
+</body>
+</html>
