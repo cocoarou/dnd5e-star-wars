@@ -1,25 +1,25 @@
-# Console
+# Console <!-- omit in toc -->
+<!-- TOC START -->
+- [Privilegi di Classe](#privilegi-di-classe)
+  - [Punti Ferita](#punti-ferita)
+  - [Competenze](#competenze)
+  - [Equipaggiamento](#equipaggiamento)
+    - [Variante: ricchezza iniziale](#variante-ricchezza-iniziale)
+  - [Forza-lancio](#forza-lancio)
+  - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
+  - [Punti Potere](#punti-potere)
+  - [Livello Massimo del Potere](#livello-massimo-del-potere)
+  - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
+  - [Recupero della Forza](#recupero-della-forza)
+  - [Forza-lancio Potenziato](#forza-lancio-potenziato)
+  - [Scudo della Forza](#scudo-della-forza)
+  - [Affinita' alla Forza](#affinita-alla-forza)
+  - [Tradizione Consolare](#tradizione-consolare)
+  - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
+  - [Tutt'uno con la Forza](#tuttuno-con-la-forza)
+<!-- TOC END -->
 
-- [Console](#console)
-  - [Privilegi di Classe](#privilegi-di-classe)
-    - [Punti Ferita](#punti-ferita)
-    - [Competenze](#competenze)
-    - [Equipaggiamento](#equipaggiamento)
-      - [Variante: ricchezza iniziale](#variante-ricchezza-iniziale)
-    - [Forza-lancio](#forza-lancio)
-    - [Poteri della Forza Conosciuti](#poteri-della-forza-conosciuti)
-    - [Punti Potere](#punti-potere)
-    - [Livello Massimo del Potere](#livello-massimo-del-potere)
-    - [Caratteristica da forza-lancio](#caratteristica-da-forza-lancio)
-    - [Recupero della Forza](#recupero-della-forza)
-    - [Forza-lancio Potenziato](#forza-lancio-potenziato)
-    - [Scudo della Forza](#scudo-della-forza)
-    - [Affinita' alla Forza](#affinita-alla-forza)
-    - [Tradizione Consolare](#tradizione-consolare)
-    - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
-    - [Tutt'uno con la Forza](#tuttuno-con-la-forza)
-
-![console](consular_01.png)
+<!-- ![console](consular_01.png) -->
 
 |Livello|Bonus Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Potere|Livello Massimo del Potere|Opzioni di Forza-lancio Potenziato
 |---|---|---|---|---|---|---

@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Console — GDR</title>
+<style>
+body { margin:0; font-family: system-ui, sans-serif; background:#0b0c10; color:#e0e0e0; padding:0 20px; }
+header { background:#111; color:#ffd54a; padding:16px; text-align:center; font-size:22px; font-weight:700; border-bottom:1px solid #333; position: sticky; top:0; z-index:1000; }
+nav { display:flex; justify-content:center; gap:12px; flex-wrap:wrap; padding:12px; background:#141414; margin-bottom:20px; position: sticky; top:56px; z-index:999; }
+nav a { text-decoration:none; color:#ffd54a; border:1px solid #ffd54a44; padding:6px 12px; border-radius:6px; transition: all .2s; }
+nav a:hover { background:#ffd54a; color:#111; }
+main { max-width:900px; margin:auto; padding-bottom:40px; }
+h1, h2, h3, h4 { color:#ffd54a; }
+table { border-collapse: collapse; width:100%; margin-bottom:20px; }
+th, td { border:1px solid #ffd54a44; padding:8px; text-align:left; }
+th { background:#222; }
+img { max-width:100%; height:auto; margin:20px 0; }
+footer { text-align:center; font-size:14px; padding:16px; border-top:1px solid #222; margin-top:40px; color:#888; }
+#back-to-top { position: fixed; bottom:24px; right:24px; width:44px; height:44px; background:#ffd54a; color:#111; border-radius:50%; text-align:center; line-height:44px; font-size:24px; font-weight:bold; cursor:pointer; z-index:9999; opacity:0; pointer-events:none; transition: opacity .3s; }
+#back-to-top.show { opacity:1; pointer-events:auto; }
+#back-to-top:hover { opacity:0.8; }
+main a { color: #ffd54a; text-decoration:none; transition: color 0.2s ease; }
+main a:hover { color: #ffcc00; text-decoration: underline; }
+
+/* TOC accordion */
+.toc { background: #111; border:1px solid #333; border-radius:8px; padding:16px; margin:20px 0; }
+.toc summary { cursor: pointer; font-weight: bold; font-size:16px; color:#ffd54a; margin-bottom:8px; }
+.toc summary:hover { color:#ffcc00; }
+.toc ul { list-style:none; padding-left:0; }
+.toc li { margin:4px 0; }
+.toc li ul { padding-left:16px; }
+.toc a { color:#ffd54a; text-decoration:none; }
+.toc a:hover { color:#ffcc00; text-decoration: underline; }
+
+/* Nested list fix for main content */
+main ul { list-style-type: disc; margin:8px 0 8px 20px; padding-left:20px; }
+main ul ul { list-style-type: circle; margin:4px 0 4px 20px; padding-left:20px; }
+main ul ul ul { list-style-type: square; margin:2px 0 2px 20px; padding-left:20px; }
+main ul li { display:list-item; }
+</style>
+</head>
+<body>
+
+<header>Console</header>
+
+<!--
+<nav>
+<a href="../../classi.html">🔙 Indice Classi</a>
+<a href="../../index.html">🏠 Home</a>
+</nav>
+-->
+
+<main>
+<details class="toc" open><summary>Indice</summary>
+<ul>
+<li><a href="#privilegi-di-classe">Privilegi di Classe</a></li>
+<li><a href="#punti-ferita">Punti Ferita</a></li>
+<li><a href="#competenze">Competenze</a></li>
+<li><a href="#equipaggiamento">Equipaggiamento</a><ul>
+<li><a href="#variante-ricchezza-iniziale">Variante: ricchezza iniziale</a></li>
+</ul>
+</li>
+<li><a href="#forza-lancio">Forza-lancio</a></li>
+<li><a href="#poteri-della-forza-conosciuti">Poteri della Forza Conosciuti</a></li>
+<li><a href="#punti-potere">Punti Potere</a></li>
+<li><a href="#livello-massimo-del-potere">Livello Massimo del Potere</a></li>
+<li><a href="#caratteristica-da-forza-lancio">Caratteristica da forza-lancio</a></li>
+<li><a href="#recupero-della-forza">Recupero della Forza</a></li>
+<li><a href="#forza-lancio-potenziato">Forza-lancio Potenziato</a></li>
+<li><a href="#scudo-della-forza">Scudo della Forza</a></li>
+<li><a href="#affinita-alla-forza">Affinita' alla Forza</a></li>
+<li><a href="#tradizione-consolare">Tradizione Consolare</a></li>
+<li><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></li>
+<li><a href="#tuttuno-con-la-forza">Tutt'uno con la Forza</a></li>
+</ul>
+</details>
+<h1 id="console">Console <!-- omit in toc --></h1>
+<!-- ![console](consular_01.png) -->
+
+<table>
+<thead>
+<tr>
+<th>Livello</th>
+<th>Bonus Competenza</th>
+<th>Privilegi</th>
+<th>Poteri della Forza Conosciuti</th>
+<th>Punti Potere</th>
+<th>Livello Massimo del Potere</th>
+<th>Opzioni di Forza-lancio Potenziato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+2</td>
+<td><a href="#forza-lancio">Forza-lancio</a>, <a href="#recupero-della-forza">Recupero della Forza</a></td>
+<td>9</td>
+<td>4</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+2</td>
+<td><a href="#forza-lancio-potenziato">Forza-lancio potenziato</a>, <a href="#scudo-della-forza">Scudo della Forza</a></td>
+<td>11</td>
+<td>8</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+2</td>
+<td><a href="#affinita-alla-forza">Affinita' alla Forza</a>, <a href="#tradizione-consolare">Tradizione Consolare</a></td>
+<td>13</td>
+<td>12</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+2</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>15</td>
+<td>16</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>+3</td>
+<td>-</td>
+<td>17</td>
+<td>20</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+3</td>
+<td><a href="#tradizione-consolare">Tratto Consolare</a></td>
+<td>19</td>
+<td>24</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>+3</td>
+<td>-</td>
+<td>21</td>
+<td>28</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+3</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>23</td>
+<td>32</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9</td>
+<td>+4</td>
+<td>-</td>
+<td>25</td>
+<td>36</td>
+<td>5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+4</td>
+<td><a href="#tradizione-consolare">Tratto Consolare</a></td>
+<td>26</td>
+<td>40</td>
+<td>5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>11</td>
+<td>+4</td>
+<td>-</td>
+<td>28</td>
+<td>44</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>+4</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>29</td>
+<td>48</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td>13</td>
+<td>+5</td>
+<td>-</td>
+<td>31</td>
+<td>52</td>
+<td>7</td>
+<td>3</td>
+</tr>
+<tr>
+<td>14</td>
+<td>+5</td>
+<td><a href="#tradizione-consolare">Tratto Consolare</a></td>
+<td>32</td>
+<td>56</td>
+<td>7</td>
+<td>3</td>
+</tr>
+<tr>
+<td>15</td>
+<td>+5</td>
+<td>-</td>
+<td>34</td>
+<td>60</td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>16</td>
+<td>+5</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>35</td>
+<td>64</td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>17</td>
+<td>+6</td>
+<td>-</td>
+<td>37</td>
+<td>68</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>18</td>
+<td>+6</td>
+<td><a href="#tradizione-consolare">Tratto Consolare</a></td>
+<td>38</td>
+<td>72</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>19</td>
+<td>+6</td>
+<td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+<td>39</td>
+<td>76</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>20</td>
+<td>+6</td>
+<td><a href="#tuttuno-con-la-forza">Tutt'uno con la Forza</a></td>
+<td>40</td>
+<td>80</td>
+<td>9</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="privilegi-di-classe">Privilegi di Classe</h2>
+<hr />
+<h3 id="punti-ferita">Punti Ferita</h3>
+<p><strong>Dadi Vita:</strong> 1d6 per livello</p>
+<p><strong>Punti Ferita al livello 1:</strong> 6 + modificatore di Costituzione</p>
+<p><strong>Punti Ferita ai Livelli Successivi:</strong> 1d6 (o 4) + modificatore di Costituzione</p>
+<hr />
+<h3 id="competenze">Competenze</h3>
+<p><strong>Armature:</strong> nessuna</p>
+<p><strong>Armi:</strong> armi-laser semplici, vibro-armi semplici</p>
+<p><strong>Strumenti:</strong> nessuno</p>
+<p><strong>Tiri Salvezza:</strong> Saggezza, Carisma</p>
+<p><strong>Abilita':</strong> 2 tra: Inganno, Intuizione, Intimidire, Indagare, Storia, Medicina, Persuasione</p>
+<hr />
+<h3 id="equipaggiamento">Equipaggiamento</h3>
+<ul>
+<li>
+<ul>
+<li>(a) 1 arma-laser semplice | (b) 1 vibro-arma semplice</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>(a) 1 dotazione da studioso | (b) 1 dotazione da esploratore | (c) 1 dotazione da diplomatico</li>
+</ul>
+</li>
+</ul>
+<h4 id="variante-ricchezza-iniziale">Variante: ricchezza iniziale</h4>
+<p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la ricchezza iniziale in questo modo:</p>
+<table>
+<thead>
+<tr>
+<th>Classe</th>
+<th>Fondi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Console</td>
+<td>5d4 x 100 cr</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="forza-lancio">Forza-lancio</h3>
+<p>Vedi <a href="../../poteri/Regole%20sul%20Lancio%20dei%20Poteri.md#regole-sul-lancio-dei-poteri">questa sezione</a> per i dettagli sul forza-lancio e <a href="../../poteri/Poteri%20della%20Forza.md#poteri-della-forza">questa sezione</a> per la lista dei poteri della forza.</p>
+<h3 id="poteri-della-forza-conosciuti">Poteri della Forza Conosciuti</h3>
+<p>Impari 9 poteri della forza a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere e puoi imparare un potere contestualmente a quando acquisisci uno dei suoi prerequisiti.</p>
+<h3 id="punti-potere">Punti Potere</h3>
+<p>Possiedi un numero di punti potere pari al tuo livello da console x 4 (come indicato nella tabella) + il tuo modificatore di Carisma o Saggezza (scegli tu). Utilizzi questi punti potere per lanciare i poteri della forza. Recuperi tutti i punti potere spesi quando completi un riposo lungo.</p>
+<h3 id="livello-massimo-del-potere">Livello Massimo del Potere</h3>
+<p>Alcuni poteri della forza possono essere lanciati a livelli superiori utilizzando il numero indicato di punti potere aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello Massimo del Potere della tabella.</p>
+<p>Puoi lanciare dei poteri di livello 6, 7, 8 e 9 solamente una volta ogni riposo lungo.</p>
+<h3 id="caratteristica-da-forza-lancio">Caratteristica da forza-lancio</h3>
+<p>Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri del lato oscuro della forza e Carisma o Saggezza per i poteri universali (scegli tu). Utilizzi questa abilita' ogni volta che un potere fa riferimento alla caratteristica da forza-lancio. Inoltre utilizzi questo modificatore quando devi determinare la CD dei tiri salvezza dei poteri della forza che lanci e quando effettui un attacco con un potere della forza.</p>
+<p><strong>CD del tiro salvezza della forza:</strong> 8 + bonus di competenza + il tuo modificatore di forza-lancio</p>
+<p><strong>Modificatore di attacco della forza:</strong> bonus di competenza + il tuo modificatore di forza-lancio</p>
+<h3 id="recupero-della-forza">Recupero della Forza</h3>
+<p>Quando completi un riposo breve puoi scegliere di recuperare un numero di punti potere pari a meta' del tuo livello da console + il modificatore di Saggezza o Carisma (scegli tu, minimo 1).</p>
+<p>Puoi riutilizzare questo privilegio dopo aver completato un riposo lungo</p>
+<h3 id="forza-lancio-potenziato">Forza-lancio Potenziato</h3>
+<p>Quando lanci un potere della forza puoi spendere punti potere addizionali per modificarlo. Ottieni 2 opzioni di forza-lancio potenziato, <a href="./Forza-lancio%20Potenziato.md#forza-lancio-potenziato">dettagliate in questa sezione</a>. Ai livelli successivi ne impari di ulteriori (come indicato nella colonna Opzioni di Forza-lancio Potenziato della tabella).</p>
+<p>Puoi solamente utilizzare 1 opzione di forza-lancio potenziato su un potere mentre lo lanci, almeno che non sia elencato diversamente nella descrizione del potere.</p>
+<h3 id="scudo-della-forza">Scudo della Forza</h3>
+<p>Quando vieni colpito da un attacco puoi utilizzare la tua reazione per ricoprirti di energia della forza. Fino all'inizio del tuo prossimo turno ottieni un bonus alla CA pari al tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1). Questo bonus si applica anche all'attacco che ha innescato questo privilegio.</p>
+<p>Puoi utilizzare questo privilegio 2 volte. Guadagni degli utilizzi aggiuntivi ai livelli: 5, 9, 13 e 17.</p>
+<p>Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.</p>
+<h3 id="affinita-alla-forza">Affinita' alla Forza</h3>
+<p>Scegli uno dei 3 aspetti della forza:</p>
+<ul>
+<li>
+<ul>
+<li><strong>Ashla:</strong> quando lanci con successo un potere del lato chiaro della forza, i tuoi punti ferita massimi e punti ferita attuali o quelli del bersaglio del potere (scegli tu) aumentano di un ammontare pari al livello del potere. Questo effetto dura 1 minuto. Puoi avere attivo solamente uno di questi effetti alla volta.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li><strong>Bendu:</strong> puoi aggiungere sia il modificatore di Saggezza che di Carisma al totale dei tuoi punti potere anziche' un modificatore solo.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li><strong>Bogan:</strong> i tiri per i danni dei tuoi poteri del lato oscuro della forza ottengono una <a href="../../utility/utility.md#soglia-minima-del-tiro">soglia minima del tiro</a>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="tradizione-consolare">Tradizione Consolare</h3>
+<p>Scegli una tradizione consolare dettagliata in <a href="./Tradizioni%20Consolari.md#tradizioni-consolari">questa sezione</a>.</p>
+<h3 id="aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</h3>
+<p>Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi aumentare un punteggio caratteristica oltre il 20 con questo privilegio</p>
+<h3 id="tuttuno-con-la-forza">Tutt'uno con la Forza</h3>
+<p>Il tuo punteggio di Saggezza o Carisma aumenta di 4 ed il punteggio massimo della caratteristica scelta aumenta di 4. Scegli un potere della forza di livello 3 che conosci come il tuo potere simbolo. Puoi lanciarlo, una volta, al livello 3 senza spendere punti potere.</p>
+<p>Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.</p>
+<p>Se vuoi lanciare quel potere oltre il livello 3, devi spendere i punti potere come di consueto.</p>
+</main>
+
+<footer>© 2025 GDR Docs</footer>
+<a id="back-to-top" title="Torna su">↑</a>
+
+<script>
+// Back-to-top button
+const backToTop = document.getElementById('back-to-top');
+window.addEventListener('scroll', () => {
+    if(window.scrollY > 200) backToTop.classList.add('show');
+    else backToTop.classList.remove('show');
+});
+backToTop.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+// Smooth scroll for internal links accounting for sticky header
+document.querySelectorAll('main a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+        const targetId = this.getAttribute('href').substring(1);
+        const targetEl = document.getElementById(targetId);
+        const headerOffset = document.querySelector('header').offsetHeight + 8;
+        if (targetEl) {
+            e.preventDefault();
+            const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
+            const offsetPosition = elementPosition - headerOffset;
+            window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+        }
+    });
+});
+</script>
+
+</body>
+</html>
