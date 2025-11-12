@@ -1,198 +1,413 @@
 <!doctype html>
 <html lang="it">
+
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Classi — GDR</title>
-<style>
-/* --- Basic Styles --- */
-body { margin:0; font-family: system-ui, sans-serif; background:#0b0c10; color:#e0e0e0; }
-header { background:#111; color:#ffd54a; padding:16px; text-align:center; font-size:22px; font-weight:700; border-bottom:1px solid #333; position: sticky; top:0; z-index:1000; }
-nav.site-nav, nav.classi-list { display:flex; justify-content:center; gap:12px; flex-wrap: nowrap; padding:12px; background:#141414; margin-bottom:20px; position: sticky; top:56px; z-index:999; overflow-x:auto; }
-nav a { text-decoration:none; color:#ffd54a; border:1px solid #ffd54a44; padding:6px 12px; border-radius:6px; transition: all .2s; white-space: nowrap; }
-nav a:hover { background:#ffd54a; color:#111; }
-/* Active nav link */
-nav.site-nav a.active, nav.classi-list a.active { background:#ffd54a; color:#111; }
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Classi — GDR</title>
+    <style>
+        /* --- Basic Styles --- */
+        body {
+            margin: 0;
+            font-family: system-ui, sans-serif;
+            background: #0b0c10;
+            color: #e0e0e0;
+        }
 
-/* Home button visibility */
-nav.site-nav a.home-link { visibility: hidden; }
+        header {
+            background: #111;
+            color: #ffd54a;
+            padding: 16px;
+            text-align: center;
+            font-size: 22px;
+            font-weight: 700;
+            border-bottom: 1px solid #333;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
 
-main { max-width:900px; margin:auto; padding-bottom:40px; }
-h1, h2, h3, h4 { color:#ffd54a; }
-table { border-collapse: collapse; width:100%; margin-bottom:20px; }
-th, td { border:1px solid #ffd54a44; padding:8px; text-align:left; }
-th { background:#222; }
-img { max-width:100%; height:auto; margin:20px 0; }
-footer { text-align:center; font-size:14px; padding:16px; border-top:1px solid #222; margin-top:40px; color:#888; }
+        nav.site-nav,
+        nav.classi-list {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: nowrap;
+            padding: 12px;
+            background: #141414;
+            margin-bottom: 20px;
+            position: sticky;
+            top: 56px;
+            z-index: 999;
+            overflow-x: auto;
+        }
 
-/* Back-to-top */
-#back-to-top { position: fixed; bottom:24px; right:24px; width:44px; height:44px; background:#ffd54a; color:#111; border-radius:50%; text-align:center; line-height:44px; font-size:24px; font-weight:bold; cursor:pointer; z-index:9999; opacity:0; pointer-events:none; transition: opacity .3s; }
-#back-to-top.show { opacity:1; pointer-events:auto; }
-#back-to-top:hover { opacity:0.8; }
+        nav a {
+            text-decoration: none;
+            color: #ffd54a;
+            border: 1px solid #ffd54a44;
+            padding: 6px 12px;
+            border-radius: 6px;
+            transition: all .2s;
+            white-space: nowrap;
+        }
 
-/* Nested lists fix */
-main ul { list-style-type: disc; margin:8px 0 8px 20px; padding-left:20px; }
-main ul ul { list-style-type: circle; margin:4px 0 4px 20px; padding-left:20px; }
-main ul ul ul { list-style-type: square; margin:2px 0 2px 20px; padding-left:20px; }
-main ul li { display:list-item; }
+        nav a:hover {
+            background: #ffd54a;
+            color: #111;
+        }
 
-/* TOC accordion */
-.toc { background: #111; border:1px solid #333; border-radius:8px; padding:16px; margin:20px 0; }
-.toc summary { cursor: pointer; font-weight: bold; font-size:16px; color:#ffd54a; margin-bottom:8px; }
-.toc summary:hover { color:#ffcc00; }
-.toc ul { list-style:none; padding-left:0; }
-.toc li { margin:4px 0; }
-.toc li ul { padding-left:16px; }
-.toc a { color:#ffd54a; text-decoration:none; }
-.toc a:hover { color:#ffcc00; text-decoration: underline; }
-</style>
+        /* Active nav link */
+        nav.site-nav a.active,
+        nav.classi-list a.active {
+            background: #ffd54a;
+            color: #111;
+        }
+
+        /* Home button visibility */
+        nav.site-nav a.home-link {
+            visibility: hidden;
+        }
+
+        main {
+            max-width: 900px;
+            margin: auto;
+            padding-bottom: 40px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            color: #ffd54a;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        th,
+        td {
+            border: 1px solid #ffd54a44;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background: #222;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 14px;
+            padding: 16px;
+            border-top: 1px solid #222;
+            margin-top: 40px;
+            color: #888;
+        }
+
+        /* Back-to-top */
+        #back-to-top {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            width: 44px;
+            height: 44px;
+            background: #ffd54a;
+            color: #111;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 44px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity .3s;
+        }
+
+        #back-to-top.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        #back-to-top:hover {
+            opacity: 0.8;
+        }
+
+        /* Home Button */
+        #home-button {
+            position: fixed;
+            bottom: 80px;
+            /* slightly above the back-to-top button */
+            right: 24px;
+            width: 44px;
+            height: 44px;
+            background: #ffd54a;
+            color: #111;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 44px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity .3s;
+        }
+
+        #home-button.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        #home-button:hover {
+            opacity: 0.8;
+        }
+
+        /* Nested lists fix */
+        main ul {
+            list-style-type: disc;
+            margin: 8px 0 8px 20px;
+            padding-left: 20px;
+        }
+
+        main ul ul {
+            list-style-type: circle;
+            margin: 4px 0 4px 20px;
+            padding-left: 20px;
+        }
+
+        main ul ul ul {
+            list-style-type: square;
+            margin: 2px 0 2px 20px;
+            padding-left: 20px;
+        }
+
+        main ul li {
+            display: list-item;
+        }
+
+        /* TOC accordion */
+        .toc {
+            background: #111;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 20px 0;
+        }
+
+        .toc summary {
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+            color: #ffd54a;
+            margin-bottom: 8px;
+        }
+
+        .toc summary:hover {
+            color: #ffcc00;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .toc li {
+            margin: 4px 0;
+        }
+
+        .toc li ul {
+            padding-left: 16px;
+        }
+
+        .toc a {
+            color: #ffd54a;
+            text-decoration: none;
+        }
+
+        .toc a:hover {
+            color: #ffcc00;
+            text-decoration: underline;
+        }
+    </style>
 </head>
+
 <body>
 
-<header>GDR Home</header>
+    <header>GDR Home</header>
 
-<!-- Main site navigation -->
-<nav class="site-nav">
-  <a href="index.html" class="nav-link home-link">Home</a>
-  <a href="classi.html" class="nav-link">Classi</a>
-  <a href="equipaggiamento.html" class="nav-link">Equipaggiamento</a>
-  <a href="razze.html" class="nav-link">Razze</a>
-  <a href="talenti.html" class="nav-link">Talenti</a>
-  <a href="utility.html" class="nav-link">Utility</a>
-  <a href="condizioni.html" class="nav-link">Condizioni</a>
-</nav>
+    <!-- Main site navigation -->
+    <nav class="site-nav">
+        <a href="index.html" class="nav-link home-link">Home</a>
+        <a href="classi.html" class="nav-link">Classi</a>
+        <a href="equipaggiamento.html" class="nav-link">Equipaggiamento</a>
+        <a href="razze.html" class="nav-link">Razze</a>
+        <a href="talenti.html" class="nav-link">Talenti</a>
+        <a href="utility.html" class="nav-link">Utility</a>
+        <a href="condizioni.html" class="nav-link">Condizioni</a>
+    </nav>
 
-<!-- Class-specific navigation -->
-<nav class="classi-list">
-  <a href="Berserker/Berserker.html" class="class-link">Berserker</a>
-  <a href="Console/Console.html" class="class-link">Console</a>
-  <a href="Guardiano/Guardiano.html" class="class-link">Guardiano</a>
-  <a href="Guerriero/Guerriero.html" class="class-link">Guerriero</a>
-  <a href="Ingegnere/Ingegnere.html" class="class-link">Ingegnere</a>
-  <a href="Monaco/Monaco.html" class="class-link">Monaco</a>
-  <a href="Operativo/Operativo.html" class="class-link">Operativo</a>
-  <a href="Scout/Scout.html" class="class-link">Scout</a>
-  <a href="Sentinella/Sentinella.html" class="class-link">Sentinella</a>
-  <a href="Studioso/Studioso.html" class="class-link">Studioso</a>
-</nav>
+    <!-- Class-specific navigation -->
+    <nav class="classi-list">
+        <a href="Berserker/Berserker.html" class="class-link">Berserker</a>
+        <a href="Console/Console.html" class="class-link">Console</a>
+        <a href="Guardiano/Guardiano.html" class="class-link">Guardiano</a>
+        <a href="Guerriero/Guerriero.html" class="class-link">Guerriero</a>
+        <a href="Ingegnere/Ingegnere.html" class="class-link">Ingegnere</a>
+        <a href="Monaco/Monaco.html" class="class-link">Monaco</a>
+        <a href="Operativo/Operativo.html" class="class-link">Operativo</a>
+        <a href="Scout/Scout.html" class="class-link">Scout</a>
+        <a href="Sentinella/Sentinella.html" class="class-link">Sentinella</a>
+        <a href="Studioso/Studioso.html" class="class-link">Studioso</a>
+    </nav>
 
-<main>
-  <div class="class-content">
-    <p>Seleziona una classe per visualizzarne il contenuto.</p>
-  </div>
-</main>
+    <main>
+        <div class="class-content">
+            <p>Seleziona una classe per visualizzarne il contenuto.</p>
+        </div>
+    </main>
 
-<footer>© 2025 GDR Docs</footer>
-<a id="back-to-top" title="Torna su">↑</a>
+    <footer>© 2025 GDR Docs</footer>
+    <a id="back-to-top" title="Torna su">↑</a>
+    <a id="home-button" title="Home">🏠</a>
 
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    const main = document.querySelector('main .class-content');
-    const header = document.querySelector('header');
-    const headerOffset = header ? header.getBoundingClientRect().height + 56 : 0;
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const main = document.querySelector('main .class-content');
+            const header = document.querySelector('header');
+            const headerOffset = header ? header.getBoundingClientRect().height + 56 : 0;
 
-    // --- Back to top ---
-    const backToTop = document.getElementById('back-to-top');
-    window.addEventListener('scroll', () => {
-        if(window.scrollY > 200) backToTop.classList.add('show');
-        else backToTop.classList.remove('show');
-    });
-    backToTop.addEventListener('click', () => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
+            // --- Back to top ---
+            const backToTop = document.getElementById('back-to-top');
+            window.addEventListener('scroll', () => {
+                if (window.scrollY > 200) backToTop.classList.add('show');
+                else backToTop.classList.remove('show');
+            });
+            backToTop.addEventListener('click', () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
 
-    // --- Determine base path dynamically ---
-    const isGitHub = window.location.hostname.includes('github.io');
-    const repoPrefix = isGitHub ? '/' + window.location.pathname.split('/')[1] + '/' : '/';
-    const classiBase = repoPrefix + 'classi/';
+            // === HOME BUTTON ===
+            const homeButton = document.getElementById('home-button');
 
-    // --- Smooth scroll for internal links ---
-    function attachInternalLinkScrolling(container) {
-        container.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function(e) {
-                const targetId = this.getAttribute('href').substring(1);
-                const targetEl = document.getElementById(targetId);
-                if (targetEl) {
+            // Scroll behavior for home button
+            window.addEventListener('scroll', () => {
+                if (window.scrollY > 200) homeButton.classList.add('show');
+                else homeButton.classList.remove('show');
+            });
+
+            // Click behavior for home button
+            homeButton.addEventListener('click', () => {
+                const isGitHub = window.location.hostname.includes('github.io');
+                const repoPrefix = isGitHub ? '/' + window.location.pathname.split('/')[1] + '/' : '/';
+                window.location.href = repoPrefix + 'index.html';
+            });
+
+            // --- Determine base path dynamically ---
+            const isGitHub = window.location.hostname.includes('github.io');
+            const repoPrefix = isGitHub ? '/' + window.location.pathname.split('/')[1] + '/' : '/';
+            const classiBase = repoPrefix + 'classi/';
+
+            // --- Smooth scroll for internal links ---
+            function attachInternalLinkScrolling(container) {
+                container.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                    anchor.addEventListener('click', function (e) {
+                        const targetId = this.getAttribute('href').substring(1);
+                        const targetEl = document.getElementById(targetId);
+                        if (targetEl) {
+                            e.preventDefault();
+                            const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
+                            const offsetPosition = elementPosition - headerOffset;
+                            window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+                            history.pushState(null, '', `#${targetId}`);
+                        }
+                    });
+                });
+            }
+
+            // --- Load class content dynamically ---
+            document.querySelectorAll('.classi-list .class-link').forEach(link => {
+                link.addEventListener('click', function (e) {
                     e.preventDefault();
-                    const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
-                    const offsetPosition = elementPosition - headerOffset;
-                    window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
-                    history.pushState(null, '', `#${targetId}`);
+                    const page = this.getAttribute('href').split('/').pop();
+                    const htmlPath = classiBase + this.getAttribute('href'); // correct base path
+
+                    fetch(htmlPath)
+                        .then(response => response.text())
+                        .then(html => {
+                            main.innerHTML = html;
+                            attachInternalLinkScrolling(main);
+                            window.scrollTo({ top: 0, behavior: 'smooth' });
+                            history.pushState(null, '', htmlPath);
+                            showHomeButton();
+                            updateActiveNav();
+                            updateActiveClassLink(this);
+                        })
+                        .catch(err => console.error('Failed to load class content:', err));
+                });
+            });
+
+            // --- Navbar links dynamically reset URL from any depth ---
+            document.querySelectorAll('.site-nav .nav-link').forEach(link => {
+                link.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const href = this.getAttribute('href');
+                    window.location.href = repoPrefix + href;
+                });
+            });
+
+            // --- Highlight active navbar link ---
+            function updateActiveNav() {
+                const currentPath = window.location.pathname.split('/').pop();
+                document.querySelectorAll('.site-nav .nav-link').forEach(link => {
+                    const href = link.getAttribute('href');
+                    if (href === currentPath) link.classList.add('active');
+                    else link.classList.remove('active');
+                });
+            }
+
+            // --- Highlight active class link ---
+            function updateActiveClassLink(clickedLink) {
+                document.querySelectorAll('.classi-list .class-link').forEach(link => {
+                    link.classList.remove('active');
+                });
+                if (clickedLink) clickedLink.classList.add('active');
+            }
+
+            // --- Show Home button ---
+            function showHomeButton() {
+                document.querySelector('.site-nav .home-link').style.visibility = 'visible';
+            }
+
+            // --- Initialize ---
+            updateActiveNav();
+
+            // --- Handle browser back/forward navigation ---
+            window.addEventListener('popstate', () => {
+                const path = location.pathname;
+                if (path.includes('/classi/')) {
+                    fetch(path)
+                        .then(r => r.text())
+                        .then(html => { main.innerHTML = html; attachInternalLinkScrolling(main); });
                 }
+                showHomeButton();
+                updateActiveNav();
             });
         });
-    }
-
-    // --- Load class content dynamically ---
-    document.querySelectorAll('.classi-list .class-link').forEach(link => {
-        link.addEventListener('click', function(e) {
-            e.preventDefault();
-            const page = this.getAttribute('href').split('/').pop();
-            const htmlPath = classiBase + this.getAttribute('href'); // correct base path
-
-            fetch(htmlPath)
-                .then(response => response.text())
-                .then(html => {
-                    main.innerHTML = html;
-                    attachInternalLinkScrolling(main);
-                    window.scrollTo({ top: 0, behavior: 'smooth' });
-                    history.pushState(null, '', htmlPath);
-                    showHomeButton();
-                    updateActiveNav();
-                    updateActiveClassLink(this);
-                })
-                .catch(err => console.error('Failed to load class content:', err));
-        });
-    });
-
-    // --- Navbar links dynamically reset URL from any depth ---
-    document.querySelectorAll('.site-nav .nav-link').forEach(link => {
-        link.addEventListener('click', function(e) {
-            e.preventDefault();
-            const href = this.getAttribute('href');
-            window.location.href = repoPrefix + href;
-        });
-    });
-
-    // --- Highlight active navbar link ---
-    function updateActiveNav() {
-        const currentPath = window.location.pathname.split('/').pop();
-        document.querySelectorAll('.site-nav .nav-link').forEach(link => {
-            const href = link.getAttribute('href');
-            if(href === currentPath) link.classList.add('active');
-            else link.classList.remove('active');
-        });
-    }
-
-    // --- Highlight active class link ---
-    function updateActiveClassLink(clickedLink) {
-        document.querySelectorAll('.classi-list .class-link').forEach(link => {
-            link.classList.remove('active');
-        });
-        if(clickedLink) clickedLink.classList.add('active');
-    }
-
-    // --- Show Home button ---
-    function showHomeButton() {
-        document.querySelector('.site-nav .home-link').style.visibility = 'visible';
-    }
-
-    // --- Initialize ---
-    updateActiveNav();
-
-    // --- Handle browser back/forward navigation ---
-    window.addEventListener('popstate', () => {
-        const path = location.pathname;
-        if (path.includes('/classi/')) {
-            fetch(path)
-                .then(r => r.text())
-                .then(html => { main.innerHTML = html; attachInternalLinkScrolling(main); });
-        }
-        showHomeButton();
-        updateActiveNav();
-    });
-});
-</script>
+    </script>
 
 </body>
+
 </html>
