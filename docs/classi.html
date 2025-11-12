@@ -13,6 +13,7 @@ nav a { text-decoration:none; color:#ffd54a; border:1px solid #ffd54a44; padding
 nav a:hover { background:#ffd54a; color:#111; }
 /* Active nav link */
 nav.site-nav a.active, nav.classi-list a.active { background:#ffd54a; color:#111; }
+
 /* Home button visibility */
 nav.site-nav a.home-link { visibility: hidden; }
 
@@ -63,16 +64,16 @@ main ul li { display:list-item; }
 
 <!-- Class-specific navigation -->
 <nav class="classi-list">
-  <a href="./classi/Berserker/Berserker.html" class="class-link">Berserker</a>
-  <a href="./classi/Console/Console.html" class="class-link">Console</a>
-  <a href="./classi/Guardiano/Guardiano.html" class="class-link">Guardiano</a>
-  <a href="./classi/Guerriero/Guerriero.html" class="class-link">Guerriero</a>
-  <a href="./classi/Ingegnere/Ingegnere.html" class="class-link">Ingegnere</a>
-  <a href="./classi/Monaco/Monaco.html" class="class-link">Monaco</a>
-  <a href="./classi/Operativo/Operativo.html" class="class-link">Operativo</a>
-  <a href="./classi/Scout/Scout.html" class="class-link">Scout</a>
-  <a href="./classi/Sentinella/Sentinella.html" class="class-link">Sentinella</a>
-  <a href="./classi/Studioso/Studioso.html" class="class-link">Studioso</a>
+  <a href="Berserker/Berserker.html" class="class-link">Berserker</a>
+  <a href="Console/Console.html" class="class-link">Console</a>
+  <a href="Guardiano/Guardiano.html" class="class-link">Guardiano</a>
+  <a href="Guerriero/Guerriero.html" class="class-link">Guerriero</a>
+  <a href="Ingegnere/Ingegnere.html" class="class-link">Ingegnere</a>
+  <a href="Monaco/Monaco.html" class="class-link">Monaco</a>
+  <a href="Operativo/Operativo.html" class="class-link">Operativo</a>
+  <a href="Scout/Scout.html" class="class-link">Scout</a>
+  <a href="Sentinella/Sentinella.html" class="class-link">Sentinella</a>
+  <a href="Studioso/Studioso.html" class="class-link">Studioso</a>
 </nav>
 
 <main>
@@ -90,11 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const header = document.querySelector('header');
     const headerOffset = header ? header.getBoundingClientRect().height + 56 : 0;
 
-    // Determine base path for GitHub vs local
-    const isGitHub = window.location.hostname.includes('github.io');
-    const repoBase = isGitHub ? '/dnd5e-star-wars/' : '/';
-
-    // --- Back-to-top button ---
+    // --- Back to top ---
     const backToTop = document.getElementById('back-to-top');
     window.addEventListener('scroll', () => {
         if(window.scrollY > 200) backToTop.classList.add('show');
@@ -103,6 +100,11 @@ document.addEventListener('DOMContentLoaded', () => {
     backToTop.addEventListener('click', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
+
+    // --- Determine base path dynamically ---
+    const isGitHub = window.location.hostname.includes('github.io');
+    const repoPrefix = isGitHub ? '/' + window.location.pathname.split('/')[1] + '/' : '/';
+    const classiBase = repoPrefix + 'classi/';
 
     // --- Smooth scroll for internal links ---
     function attachInternalLinkScrolling(container) {
@@ -125,17 +127,16 @@ document.addEventListener('DOMContentLoaded', () => {
     document.querySelectorAll('.classi-list .class-link').forEach(link => {
         link.addEventListener('click', function(e) {
             e.preventDefault();
-            let href = this.getAttribute('href'); 
-            if(href.startsWith('./')) href = href.substring(2);
-            const absolutePath = new URL(href, window.location.origin + repoBase).pathname;
+            const page = this.getAttribute('href').split('/').pop();
+            const htmlPath = classiBase + this.getAttribute('href'); // correct base path
 
-            fetch(absolutePath)
+            fetch(htmlPath)
                 .then(response => response.text())
                 .then(html => {
                     main.innerHTML = html;
                     attachInternalLinkScrolling(main);
                     window.scrollTo({ top: 0, behavior: 'smooth' });
-                    history.pushState(null, '', absolutePath);
+                    history.pushState(null, '', htmlPath);
                     showHomeButton();
                     updateActiveNav();
                     updateActiveClassLink(this);
@@ -149,7 +150,7 @@ document.addEventListener('DOMContentLoaded', () => {
         link.addEventListener('click', function(e) {
             e.preventDefault();
             const href = this.getAttribute('href');
-            window.location.href = repoBase + href;
+            window.location.href = repoPrefix + href;
         });
     });
 
@@ -173,8 +174,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Show Home button ---
     function showHomeButton() {
-        const homeBtn = document.querySelector('.site-nav .home-link');
-        if(homeBtn) homeBtn.style.visibility = 'visible';
+        document.querySelector('.site-nav .home-link').style.visibility = 'visible';
     }
 
     // --- Initialize ---
