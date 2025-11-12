@@ -284,13 +284,19 @@
                 });
             }
 
+            // --- Detect base path dynamically ---
+            const pathParts = window.location.pathname.split('/').filter(p => p !== '');
+            // If running on GitHub Pages project, the first part is repo name
+            const isGitHub = window.location.hostname.includes('github.io');
+            const repoBase = isGitHub ? '/' + pathParts[0] + '/' : '/';
+
             // --- Load class content dynamically ---
             document.querySelectorAll('.classi-list .class-link').forEach(link => {
                 link.addEventListener('click', function (e) {
                     e.preventDefault();
-                    // Resolve link relative to /classi/ folder
-                    const href = this.getAttribute('href').replace(/^\.\/classi\//, '');
-                    const htmlPath = new URL('./' + href, window.location.origin + '/classi/').href;
+                    const href = this.getAttribute('href');
+                    // Build absolute URL based on repoBase
+                    const htmlPath = new URL(href, window.location.origin + repoBase).href;
 
                     fetch(htmlPath)
                         .then(response => response.text())
@@ -298,7 +304,7 @@
                             main.innerHTML = html;
                             attachInternalLinkScrolling(main);
                             window.scrollTo({ top: 0, behavior: 'smooth' });
-                            history.pushState(null, '', '/classi/' + href);
+                            history.pushState(null, '', htmlPath);
                             showHomeButton();
                             updateActiveNav();
                             updateActiveClassLink(this);
@@ -312,12 +318,8 @@
                 link.addEventListener('click', function (e) {
                     e.preventDefault();
                     const href = this.getAttribute('href');
-                    const parts = window.location.pathname.split('/');
-                    const folders = parts.filter(p => p !== "");
-                    const depth = folders.length - 1;
-                    let relativePath = '';
-                    for (let i = 0; i < depth; i++) relativePath += '../';
-                    window.location.href = relativePath + href;
+                    const htmlPath = new URL(href, window.location.origin + repoBase).href;
+                    window.location.href = htmlPath;
                 });
             });
 
@@ -325,7 +327,7 @@
             function updateActiveNav() {
                 const currentPath = window.location.pathname.split('/').pop();
                 document.querySelectorAll('.site-nav .nav-link').forEach(link => {
-                    const href = link.getAttribute('href');
+                    const href = link.getAttribute('href').split('/').pop();
                     if (href === currentPath) link.classList.add('active');
                     else link.classList.remove('active');
                 });
@@ -341,7 +343,8 @@
 
             // --- Show Home button ---
             function showHomeButton() {
-                document.querySelector('.site-nav .home-link').style.visibility = 'visible';
+                const homeLink = document.querySelector('.site-nav .home-link');
+                if (homeLink) homeLink.style.visibility = 'visible';
             }
 
             // --- Initialize ---
@@ -363,7 +366,6 @@
             });
         });
     </script>
-
 
 </body>
 
