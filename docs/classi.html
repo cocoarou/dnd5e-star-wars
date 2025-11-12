@@ -284,19 +284,18 @@
                 });
             }
 
-            // --- Detect base path dynamically ---
+            // --- Determine base path for class pages ---
             const pathParts = window.location.pathname.split('/').filter(p => p !== '');
-            // If running on GitHub Pages project, the first part is repo name
             const isGitHub = window.location.hostname.includes('github.io');
-            const repoBase = isGitHub ? '/' + pathParts[0] + '/' : '/';
+            // Local: /classi/, GitHub: /repoName/classi/
+            const repoBase = isGitHub ? `/${pathParts[0]}/classi/` : '/classi/';
 
             // --- Load class content dynamically ---
             document.querySelectorAll('.classi-list .class-link').forEach(link => {
                 link.addEventListener('click', function (e) {
                     e.preventDefault();
-                    const href = this.getAttribute('href');
-                    // Build absolute URL based on repoBase
-                    const htmlPath = new URL(href, window.location.origin + repoBase).href;
+                    const filename = this.getAttribute('href').split('/').pop();
+                    const htmlPath = new URL(filename, window.location.origin + repoBase).href;
 
                     fetch(htmlPath)
                         .then(response => response.text())
@@ -318,8 +317,11 @@
                 link.addEventListener('click', function (e) {
                     e.preventDefault();
                     const href = this.getAttribute('href');
-                    const htmlPath = new URL(href, window.location.origin + repoBase).href;
-                    window.location.href = htmlPath;
+                    const parts = window.location.pathname.split('/').filter(p => p !== "");
+                    const depth = parts.length - 1;
+                    let relativePath = '';
+                    for (let i = 0; i < depth; i++) relativePath += '../';
+                    window.location.href = relativePath + href;
                 });
             });
 
@@ -327,7 +329,7 @@
             function updateActiveNav() {
                 const currentPath = window.location.pathname.split('/').pop();
                 document.querySelectorAll('.site-nav .nav-link').forEach(link => {
-                    const href = link.getAttribute('href').split('/').pop();
+                    const href = link.getAttribute('href');
                     if (href === currentPath) link.classList.add('active');
                     else link.classList.remove('active');
                 });
@@ -343,8 +345,7 @@
 
             // --- Show Home button ---
             function showHomeButton() {
-                const homeLink = document.querySelector('.site-nav .home-link');
-                if (homeLink) homeLink.style.visibility = 'visible';
+                document.querySelector('.site-nav .home-link').style.visibility = 'visible';
             }
 
             // --- Initialize ---
@@ -356,16 +357,14 @@
                 if (path.includes('/classi/')) {
                     fetch(path)
                         .then(r => r.text())
-                        .then(html => {
-                            main.innerHTML = html;
-                            attachInternalLinkScrolling(main);
-                        });
+                        .then(html => { main.innerHTML = html; attachInternalLinkScrolling(main); });
                 }
                 showHomeButton();
                 updateActiveNav();
             });
         });
     </script>
+
 
 </body>
 
