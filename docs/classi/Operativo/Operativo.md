@@ -1,5 +1,5 @@
 # Operativo
-
+<!-- TOC START -->
 - [Operativo](#operativo)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [Punti Ferita](#punti-ferita)
@@ -20,8 +20,8 @@
     - [Mente Sfuggente](#mente-sfuggente)
     - [Inafferrabile](#inafferrabile)
     - [Colpo di Fortuna](#colpo-di-fortuna)
-
-![operativo](operative_01.png)
+<!-- TOC END -->
+<!-- ![operativo](operative_01.png) -->
 
 |Livello|Bonus di Competenza|Privilegi|Attacco Furtivo|Gesta dell'Operativo
 |---|---|---|---|---

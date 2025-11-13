@@ -1,5 +1,5 @@
 # Studioso
-
+<!-- TOC START -->
 - [Studioso](#studioso)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [Punti Ferita](#punti-ferita)
@@ -20,8 +20,8 @@
     - [Riprendere il Controllo](#riprendere-il-controllo)
     - [Intellettuale Adattabile](#intellettuale-adattabile)
     - [Conoscenza Illimitata](#conoscenza-illimitata)
-
-![studioso](scholar_01.png)
+<!-- TOC END -->
+<!-- ![studioso](scholar_01.png) -->
 
 |Livello|Bonus di Competenza|Privilegi|Manovre Conosciute|Q.ta Dadi di Superiorita'|Valore Dadi di Superiorita'|Scoperte
 |---|---|---|---|---|---|---

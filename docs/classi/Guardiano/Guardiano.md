@@ -1,5 +1,5 @@
 # Guardiano
-
+<!-- TOC START -->
 - [Guardiano](#guardiano)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [Punti Ferita](#punti-ferita)
@@ -21,8 +21,8 @@
     - [Purezza della Forza](#purezza-della-forza)
     - [Colpi Potenziati dalla Forza Migliorati](#colpi-potenziati-dalla-forza-migliorati)
     - [Tocco Purificante](#tocco-purificante)
-
-![guardiano](guardian_01.png)
+<!-- TOC END -->
+<!-- ![guardiano](guardian_01.png) -->
 
 |Livello|Bonus di Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Potere|Livello Massimo del Potere|Colpi Focalizzati|Auree Conosciute|Raggio dell'Aura
 |---|---|---|---|---|---|---|---|---

@@ -1,5 +1,5 @@
 # Monaco
-
+<!-- TOC START -->
 - [Monaco](#monaco)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [Punti Ferita](#punti-ferita)
@@ -29,8 +29,8 @@
     - [Corpo Senza Tempo](#corpo-senza-tempo)
     - [Corpo Vuoto](#corpo-vuoto)
     - [Perfezione Interiore](#perfezione-interiore)
-
-![monaco](monk_01.png)
+<!-- TOC END -->
+<!-- ![monaco](monk_01.png) -->
 
 |Livello|Bonus di Competenza|Privilegi|Arti Marziali|Punti Focus|Voti Monastici|Movimento Senza Armatura
 |---|---|---|---|---|---|---

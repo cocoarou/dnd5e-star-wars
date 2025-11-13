@@ -1,5 +1,5 @@
 # Sentinella
-
+<!-- TOC START -->
 - [Sentinella](#sentinella)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [Punti Ferita](#punti-ferita)
@@ -23,8 +23,8 @@
     - [Pronto alla Battaglia](#pronto-alla-battaglia)
     - [Elusione Illuminata](#elusione-illuminata)
     - [Centro della Forza](#centro-della-forza)
-
-![sentinella](sentinel_01.png)
+<!-- TOC END -->
+<!-- ![sentinella](sentinel_01.png) -->
 
 |Livello|Bonus di Competenza|Privilegi|Poteri della Forza Conosciuti|Punti Potere|Livello Massimo del Potere|Combattimento Cinetico|Ideali Conosciuti|Manifestazioni degli Ideali
 |---|---|---|---|---|---|---|---|---

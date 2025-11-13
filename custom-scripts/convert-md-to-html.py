@@ -4,7 +4,14 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/classi/Console/Console.md"
+    "./docs/classi/Guardiano/Guardiano.md",
+    "./docs/classi/Guerriero/Guerriero.md",
+    "./docs/classi/Ingegnere/Ingegnere.md",
+    "./docs/classi/Monaco/Monaco.md",
+    "./docs/classi/Operativo/Operativo.md",
+    "./docs/classi/Scout/Scout.md",
+    "./docs/classi/Sentinella/Sentinella.md",
+    "./docs/classi/Studioso/Studioso.md"
     # add more files here...
 ]
 

@@ -1,0 +1,734 @@
+<!doctype html>
+<html lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Monaco — GDR</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: system-ui, sans-serif;
+            background: #0b0c10;
+            color: #e0e0e0;
+            padding: 0 20px;
+        }
+
+        header {
+            background: #111;
+            color: #ffd54a;
+            padding: 16px;
+            text-align: center;
+            font-size: 22px;
+            font-weight: 700;
+            border-bottom: 1px solid #333;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            padding: 12px;
+            background: #141414;
+            margin-bottom: 20px;
+            position: sticky;
+            top: 56px;
+            z-index: 999;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #ffd54a;
+            border: 1px solid #ffd54a44;
+            padding: 6px 12px;
+            border-radius: 6px;
+            transition: all .2s;
+        }
+
+        nav a:hover {
+            background: #ffd54a;
+            color: #111;
+        }
+
+        main {
+            max-width: 900px;
+            margin: auto;
+            padding-bottom: 40px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            color: #ffd54a;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        th,
+        td {
+            border: 1px solid #ffd54a44;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background: #222;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 14px;
+            padding: 16px;
+            border-top: 1px solid #222;
+            margin-top: 40px;
+            color: #888;
+        }
+
+        #back-to-top {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            width: 44px;
+            height: 44px;
+            background: #ffd54a;
+            color: #111;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 44px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity .3s;
+        }
+
+        #back-to-top.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        #back-to-top:hover {
+            opacity: 0.8;
+        }
+
+        /* Home Button */
+        #home-button {
+            position: fixed;
+            bottom: 80px;
+            /* slightly above the back-to-top button */
+            right: 24px;
+            width: 44px;
+            height: 44px;
+            background: #ffd54a;
+            color: #111;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 44px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity .3s;
+        }
+
+        #home-button.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        #home-button:hover {
+            opacity: 0.8;
+        }
+
+
+        main a {
+            color: #ffd54a;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        main a:hover {
+            color: #ffcc00;
+            text-decoration: underline;
+        }
+
+        /* TOC accordion */
+        .toc {
+            background: #111;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 20px 0;
+        }
+
+        .toc summary {
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+            color: #ffd54a;
+            margin-bottom: 8px;
+        }
+
+        .toc summary:hover {
+            color: #ffcc00;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .toc li {
+            margin: 4px 0;
+        }
+
+        .toc li ul {
+            padding-left: 16px;
+        }
+
+        .toc a {
+            color: #ffd54a;
+            text-decoration: none;
+        }
+
+        .toc a:hover {
+            color: #ffcc00;
+            text-decoration: underline;
+        }
+
+        /* Nested list fix for main content */
+        main ul {
+            list-style-type: disc;
+            margin: 8px 0 8px 20px;
+            padding-left: 20px;
+        }
+
+        main ul ul {
+            list-style-type: circle;
+            margin: 4px 0 4px 20px;
+            padding-left: 20px;
+        }
+
+        main ul ul ul {
+            list-style-type: square;
+            margin: 2px 0 2px 20px;
+            padding-left: 20px;
+        }
+
+        main ul li {
+            display: list-item;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>Monaco</header>
+
+    <!--
+<nav>
+<a href="../../classi.html">🔙 Indice Classi</a>
+<a href="../../index.html">🏠 Home</a>
+</nav>
+-->
+
+    <main>
+        <details class="toc" open>
+            <summary>Indice</summary>
+            <ul>
+                <li><a href="#monaco">Monaco</a></li>
+                <li><a href="#privilegi-di-classe">Privilegi di Classe</a>
+                    <ul>
+                        <li><a href="#punti-ferita">Punti Ferita</a></li>
+                        <li><a href="#competenze">Competenze</a></li>
+                        <li><a href="#equipaggiamento">Equipaggiamento</a></li>
+                        <li><a href="#variante-ricchezza-iniziale">Variante: ricchezza iniziale</a></li>
+                        <li><a href="#arti-marziali">Arti Marziali</a></li>
+                        <li><a href="#variante-monaci-con-armi-laser">Variante: Monaci con Armi-Laser</a></li>
+                        <li><a href="#difesa-senza-armatura">Difesa Senza Armatura</a></li>
+                        <li><a href="#focus">Focus</a></li>
+                        <li><a href="#raffica-di-colpi">Raffica di Colpi</a></li>
+                        <li><a href="#difesa-paziente">Difesa Paziente</a></li>
+                        <li><a href="#passo-del-vento">Passo del Vento</a></li>
+                        <li><a href="#voti-monastici">Voti Monastici</a></li>
+                        <li><a href="#movimento-senza-armatura">Movimento Senza Armatura</a></li>
+                        <li><a href="#deviare-proiettili">Deviare Proiettili</a></li>
+                        <li><a href="#ordine-monastico">Ordine Monastico</a></li>
+                        <li><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></li>
+                        <li><a href="#caduta-lenta">Caduta Lenta</a></li>
+                        <li><a href="#attacco-extra">Attacco Extra</a></li>
+                        <li><a href="#colpo-stordente">Colpo Stordente</a></li>
+                        <li><a href="#colpi-potenziati">Colpi Potenziati</a></li>
+                        <li><a href="#elusione">Elusione</a></li>
+                        <li><a href="#mente-lucida">Mente Lucida</a></li>
+                        <li><a href="#purezza-del-corpo">Purezza del Corpo</a></li>
+                        <li><a href="#anima-adamantina">Anima Adamantina</a></li>
+                        <li><a href="#corpo-senza-tempo">Corpo Senza Tempo</a></li>
+                        <li><a href="#corpo-vuoto">Corpo Vuoto</a></li>
+                        <li><a href="#perfezione-interiore">Perfezione Interiore</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </details>
+        <h1 id="monaco">Monaco</h1>
+        <!-- ![monaco](monk_01.png) -->
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Livello</th>
+                    <th>Bonus di Competenza</th>
+                    <th>Privilegi</th>
+                    <th>Arti Marziali</th>
+                    <th>Punti Focus</th>
+                    <th>Voti Monastici</th>
+                    <th>Movimento Senza Armatura</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>+2</td>
+                    <td>Arti Marziali, Difesa Senza Armatura</td>
+                    <td>d4</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>+2</td>
+                    <td>Focus, Voti Monastici</td>
+                    <td>d4</td>
+                    <td>2</td>
+                    <td>2</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>+2</td>
+                    <td>Movimento Senza Armatura, Deviare Proiettili, Ordine Monastico</td>
+                    <td>d4</td>
+                    <td>3</td>
+                    <td>2</td>
+                    <td>+3m</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>+2</td>
+                    <td>Aumento dei Punteggi Caratteristica, Caduta Lenta</td>
+                    <td>d4</td>
+                    <td>4</td>
+                    <td>2</td>
+                    <td>+3m</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>+3</td>
+                    <td>Attacco Extra, Colpo Stordente</td>
+                    <td>d6</td>
+                    <td>5</td>
+                    <td>2</td>
+                    <td>+4.5m</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>+3</td>
+                    <td>Colpi Potenziati, Privilegio dell'Ordine</td>
+                    <td>d6</td>
+                    <td>6</td>
+                    <td>2</td>
+                    <td>+4.5m</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>+3</td>
+                    <td>Elusione, Mente Lucida</td>
+                    <td>d6</td>
+                    <td>7</td>
+                    <td>3</td>
+                    <td>+4.5m</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>+3</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d6</td>
+                    <td>8</td>
+                    <td>3</td>
+                    <td>+4.5m</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>+4</td>
+                    <td>Aumento del Movimento Senza Armatura</td>
+                    <td>d8</td>
+                    <td>9</td>
+                    <td>3</td>
+                    <td>+6m</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>+4</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d8</td>
+                    <td>10</td>
+                    <td>3</td>
+                    <td>+6m</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>+4</td>
+                    <td>Privilegio dell'Ordine</td>
+                    <td>d8</td>
+                    <td>11</td>
+                    <td>3</td>
+                    <td>+6m</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>+4</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d8</td>
+                    <td>12</td>
+                    <td>3</td>
+                    <td>+6m</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>+5</td>
+                    <td>Purezza del Corpo</td>
+                    <td>d10</td>
+                    <td>13</td>
+                    <td>4</td>
+                    <td>+7.5m</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>+5</td>
+                    <td>Anima Adamantina</td>
+                    <td>d10</td>
+                    <td>14</td>
+                    <td>4</td>
+                    <td>+7.5m</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>+5</td>
+                    <td>Corpo Senza Tempo</td>
+                    <td>d10</td>
+                    <td>15</td>
+                    <td>4</td>
+                    <td>7.5m</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>+5</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d10</td>
+                    <td>16</td>
+                    <td>4</td>
+                    <td>+7.5m</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>+6</td>
+                    <td>Privilegio dell'Ordine</td>
+                    <td>d12</td>
+                    <td>17</td>
+                    <td>5</td>
+                    <td>+9m</td>
+                </tr>
+                <tr>
+                    <td>18</td>
+                    <td>+6</td>
+                    <td>Corpo Vuoto</td>
+                    <td>d12</td>
+                    <td>18</td>
+                    <td>5</td>
+                    <td>+9m</td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>+6</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d12</td>
+                    <td>19</td>
+                    <td>5</td>
+                    <td>+9m</td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>+6</td>
+                    <td>Perfezione Interiore</td>
+                    <td>d12</td>
+                    <td>20</td>
+                    <td>5</td>
+                    <td>+9m</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 id="privilegi-di-classe">Privilegi di Classe</h2>
+        <hr />
+        <h3 id="punti-ferita">Punti Ferita</h3>
+        <p><strong>Dadi Vita:</strong> 1d8 per livello</p>
+        <p><strong>Punti Ferita al livello 1:</strong> 8 + modificatore di Costituzione</p>
+        <p><strong>Punti Ferita ai Livelli Successivi:</strong> 1d8 (o 5) + modificatore di Costituzione</p>
+        <hr />
+        <h3 id="competenze">Competenze</h3>
+        <p><strong>Armature:</strong> nessuna</p>
+        <p><strong>Armi:</strong> blaster semplici, vibro-armi semplici, vibro-armi da guerra senza le proprieta':
+            destrezza, pesante, speciale ed a due mani</p>
+        <p><strong>Strumenti:</strong> nessuno</p>
+        <p><strong>Tiri Salvezza:</strong> Forza, Destrezza</p>
+        <p><strong>Abilita':</strong> 2 tra: Acrobazia, Atletica, Intuizione, Storia, Percezione e Furtivita'</p>
+        <hr />
+        <h3 id="equipaggiamento">Equipaggiamento</h3>
+        <ul>
+            <li>
+                <ul>
+                    <li>(a) 1 vibro-arma nella quale sei competente | (b) 1 blaster semplice ed una batteria</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>(a) 1 dotazione da avventuriero | (b) 1 dotazione da esploratore</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>10 vibro-dardi</li>
+                </ul>
+            </li>
+        </ul>
+        <h4 id="variante-ricchezza-iniziale">Variante: ricchezza iniziale</h4>
+        <p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la
+            ricchezza iniziale in questo modo:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Classe</th>
+                    <th>Fondi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Monaco</td>
+                    <td>4d4 x 100 cr</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr />
+        <h3 id="arti-marziali">Arti Marziali</h3>
+        <p><strong>Livello:</strong> 1</p>
+        <p>Ottieni i seguenti benefici se sei disarmato od impugni armi da monaco (vibro-armi, nelle quali sei
+            competente, che non hanno le proprieta': destrezza, pesante, speciale ed a due mani), non indossi armatura e
+            non impugni uno scudo:</p>
+        <ul>
+            <li>
+                <ul>
+                    <li>I tuoi attacchi senz'armi ottengono la proprieta' accurata</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>Puoi tirare 1d4 al posto del danno normale dei tuoi attacchi senz'armi o delle armi da monaco.
+                        Questo dado aumenta con i livelli, come indicato nella colonna Arti Marziali della tabella</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>Puoi utilizzare Destrezza al posto di Forza quando effettueresti prove di Forza (Atletica) per
+                        lottare, spingere o sbilanciare una creatura</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>Quando effettui un attacco senz'armi o con l'arma da monaco utilizzando l'azione standard, puoi
+                        utilizzare l'azione bonus per effettuare un attacco senz'armi</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>Puoi compiere le azioni di Scatto o Disimpegno con l'azione bonus</li>
+                </ul>
+            </li>
+        </ul>
+        <h4 id="variante-monaci-con-armi-laser">Variante: Monaci con Armi-Laser</h4>
+        <p>Se il monaco ottiene competenza nelle armi-laser, possono essere considerate come arma da monaco, a patto che
+            non posseggano le seguenti proprieta': destrezza, pesante, speciale ed a due mani</p>
+        <h3 id="difesa-senza-armatura">Difesa Senza Armatura</h3>
+        <p><strong>Livello:</strong> 1</p>
+        <p>Se non indossi armature e non impugni uno scudo la tua CA e' 10 + il tuo modificatore di Destrezza + il tuo
+            modificatore di Saggezza o Carisma (scegli tu)</p>
+        <h3 id="focus">Focus</h3>
+        <p><strong>Livello:</strong> 2 ed 11</p>
+        <p>Puoi spendere i tuoi punti focus per utilizzare uno dei seguenti privilegi: Raffica di Colpi, Difesa Paziente
+            e Passo del Vento. Impari altri privilegi del focus ai livelli superiori.</p>
+        <p>Il numero di punti focus e' uguale al tuo livello da monaco (come indicato nella colonna Punti Focus della
+            tabella).</p>
+        <p>Recuperi tutti gli utilizzi dei punti focus dopo aver completato un riposo breve o lungo (devi spendere
+            almeno 30 minuti del riposo in meditazione).</p>
+        <p><strong>CD del tiro salvezza del focus:</strong> 8 + bonus di competenza + il tuo modificatore di Saggezza o
+            Carisma (scegli tu)
+            <strong>Modificatore di attacco del focus:</strong> bonus di competenza + il tuo modificatore di Saggezza o
+            Carisma (scegli tu)
+        </p>
+        <h4 id="raffica-di-colpi">Raffica di Colpi</h4>
+        <p>Quando utilizzi la tua azione bonus per effettuare un attacco extra, fornito dal privilegio <a
+                href="#arti-marziali">Arti Marziali</a>, puoi spendere 1 punto focus per effettuare un attacco senz'armi
+            aggiuntivo (non e' un'azione). Al livello 11 puoi spendere 2 punti focus per effettuare due attacchi
+            senz'armi aggiuntivi</p>
+        <h4 id="difesa-paziente">Difesa Paziente</h4>
+        <p>Quando utilizzi la tua azione bonus per un'azione di Disimpegno puoi spendere 1 punto focus per aggiungere
+            gli effetti dell'azione di Schivare (non e' un'azione). Al livello 11 puoi spendere 2 punti focus per
+            aggiungere gli effetti dell'azione di Schivare ed ottenere una reazione extra fino all'inizio del tuo
+            prossimo turno</p>
+        <h4 id="passo-del-vento">Passo del Vento</h4>
+        <p>Quando utilizzi la tua azione bonus per un'azione di Scatto puoi spendere 1 punto focus per raddoppiare la
+            tua distanza di salto. Al livello 11 puoi spendere 2 punti focus per ottenere una velocita' di volo pari
+            alla tua velocita' di movimento fino alla fine del tuo turno (se termini il tuo turno in aria e non hai
+            appigli, precipiti)</p>
+        <h3 id="voti-monastici">Voti Monastici</h3>
+        <p><strong>Livello:</strong> 2</p>
+        <p>Scegli 2 voti monastici da <a href="./Voti%20Monastici.md#voti-monastici">questa sezione</a>. Ne scegli 1
+            aggiuntivo ai livelli: 7, 13 e 17</p>
+        <h3 id="movimento-senza-armatura">Movimento Senza Armatura</h3>
+        <p><strong>Livello:</strong> 3 e 9</p>
+        <p>La tua velocita' di movimento aumenta di 3m finche' non indossi alcuna armatura o non impugni uno scudo.
+            Questo bonus aumenta ai livelli successivi, come indicato nella colonna Movimento Senza Armatura della
+            tabella.</p>
+        <p>Al livello 9 puoi muoverti su superfici verticali od attraversare liquidi senza cadere.</p>
+        <h3 id="deviare-proiettili">Deviare Proiettili</h3>
+        <p><strong>Livello:</strong> 3</p>
+        <p>Puoi utilizzare la tua reazione per deflettere un proiettile quando ti viene inferto del danno da un attacco
+            con un'arma a distanza. Se lo fai, riduci il danno subito di 1d10 + il tuo modificatore di Destrezza + il
+            livello da monaco.</p>
+        <p>Se riduci il danno a 0 ed il tipo di danno e': cinetico, energia o ioni, puoi reindirizzarlo su un altro
+            bersaglio se possiedi un'arma in grado di fare cio'. Altrimenti puoi spendere 1 punto focus per effettuare
+            un attacco a distanza, con gittata 6/18, mentre defletti il proiettile, come parte della reazione. Effettui
+            questo attacco aggiungendo il tuo bonus di competenza, indipendentemente dalle competenze nelle armi che
+            possiedi ed il proiettile conta come arma da monaco per questo attacco.</p>
+        <h3 id="ordine-monastico">Ordine Monastico</h3>
+        <p><strong>Livello:</strong> 3, 6, 11 e 17</p>
+        <p>Scegli 1 ordine monastico da <a href="./Ordini%20Monastici.md#ordini-monastici">questa sezione</a></p>
+        <h3 id="aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</h3>
+        <p><strong>Livello:</strong> 4, 8, 10, 12, 16 e 19</p>
+        <p>Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi
+            aumentare un punteggio caratteristica oltre il 20 con questo privilegio</p>
+        <h3 id="caduta-lenta">Caduta Lenta</h3>
+        <p><strong>Livello:</strong> 4</p>
+        <p>Puoi utilizzare la tua reazione, mentre cadi, per ridurre i danni da caduta che riceveresti pari al tuo
+            livello da monaco x 5</p>
+        <h3 id="attacco-extra">Attacco Extra</h3>
+        <p><strong>Livello:</strong> 5</p>
+        <p>Puoi attaccare 2 volte.</p>
+        <h3 id="colpo-stordente">Colpo Stordente</h3>
+        <p><strong>Livello:</strong> 5</p>
+        <p>Quando colpisci una creatura con un attacco corpo a corpo con l'arma puoi spendere 1 punto focus per tentare
+            di stordirla. La creatura deve superare un tiro salvezza su Costituzione o rimanere stordita fino alla fine
+            del tuo prossimo turno</p>
+        <h3 id="colpi-potenziati">Colpi Potenziati</h3>
+        <p><strong>Livello:</strong> 6</p>
+        <p>I tuoi attacchi senz'armi sono considerati come potenziati per superare le resistenze ed immunita' contro
+            attacchi e danni non potenziati</p>
+        <h3 id="elusione">Elusione</h3>
+        <p><strong>Livello:</strong> 7</p>
+        <p>Quando effettui un tiro salvezza su Destrezza per dimezzare i danni, se superi la prova, non subisci alcun
+            danno. Se fallisci la prova, invece, subisci la meta' dei danni</p>
+        <h3 id="mente-lucida">Mente Lucida</h3>
+        <p><strong>Livello:</strong> 7</p>
+        <p>Puoi utilizzare la tua azione standard o bonus per porre fine ad un effetto di ammaliamento o paura che ti
+            affliggono</p>
+        <h3 id="purezza-del-corpo">Purezza del Corpo</h3>
+        <p><strong>Livello:</strong> 13</p>
+        <p>Sei immune alle malattie ed agli avvelenamenti e sei resistente ai danni da veleno</p>
+        <h3 id="anima-adamantina">Anima Adamantina</h3>
+        <p><strong>Livello:</strong> 14</p>
+        <p>Quando fallisci un tiro salvezza puoi spendere 1 punto focus per ritirare la prova. Devi utilizzare il
+            risultato del nuovo tiro</p>
+        <h3 id="corpo-senza-tempo">Corpo Senza Tempo</h3>
+        <p><strong>Livello:</strong> 15</p>
+        <p>Non sei toccato dalla fragilita' della vecchiaia e non puoi invecchiare magicamente. Puoi, comunque, morire
+            di vecchiaia. Inoltre, quando completi un riposo breve puoi spendere 1 dado vita per rimuovere 1 livello di
+            esaurimento o lentezza</p>
+        <h3 id="corpo-vuoto">Corpo Vuoto</h3>
+        <p><strong>Livello:</strong> 18</p>
+        <p>Puoi utilizzare l'azione standard e spendere 4 punti focus per diventare invisibile per 1 minuto e, sempre
+            nel corso del minuto, ottieni resistenza a tutti i tipi di danno tranne ai danni da forza</p>
+        <h3 id="perfezione-interiore">Perfezione Interiore</h3>
+        <p><strong>Livello:</strong> 20</p>
+        <p>Il tuo punteggio di Destrezza e Saggezza o Carisma aumenta di 2 ed il punteggio massimo della caratteristica
+            scelta aumenta di 2. Inoltre, se quando tiri per l'iniziativa hai meno di 6 punti focus rimanenti, recuperi
+            punti focus fino ad arrivare a 6</p>
+    </main>
+
+    <footer>© 2025 GDR Docs</footer>
+    <a id="back-to-top" title="Torna su">↑</a>
+    <a id="home-button" title="Home">🏠</a>
+
+    <script>
+        // Back-to-top button
+        const backToTop = document.getElementById('back-to-top');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 200) backToTop.classList.add('show');
+            else backToTop.classList.remove('show');
+        });
+        backToTop.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // Smooth scroll for internal links accounting for sticky header
+        document.querySelectorAll('main a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const targetId = this.getAttribute('href').substring(1);
+                const targetEl = document.getElementById(targetId);
+                const headerOffset = document.querySelector('header').offsetHeight + 8;
+                if (targetEl) {
+                    e.preventDefault();
+                    const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
+                    const offsetPosition = elementPosition - headerOffset;
+                    window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+                }
+            });
+        });
+
+        // === HOME BUTTON ===
+        const homeButton = document.getElementById('home-button');
+
+        // Scroll behavior for home button
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 200) homeButton.classList.add('show');
+            else homeButton.classList.remove('show');
+        });
+
+        // Click behavior for home button
+        homeButton.addEventListener('click', () => {
+            const isGitHub = window.location.hostname.includes('github.io');
+            const repoPrefix = isGitHub ? '/' + window.location.pathname.split('/')[1] + '/' : '/';
+            window.location.href = repoPrefix + 'index.html';
+        });
+    </script>
+
+</body>
+
+</html>

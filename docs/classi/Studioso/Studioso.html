@@ -1,0 +1,704 @@
+<!doctype html>
+<html lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Studioso — GDR</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: system-ui, sans-serif;
+            background: #0b0c10;
+            color: #e0e0e0;
+            padding: 0 20px;
+        }
+
+        header {
+            background: #111;
+            color: #ffd54a;
+            padding: 16px;
+            text-align: center;
+            font-size: 22px;
+            font-weight: 700;
+            border-bottom: 1px solid #333;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            padding: 12px;
+            background: #141414;
+            margin-bottom: 20px;
+            position: sticky;
+            top: 56px;
+            z-index: 999;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #ffd54a;
+            border: 1px solid #ffd54a44;
+            padding: 6px 12px;
+            border-radius: 6px;
+            transition: all .2s;
+        }
+
+        nav a:hover {
+            background: #ffd54a;
+            color: #111;
+        }
+
+        main {
+            max-width: 900px;
+            margin: auto;
+            padding-bottom: 40px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            color: #ffd54a;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        th,
+        td {
+            border: 1px solid #ffd54a44;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background: #222;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 14px;
+            padding: 16px;
+            border-top: 1px solid #222;
+            margin-top: 40px;
+            color: #888;
+        }
+
+        #back-to-top {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            width: 44px;
+            height: 44px;
+            background: #ffd54a;
+            color: #111;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 44px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity .3s;
+        }
+
+        #back-to-top.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        #back-to-top:hover {
+            opacity: 0.8;
+        }
+
+        /* Home Button */
+        #home-button {
+            position: fixed;
+            bottom: 80px;
+            /* slightly above the back-to-top button */
+            right: 24px;
+            width: 44px;
+            height: 44px;
+            background: #ffd54a;
+            color: #111;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 44px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity .3s;
+        }
+
+        #home-button.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        #home-button:hover {
+            opacity: 0.8;
+        }
+
+
+        main a {
+            color: #ffd54a;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        main a:hover {
+            color: #ffcc00;
+            text-decoration: underline;
+        }
+
+        /* TOC accordion */
+        .toc {
+            background: #111;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 20px 0;
+        }
+
+        .toc summary {
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+            color: #ffd54a;
+            margin-bottom: 8px;
+        }
+
+        .toc summary:hover {
+            color: #ffcc00;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .toc li {
+            margin: 4px 0;
+        }
+
+        .toc li ul {
+            padding-left: 16px;
+        }
+
+        .toc a {
+            color: #ffd54a;
+            text-decoration: none;
+        }
+
+        .toc a:hover {
+            color: #ffcc00;
+            text-decoration: underline;
+        }
+
+        /* Nested list fix for main content */
+        main ul {
+            list-style-type: disc;
+            margin: 8px 0 8px 20px;
+            padding-left: 20px;
+        }
+
+        main ul ul {
+            list-style-type: circle;
+            margin: 4px 0 4px 20px;
+            padding-left: 20px;
+        }
+
+        main ul ul ul {
+            list-style-type: square;
+            margin: 2px 0 2px 20px;
+            padding-left: 20px;
+        }
+
+        main ul li {
+            display: list-item;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>Studioso</header>
+
+    <!--
+<nav>
+<a href="../../classi.html">🔙 Indice Classi</a>
+<a href="../../index.html">🏠 Home</a>
+</nav>
+-->
+
+    <main>
+        <details class="toc" open>
+            <summary>Indice</summary>
+            <ul>
+                <li><a href="#studioso">Studioso</a></li>
+                <li><a href="#privilegi-di-classe">Privilegi di Classe</a>
+                    <ul>
+                        <li><a href="#punti-ferita">Punti Ferita</a></li>
+                        <li><a href="#competenze">Competenze</a></li>
+                        <li><a href="#equipaggiamento">Equipaggiamento</a></li>
+                        <li><a href="#variante-ricchezza-iniziale">Variante: ricchezza iniziale</a></li>
+                        <li><a href="#superiorita-accademica">Superiorita' Accademica</a></li>
+                        <li><a href="#manovre-conosciute">Manovre Conosciute</a></li>
+                        <li><a href="#dadi-di-superiorita">Dadi di Superiorita'</a></li>
+                        <li><a href="#caratteristica-di-manovra">Caratteristica di Manovra</a></li>
+                        <li><a href="#analisi-critica">Analisi Critica</a></li>
+                        <li><a href="#scoperta">Scoperta</a></li>
+                        <li><a href="#consiglio-del-saggio">Consiglio del Saggio</a></li>
+                        <li><a href="#maestria">Maestria</a></li>
+                        <li><a href="#ricerca-accademica">Ricerca Accademica</a></li>
+                        <li><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></li>
+                        <li><a href="#multitasker">Multitasker</a></li>
+                        <li><a href="#riprendere-il-controllo">Riprendere il Controllo</a></li>
+                        <li><a href="#intellettuale-adattabile">Intellettuale Adattabile</a></li>
+                        <li><a href="#conoscenza-illimitata">Conoscenza Illimitata</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </details>
+        <h1 id="studioso">Studioso</h1>
+        <!-- ![studioso](scholar_01.png) -->
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Livello</th>
+                    <th>Bonus di Competenza</th>
+                    <th>Privilegi</th>
+                    <th>Manovre Conosciute</th>
+                    <th>Q.ta Dadi di Superiorita'</th>
+                    <th>Valore Dadi di Superiorita'</th>
+                    <th>Scoperte</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>+2</td>
+                    <td>Superiorita' Accademica, Analisi Critica</td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>d4</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>+2</td>
+                    <td>Scoperta, Consiglio del Saggio (riposo lungo)</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>d4</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>+2</td>
+                    <td>Maestria, Ricerca Accademica</td>
+                    <td>4</td>
+                    <td>4</td>
+                    <td>d4</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>+2</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>5</td>
+                    <td>4</td>
+                    <td>d4</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>+3</td>
+                    <td>Multitasker</td>
+                    <td>6</td>
+                    <td>5</td>
+                    <td>d6</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>+3</td>
+                    <td>Privilegio della Ricerca</td>
+                    <td>7</td>
+                    <td>5</td>
+                    <td>d6</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>+3</td>
+                    <td>-</td>
+                    <td>9</td>
+                    <td>6</td>
+                    <td>d6</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>+3</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>10</td>
+                    <td>6</td>
+                    <td>d6</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>+4</td>
+                    <td>Privilegio della Ricerca</td>
+                    <td>11</td>
+                    <td>7</td>
+                    <td>d8</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>+4</td>
+                    <td>Maestria</td>
+                    <td>12</td>
+                    <td>7</td>
+                    <td>d8</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>+4</td>
+                    <td>-</td>
+                    <td>14</td>
+                    <td>8</td>
+                    <td>d8</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>+4</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>15</td>
+                    <td>8</td>
+                    <td>d8</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>+5</td>
+                    <td>Consiglio del Saggio (riposo breve)</td>
+                    <td>16</td>
+                    <td>9</td>
+                    <td>d10</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>+5</td>
+                    <td>Riprendere il Controllo</td>
+                    <td>17</td>
+                    <td>9</td>
+                    <td>d10</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>+5</td>
+                    <td>-</td>
+                    <td>19</td>
+                    <td>10</td>
+                    <td>d10</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>+5</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>20</td>
+                    <td>10</td>
+                    <td>d10</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>+6</td>
+                    <td>Privilegio della Ricerca</td>
+                    <td>21</td>
+                    <td>11</td>
+                    <td>d12</td>
+                    <td>9</td>
+                </tr>
+                <tr>
+                    <td>18</td>
+                    <td>+6</td>
+                    <td>Intellettuale Adattabile</td>
+                    <td>22</td>
+                    <td>11</td>
+                    <td>d12</td>
+                    <td>9</td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>+6</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>23</td>
+                    <td>12</td>
+                    <td>d12</td>
+                    <td>9</td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>+6</td>
+                    <td>Conoscenza Illimitata</td>
+                    <td>24</td>
+                    <td>12</td>
+                    <td>d12</td>
+                    <td>9</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 id="privilegi-di-classe">Privilegi di Classe</h2>
+        <hr />
+        <h3 id="punti-ferita">Punti Ferita</h3>
+        <p><strong>Dadi Vita:</strong> 1d8 per livello</p>
+        <p><strong>Punti Ferita al livello 1:</strong> 8 + modificatore di Costituzione</p>
+        <p><strong>Punti Ferita ai Livelli Successivi:</strong> 1d8 (o 5) + modificatore di Costituzione</p>
+        <hr />
+        <h3 id="competenze">Competenze</h3>
+        <p><strong>Armature:</strong> armature leggere</p>
+        <p><strong>Armi:</strong> blaster semplici, vibro-armi semplici, vibro-armi da guerra con la proprieta' accurata
+        </p>
+        <p><strong>Strumenti:</strong> 1 qualsiasi</p>
+        <p><strong>Tiri Salvezza:</strong> Intelligenza, Saggezza</p>
+        <p><strong>Abilita':</strong> 3 tra: Inganno, Intuizione, Intimidire, Indagare, Storia, Medicina, Natura,
+            Persuasione e Sopravvivenza</p>
+        <hr />
+        <h3 id="equipaggiamento">Equipaggiamento</h3>
+        <ul>
+            <li>
+                <ul>
+                    <li>(a) 1 vibro-arma semplice | (b) 1 blaster semplice e 2 batterie</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>(a) 1 dotazione da intrattenitore | (b) 1 dotazione da esploratore | (c) 1 dotazione da studioso
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>1 strumento nel quale sei competente</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>1 armatura da combattimento</li>
+                </ul>
+            </li>
+        </ul>
+        <h4 id="variante-ricchezza-iniziale">Variante: ricchezza iniziale</h4>
+        <p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la
+            ricchezza iniziale in questo modo:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Classe</th>
+                    <th>Fondi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Studioso</td>
+                    <td>6d4 x 100 cr</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr />
+        <h3 id="superiorita-accademica">Superiorita' Accademica</h3>
+        <p><strong>Livello:</strong> 1</p>
+        <p>Scegli una delle manovre indicate in <a href="../Guerriero/Manovre.md#manovre">questa sezione</a>.</p>
+        <h4 id="manovre-conosciute">Manovre Conosciute</h4>
+        <p>Impari una manovra a scelta piu' delle manovre aggiuntive come elencato nella colonna Manovre Conosciute
+            della tabella dello studioso.</p>
+        <p>Puoi utilizzare una manovra per attacco e non puoi usare la stessa manovra piu' di una volta per turno.</p>
+        <p>Ogni volta che impari una nuova manovra puoi decidere di rimpiazzarne una che gia' conosci con un'altra.</p>
+        <h4 id="dadi-di-superiorita">Dadi di Superiorita'</h4>
+        <p>Hai 3 dadi di superiorita', rappresentati dal d4. Ai livelli superiori guadagni utilizzi ulteriori del dado
+            ed il tipo di dado andra' ad aumentare, come elencato nelle colonne Q.ta Dadi di Superiorita' e Valore Dadi
+            di Superiorita' della tabella dello studioso.</p>
+        <p>Una volta che un dado di superiorita' viene tirato, e' perduto.</p>
+        <p>Recuperi gli utilizzi spesi completando un riposo breve o lungo.</p>
+        <h4 id="caratteristica-di-manovra">Caratteristica di Manovra</h4>
+        <p>La caratteristica della manovra cambia a seconda della manovra che stai utilizzando.</p>
+        <p>Utilizzi Forza, Destrezza o Costituzione (scegli tu) per le manovre fisiche, Intelligenza, Saggezza o Carisma
+            (scegli tu) per le manovre mentali ed una caratteristica a scelta per le manovre generiche.</p>
+        <p>Usi questa caratteristica ogniqualvolta la manovra fa riferimento alla caratteristica di manovra.</p>
+        <p>Inoltre, utilizzi quel modificatore per il calcolo delle CD della manovra che stai utilizzando</p>
+        <p><strong>CD del tiro salvezza della manovra:</strong> 8 + bonus di competenza + caratteristica di manovra</p>
+        <h3 id="analisi-critica">Analisi Critica</h3>
+        <p><strong>Livello:</strong> 1</p>
+        <p>Con 1 azione bonus, nel tuo turno, puoi analizzare una creatura che puoi vedere, entro 18m da te. Per il
+            prossimo minuto, o finche' non analizzi un'altra creatura, ottieni i seguenti benefici:</p>
+        <ul>
+            <li>
+                <ul>
+                    <li>Se analizzi un nemico, i tuoi tiri per colpire ed i tuoi tiri peri danni, effettuati con armi
+                        che hanno la proprieta' affilata o con i blaster, puoi utilizzare il tuo modificatore di Analisi
+                        Critica (Intelligenza) anziche' Forza o Destrezza. Devi utilizzare lo stesso modificatore per
+                        entrambi i tiri.</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>Se analizzi un alleato, il bersaglio puo' far terminare la tua Analisi Critica su di esso (non
+                        e' un'azione) ed aggiungere il tuo modificatore di Analisi Critica (Intelligenza) come bonus in
+                        uno dei seguenti modi:</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>tiro per colpire</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>prova di abilita'</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>tiro salvezza</li>
+                </ul>
+            </li>
+        </ul>
+        <p>Una volta che la creatura ha beneficiato di questo bonus, non puo' piu' riceverne gli effetti finche' non
+            completa un riposo breve o lungo.</p>
+        <h3 id="scoperta">Scoperta</h3>
+        <p><strong>Livello:</strong> 2</p>
+        <p>Scegli 2 scoperte, a piacere, presenti in <a href="./Scoperte.md">questa sezione</a>.</p>
+        <p>Scegli scoperte aggiuntive all'aumentare del livello da studioso, come indicato nella colonna Scoperte della
+            tabella dello studioso.</p>
+        <p>Inoltre, quando guadagni un livello in questa classe, puoi decidere una delle scoperte che conosci e
+            sostituirla con un'altra scoperta che potresti imparare a quel livello.</p>
+        <h3 id="consiglio-del-saggio">Consiglio del Saggio</h3>
+        <p><strong>Livello:</strong> 2 e 13</p>
+        <p>Puoi spendere 1 minuto per divulgare le tue conoscenze ed esperienze a chi ti circonda. Quando lo fai, scegli
+            un'abilita' od uno strumento nei quali sei competente e scegli un numero di alleati fino ad un massimo del
+            tuo modificatore di Intelligenza, entro 9m da te, che possono sentirti e capirti.</p>
+        <p>Una volta, entro la prossima ora, quando una delle creature scelte effettuerebbe una prova di abilita' con
+            l'abilita o lo strumento scelti, essa puo' aggiungere il proprio bonus di competenza al tiro, qualora non
+            sia gia' competente nell'abilita' o nell'utilizzo dello strumento.</p>
+        <p>Gli effetti del Consiglio del Saggio non sono cumulabili con altri effetti derivanti da altri privilegi
+            Consiglio del Saggio. Se una creatura viene bersagliata nuovamente da questo privilegio prima di averlo
+            utilizzato, puo scegliere di mantenere il bonus all'abilita o lo strumento precedenti oppure sostituirli con
+            il nuovo.</p>
+        <p>Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo lungo.</p>
+        <p>Dal livello 13, puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo breve o lungo.
+        </p>
+        <h3 id="maestria">Maestria</h3>
+        <p><strong>Livello:</strong> 3 e 10</p>
+        <p>Scegli 2 abilita' nelle quali sei competente od 1 abilita' ed 1 strumento oppure 2 strumenti. Ottieni
+            maestria nelle abilita' o negli strumenti scelti.</p>
+        <p>Al livello 10 puoi scegliere 2 competenza aggiuntive (abilita' o strumenti) ed applicarne i benefici di
+            maestria</p>
+        <h3 id="ricerca-accademica">Ricerca Accademica</h3>
+        <p><strong>Livello:</strong> 3, 6, 9 e 17</p>
+        <p>Scegli 1 ricerca tra quelle elencate in <a href="./Ricerche%20Accademiche.md">questa sezione</a></p>
+        <h3 id="aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</h3>
+        <p><strong>Livello:</strong> 4, 8, 12, 16 e 19</p>
+        <p>Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi
+            aumentare un punteggio caratteristica oltre il 20 con questo privilegio</p>
+        <h3 id="multitasker">Multitasker</h3>
+        <p><strong>Livello:</strong> 5</p>
+        <p>Puoi effettuare una seconda reazione per round</p>
+        <p>Inoltre, quando un alleato che puoi vedere e che puo' sentirti viene obbligato ad effettuare un tiro
+            salvezza, puoi utilizzare la tua reazione per bersagliarlo con il tuo privilegio di <a
+                href="#analisi-critica">Analisi Critica</a>.</p>
+        <h3 id="riprendere-il-controllo">Riprendere il Controllo</h3>
+        <p><strong>Livello:</strong> 14 e 17</p>
+        <p>Quando effettui un tiro salvezza causato da un effetto che sei in grado di vedere, puoi ottenere un bonus al
+            tiro salvezza pari al tuo modificatore di Intelligenza.</p>
+        <p>Puoi utilizzare questo privilegio 5 volte ed ottieni 1 utilizzo aggiuntivo al livello 17.</p>
+        <p>Recuperi tutti gli utilizzi spesi dopo aver completato un riposo lungo.</p>
+        <h3 id="intellettuale-adattabile">Intellettuale Adattabile</h3>
+        <p><strong>Livello:</strong> 18</p>
+        <p>Al termine di un riposo lungo puoi scegliere una delle scoperte che conosci e cambiarla con un'altra scoperta
+            che potresti imparare a quel livello.</p>
+        <h3 id="conoscenza-illimitata">Conoscenza Illimitata</h3>
+        <p><strong>Livello:</strong> 20</p>
+        <p>Il punteggio di Intelligenza aumenta di 4 ed il punteggio massimo della caratteristica aumenta di 4.</p>
+        <p>Inoltre, puoi utilizzare qualsiasi manovra che conosci senza spendere il dado di superiorita' tirando, al suo
+            posto, 1d4.</p>
+    </main>
+
+    <footer>© 2025 GDR Docs</footer>
+    <a id="back-to-top" title="Torna su">↑</a>
+    <a id="home-button" title="Home">🏠</a>
+
+    <script>
+        // Back-to-top button
+        const backToTop = document.getElementById('back-to-top');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 200) backToTop.classList.add('show');
+            else backToTop.classList.remove('show');
+        });
+        backToTop.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // Smooth scroll for internal links accounting for sticky header
+        document.querySelectorAll('main a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const targetId = this.getAttribute('href').substring(1);
+                const targetEl = document.getElementById(targetId);
+                const headerOffset = document.querySelector('header').offsetHeight + 8;
+                if (targetEl) {
+                    e.preventDefault();
+                    const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
+                    const offsetPosition = elementPosition - headerOffset;
+                    window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+                }
+            });
+        });
+        // === HOME BUTTON ===
+        const homeButton = document.getElementById('home-button');
+
+        // Scroll behavior for home button
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 200) homeButton.classList.add('show');
+            else homeButton.classList.remove('show');
+        });
+
+        // Click behavior for home button
+        homeButton.addEventListener('click', () => {
+            const isGitHub = window.location.hostname.includes('github.io');
+            const repoPrefix = isGitHub ? '/' + window.location.pathname.split('/')[1] + '/' : '/';
+            window.location.href = repoPrefix + 'index.html';
+        });
+    </script>
+
+</body>
+
+</html>

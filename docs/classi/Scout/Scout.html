@@ -1,0 +1,776 @@
+<!doctype html>
+<html lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Scout — GDR</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: system-ui, sans-serif;
+            background: #0b0c10;
+            color: #e0e0e0;
+            padding: 0 20px;
+        }
+
+        header {
+            background: #111;
+            color: #ffd54a;
+            padding: 16px;
+            text-align: center;
+            font-size: 22px;
+            font-weight: 700;
+            border-bottom: 1px solid #333;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            padding: 12px;
+            background: #141414;
+            margin-bottom: 20px;
+            position: sticky;
+            top: 56px;
+            z-index: 999;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #ffd54a;
+            border: 1px solid #ffd54a44;
+            padding: 6px 12px;
+            border-radius: 6px;
+            transition: all .2s;
+        }
+
+        nav a:hover {
+            background: #ffd54a;
+            color: #111;
+        }
+
+        main {
+            max-width: 900px;
+            margin: auto;
+            padding-bottom: 40px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            color: #ffd54a;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        th,
+        td {
+            border: 1px solid #ffd54a44;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background: #222;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 14px;
+            padding: 16px;
+            border-top: 1px solid #222;
+            margin-top: 40px;
+            color: #888;
+        }
+
+        #back-to-top {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            width: 44px;
+            height: 44px;
+            background: #ffd54a;
+            color: #111;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 44px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity .3s;
+        }
+
+        #back-to-top.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        #back-to-top:hover {
+            opacity: 0.8;
+        }
+
+        /* Home Button */
+        #home-button {
+            position: fixed;
+            bottom: 80px;
+            /* slightly above the back-to-top button */
+            right: 24px;
+            width: 44px;
+            height: 44px;
+            background: #ffd54a;
+            color: #111;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 44px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity .3s;
+        }
+
+        #home-button.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        #home-button:hover {
+            opacity: 0.8;
+        }
+
+
+        main a {
+            color: #ffd54a;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        main a:hover {
+            color: #ffcc00;
+            text-decoration: underline;
+        }
+
+        /* TOC accordion */
+        .toc {
+            background: #111;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 20px 0;
+        }
+
+        .toc summary {
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+            color: #ffd54a;
+            margin-bottom: 8px;
+        }
+
+        .toc summary:hover {
+            color: #ffcc00;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .toc li {
+            margin: 4px 0;
+        }
+
+        .toc li ul {
+            padding-left: 16px;
+        }
+
+        .toc a {
+            color: #ffd54a;
+            text-decoration: none;
+        }
+
+        .toc a:hover {
+            color: #ffcc00;
+            text-decoration: underline;
+        }
+
+        /* Nested list fix for main content */
+        main ul {
+            list-style-type: disc;
+            margin: 8px 0 8px 20px;
+            padding-left: 20px;
+        }
+
+        main ul ul {
+            list-style-type: circle;
+            margin: 4px 0 4px 20px;
+            padding-left: 20px;
+        }
+
+        main ul ul ul {
+            list-style-type: square;
+            margin: 2px 0 2px 20px;
+            padding-left: 20px;
+        }
+
+        main ul li {
+            display: list-item;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>Scout</header>
+
+    <!--
+<nav>
+<a href="../../classi.html">🔙 Indice Classi</a>
+<a href="../../index.html">🏠 Home</a>
+</nav>
+-->
+
+    <main>
+        <details class="toc" open>
+            <summary>Indice</summary>
+            <ul>
+                <li><a href="#scout">Scout</a></li>
+                <li><a href="#privilegi-di-classe">Privilegi di Classe</a>
+                    <ul>
+                        <li><a href="#punti-ferita">Punti Ferita</a></li>
+                        <li><a href="#competenze">Competenze</a></li>
+                        <li><a href="#equipaggiamento">Equipaggiamento</a></li>
+                        <li><a href="#variante-ricchezza-iniziale">Variante: ricchezza iniziale</a></li>
+                        <li><a href="#preda-del-ranger">Preda del Ranger</a></li>
+                        <li><a href="#esploratore-nato">Esploratore Nato</a></li>
+                        <li><a href="#tecno-lancio">Tecno-lancio</a></li>
+                        <li><a href="#poteri-tecnologici-conosciuti">Poteri Tecnologici Conosciuti</a></li>
+                        <li><a href="#punti-tecnologici">Punti Tecnologici</a></li>
+                        <li><a href="#livello-massimo-del-potere">Livello Massimo del Potere</a></li>
+                        <li><a href="#caratteristica-da-tecno-lancio">Caratteristica da tecno-lancio</a></li>
+                        <li><a href="#focus-di-tecno-lancio">Focus di tecno-lancio</a></li>
+                        <li><a href="#stile-di-combattimento">Stile di Combattimento</a></li>
+                        <li><a href="#routine-dello-scout">Routine dello Scout</a></li>
+                        <li><a href="#tecnica-dello-scout">Tecnica dello Scout</a></li>
+                        <li><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></li>
+                        <li><a href="#attacco-extra">Attacco Extra</a></li>
+                        <li><a href="#maestria">Maestria</a></li>
+                        <li><a href="#commando">Commando</a></li>
+                        <li><a href="#tecno-combattimento">Tecno-Combattimento</a></li>
+                        <li><a href="#consapevolezza-suprema">Consapevolezza Suprema</a></li>
+                        <li><a href="#uccisore-di-nemici">Uccisore di Nemici</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </details>
+        <h1 id="scout">Scout</h1>
+        <!-- ![scout](scout_01.png) -->
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Livello</th>
+                    <th>Bonus Competenza</th>
+                    <th>Privilegi</th>
+                    <th>Preda del Ranger</th>
+                    <th>Poteri Tecnologici Conosciuti</th>
+                    <th>Punti Tecnologici</th>
+                    <th>Livello Massimo del Potere</th>
+                    <th>Routine Conosciute</th>
+                    <th>Gittata Routine</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>+2</td>
+                    <td>Preda del Ranger, Esploratore Nato</td>
+                    <td>d4</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>+2</td>
+                    <td>Tecno-Lancio, Stile di Combattimento</td>
+                    <td>d4</td>
+                    <td>4</td>
+                    <td>2</td>
+                    <td>1</td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>+2</td>
+                    <td>Routine dello Scout, Tecnica dello Scout</td>
+                    <td>d4</td>
+                    <td>5</td>
+                    <td>3</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>1.5m</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>+2</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d4</td>
+                    <td>6</td>
+                    <td>4</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>1.5m</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>+3</td>
+                    <td>Attacco Extra</td>
+                    <td>d6</td>
+                    <td>7</td>
+                    <td>5</td>
+                    <td>2</td>
+                    <td>1</td>
+                    <td>1.5m</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>+3</td>
+                    <td>Maestria</td>
+                    <td>d6</td>
+                    <td>8</td>
+                    <td>6</td>
+                    <td>2</td>
+                    <td>1</td>
+                    <td>1.5m</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>+3</td>
+                    <td>Privilegio della Tecnica</td>
+                    <td>d6</td>
+                    <td>9</td>
+                    <td>7</td>
+                    <td>2</td>
+                    <td>2</td>
+                    <td>1.5m</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>+3</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d6</td>
+                    <td>10</td>
+                    <td>8</td>
+                    <td>2</td>
+                    <td>2</td>
+                    <td>1.5m</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>+4</td>
+                    <td>-</td>
+                    <td>d8</td>
+                    <td>12</td>
+                    <td>9</td>
+                    <td>3</td>
+                    <td>2</td>
+                    <td>4.5m</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>+4</td>
+                    <td>Commando</td>
+                    <td>d8</td>
+                    <td>13</td>
+                    <td>10</td>
+                    <td>3</td>
+                    <td>2</td>
+                    <td>4.5m</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>+4</td>
+                    <td>Privilegio della Tecnica</td>
+                    <td>d8</td>
+                    <td>14</td>
+                    <td>11</td>
+                    <td>3</td>
+                    <td>2</td>
+                    <td>4.5m</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>+4</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d8</td>
+                    <td>15</td>
+                    <td>12</td>
+                    <td>3</td>
+                    <td>2</td>
+                    <td>4.5m</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>+5</td>
+                    <td>-</td>
+                    <td>d10</td>
+                    <td>16</td>
+                    <td>13</td>
+                    <td>4</td>
+                    <td>2</td>
+                    <td>4.5m</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>+5</td>
+                    <td>Maestria, Tecno-Combattimento</td>
+                    <td>d10</td>
+                    <td>17</td>
+                    <td>14</td>
+                    <td>4</td>
+                    <td>2</td>
+                    <td>4.5m</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>+5</td>
+                    <td>Privilegio della Tecnica</td>
+                    <td>d10</td>
+                    <td>18</td>
+                    <td>15</td>
+                    <td>4</td>
+                    <td>3</td>
+                    <td>4.5m</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>+5</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d10</td>
+                    <td>19</td>
+                    <td>16</td>
+                    <td>4</td>
+                    <td>3</td>
+                    <td>4.5m</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>+6</td>
+                    <td>-</td>
+                    <td>d12</td>
+                    <td>20</td>
+                    <td>17</td>
+                    <td>5</td>
+                    <td>3</td>
+                    <td>9m</td>
+                </tr>
+                <tr>
+                    <td>18</td>
+                    <td>+6</td>
+                    <td>Consapevolezza Suprema</td>
+                    <td>d12</td>
+                    <td>21</td>
+                    <td>18</td>
+                    <td>5</td>
+                    <td>3</td>
+                    <td>9m</td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>+6</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>d12</td>
+                    <td>22</td>
+                    <td>19</td>
+                    <td>5</td>
+                    <td>3</td>
+                    <td>9m</td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>+6</td>
+                    <td>Uccisore di Nemici</td>
+                    <td>d12</td>
+                    <td>23</td>
+                    <td>20</td>
+                    <td>5</td>
+                    <td>3</td>
+                    <td>9m</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 id="privilegi-di-classe">Privilegi di Classe</h2>
+        <hr />
+        <h3 id="punti-ferita">Punti Ferita</h3>
+        <p><strong>Dadi Vita:</strong> 1d10 per livello</p>
+        <p><strong>Punti Ferita al livello 1:</strong> 10 + modificatore di Costituzione</p>
+        <p><strong>Punti Ferita ai Livelli Successivi:</strong> 1d10 (o 6) + modificatore di Costituzione</p>
+        <hr />
+        <h3 id="competenze">Competenze</h3>
+        <p><strong>Armature:</strong> leggere, medie</p>
+        <p><strong>Armi:</strong> tutti i blaster, tutte le vibro-armi</p>
+        <p><strong>Strumenti:</strong> nessuno</p>
+        <p><strong>Tiri Salvezza:</strong> Forza, Destrezza</p>
+        <p><strong>Abilita':</strong> 3 tra: Addestrare Animali, Atletica, Intuito, Percezione, Guidare, Furtivita',
+            Sopravvivenza e Tecnologia</p>
+        <hr />
+        <h3 id="equipaggiamento">Equipaggiamento</h3>
+        <ul>
+            <li>
+                <ul>
+                    <li>(a) armatura di maglie | (b) armatura da combattimento, 1 blaster fucile o 1 blaster semplice e
+                        2 batterie</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>(a) 1 vibro-arma ed 1 scudo leggero | (b) 2 vibro-armi semplici</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>(a) 1 blaster-occultato ed 1 batteria | (b) 2 vibro-pugnali</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>un computerino da polso</li>
+                </ul>
+            </li>
+        </ul>
+        <h4 id="variante-ricchezza-iniziale">Variante: ricchezza iniziale</h4>
+        <p>Puoi decidere di non ricevere equipaggiamento dalla tua classe e dal tuo background e di scegliere la
+            ricchezza iniziale in questo modo:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Classe</th>
+                    <th>Fondi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Scout</td>
+                    <td>8d4 x 100 cr</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr />
+        <h3 id="preda-del-ranger">Preda del Ranger</h3>
+        <p><strong>Livello:</strong> 1, 5, 9 e 17</p>
+        <p>Una volta per turno puoi scegliere una creatura che sei in grado di vedere, entro 36m, e designarlo come tua
+            preda (non e' un'azione).</p>
+        <p>Per la prossimo ora guadagni i seguenti benefici:</p>
+        <ul>
+            <li>
+                <ul>
+                    <li>una volta per turno, quando colpisci il bersaglio con un attacco con l'arma, puoi infliggere 1d4
+                        danni aggiuntivi dello stesso tipo dei danni dell'arma. Questo dado cambia a seconda dei tuoi
+                        livelli da scout, come elencato nella colonna "Preda del Ranger" della tabella.</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>Ottieni vantaggio nelle prove di Saggezza (Percezione) o Saggezza (Sopravvivenza) effettuate per
+                        trovare la tua preda, affinche' si trovi ancora sul tuo stesso pianeta.</li>
+                </ul>
+            </li>
+        </ul>
+        <p>Puoi designare come preda solamente una creatura alla volta.</p>
+        <p>Dal livello 5 puoi utilizzare la tua reazione per bersagliare una creatura quando entra nella tua linea di
+            tiro, ammesso che sia nella gittata della Preda del Ranger.</p>
+        <p>La durata di questo effetto aumenta ad 8 ore al livello 9 e 24 ore al livello 17.</p>
+        <h3 id="esploratore-nato">Esploratore Nato</h3>
+        <p><strong>Livello:</strong> 1</p>
+        <p>Ignori il terreno difficile e quando viaggi per 1 ora o piu' guadagni i seguenti benefici:</p>
+        <ul>
+            <li>
+                <ul>
+                    <li>il terreno difficile non rallenta il tuo gruppo finche' possono vederti e sentirti</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>il tuo gruppo non può perdersi, se non a causa di effetti potenziati</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>anche quando sei impegnato in un’altra attività durante il viaggio (come foraggiare, navigare o
+                        seguire tracce), sei sempre allerta dei pericoli</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>se stai viaggiando da solo, puoi muoverti furtivamente tenendo un’andatura normale</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>quando foraggi, trovi il doppio del cibo che troveresti normalmente</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>ottieni vantaggio nelle prove di Sopravvivenza</li>
+                </ul>
+            </li>
+        </ul>
+        <h3 id="tecno-lancio">Tecno-lancio</h3>
+        <p><strong>Livello:</strong> 2</p>
+        <p>Vedi <a href="../../poteri/Regole%20sul%20Lancio%20dei%20Poteri.md">questa sezione</a> per i dettagli sul
+            tecno-lancio e <a href="../../poteri/Poteri%20Tecnologici.md">questa sezione</a> per la lista dei poteri
+            tecnologici.</p>
+        <h3 id="poteri-tecnologici-conosciuti">Poteri Tecnologici Conosciuti</h3>
+        <p>Impari 4 poteri tecnologici a scelta e ne impari altri ai livelli superiori (vedi la tabella). Non puoi
+            imparare un potere di livello superiore a quello indicato nella colonna Livello Massimo del Potere.</p>
+        <h3 id="punti-tecnologici">Punti Tecnologici</h3>
+        <p>Possiedi un numero di punti tecnologici pari al tuo livello da scout (come indicato nella tabella) + il tuo
+            modificatore di Intelligenza. Utilizzi questi punti tecnologici per lanciare i poteri tecnologici. Recuperi
+            tutti i punti tecnologici spesi quando completi un riposo lungo.</p>
+        <h3 id="livello-massimo-del-potere">Livello Massimo del Potere</h3>
+        <p>Alcuni poteri tecnologici possono essere lanciati a livelli superiori utilizzando il numero indicato di punti
+            tecnologici aggiuntivi. Puoi aumentare il livello di un potere fino al numero indicato nella colonna Livello
+            Massimo del Potere della tabella.</p>
+        <p>Puoi lanciare dei poteri di livello 4 e 5 solamente una volta ogni riposo lungo.</p>
+        <h3 id="caratteristica-da-tecno-lancio">Caratteristica da tecno-lancio</h3>
+        <p>Utilizzi Intelligenza come caratteristica da tecno-lancio. Utilizzi questa abilita' ogni volta che un potere
+            fa riferimento alla caratteristica da tecno-lancio. Inoltre utilizzi il modificatore di Intelligenza quando
+            devi determinare la CD dei tiri salvezza dei poteri tecnologici che lanci e quando effettui un attacco con
+            un potere tecnologico.</p>
+        <p><strong>CD del tiro salvezza tecnologico:</strong> 8 + bonus di competenza + il tuo modificatore di
+            tecno-lancio</p>
+        <p><strong>Modificatore di attacco tecnologico:</strong> bonus di competenza + il tuo modificatore di
+            tecno-lancio</p>
+        <h3 id="focus-di-tecno-lancio">Focus di tecno-lancio</h3>
+        <p>Utilizzi un computerino da polso come tecno-focus per i tuoi poteri tecnologici.</p>
+        <h3 id="stile-di-combattimento">Stile di Combattimento</h3>
+        <p><strong>Livello:</strong> 2</p>
+        <p>Scegli 1 degli stili di combattimento elencati in <a
+                href="../Guerriero/Stili%20di%20Combattimento.md#stili-di-combattimento">questa lista</a></p>
+        <h3 id="routine-dello-scout">Routine dello Scout</h3>
+        <p><strong>Livello:</strong> 3</p>
+        <p>Scegli una delle routine dello scout, dettagliate in <a
+                href="./Routine%20dello%20Scout.md#routine-dello-scout">questa sezione</a>.</p>
+        <h3 id="tecnica-dello-scout">Tecnica dello Scout</h3>
+        <p><strong>Livello:</strong> 3, 7, 11 e 15</p>
+        <p>Scegli una delle tecniche dello scout, dettagliate in <a
+                href="./Tecniche%20dello%20Scout.md#tecniche-dello-scout">questa sezione</a></p>
+        <h3 id="aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</h3>
+        <p><strong>Livello:</strong> 4, 8, 12, 16 e 19</p>
+        <p>Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi
+            aumentare un punteggio caratteristica oltre il 20 con questo privilegio</p>
+        <h3 id="attacco-extra">Attacco Extra</h3>
+        <p><strong>Livello:</strong> 5</p>
+        <p>Puoi attaccare 2 volte</p>
+        <h3 id="maestria">Maestria</h3>
+        <p><strong>Livello:</strong> 6 e 14</p>
+        <p>Scegli 2 abilita' nelle quali sei competente od 1 abilita' ed 1 strumento oppure 2 strumenti. Ottieni
+            maestria nelle abilita' o negli strumenti scelti.</p>
+        <p>Al livello 14 puoi scegliere 2 competenza aggiuntive (abilita' o strumenti) ed applicarne i benefici di
+            maestria</p>
+        <h3 id="commando">Commando</h3>
+        <p><strong>Livello:</strong> 10</p>
+        <p>Puoi effettuare le azioni di Scatto o Nascondersi con l'azione bonus. Inoltre, puoi rimanere fermo per lunghi
+            periodi di tempo per preparare un'imboscata.</p>
+        <p>Quando provi a nasconderti, nel tuo turno, puoi scegliere di non muoverti. Se lo fai, le creature che ti
+            cercano subiscono una penalita' di -10 alla prova di Saggezza (Percezione) fino all'inizio del tuo prossimo
+            turno. Perdi questo beneficio se ti muovi o se cadi a terra prono, sia volontariamente che per causa di un
+            effetto esterno. Vieni automaticamente trovato se un effetto od un'azione fanno si' che tu non sia piu'
+            nascosto.</p>
+        <p>Se sei rimasto nascosto, nel tuo turno successivo, puoi continuare a rimanere fermo ed ottenere questo
+            beneficio finche' non vieni trovato.</p>
+        <p>Infine, non puoi piu' essere tracciato tramite metodi non potenziati, almeno che tu non scelga di lasciare
+            una traccia.</p>
+        <h3 id="tecno-combattimento">Tecno-Combattimento</h3>
+        <p><strong>Livello:</strong> 14</p>
+        <p>Quando lanci un potere tecnologico con la tua azione, puoi effettuare un attacco con l'arma con la tua azione
+            bonus.</p>
+        <h3 id="consapevolezza-suprema">Consapevolezza Suprema</h3>
+        <p><strong>Livello:</strong> 18</p>
+        <p>Quando attacchi una creatura che non sei in grado di vedere, comunque non subisci svantaggio al tiro per
+            colpire contro di essa.</p>
+        <p>Conosci la posizione di qualsiasi creatura invisibile entro 9m da te, ammesso che non si stia nascondendo e
+            che tu non sia accecato od assordato.</p>
+        <h3 id="uccisore-di-nemici">Uccisore di Nemici</h3>
+        <p><strong>Livello:</strong> 20</p>
+        <p>I punteggi di Forza o Destrezza ed Intelligenza aumentano di 2 ed il punteggio massimo di queste
+            caratteristiche aumenta di 2.</p>
+        <p>Una volta per turno, puoi aggiungere il tuo modificatore di Intelligenza al tiro per colpire ed al tiro per i
+            danni di un tuo attacco.</p>
+    </main>
+
+    <footer>© 2025 GDR Docs</footer>
+    <a id="back-to-top" title="Torna su">↑</a>
+    <a id="home-button" title="Home">🏠</a>
+
+    <script>
+        // Back-to-top button
+        const backToTop = document.getElementById('back-to-top');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 200) backToTop.classList.add('show');
+            else backToTop.classList.remove('show');
+        });
+        backToTop.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // Smooth scroll for internal links accounting for sticky header
+        document.querySelectorAll('main a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const targetId = this.getAttribute('href').substring(1);
+                const targetEl = document.getElementById(targetId);
+                const headerOffset = document.querySelector('header').offsetHeight + 8;
+                if (targetEl) {
+                    e.preventDefault();
+                    const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
+                    const offsetPosition = elementPosition - headerOffset;
+                    window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+                }
+            });
+        });
+        // === HOME BUTTON ===
+        const homeButton = document.getElementById('home-button');
+
+        // Scroll behavior for home button
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 200) homeButton.classList.add('show');
+            else homeButton.classList.remove('show');
+        });
+
+        // Click behavior for home button
+        homeButton.addEventListener('click', () => {
+            const isGitHub = window.location.hostname.includes('github.io');
+            const repoPrefix = isGitHub ? '/' + window.location.pathname.split('/')[1] + '/' : '/';
+            window.location.href = repoPrefix + 'index.html';
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,5 +1,5 @@
 # Scout
-
+<!-- TOC START -->
 - [Scout](#scout)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [Punti Ferita](#punti-ferita)
@@ -24,8 +24,8 @@
     - [Tecno-Combattimento](#tecno-combattimento)
     - [Consapevolezza Suprema](#consapevolezza-suprema)
     - [Uccisore di Nemici](#uccisore-di-nemici)
-
-![scout](scout_01.png)
+<!-- TOC END -->
+<!-- ![scout](scout_01.png) -->
 
 |Livello|Bonus Competenza|Privilegi|Preda del Ranger|Poteri Tecnologici Conosciuti|Punti Tecnologici|Livello Massimo del Potere|Routine Conosciute|Gittata Routine
 |---|---|---|---|---|---|---|---|---

@@ -1,5 +1,5 @@
 # Guerriero
-
+<!-- TOC START -->
 - [Guerriero](#guerriero)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [Punti Ferita](#punti-ferita)
@@ -20,8 +20,8 @@
     - [Indomito](#indomito)
     - [Attacco Extra Maggiore](#attacco-extra-maggiore)
     - [Maestro del Combattimento](#maestro-del-combattimento)
-
-![guerriero](./fighter_01.png)
+<!-- TOC END -->
+<!-- ![guerriero](./fighter_01.png) -->
 
 |Livello|Bonus Competenza|Privilegi|Manovre Conosciute|Q.ta Dadi di Superiorita'|Valore Dadi di Superiorita'|Strategie Conosciute
 |---|---|---|---|---|---|---

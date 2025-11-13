@@ -1,5 +1,5 @@
 # Ingegnere
-
+<!-- TOC START -->
 - [Ingegnere](#ingegnere)
   - [Privilegi di Classe](#privilegi-di-classe)
     - [Punti Ferita](#punti-ferita)
@@ -18,8 +18,8 @@
     - [Disciplina Ingegneristica](#disciplina-ingegneristica)
     - [Aumento dei Punteggi Caratteristica](#aumento-dei-punteggi-caratteristica)
     - [Maestria Tecnologica](#maestria-tecnologica)
-
-![ingegnere](./engineer_01.png)
+<!-- TOC END -->
+<!-- ![ingegnere](./engineer_01.png) -->
 
 |Livello|Bonus Competenza|Privilegi|Poteri Tecnologici Conosciuti|Punti Tecnologici|Livello Massimo del Potere|Prontezza|Slot di Modifica
 |---|---|---|---|---|---|---|---

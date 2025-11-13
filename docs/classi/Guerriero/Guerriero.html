@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Berserker — GDR</title>
+    <title>Guerriero — GDR</title>
     <style>
         body {
             margin: 0;
@@ -242,7 +242,7 @@
 
 <body>
 
-    <header>Berserker</header>
+    <header>Guerriero</header>
 
     <!--
 <nav>
@@ -255,32 +255,33 @@
         <details class="toc" open>
             <summary>Indice</summary>
             <ul>
-                <li><a href="#privilegi-di-classe">Privilegi di Classe</a></li>
-                <li><a href="#punti-ferita">Punti Ferita</a></li>
-                <li><a href="#competenze">Competenze</a></li>
-                <li><a href="#equipaggiamento">Equipaggiamento</a>
+                <li><a href="#guerriero">Guerriero</a></li>
+                <li><a href="#privilegi-di-classe">Privilegi di Classe</a>
                     <ul>
+                        <li><a href="#punti-ferita">Punti Ferita</a></li>
+                        <li><a href="#competenze">Competenze</a></li>
+                        <li><a href="#equipaggiamento">Equipaggiamento</a></li>
                         <li><a href="#variante-ricchezza-iniziale">Variante: ricchezza iniziale</a></li>
+                        <li><a href="#stile-di-combattimento">Stile di Combattimento</a></li>
+                        <li><a href="#recuperare-energie">Recuperare Energie</a></li>
+                        <li><a href="#azione-impetuosa">Azione Impetuosa</a></li>
+                        <li><a href="#superiorita-in-combattimento">Superiorita' in Combattimento</a></li>
+                        <li><a href="#manovre-conosciute">Manovre Conosciute</a></li>
+                        <li><a href="#dadi-di-superiorita">Dadi di Superiorita'</a></li>
+                        <li><a href="#caratteristica-di-manovra">Caratteristica di Manovra</a></li>
+                        <li><a href="#strategie">Strategie</a></li>
+                        <li><a href="#specializzazione">Specializzazione</a></li>
+                        <li><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></li>
+                        <li><a href="#attacco-extra">Attacco Extra</a></li>
+                        <li><a href="#indomito">Indomito</a></li>
+                        <li><a href="#attacco-extra-maggiore">Attacco Extra Maggiore</a></li>
+                        <li><a href="#maestro-del-combattimento">Maestro del Combattimento</a></li>
                     </ul>
                 </li>
-                <li><a href="#ira">Ira</a></li>
-                <li><a href="#difesa-senza-armatura">Difesa Senza Armatura</a></li>
-                <li><a href="#attacco-irruento">Attacco Irruento</a></li>
-                <li><a href="#istinti-del-berserker">Istinti del Berserker</a></li>
-                <li><a href="#percezione-del-pericolo">Percezione del Pericolo</a></li>
-                <li><a href="#avanzata-del-berserker">Avanzata del Berserker</a></li>
-                <li><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></li>
-                <li><a href="#attacco-extra">Attacco Extra</a></li>
-                <li><a href="#impulso-selvaggio">Impulso Selvaggio</a></li>
-                <li><a href="#critico-brutale">Critico Brutale</a></li>
-                <li><a href="#ira-implacabile">Ira Implacabile</a></li>
-                <li><a href="#ira-persistente">Ira Persistente</a></li>
-                <li><a href="#potenza-indomabile">Potenza Indomabile</a></li>
-                <li><a href="#campione-primordiale">Campione Primordiale</a></li>
             </ul>
         </details>
-        <h1 id="berserker">Berserker <!-- omit in toc --></h1>
-        <!-- ![berserker](berserker_01.png) -->
+        <h1 id="guerriero">Guerriero</h1>
+        <!-- ![guerriero](./fighter_01.png) -->
 
         <table>
             <thead>
@@ -288,206 +289,216 @@
                     <th>Livello</th>
                     <th>Bonus Competenza</th>
                     <th>Privilegi</th>
-                    <th>Ira</th>
-                    <th>Danni dell'Ira</th>
-                    <th>Istinti del Berserker</th>
+                    <th>Manovre Conosciute</th>
+                    <th>Q.ta Dadi di Superiorita'</th>
+                    <th>Valore Dadi di Superiorita'</th>
+                    <th>Strategie Conosciute</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>1</td>
                     <td>+2</td>
-                    <td><a href="#ira">Ira</a>, <a href="#difesa-senza-armatura">Difesa Senza Armatura</a></td>
-                    <td>2</td>
-                    <td>+2</td>
+                    <td>Stile di Combattimento, Recuperare Energie</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
                     <td>-</td>
                 </tr>
                 <tr>
                     <td>2</td>
                     <td>+2</td>
-                    <td><a href="#attacco-irruento">Attacco Irruento</a>, <a href="#istinti-del-berserker">Istinti del
-                            Berserker</a></td>
+                    <td>Azione Impetuosa (1), Superiorita' in Combattimento</td>
+                    <td>1</td>
                     <td>2</td>
-                    <td>+2</td>
-                    <td>2</td>
+                    <td>d4</td>
+                    <td>-</td>
                 </tr>
                 <tr>
                     <td>3</td>
                     <td>+2</td>
-                    <td><a href="#percezione-del-pericolo">Percezione del Pericolo</a>, <a
-                            href="#avanzata-del-berserker">Avanzata del Berserker</a></td>
-                    <td>3</td>
-                    <td>+2</td>
+                    <td>Strategie, Specializzazione</td>
                     <td>2</td>
+                    <td>2</td>
+                    <td>d4</td>
+                    <td>1</td>
                 </tr>
                 <tr>
                     <td>4</td>
                     <td>+2</td>
-                    <td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
-                    <td>3</td>
-                    <td>+2</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
                     <td>2</td>
+                    <td>2</td>
+                    <td>d4</td>
+                    <td>1</td>
                 </tr>
                 <tr>
                     <td>5</td>
                     <td>+3</td>
-                    <td><a href="#attacco-extra">Attacco Extra</a></td>
+                    <td>Attacco Extra</td>
+                    <td>4</td>
                     <td>3</td>
-                    <td>+2</td>
-                    <td>2</td>
+                    <td>d6</td>
+                    <td>1</td>
                 </tr>
                 <tr>
                     <td>6</td>
                     <td>+3</td>
-                    <td><a href="#avanzata-del-berserker">Tratto dell'Avanzata</a></td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
                     <td>4</td>
-                    <td>+2</td>
-                    <td>2</td>
+                    <td>3</td>
+                    <td>d6</td>
+                    <td>1</td>
                 </tr>
                 <tr>
                     <td>7</td>
                     <td>+3</td>
-                    <td><a href="#impulso-selvaggio">Impulso Selvaggio</a></td>
-                    <td>4</td>
-                    <td>+2</td>
+                    <td>Tratto della Specializzazione</td>
+                    <td>5</td>
                     <td>3</td>
+                    <td>d6</td>
+                    <td>2</td>
                 </tr>
                 <tr>
                     <td>8</td>
                     <td>+3</td>
-                    <td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
-                    <td>4</td>
-                    <td>+2</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>5</td>
                     <td>3</td>
+                    <td>d6</td>
+                    <td>2</td>
                 </tr>
                 <tr>
                     <td>9</td>
                     <td>+4</td>
-                    <td><a href="#critico-brutale">Critico Brutale (1 dado)</a></td>
-                    <td>4</td>
-                    <td>+3</td>
+                    <td>Indomito (1)</td>
+                    <td>6</td>
                     <td>3</td>
+                    <td>d8</td>
+                    <td>2</td>
                 </tr>
                 <tr>
                     <td>10</td>
                     <td>+4</td>
-                    <td><a href="#avanzata-del-berserker">Tratto dell'Avanzata</a></td>
+                    <td>Tratto della Specializzazione</td>
+                    <td>6</td>
                     <td>4</td>
-                    <td>+3</td>
-                    <td>3</td>
+                    <td>d8</td>
+                    <td>2</td>
                 </tr>
                 <tr>
                     <td>11</td>
                     <td>+4</td>
-                    <td><a href="#ira-implacabile">Ira Implacabile</a></td>
+                    <td>Attacco Extra Maggiore</td>
+                    <td>7</td>
                     <td>4</td>
-                    <td>+3</td>
-                    <td>3</td>
+                    <td>d8</td>
+                    <td>2</td>
                 </tr>
                 <tr>
                     <td>12</td>
                     <td>+4</td>
-                    <td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
-                    <td>5</td>
-                    <td>+3</td>
-                    <td>3</td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>7</td>
+                    <td>4</td>
+                    <td>d8</td>
+                    <td>2</td>
                 </tr>
                 <tr>
                     <td>13</td>
                     <td>+5</td>
-                    <td><a href="#critico-brutale">Critico Brutale (2 dadi)</a></td>
+                    <td>Indomito (2)</td>
+                    <td>9</td>
                     <td>5</td>
-                    <td>+4</td>
-                    <td>4</td>
+                    <td>d10</td>
+                    <td>3</td>
                 </tr>
                 <tr>
                     <td>14</td>
                     <td>+5</td>
-                    <td><a href="#avanzata-del-berserker">Tratto dell'Avanzata</a></td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>9</td>
                     <td>5</td>
-                    <td>+4</td>
-                    <td>4</td>
+                    <td>d10</td>
+                    <td>3</td>
                 </tr>
                 <tr>
                     <td>15</td>
                     <td>+5</td>
-                    <td><a href="#ira-persistente">Ira Persistente</a></td>
+                    <td>Tratto della Specializzazione</td>
+                    <td>10</td>
                     <td>5</td>
-                    <td>+4</td>
-                    <td>4</td>
+                    <td>d10</td>
+                    <td>3</td>
                 </tr>
                 <tr>
                     <td>16</td>
                     <td>+5</td>
-                    <td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>10</td>
                     <td>5</td>
-                    <td>+4</td>
-                    <td>4</td>
+                    <td>d10</td>
+                    <td>3</td>
                 </tr>
                 <tr>
                     <td>17</td>
                     <td>+6</td>
-                    <td><a href="#critico-brutale">Critico Brutale (3 dadi)</a></td>
+                    <td>Azione Impetuosa (2), Indomito (3)</td>
+                    <td>11</td>
                     <td>6</td>
-                    <td>+5</td>
-                    <td>5</td>
+                    <td>d12</td>
+                    <td>4</td>
                 </tr>
                 <tr>
                     <td>18</td>
                     <td>+6</td>
-                    <td><a href="#potenza-indomabile">Potenza Indomabile</a></td>
+                    <td>Tratto della Specializzazione</td>
+                    <td>11</td>
                     <td>6</td>
-                    <td>+5</td>
-                    <td>5</td>
+                    <td>d12</td>
+                    <td>4</td>
                 </tr>
                 <tr>
                     <td>19</td>
                     <td>+6</td>
-                    <td><a href="#aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</a></td>
+                    <td>Aumento dei Punteggi Caratteristica</td>
+                    <td>12</td>
                     <td>6</td>
-                    <td>+5</td>
-                    <td>5</td>
+                    <td>d12</td>
+                    <td>4</td>
                 </tr>
                 <tr>
                     <td>20</td>
                     <td>+6</td>
-                    <td><a href="#campione-primordiale">Campione Primordiale</a></td>
-                    <td>Illimitata</td>
-                    <td>+5</td>
-                    <td>5</td>
+                    <td>Maestro del Combattimento</td>
+                    <td>12</td>
+                    <td>6</td>
+                    <td>d12</td>
+                    <td>4</td>
                 </tr>
             </tbody>
         </table>
         <h2 id="privilegi-di-classe">Privilegi di Classe</h2>
         <hr />
         <h3 id="punti-ferita">Punti Ferita</h3>
-        <p><strong>Dadi Vita:</strong> 1d12 per livello</p>
-        <p><strong>Punti Ferita al livello 1:</strong> 12 + modificatore di Costituzione</p>
-        <p><strong>Punti Ferita ai Livelli Successivi:</strong> 1d12 (o 7) + modificatore di Costituzione</p>
+        <p><strong>Dadi Vita:</strong> 1d10 per livello</p>
+        <p><strong>Punti Ferita al livello 1:</strong> 10 + modificatore di Costituzione</p>
+        <p><strong>Punti Ferita ai Livelli Successivi:</strong> 1d10 (o 6) + modificatore di Costituzione</p>
         <hr />
         <h3 id="competenze">Competenze</h3>
-        <p><strong>Armature:</strong> leggere, medie</p>
-        <p><strong>Armi:</strong> tutte le vibro-armi, blaster semplici</p>
+        <p><strong>Armature:</strong> tutte le armature</p>
+        <p><strong>Armi:</strong> tutti i blaster, tutte le vibro-armi</p>
         <p><strong>Strumenti:</strong> nessuno</p>
         <p><strong>Tiri Salvezza:</strong> Forza, Costituzione</p>
-        <p><strong>Abilita':</strong> 2 tra: Addestrare Animali, Atletica, Intimidire, Natura, Percezione, Sopravvivenza
-        </p>
+        <p><strong>Abilita':</strong> 2 tra: Acrobatica, Addestrare Animali, Atletica, Storia, Intuizione, Intimidire,
+            Percezione, Sopravvivenza</p>
         <hr />
         <h3 id="equipaggiamento">Equipaggiamento</h3>
         <ul>
             <li>
                 <ul>
-                    <li>(a) 1 vibro-arma ed uno scudo leggero o medio | (b) 2 vibro-armi</li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <li>(a) 2 tecno-asce | (b) 2 vibro-lance</li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <li>(a) 1 dotazione da esploratore dei sotterranei | (b) 1 dotazione da esploratore</li>
+                    <li>(a) armatura di maglie | (b) armatura da combattimento, 1 blaster semplice od 1 fucile blaster e
+                        2 batterie</li>
                 </ul>
             </li>
         </ul>
@@ -503,97 +514,66 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Berserker</td>
-                    <td>5d4 x 100 cr</td>
+                    <td>Guerriero</td>
+                    <td>8d4 x 100 cr</td>
                 </tr>
             </tbody>
         </table>
         <hr />
-        <h3 id="ira">Ira</h3>
-        <p>Nel tuo turno puoi entrare in ira con un'azione bonus, se non indossi armature pesanti.</p>
-        <p>Benefici dell'ira:</p>
-        <ul>
-            <li>
-                <ul>
-                    <li>Ottieni vantaggio nelle prove di Forza e nei tiri salvezza su Forza</li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <li>Quando effettui un tiro per colpire utilizzando Forza guadagni un bonus ai danni indicato nella
-                        colonna Danni dell'Ira della tabella del berserker</li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <li>Ottieni resistenza ai danni da energia e cinetici</li>
-                </ul>
-            </li>
-        </ul>
-        <p>Finche' l'ira persiste non puoi lanciare alcun tipo di potere</p>
-        <p>L'ira dura 1 minuto. Se perdi i sensi, indossi un'armatura pesante, termini il turno senza aver compiuto
-            un'azione ostile o non ricevi danno, l'ira termina. Puoi decidere di terminare l'ira volontariamente con
-            un'azione bonus.</p>
-        <p>Puoi entrare in ira tante volte quanto indicato nella colonna Ira della tabella del berserker. Recuperi tutti
-            gli utilizzi dopo aver completato un riposo lungo</p>
-        <h3 id="difesa-senza-armatura">Difesa Senza Armatura</h3>
-        <p>Se non indossi alcuna armatura, la tua CA diventa: 10 + modificatore di Destrezza + modificatore di
-            Costituzione. Puoi comunque utilizzare uno scudo.</p>
-        <h3 id="attacco-irruento">Attacco Irruento</h3>
-        <p>Quando attacchi nel tuo turno puoi decidere di ottenere vantaggio al tiro per colpire. Se decidi di
-            utilizzare questo privilegio tutti gli attacchi effettuati contro di te ottengono vantaggio fino all'inizio
-            del tuo prossimo turno</p>
-        <h3 id="istinti-del-berserker">Istinti del Berserker</h3>
-        <p>Guadagni tanti Istinti quanto indicato nella colonna Istinti del Berserker della tabella del berserker.
-            La lista degli istinti si trova in <a href="./Istinti%20del%20Berserker.md">questa sezione</a>.</p>
-        <h3 id="percezione-del-pericolo">Percezione del Pericolo</h3>
-        <p>Ottieni vantaggio nei tiri salvezza su Destrezza contro effetti che riesci a vedere come, per esempio, poteri
-            o trappole. Non puoi utilizzare questo effetto se sei:</p>
-        <ul>
-            <li>
-                <ul>
-                    <li>accecato</li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <li>assordato</li>
-                </ul>
-            </li>
-            <li>
-                <ul>
-                    <li>incapacitato</li>
-                </ul>
-            </li>
-        </ul>
-        <h3 id="avanzata-del-berserker">Avanzata del Berserker</h3>
-        <p>Scegli l'avanzata che plasma la natura dell'ira dettagliata in <a
-                href="./Avanzate%20del%20Berserker.md">questa sezione</a>.</p>
+        <h3 id="stile-di-combattimento">Stile di Combattimento</h3>
+        <p>Scegli uno degli stili di combattimento elencati in <a
+                href="./Stili%20di%20Combattimento.md#stili-di-combattimento">questa sezione</a>.</p>
+        <h3 id="recuperare-energie">Recuperare Energie</h3>
+        <p>Nel tuo turno puoi utilizzare 1 azione bonus per recuperare punti ferita pari a 1d10 + livello da guerriero.
+        </p>
+        <p>Recuperi l'utilizzo di questo privilegio dopo aver completato un riposo breve o lungo.</p>
+        <h3 id="azione-impetuosa">Azione Impetuosa</h3>
+        <p>Nel tuo turno puoi effettuare un'azione aggiuntiva.</p>
+        <p>Recuperi l'utilizzo di questo privilegio dopo aver completato un riposo breve o lungo.</p>
+        <p>Al livello 17 puoi utilizzare questo privilegio 2 volte, ma non piu' di 1 volta per turno.</p>
+        <h3 id="superiorita-in-combattimento">Superiorita' in Combattimento</h3>
+        <p>Scegli una delle manovre indicate in <a href="./Manovre.md#manovre">questa sezione</a>.</p>
+        <h4 id="manovre-conosciute">Manovre Conosciute</h4>
+        <p>Impari una manovra a scelta piu' delle manovre aggiuntive come elencato nella colonna Manovre Conosciute
+            della tabella del guerriero.</p>
+        <p>Puoi utilizzare una manovra per attacco e non puoi usare la stessa manovra piu' di una volta per turno.</p>
+        <p>Ogni volta che impari una nuova manovra puoi decidere di rimpiazzarne una che gia' conosci con un'altra.</p>
+        <h4 id="dadi-di-superiorita">Dadi di Superiorita'</h4>
+        <p>Hai 2 dadi di superiorita', rappresentati dal d4. Ai livelli superiori guadagni utilizzi ulteriori del dado
+            ed il tipo di dado andra' ad aumentare, come elencato nelle colonne Q.ta Dadi di Superiorita' e Valore Dadi
+            di Superiorita' della tabella del guerriero.</p>
+        <p>Una volta che un dado di superiorita' viene tirato, e' perduto.</p>
+        <p>Recuperi gli utilizzi spesi completando un riposo breve o lungo.</p>
+        <h4 id="caratteristica-di-manovra">Caratteristica di Manovra</h4>
+        <p>La caratteristica della manovra cambia a seconda della manovra che stai utilizzando.</p>
+        <p>Utilizzi Forza, Destrezza o Costituzione (scegli tu) per le manovre fisiche, Intelligenza, Saggezza o Carisma
+            (scegli tu) per le manovre mentali ed una caratteristica a scelta per le manovre generiche.</p>
+        <p>Usi questa caratteristica ogniqualvolta la manovra fa riferimento alla caratteristica di manovra.</p>
+        <p>Inoltre, utilizzi quel modificatore per il calcolo delle CD della manovra che stai utilizzando</p>
+        <p><strong>CD del tiro salvezza della manovra:</strong> 8 + bonus di competenza + caratteristica di manovra</p>
+        <h3 id="strategie">Strategie</h3>
+        <p>Scegli una delle strategie presenti in <a href="./Strategie.md#strategie">questa sezione</a>.</p>
+        <p>Ai livelli successivi impari strategie ulteriori come indicato nella colonna Strategie Conosciute della
+            tabella del guerriero.</p>
+        <h3 id="specializzazione">Specializzazione</h3>
+        <p>Scegli una delle specializzazioni presenti in <a href="./Specializzazioni.md#specializzazioni">questa
+                sezione</a>.</p>
         <h3 id="aumento-dei-punteggi-caratteristica">Aumento dei Punteggi Caratteristica</h3>
         <p>Puoi aumentare un punteggio caratteristica di 2 punti o due punteggi caratteristica di 1 punto. Non puoi
             aumentare un punteggio caratteristica oltre il 20 con questo privilegio</p>
         <h3 id="attacco-extra">Attacco Extra</h3>
-        <p>Puoi attaccare 2 volte</p>
-        <h3 id="impulso-selvaggio">Impulso Selvaggio</h3>
-        <p>Ottieni vantaggio nei tiri di iniziativa</p>
-        <p>Se vieni colto alla sprovvista all'inizio del combattimento e non sei incapacitato puoi agire normalmente nel
-            tuo turno, ma solamente se entri in ira prima di effettuare qualsiasi altra azione.</p>
-        <h3 id="critico-brutale">Critico Brutale</h3>
-        <p>Tiri 1 dado dell'arma extra quando metti a segno un colpo critico. Questo bonus diventa 2 dadi al livello 13
-            e 3 dadi al livello 17.</p>
-        <h3 id="ira-implacabile">Ira Implacabile</h3>
-        <p>Se scendi a 0 punti ferita mentre sei in ira e non muori, puoi effettuare un tiro salvezza su Costituzione
-            con CD 10. Se superi la prova rimani ad 1 punto ferita. Ogni volta che utilizzi questo privilegio, dopo la
-            prima, la CD aumenta di 5. Dopo aver terminato un riposo breve o lungo la CD torna a 10.</p>
-        <h3 id="ira-persistente">Ira Persistente</h3>
-        <p>L'ira termina solamente se perdi i sensi o decidi di terminarla volontariamente</p>
-        <h3 id="potenza-indomabile">Potenza Indomabile</h3>
-        <p>Se il totale di una prova di Forza del berserker e' inferiore al suo punteggio di Forza, il berserker puo'
-            usare il suo punteggio di Forza al posto del totale.</p>
-        <h3 id="campione-primordiale">Campione Primordiale</h3>
-        <p>I punteggi di Forza o Destrezza aumentano di 2 e la Costituzione aumenta di 2. Il punteggio massimo di queste
-            caratteristiche aumenta di 2. Puoi entrare in ira un numero illimitato di volte e non e' piu' necessario
-            utilizzare un'azione bonus nel tuo turno per entrare in ira.</p>
+        <p>Puoi attaccare 2 volte.</p>
+        <h3 id="indomito">Indomito</h3>
+        <p>Puoi tirare nuovamente un tiro salvezza che hai fallito (devi utilizzare il nuovo risultato)</p>
+        <p>Recuperi l'utilizzo del privilegio dopo aver completato un riposo lungo.</p>
+        <p>Puoi utilizzare questo privilegio 2 volte al livello 13 e 3 volte al livello 17.</p>
+        <h3 id="attacco-extra-maggiore">Attacco Extra Maggiore</h3>
+        <p>Puoi attaccare 3 volte anziche' 2 e se utilizzi l'azione bonus per effettuare un attacco grazie a Combattere
+            con Due Armi o Combattere con Armi Doppie, effettui 2 attacchi anziche' 1.</p>
+        <h3 id="maestro-del-combattimento">Maestro del Combattimento</h3>
+        <p>Il punteggio di Forza o Destrezza aumenta di 2 e la Costituzione aumenta di 2 ed il punteggio massimo delle
+            caratteristiche scelte aumenta di 2.</p>
+        <p>Puoi attaccare 4 volte anziche' 3.</p>
     </main>
 
     <footer>© 2025 GDR Docs</footer>
