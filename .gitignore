@@ -396,7 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-tests
-scripts
+# tests
+# scripts
 # docs
-custom-scripts
+# custom-scripts
