@@ -1,0 +1,86 @@
+body{
+    margin:0;
+    font-family:system-ui,sans-serif;
+    background:#0b0c10;
+    color:#e0e0e0;
+    padding:0 20px;
+}
+header{
+    background:#111;
+    color:#ffd54a;
+    padding:16px;
+    text-align:center;
+    font-size:22px;
+    font-weight:700;
+    border-bottom:1px solid #333;
+    position:sticky;
+    top:0;
+    z-index:1000;
+}
+nav{
+    display:flex;
+    justify-content:center;
+    gap:12px;
+    flex-wrap:wrap;
+    padding:12px;
+    background:#141414;
+    margin-bottom:20px;
+    position:sticky;
+    top:56px;
+    z-index:999;
+}
+nav a{
+    text-decoration:none;
+    color:#ffd54a;
+    border:1px solid #ffd54a44;
+    padding:6px 12px;
+    border-radius:6px;
+    transition:all .2s;
+}
+nav a:hover{
+    background:#ffd54a;
+    color:#111;
+}
+main{max-width:900px;margin:auto;padding-bottom:40px;}
+h1,h2,h3,h4{color:#ffd54a;}
+table{border-collapse:collapse;width:100%;margin-bottom:20px;}
+th,td{border:1px solid #ffd54a44;padding:8px;text-align:left;}
+th{background:#222;}
+img{max-width:100%;height:auto;margin:20px 0;}
+footer{text-align:center;font-size:14px;padding:16px;border-top:1px solid #222;margin-top:40px;color:#888;}
+#back-to-top,#home-button{
+    position:fixed;
+    right:24px;
+    width:44px;
+    height:44px;
+    background:#ffd54a;
+    color:#111;
+    border-radius:50%;
+    text-align:center;
+    line-height:44px;
+    font-size:24px;
+    font-weight:bold;
+    cursor:pointer;
+    z-index:9999;
+    opacity:0;
+    pointer-events:none;
+    transition:opacity .3s;
+}
+#back-to-top{bottom:24px;}
+#home-button{bottom:80px;}
+#back-to-top.show,#home-button.show{opacity:1;pointer-events:auto;}
+#back-to-top:hover,#home-button:hover{opacity:.8;}
+main a{color:#ffd54a;text-decoration:none;transition:color .2s ease;}
+main a:hover{color:#ffcc00;text-decoration:underline;}
+.toc{background:#111;border:1px solid #333;border-radius:8px;padding:16px;margin:20px 0;}
+.toc summary{cursor:pointer;font-weight:bold;font-size:16px;color:#ffd54a;margin-bottom:8px;}
+.toc summary:hover{color:#ffcc00;}
+.toc ul{list-style:none;padding-left:0;}
+.toc li{margin:4px 0;}
+.toc li ul{padding-left:16px;}
+.toc a{color:#ffd54a;text-decoration:none;}
+.toc a:hover{color:#ffcc00;text-decoration:underline;}
+main ul{list-style-type:disc;margin:8px 0 8px 20px;padding-left:20px;}
+main ul ul{list-style-type:circle;margin:4px 0 4px 20px;padding-left:20px;}
+main ul ul ul{list-style-type:square;margin:2px 0 2px 20px;padding-left:20px;}
+main ul li{display:list-item;}
