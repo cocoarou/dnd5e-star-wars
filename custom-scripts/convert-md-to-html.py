@@ -4,7 +4,7 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/classi/Berserker/Avanzate del Berserker.md"
+    "./docs/classi/Berserker/Istinti del Berserker.md"
     # add more files here...
 ]
 
