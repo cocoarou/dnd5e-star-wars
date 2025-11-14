@@ -1,5 +1,5 @@
 # Istinti del Berserker
-
+<!-- TOC START -->
 - [Istinti del Berserker](#istinti-del-berserker)
   - [Istinto dell'Acklay](#istinto-dellacklay)
   - [Istinto del Bantha](#istinto-del-bantha)
@@ -18,7 +18,7 @@
   - [Istinto dell'Inseguitore](#istinto-dellinseguitore)
   - [Istinto del Terentatek](#istinto-del-terentatek)
   - [Istinto del Varactyl](#istinto-del-varactyl)
-
+<!-- TOC END -->
 ## Istinto dell'Acklay
 
 Ottieni vantaggio nei tiri salvezza su Costituzione quando sei in ira

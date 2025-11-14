@@ -1,5 +1,5 @@
 # Gesta dell'Operativo
-
+<!-- TOC START -->
 - [Gesta dell'Operativo](#gesta-delloperativo)
   - [Gesta del Comandante](#gesta-del-comandante)
   - [Gesta dell'Esploratore](#gesta-dellesploratore)
@@ -12,7 +12,7 @@
   - [Gesta delle Abilita'](#gesta-delle-abilita)
   - [Gesta Tecnologiche](#gesta-tecnologiche)
   - [Gesta del Maestro d'Armi](#gesta-del-maestro-darmi)
-
+<!-- TOC END -->
 ## Gesta del Comandante
 
 Ottieni competenza nelle armature medie

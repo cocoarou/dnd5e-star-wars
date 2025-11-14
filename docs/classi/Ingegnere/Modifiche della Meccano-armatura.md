@@ -1,5 +1,5 @@
 # Modifiche della Meccano-armatura
-
+<!-- TOC START -->
 - [Modifiche della Meccano-armatura](#modifiche-della-meccano-armatura)
   - [Scudo Assorbente](#scudo-assorbente)
   - [Movimento Accelerato](#movimento-accelerato)
@@ -27,7 +27,7 @@
   - [Ancorare Scudo](#ancorare-scudo)
   - [Tecno-blaster](#tecno-blaster)
   - [Armatura con Arma Integrata](#armatura-con-arma-integrata)
-
+<!-- TOC END -->
 ## Scudo Assorbente
 
 **Prerequisito:** Scudo

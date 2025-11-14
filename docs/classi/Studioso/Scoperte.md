@@ -1,5 +1,5 @@
 # Scoperte
-
+<!-- TOC START -->
 - [Scoperte](#scoperte)
   - [Memoria Accademica](#memoria-accademica)
   - [Adattabile](#adattabile)
@@ -24,7 +24,7 @@
   - [Tecnico Dilettante](#tecnico-dilettante)
   - [Linguaggio Universale](#linguaggio-universale)
   - [Manovre Versatili](#manovre-versatili)
-
+<!-- TOC END -->
 ## Memoria Accademica
 
 Riesci a ricordare qualsiasi cosa che tu abbia letto e compreso nello scorso mese come, per esempio, le seguenti cose (il privilegio non e' limitato alle opzioni presenti di seguito):

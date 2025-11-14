@@ -1,5 +1,5 @@
 # Ricerche Accademiche
-
+<!-- TOC START -->
 - [Ricerche Accademiche](#ricerche-accademiche)
   - [Ricerca del Giocatore d'Azzardo](#ricerca-del-giocatore-dazzardo)
     - [Attitudine al Gioco d'Azzardo](#attitudine-al-gioco-dazzardo)
@@ -29,7 +29,7 @@
     - [Scandagliare il Campo di Battaglia](#scandagliare-il-campo-di-battaglia)
     - [Attaccare con Tutto](#attaccare-con-tutto)
     - [Scoperte del Tattico](#scoperte-del-tattico)
-
+<!-- TOC END -->
 ## Ricerca del Giocatore d'Azzardo
 
 ### Attitudine al Gioco d'Azzardo

@@ -1,5 +1,5 @@
 # Forza-lancio Potenziato
-
+<!-- TOC START -->
 - [Forza-lancio Potenziato](#forza-lancio-potenziato)
   - [Potere Preciso](#potere-preciso)
   - [Potere Distante](#potere-distante)
@@ -12,7 +12,7 @@
   - [Potere Rifocalizzato](#potere-rifocalizzato)
   - [Potere Tracciante](#potere-tracciante)
   - [Potere Raddoppiato](#potere-raddoppiato)
-
+<!-- TOC END -->
 ## Potere Preciso
 
 Quando lanci un potere che obbliga una creatura ad effettuare un tiro salvezza puoi scegliere di proteggerne alcune ed evitare che subiscano il pieno effetto del potere. Per fare cio' devi spendere 1 punto potere e scegliere un numero massimo di creature pari al tuo modificatore di Saggezza o Carisma (scegli tu, minimo 1). Le creature scelte superano automaticamente il tiro salvezza.

@@ -1,5 +1,5 @@
 # Background
-
+<!-- TOC START -->
 - [Background](#background)
   - [Agente (Agent)](#agente-agent)
   - [Cacciatore di Taglie (Bounty Hunter)](#cacciatore-di-taglie-bounty-hunter)
@@ -21,7 +21,7 @@
   - [Contrabbandiere (Smuggler)](#contrabbandiere-smuggler)
   - [Soldato](#soldato)
   - [Amante dello Spazio (Spacer)](#amante-dello-spazio-spacer)
-
+<!-- TOC END -->
 ## Agente (Agent)
 
 ### Competenze nelle Abilita' <!-- omit in toc -->

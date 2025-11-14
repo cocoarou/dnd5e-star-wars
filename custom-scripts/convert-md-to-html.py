@@ -4,7 +4,12 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/classi/Berserker/Istinti del Berserker.md"
+    "./docs/classi/Guerriero/Maestrie in Combattimento.md",
+    "./docs/classi/Guerriero/Manovre.md",
+    "./docs/classi/Guerriero/Specializzazioni.md",
+    "./docs/classi/Guerriero/Stili delle Spade-Laser.md",
+    "./docs/classi/Guerriero/Stili di Combattimento.md",
+    "./docs/classi/Guerriero/Strategie.md"
     # add more files here...
 ]
 

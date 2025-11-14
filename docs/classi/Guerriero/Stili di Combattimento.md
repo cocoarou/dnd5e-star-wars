@@ -1,5 +1,5 @@
 # Stili di Combattimento
-
+<!-- TOC START -->
 - [Stili di Combattimento](#stili-di-combattimento)
   - [Stile del Controllo dell'Area](#stile-del-controllo-dellarea)
   - [Stile dell'Assistenza](#stile-dellassistenza)
@@ -32,7 +32,7 @@
   - [Stile Superiore](#stile-superiore)
   - [Stile di Lancio](#stile-di-lancio)
   - [Stile della Lama-Gemella](#stile-della-lama-gemella)
-
+<!-- TOC END -->
 ## Stile del Controllo dell'Area
 
 - Quando una creatura supera un tiro salvezza contro un tuo contenitore proiettante, puoi utilizzare 1 azione bonus per fargli ripetere il tiro salvezza

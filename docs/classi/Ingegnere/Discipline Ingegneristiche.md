@@ -1,5 +1,5 @@
 # Discipline Ingegneristiche
-
+<!-- TOC START -->
 - [Discipline Ingegneristiche](#discipline-ingegneristiche)
   - [Ingegneria Meccano-armature](#ingegneria-meccano-armature)
     - [Competenze Bonus - Ingegneria Meccano-armature](#competenze-bonus---ingegneria-meccano-armature)
@@ -32,7 +32,7 @@
     - [Creativita' Distruttiva](#creativita-distruttiva)
     - [Sovrascritture Sperimentali](#sovrascritture-sperimentali)
     - [Bombardamento Ingegneristico](#bombardamento-ingegneristico)
-
+<!-- TOC END -->
 ## Ingegneria Meccano-armature
 
 ### Competenze Bonus - Ingegneria Meccano-armature

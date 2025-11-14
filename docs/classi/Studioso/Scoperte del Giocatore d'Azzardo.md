@@ -1,5 +1,5 @@
 # Scoperte del Giocatore d'Azzardo
-
+<!-- TOC START -->
 - [Scoperte del Giocatore d'Azzardo](#scoperte-del-giocatore-dazzardo)
   - [Asso nella Manica](#asso-nella-manica)
   - [Contro il Banco](#contro-il-banco)
@@ -9,7 +9,7 @@
   - [Sotto Pressione](#sotto-pressione)
   - [Tentare un Azzardo](#tentare-un-azzardo)
   - [Il Numero Magico](#il-numero-magico)
-
+<!-- TOC END -->
 ## Asso nella Manica
 
 Quando effettui una prova di Destrezza (Rapidita' di Mano) o Carisma (Inganno) puoi spendere un dado di superiorita' ed aggiungere il risultato alla prova

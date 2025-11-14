@@ -1,5 +1,5 @@
 # Scoperte del Medico
-
+<!-- TOC START -->
 - [Scoperte del Medico](#scoperte-del-medico)
   - [Curatore a Distanza Migliorato](#curatore-a-distanza-migliorato)
   - [Cure Sperimentali](#cure-sperimentali)
@@ -8,7 +8,7 @@
   - [Protettore Paziente](#protettore-paziente)
   - [Precisione Chirurgica](#precisione-chirurgica)
   - [Soccorrere i Feriti](#soccorrere-i-feriti)
-
+<!-- TOC END -->
 ## Curatore a Distanza Migliorato
 
 **Prerequisito:** livello 11

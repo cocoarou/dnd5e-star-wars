@@ -1,5 +1,5 @@
 # Ideali della Sentinella
-
+<!-- TOC START -->
 - [Ideali della Sentinella](#ideali-della-sentinella)
   - [Ideale dell'Agile](#ideale-dellagile)
   - [Ideale dell'Artigiano](#ideale-dellartigiano)
@@ -10,7 +10,7 @@
   - [Ideale del Titano](#ideale-del-titano)
   - [Ideale della Tranquillita'](#ideale-della-tranquillita)
   - [Ideale del Vigoroso](#ideale-del-vigoroso)
-
+<!-- TOC END -->
 ## Ideale dell'Agile
 
 Ottieni una velocita' di nuotare e di scalare pari alla tua velocita' di movimento.

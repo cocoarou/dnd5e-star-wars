@@ -1,5 +1,5 @@
 # Maestrie in Combattimento
-
+<!-- TOC START -->
 - [Maestrie in Combattimento](#maestrie-in-combattimento)
   - [Maestria del Controllo dell'Area](#maestria-del-controllo-dellarea)
   - [Maestria dell'Assistenza](#maestria-dellassistenza)
@@ -33,7 +33,7 @@
   - [Maestria di Lancio](#maestria-di-lancio)
   - [Maestria della Lama Gemella](#maestria-della-lama-gemella)
   - [Maestria Versatile](#maestria-versatile)
-
+<!-- TOC END -->
 ## Maestria del Controllo dell'Area
 
 - Puoi calcolare la CD del contenitore proiettante utilizzando: 8 + bonus di competenza + modificatore di Intelligenza qualora il totale sia piu' alto dell'attuale CD dell'oggetto.

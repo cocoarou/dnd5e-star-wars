@@ -1,7 +1,7 @@
 # Auree del Guardiano
 
 Se piu' guardiani emettono la stessa aura, le creature che ne sono affette ne traggono i benefici solamente 1 volta. Devi essere cosciente per fornire i benefici dell'aura
-
+<!-- TOC START -->
 - [Auree del Guardiano](#auree-del-guardiano)
   - [Aura di Conquista](#aura-di-conquista)
   - [Aura di Convinzione](#aura-di-convinzione)
@@ -10,7 +10,7 @@ Se piu' guardiani emettono la stessa aura, le creature che ne sono affette ne tr
   - [Aura di Protezione](#aura-di-protezione)
   - [Aura di Vigore](#aura-di-vigore)
   - [Aura di Tutela](#aura-di-tutela)
-
+<!-- TOC END -->
 ## Aura di Conquista
 
 Quando una creatura che ha paura di te inizia il proprio turno a 1.5 m da te, subisce 4 livelli di [lentezza](../../condizioni/condizioni.md#lentezza) e subisce danni psichici pari a 1/2 del tuo livello da guardiano.

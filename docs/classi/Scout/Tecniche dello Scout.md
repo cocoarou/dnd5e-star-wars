@@ -1,5 +1,5 @@
 # Tecniche dello Scout
-
+<!-- TOC START -->
 - [Tecniche dello Scout](#tecniche-dello-scout)
   - [Tecnica del Bastione](#tecnica-del-bastione)
     - [Competenze Bonus - Tecnica del Bastione](#competenze-bonus---tecnica-del-bastione)
@@ -41,7 +41,7 @@
     - [Occultamento](#occultamento)
     - [Raffica dell'Inseguitore](#raffica-dellinseguitore)
     - [Schivata dell'Inseguitore](#schivata-dellinseguitore)
-
+<!-- TOC END -->
 ## Tecnica del Bastione
 
 ### Competenze Bonus - Tecnica del Bastione

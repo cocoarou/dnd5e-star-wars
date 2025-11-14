@@ -1,5 +1,5 @@
 # Focus del Guardiano
-
+<!-- TOC START -->
 - [Focus del Guardiano](#focus-del-guardiano)
   - [Stile Makashi](#stile-makashi)
     - [Basi dello Stile Makashi](#basi-dello-stile-makashi)
@@ -31,7 +31,7 @@
     - [Cerchio di Protezione](#cerchio-di-protezione)
     - [Resistere alla Corrente](#resistere-alla-corrente)
     - [Maestro della Resilienza](#maestro-della-resilienza)
-
+<!-- TOC END -->
 ## Stile Makashi
 
 ### Basi dello Stile Makashi

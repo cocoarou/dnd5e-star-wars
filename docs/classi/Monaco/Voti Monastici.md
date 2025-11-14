@@ -1,5 +1,5 @@
 # Voti Monastici
-
+<!-- TOC START -->
 - [Voti Monastici](#voti-monastici)
   - [Voto della Deviazione](#voto-della-deviazione)
   - [Voto della Devozione](#voto-della-devozione)
@@ -24,7 +24,7 @@
   - [Voto della Serenita'](#voto-della-serenita)
   - [Voto dello Spirito](#voto-dello-spirito)
   - [Voto della Versatilita'](#voto-della-versatilita)
-
+<!-- TOC END -->
 ## Voto della Deviazione
 
 Puoi utilizzare la tua reazione per deviare un attacco quando subisci danni da un attacco corpo a corpo con l'arma. Se lo fai, il danno subito dall'attacco viene ridotto di 1d10 + il tuo modificatore di Destrezza + il tuo livello da monaco

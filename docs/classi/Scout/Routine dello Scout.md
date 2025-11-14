@@ -1,5 +1,5 @@
 # Routine dello Scout
-
+<!-- TOC START -->
 - [Routine dello Scout](#routine-dello-scout)
   - [Routine dell'Adattabilita'](#routine-delladattabilita)
   - [Routine dello Specialista](#routine-dello-specialista)
@@ -9,7 +9,7 @@
   - [Routine del Cecchino](#routine-del-cecchino)
   - [Routine del Passo Veloce](#routine-del-passo-veloce)
   - [Routine del Guardiano](#routine-del-guardiano)
-
+<!-- TOC END -->
 ## Routine dell'Adattabilita'
 
 All'inizio di ognuno dei tuoi turni puoi scegliere un punteggio caratteristica di un tuo tiro salvezza, nel quale non sei competente. Fino all'inizio del tuo prossimo turno, aggiungi 1/2 del tuo bonus di competenza ai tiri salvezza effettuati con l'abilita' scelta. In alternativa, puoi scegliere di estendere questo beneficio agli alleati che si trovano a 1.5m da te

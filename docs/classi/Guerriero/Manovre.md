@@ -1,5 +1,5 @@
 # Manovre
-
+<!-- TOC START -->
 - [Manovre](#manovre)
   - [Prestare Soccorso](#prestare-soccorso)
   - [Prestare Soccorso (Maggiore)](#prestare-soccorso-maggiore)
@@ -101,7 +101,7 @@
   - [Il Mondo in Fiamme](#il-mondo-in-fiamme)
   - [Lottare e Trascinare](#lottare-e-trascinare)
   - [E Questa la Chiami Archeologia?](#e-questa-la-chiami-archeologia)
-
+<!-- TOC END -->
 ## Prestare Soccorso
 
 - Tipo: Mentale

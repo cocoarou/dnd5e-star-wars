@@ -1,5 +1,5 @@
 # Vocazioni della Sentinella
-
+<!-- TOC START -->
 - [Vocazioni della Sentinella](#vocazioni-della-sentinella)
   - [Sentiero della Concentrazione](#sentiero-della-concentrazione)
     - [Deflagrazione Concentrata](#deflagrazione-concentrata)
@@ -26,7 +26,7 @@
     - [Lancio della Lama Gemella](#lancio-della-lama-gemella)
     - [Lancio Dirompente](#lancio-dirompente)
     - [Maestria della Lama della Forza](#maestria-della-lama-della-forza)
-
+<!-- TOC END -->
 ## Sentiero della Concentrazione
 
 ### Deflagrazione Concentrata

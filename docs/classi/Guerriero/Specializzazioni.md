@@ -1,5 +1,5 @@
 # Specializzazioni
-
+<!-- TOC START -->
 - [Specializzazioni](#specializzazioni)
   - [Specialista d'Assalto](#specialista-dassalto)
     - [Forza Bruta](#forza-bruta)
@@ -35,7 +35,7 @@
     - [Adepto nelle Manovre](#adepto-nelle-manovre)
     - [Inarrestabile](#inarrestabile)
     - [Maestria nelle Manovre](#maestria-nelle-manovre)
-
+<!-- TOC END -->
 ## Specialista d'Assalto
 
 ### Forza Bruta

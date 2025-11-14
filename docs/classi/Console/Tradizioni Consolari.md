@@ -1,5 +1,5 @@
 # Tradizioni Consolari
-
+<!-- TOC START -->
 - [Tradizioni Consolari](#tradizioni-consolari)
   - [Sentiero dell'Equilibrio](#sentiero-dellequilibrio)
     - [Barriera della Forza](#barriera-della-forza)
@@ -25,7 +25,7 @@
     - [Curatore Benedetto](#curatore-benedetto)
     - [Benedetto dalla Forza](#benedetto-dalla-forza)
     - [Cura Suprema](#cura-suprema)
-
+<!-- TOC END -->
 ## Sentiero dell'Equilibrio
 
 ### Barriera della Forza

@@ -1,5 +1,5 @@
 # Scoperte del Tattico
-
+<!-- TOC START -->
 - [Scoperte del Tattico](#scoperte-del-tattico)
   - [Armatura del Comandante](#armatura-del-comandante)
   - [Piano di Riserva](#piano-di-riserva)
@@ -9,7 +9,7 @@
   - [Comandante Colto](#comandante-colto)
   - [Ritirata Tattica](#ritirata-tattica)
   - [Comandante senza Vincoli](#comandante-senza-vincoli)
-
+<!-- TOC END -->
 ## Armatura del Comandante
 
 **Prerequisito:** livello 5

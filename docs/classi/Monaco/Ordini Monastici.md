@@ -1,5 +1,5 @@
 # Ordini Monastici
-
+<!-- TOC START -->
 - [Ordini Monastici](#ordini-monastici)
   - [Ordine Cremisi](#ordine-cremisi)
     - [Armamenti Cremisi](#armamenti-cremisi)
@@ -21,7 +21,7 @@
     - [Magia Oscura](#magia-oscura)
     - [Maestria di Morte](#maestria-di-morte)
     - [Assalto della Lama Spirituale](#assalto-della-lama-spirituale)
-
+<!-- TOC END -->
 ## Ordine Cremisi
 
 ### Armamenti Cremisi

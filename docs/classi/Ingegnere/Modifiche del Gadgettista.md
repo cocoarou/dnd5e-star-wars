@@ -1,5 +1,5 @@
 # Modifiche del Gadgettista
-
+<!-- TOC START -->
 - [Modifiche del Gadgettista](#modifiche-del-gadgettista)
   - [Sistema di Messa a Terra Migliorato](#sistema-di-messa-a-terra-migliorato)
   - [Rigeneratore Autoignettante](#rigeneratore-autoignettante)
@@ -33,7 +33,7 @@
   - [Arma Integrata](#arma-integrata)
   - [Inibitori Avvizzenti](#inibitori-avvizzenti)
   - [Rampino da Polso](#rampino-da-polso)
-
+<!-- TOC END -->
 ## Sistema di Messa a Terra Migliorato
 
 **Prerequisito:** livello 13, Prototipo di Sistema di Messa a Terra

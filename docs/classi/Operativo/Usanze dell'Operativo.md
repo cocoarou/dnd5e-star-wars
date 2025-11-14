@@ -1,5 +1,5 @@
 # Usanze dell'Operativo
-
+<!-- TOC START -->
 - [Usanze dell'Operativo](#usanze-delloperativo)
   - [Usanza dell'Acquisizione](#usanza-dellacquisizione)
     - [Agile e Scattante](#agile-e-scattante)
@@ -38,7 +38,7 @@
     - [Presenza Ipnotizzante](#presenza-ipnotizzante)
     - [Vigore Affascinante](#vigore-affascinante)
     - [Espressione Distraente](#espressione-distraente)
-
+<!-- TOC END -->
 ## Usanza dell'Acquisizione
 
 ### Agile e Scattante

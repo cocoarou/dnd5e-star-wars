@@ -1,5 +1,28 @@
-### Condizioni
-
+### Condizioni <!-- omit in toc-->
+<!-- TOC START -->
+- [Condizioni ](#condizioni-)
+  - [Accecato](#accecato)
+  - [Ammaliato](#ammaliato)
+  - [Corroso](#corroso)
+  - [Assordato](#assordato)
+  - [Ammalato](#ammalato)
+  - [Esaurimento](#esaurimento)
+  - [Spaventato](#spaventato)
+  - [Preso in Lotta](#preso-in-lotta)
+  - [Incendiato](#incendiato)
+  - [Incapacitato](#incapacitato)
+  - [Invisibile](#invisibile)
+  - [Paralizzato](#paralizzato)
+  - [Pietrificato](#pietrificato)
+  - [Avvelenato](#avvelenato)
+  - [Prono](#prono)
+  - [Trattenuto](#trattenuto)
+  - [Scioccato](#scioccato)
+  - [Lentezza](#lentezza)
+  - [Stordito](#stordito)
+  - [Privo di Sensi](#privo-di-sensi)
+  - [Indebolito](#indebolito)
+<!-- TOC END -->
 #### Accecato
 
 - una creatura accecata non e' in grado di vedere e fallisce automaticamente qualsiasi prova di abilita' basata sulla vista

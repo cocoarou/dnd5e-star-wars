@@ -38,3 +38,31 @@ homeButton.addEventListener('click', () => {
     const repoPrefix = isGitHub ? '/' + window.location.pathname.split('/')[1] + '/' : '/';
     window.location.href = repoPrefix + 'index.html';
 });
+
+function smoothScrollWithOffset(target) {
+    const element = document.querySelector(target);
+    if (!element) return;
+
+    // Find any sticky element (header, nav, toolbar...)
+    const sticky = document.querySelector('[data-sticky], header, nav');
+    const offset = sticky ? sticky.offsetHeight : 0;
+
+    const targetPosition = element.getBoundingClientRect().top + window.pageYOffset;
+    const scrollPosition = targetPosition - offset;
+
+    window.scrollTo({
+        top: scrollPosition,
+        behavior: 'smooth'
+    });
+}
+
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        const hash = this.getAttribute('href');
+        if (hash.length > 1) {
+            e.preventDefault();
+            smoothScrollWithOffset(hash);
+        }
+    });
+});
+

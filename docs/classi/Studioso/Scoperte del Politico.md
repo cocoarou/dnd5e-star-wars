@@ -1,5 +1,5 @@
 # Scoperte del Politico
-
+<!-- TOC START -->
 - [Scoperte del Politico](#scoperte-del-politico)
   - [Finta Ammaliante](#finta-ammaliante)
   - [Leader Esigente](#leader-esigente)
@@ -8,7 +8,7 @@
   - [Parole Affidabili](#parole-affidabili)
   - [Scalatore Sociale](#scalatore-sociale)
   - [Ferocia del Tiranno](#ferocia-del-tiranno)
-
+<!-- TOC END -->
 ## Finta Ammaliante
 
 Gli alleati entro la gittata del privilegio di [Diplomatico Motivazionale](./Ricerche%20Accademiche.md#diplomatico-motivazionale) ottengono un bonus ai danni pari a meta' del tuo modificatore di [Analisi Critica](./Studioso.md#analisi-critica)

@@ -1,5 +1,5 @@
 # Strategie
-
+<!-- TOC START -->
 - [Strategie](#strategie)
   - [Stratega della Copertura](#stratega-della-copertura)
   - [Stratega Astuto](#stratega-astuto)
@@ -9,7 +9,7 @@
   - [Stratega delle Manovre](#stratega-delle-manovre)
   - [Abile Stratega](#abile-stratega)
   - [Stratega degli Stili](#stratega-degli-stili)
-
+<!-- TOC END -->
 ## Stratega della Copertura
 
 Consideri la copertura parziale come se fosse di uno step superiore (da 1/4 a 1/2 o da 1/2 a 3/4).

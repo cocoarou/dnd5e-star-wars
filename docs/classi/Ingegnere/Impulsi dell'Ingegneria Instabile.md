@@ -1,7 +1,7 @@
 # Impulsi dell'Ingegneria Instabile
-
+<!-- TOC START -->
 - [Impulsi dell'Ingegneria Instabile](#impulsi-dellingegneria-instabile)
-
+<!-- TOC END -->
 |d100|Risultato
 |---|---
 |01-02 |Tira su questa tabella all'inizio di ogni tuo turno per 1 minuto, ignorando questo risultato qualora dovesse ripresentarsi.

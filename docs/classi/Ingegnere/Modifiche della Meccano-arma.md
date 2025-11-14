@@ -1,5 +1,5 @@
 # Modifiche della Meccano-arma
-
+<!-- TOC START -->
 - [Modifiche della Meccano-arma](#modifiche-della-meccano-arma)
   - [Mirino](#mirino)
   - [Caricatore Amplificante](#caricatore-amplificante)
@@ -32,7 +32,7 @@
   - [Dispositivo di Monitoraggio](#dispositivo-di-monitoraggio)
   - [Torcia con Visione del Vero](#torcia-con-visione-del-vero)
   - [Oscillatore Velenoso](#oscillatore-velenoso)
-
+<!-- TOC END -->
 ## Mirino
 
 **Prerequisito:** livello 5, Blaster

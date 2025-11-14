@@ -1,5 +1,5 @@
 # Stili delle Spade-Laser
-
+<!-- TOC START -->
 - [Stili delle Spade-Laser](#stili-delle-spade-laser)
   - [Aqinos](#aqinos)
   - [Ataru](#ataru)
@@ -21,7 +21,7 @@
   - [Vaapad](#vaapad)
   - [Vonil](#vonil)
   - [Ysannanite](#ysannanite)
-
+<!-- TOC END -->
 ## Aqinos
 
 **Prerequisito:** poter lanciare poteri tecnologici
