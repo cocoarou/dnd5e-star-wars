@@ -4,12 +4,11 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/classi/Guerriero/Maestrie in Combattimento.md",
-    "./docs/classi/Guerriero/Manovre.md",
-    "./docs/classi/Guerriero/Specializzazioni.md",
-    "./docs/classi/Guerriero/Stili delle Spade-Laser.md",
-    "./docs/classi/Guerriero/Stili di Combattimento.md",
-    "./docs/classi/Guerriero/Strategie.md"
+    "./docs/classi/Ingegnere/Discipline Ingegneristiche.md",
+    "./docs/classi/Ingegnere/Impulsi dell'Ingegneria Instabile.md",
+    "./docs/classi/Ingegnere/Modifiche del Gadgettista.md",
+    "./docs/classi/Ingegnere/Modifiche della Meccano-arma.md",
+    "./docs/classi/Ingegnere/Modifiche della Meccano-armatura.md"
     # add more files here...
 ]
 
