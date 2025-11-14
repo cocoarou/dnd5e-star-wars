@@ -1,5 +1,5 @@
 # Avanzate del Berserker
-
+<!-- TOC START -->
 - [Avanzate del Berserker](#avanzate-del-berserker)
   - [Avanzata Balistica](#avanzata-balistica)
     - [Tempesta di Fuoco](#tempesta-di-fuoco)
@@ -28,7 +28,7 @@
     - [Potere Spericolato](#potere-spericolato)
     - [Presenza Possente](#presenza-possente)
     - [Tempesta della Forza](#tempesta-della-forza)
-
+<!-- TOC END -->
 ## Avanzata Balistica
 
 ### Tempesta di Fuoco
