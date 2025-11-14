@@ -1,5 +1,5 @@
 # Talenti
-
+<!-- TOC START -->
 - [Talenti](#talenti)
   - [Asso nella Guida (Ace Pilot)](#asso-nella-guida-ace-pilot)
   - [Acrobata (Acrobat)](#acrobata-acrobat)
@@ -66,7 +66,7 @@
   - [Imponente (Threatening)](#imponente-threatening)
   - [Inflessibile (Tough)](#inflessibile-tough)
   - [Esperto di Armi (Weapon Expert)](#esperto-di-armi-weapon-expert)
-
+<!-- TOC END -->
 ## Asso nella Guida (Ace Pilot)
 
 - aumenta il tuo punteggio di Intelligenza di 1, fino ad un massimo di 20

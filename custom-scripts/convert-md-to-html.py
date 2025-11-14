@@ -4,35 +4,7 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/razze/Bothan/Bothan.md",
-    "./docs/razze/Cathar/Cathar.md",
-    "./docs/razze/Cerean/Cerean.md",
-    "./docs/razze/Chiss/Chiss.md",
-    "./docs/razze/Devaronian/Devaronian.md",
-    "./docs/razze/Droide, Classe I/Droide, Classe I.md",
-    "./docs/razze/Droide, Classe II/Droide, Classe II.md",
-    "./docs/razze/Droide, Classe III/Droide, Classe III.md",
-    "./docs/razze/Droide, Classe IV/Droide, Classe IV.md",
-    "./docs/razze/Droide, Classe V/Droide, Classe V.md",
-    "./docs/razze/Duros/Duros.md",
-    "./docs/razze/Ewok/Ewok.md",
-    "./docs/razze/Gamorrean/Gamorrean.md",
-    "./docs/razze/Gungan/Gungan.md",
-    "./docs/razze/Ithorian/Ithorian.md",
-    "./docs/razze/Jawa/Jawa.md",
-    "./docs/razze/Kel Dor/Kel Dor.md",
-    "./docs/razze/Mon Calamari/Mon Calamari.md",
-    "./docs/razze/Nautolan/Nautolan.md",
-    "./docs/razze/Rodian/Rodian.md",
-    "./docs/razze/Sith Purosangue/Sith Purosangue.md",
-    "./docs/razze/Togruta/Togruta.md",
-    "./docs/razze/Trandoshan/Trandoshan.md",
-    "./docs/razze/Tusken/Tusken.md",
-    "./docs/razze/Twi'lek/Twi'lek.md",
-    "./docs/razze/Umano/Umano.md",
-    "./docs/razze/Veequay/Veequay.md",
-    "./docs/razze/Wookiee/Wookiee.md",
-    "./docs/razze/Zabrak/Zabrak.md"
+    "./docs/talenti/talenti.md"
     # add more files here...
 ]
 
