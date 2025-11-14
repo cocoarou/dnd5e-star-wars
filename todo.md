@@ -6,3 +6,4 @@
 ### Web-page
 
 - Aggiungere i link nelle tabelle per le classi: ingegnere, monaco, operativo, scout, sentinella, studioso
+- Lanciare script per creazione .html delle classi: monaco, operativo, scout, sentinella, studioso
