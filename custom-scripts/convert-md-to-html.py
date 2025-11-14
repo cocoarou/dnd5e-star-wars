@@ -4,7 +4,11 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/talenti/talenti.md"
+    "./docs/poteri/Descrizione Poteri della Forza.md",
+    "./docs/poteri/Descrizione Poteri Tecnologici.md",
+    "./docs/poteri/Poteri della Forza.md",
+    "./docs/poteri/Poteri Tecnologici.md",
+    "./docs/poteri/Regole sul Lancio dei Poteri.md"
     # add more files here...
 ]
 
@@ -101,7 +105,7 @@ for md_path_str in md_files:
 
 <!--
 <nav>
-<a href="../../classi.html">🔙 Indice Classi</a>
+<a href="../../classi.html">🔙 Classi</a>
 <a href="../../index.html">🏠 Home</a>
 </nav>
 -->

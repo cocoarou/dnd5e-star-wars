@@ -1,0 +1,1837 @@
+<!doctype html>
+<html lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Poteri Tecnologici — GDR</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="scripts-poteri.js"></script>
+</head>
+
+<body>
+
+    <header>Poteri Tecnologici</header>
+
+
+    <nav>
+        <a href="../poteri.html">🔙 Poteri</a>
+        <a href="../index.html">🏠 Home</a>
+        <a href="./Descrizione Poteri Tecnologici.html">Descrizione Poteri Tecnologici</a>
+    </nav>
+
+
+    <main>
+
+        <h1 id="poteri-tecnologici">Poteri Tecnologici</h1>
+        <input type="text" id="table-search" placeholder="Cerca..."
+            style="margin-bottom:10px; padding:6px; width:100%; max-width:400px;">
+        <table id="tabella-poteri" class="sortable">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Livello</th>
+                    <th>Tempo di Lancio</th>
+                    <th>Gittata</th>
+                    <th>Durata</th>
+                    <th>Concentrazione</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#assorbire-energia-absorb-energy">Assorbire
+                            Energia (Absorb Energy)</a></td>
+                    <td>1</td>
+                    <td>1 reazione che puoi compiere se subisci danni di tipo: acido, freddo, energia, fuoco, ioni,
+                        cinetici, elettrici o sonori</td>
+                    <td>Personale</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#dardo-acido-acid-dart">Dardo Acido (Acid
+                            Dart)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#spruzzo-acido-acid-splash">Spruzzo Acido (Acid
+                            Splash)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#vento-acido-acid-wind">Vento Acido (Acid
+                            Wind)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (cubo di 4.5 m)</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-acido-acidic-strike">Colpo Acido (Acidic
+                            Strike)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#allarme-alarm">Allarme (Alarm)</a></td>
+                    <td>1</td>
+                    <td>1 minuto</td>
+                    <td>9 m</td>
+                    <td>Fino al termine del tuo prossimo riposo breve o lungo</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#analizzare-analyze">Analizzare (Analyze)</a>
+                    </td>
+                    <td>1</td>
+                    <td>1 minuto</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#antipatiasimpatia-antipathysympathy">Antipatia/Simpatia
+                            (Antipathy/Sympathy)</a></td>
+                    <td>8</td>
+                    <td>1 ora</td>
+                    <td>18 m</td>
+                    <td>10 giorni</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#analizzare-la-situazione-assess-the-situation">Analizzare
+                            la Situazione (Assess the Situation)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 round</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#servitore-autonomo-autonomous-servant">Servitore
+                            Autonomo (Autonomous Servant)</a></td>
+                    <td>3</td>
+                    <td>1 minuto</td>
+                    <td>A contatto</td>
+                    <td>Fino al termine del tuo prossimo riposo breve o lungo</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#bacta-pack">Bacta Pack</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>1 minuto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scudo-balistico-ballistic-shield">Scudo
+                            Balistico (Ballistic Shield)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#iniettare-virus-bestow-virus">Iniettare Virus
+                            (Bestow Virus)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#buffer">Buffer</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#gabbia">Gabbia</a></td>
+                    <td>7</td>
+                    <td>1 azione standard</td>
+                    <td>30 m</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#funzionalita-aumentata-capacity-boost">Funzionalita'
+                            Aumentata (Capacity Boost)</a></td>
+                    <td>2</td>
+                    <td>1 azione bonus</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#nebbia-siderale-carbon-fog">Nebbia Siderale
+                            (Carbon Fog)</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#carbonite">Carbonite</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#esplosione-di-carbonite-carbonite-explosion">Esplosione
+                            di Carbonite (Carbonite Explosion)</a></td>
+                    <td>9</td>
+                    <td>1 azione standard</td>
+                    <td>75 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#schermo-occultante-cloaking-screen">Schermo
+                            Occultante (Cloaking Screen)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-combustivo-combustive-shot">Colpo
+                            Combustivo (Combustive Shot)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#triboli-nascosti-concealed-caltrops">Triboli
+                            Nascosti (Concealed Caltrops)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>45 m</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#condensarevaporizzare-condensevaporize">Condensare/Vaporizzare
+                            (Condense/Vaporize)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#contingenza-contingency">Contingenza
+                            (Contingency)</a></td>
+                    <td>6</td>
+                    <td>10 minuti</td>
+                    <td>Personale</td>
+                    <td>10 giorni</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#copiare-copy">Copiare (Copy)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#sfera-corrosiva-corrosive-sphere">Sfera
+                            Corrosiva (Corrosive Sphere)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>45 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#contromisure-countermeasures">Contromisure
+                            (Countermeasures)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>10 minuti</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#deflagrazione-criogenica-cryogenic-blast">Deflagrazione
+                            Criogenica (Cryogenic Blast)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#esplosione-criogenica-cryogenic-burst">Esplosione
+                            Criogenica (Cryogenic Burst)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#spruzzo-criogenico-cryogenic-spray">Spruzzo
+                            Criogenico (Cryogenic Spray)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#tempesta-criogenica-cryogenic-storm">Tempesta
+                            Criogenica (Cryogenic Storm)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#sospensione-criogenica-cryogenic-suspension">Sospensione
+                            Criogenica (Cryogenic Suspension)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#raffica-criogenica-cryogenic-volley">Raffica
+                            Criogenica (Cryogenic Volley)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#onda-criogenica-cryogenic-wave">Onda Criogenica
+                            (Cryogenic Wave)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (cono di 4.5 m)</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scurovisione-darkvision">Scurovisione
+                            (Darkvision)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino al termine del tuo prossimo riposo breve o lungo</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#gas-debilitante-debilitating-gas">Gas
+                            Debilitante (Debilitating Gas)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#programma-di-decrittazione-decryption-program">Programma
+                            di Decrittazione (Decryption Program)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#defibrillazione-defibrillate">Defibrillazione
+                            (Defibrillate)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#esplosione-ritardata-delayed-explosion">Esplosione
+                            Ritardata (Delayed Explosion)</a></td>
+                    <td>7</td>
+                    <td>1 azione standard</td>
+                    <td>45 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#distruggere-tecnologia-destroy-tech">Distruggere
+                            Tecnologia (Destroy Tech)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#individuare-potenziamenti-detect-enhancement">Individuare
+                            Potenziamenti (Detect Enhancement)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>45 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#individuare-invisibilita-detect-invisibility">Individuare
+                            Invisibilita' (Detect Invisibility)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#individuare-trappole-detect-traps">Individuare
+                            Trappole (Detect Traps)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#dissipare-tecnologia-diminish-tech">Dissipare
+                            Tecnologia (Diminish Tech)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#disintegrazione-disintegrate">Disintegrazione
+                            (Disintegrate)</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#disperdere-energia-disperse-energy">Disperdere
+                            Energia (Disperse Energy)</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#deflagrazione-riecheggiante-echo-blast">Deflagrazione
+                            Riecheggiante (Echo Blast)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#esplosione-elettrica-electrical-burst">Esplosione
+                            Elettrica (Electrical Burst)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (sfera di 1.5 m)</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#rete-elettrica-electromesh">Rete Elettrica
+                            (Electromesh)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#elettroshock-electroshock">Elettroshock
+                            (Electroshock)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#elemento-sorpresa-element-of-surprise">Elemento
+                            Sorpresa (Element of Surprise)</a></td>
+                    <td>1</td>
+                    <td>1 reazione che puoi compiere se subisci danni inferti da una creatura, entro 18 m da te, che
+                        puoi vedere</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#accelerante-elementale-elemental-accelerant">Accelerante
+                            Elementale (Elemental Accelerant)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#messaggio-criptato-encrypted-message">Messaggio
+                            Criptato (Encrypted Message)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#esplosione-energetica-energetic-burst">Esplosione
+                            Energetica (Energetic Burst)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>10 minuti</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#aura-energizzante-energizing-aura">Aura
+                            Energizzante (Energizing Aura)</a></td>
+                    <td>8</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scudo-energetico-energy-shield">Scudo
+                            Energetico (Energy Shield)</a></td>
+                    <td>1</td>
+                    <td>1 reazione che puoi compiere quando vieni colpito da un attacco</td>
+                    <td>Personale</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#potenziare-droide-enhance-droid">Potenziare
+                            Droide (Enhance Droid)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#potenziare-arma-enhance-weapon">Potenziare Arma
+                            (Enhance Weapon)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#eseguire-comando-execute-command">Eseguire
+                            Comando (Execute Command)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#ritirata-rapida-expeditious-retreat">Ritirata
+                            Rapida (Expeditious Retreat)</a></td>
+                    <td>1</td>
+                    <td>1 azione bonus</td>
+                    <td>Personale</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#esplosione-explosion">Esplosione
+                            (Explosion)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>45 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#estinguere-extinguish">Estinguere
+                            (Extinguish)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>8 m (cubo di 1.5 m)</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#fabbricare-trappole">Fabbricare Trappole</a>
+                    </td>
+                    <td>3</td>
+                    <td>1 ora</td>
+                    <td>A contatto</td>
+                    <td>Finche' non viene dissolto od azionato</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#trovare-il-sentiero-find-the-path">Trovare il
+                            Sentiero (Find the Path)</a></td>
+                    <td>6</td>
+                    <td>1 minuto</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 giorno</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#tempesta-di-fuoco-firestorm">Tempesta di Fuoco
+                            (Firestorm)</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#spazzata-infuocata-flame-sweep">Spazzata
+                            Infuocata (Flame Sweep)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (cono di 4.5 m)</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpi-infuocati-flaming-shots">Colpi Infuocati
+                            (Flaming Shots)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#flash">Flash</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scandagliare-frequenze-frequency-scan">Scandagliare
+                            Frequenze (Frequency Scan)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#fuoco-amico-friendly-fire">Fuoco Amico
+                            (Friendly Fire)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#contorno-luminescente-gleaming-outline">Contorno
+                            Luminescente (Gleaming Outline)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#planare-glide">Planare (Glide)</a></td>
+                    <td>2</td>
+                    <td>1 reazione che puoi prendere se tu od una creatura, entro 9 m da te, state cadendo</td>
+                    <td>9 m</td>
+                    <td>1 minuto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#analizzare-potenziato-greater-analyze">Analizzare
+                            Potenziato (Greater Analyze)</a></td>
+                    <td>5</td>
+                    <td>10 minuti</td>
+                    <td>Personale</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#esplosione-potenziata-greater-explosion">Esplosione
+                            Potenziata (Greater Explosion)</a></td>
+                    <td>9</td>
+                    <td>1 azione standard</td>
+                    <td>45 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#ologramma-potenziato-greater-hologram">Ologramma
+                            Potenziato (Greater Hologram)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#luce-potenziata-greater-light">Luce Potenziata
+                            (Greater Light)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a
+                            href="./Descrizione%20Poteri%20Tecnologici.md#sabotare-cariche-potenziato-greater-sabotage-charges">Sabotare
+                            Cariche Potenziato (Greater Sabotage Charges)</a></td>
+                    <td>7</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#salva-potenziata-greater-salvo">Salva
+                            Potenziata (Greater Salvo)</a></td>
+                    <td>9</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a
+                            href="./Descrizione%20Poteri%20Tecnologici.md#programma-di-traduzione-potenziato-greater-translation-program">Programma
+                            di Traduzione Potenziato (Greater Translation Program)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#traslazione-potenziata-greater-translocate">Traslazione
+                            Potenziata (Greater Translocate)</a></td>
+                    <td>5</td>
+                    <td>1 azione bonus</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#ologramma-di-gruppo-group-hologram">Ologramma
+                            di Gruppo (Group Hologram)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino alla fine del prossimo riposo breve o lungo</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#fuori-controllo-haywire">Fuori Controllo
+                            (Haywire)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#dominare-droide-hold-droid">Dominare Droide
+                            (Hold Droid)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#cella-di-contenimento-holding-cell">Cella di
+                            Contenimento (Holding Cell)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#ologramma-hologram">Ologramma (Hologram)</a>
+                    </td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#camuffamento-olografico-holographic-disguise">Camuffamento
+                            Olografico (Holographic Disguise)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#missili-traccianti-homing-rockets">Missili
+                            Traccianti (Homing Rockets)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-illusorio-illusory-strike">Colpo
+                            Illusorio (Illusory Strike)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#terreno-illusorio-illusory-terrain">Terreno
+                            Illusorio (Illusory Terrain)</a></td>
+                    <td>4</td>
+                    <td>10 minuti</td>
+                    <td>90 m</td>
+                    <td>24 ore</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#immolazione-immolate">Immolazione
+                            (Immolate)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#inserire-messaggio-implant-message">Inserire
+                            Messaggio (Implant Message)</a></td>
+                    <td>2</td>
+                    <td>1 minuto</td>
+                    <td>9 m</td>
+                    <td>Finche' non viene dissolto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#nuvola-incendiaria-incendiary-cloud">Nuvola
+                            Incendiaria (Incendiary Cloud)</a></td>
+                    <td>8</td>
+                    <td>1 azione standard</td>
+                    <td>45 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#infiltrarsi-infiltrate">Infiltrarsi
+                            (Infiltrate)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a
+                            href="./Descrizione%20Poteri%20Tecnologici.md#invisibilita-alle-videocamere-invisibility-to-cameras">Invisibilita'
+                            alle Videocamere (Invisibility to Cameras)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>3 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#invulnerabilita-invulnerability">Invulnerabilita'
+                            (Invulnerability)</a></td>
+                    <td>9</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#deflagrazione-ionizzante-ion-blast">Deflagrazione
+                            Ionizzante (Ion Blast)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#legame-ionizzante-ionic-bond">Legame Ionizzante
+                            (Ionic Bond)</a></td>
+                    <td>1</td>
+                    <td>1 azione bonus</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-ionizzante-ionic-strike">Colpo Ionizzante
+                            (Ionic Strike)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#piccola-fiamma-jet-of-flame">Piccola Fiamma
+                            (Jet of Flame)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (sfera di 9 m)</td>
+                    <td>10 minuti</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#nuvola-di-kolto-kolto-cloud">Nuvola di Kolto
+                            (Kolto Cloud)</a></td>
+                    <td>3</td>
+                    <td>1 azione bonus</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#distributore-di-kolto-kolto-dispenser">Distributore
+                            di Kolto (Kolto Dispenser)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m (cubo di 1.5 m)</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#infusione-di-kolto-kolto-infusion">Infusione di
+                            Kolto (Kolto Infusion)</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#kolto-pack">Kolto Pack</a></td>
+                    <td>1</td>
+                    <td>1 azione bonus</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#riserva-di-kolto-kolto-reserve">Riserva di
+                            Kolto (Kolto Reserve)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino al termine del prossimo riposo breve o lungo</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#onde-di-kolto-kolto-waves">Onde di Kolto (Kolto
+                            Waves)</a></td>
+                    <td>9</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#luce-light">Luce (Light)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#chiudere-a-chiave-lock">Chiudere a Chiave
+                            (Lock)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Finche' non viene dissolto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#campo-magnetico-magnetic-field">Campo Magnetico
+                            (Magnetic Field)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#infisso-magnetico-magnetic-hold">Infisso
+                            Magnetico (Magnetic Hold)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#riparare-droidi-di-massa-mass-repair-droid">Riparare
+                            Droidi di Massa (Mass Repair Droid)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#riparare-mending">Riparare (Mending)</a></td>
+                    <td>0</td>
+                    <td>1 minuto</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#defibrillazione-minore-minor-defibrillation">Defibrillazione
+                            Minore (Minor Defibrillation)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#ologramma-minore-minor-hologram">Ologramma
+                            Minore (Minor Hologram)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>3 m</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#immagine-speculare-mirror-image">Immagine
+                            Speculare (Mirror Image)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>1 minuto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#fuorviare-mislead">Fuorviare (Mislead)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#luci-mobili-mobile-lights">Luci Mobili (Mobile
+                            Lights)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#aumento-di-velocita-motivator-boost">Aumento di
+                            Velocita' (Motivator Boost)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#neurotossina-neurotoxin">Neurotossina
+                            (Neurotoxin)</a></td>
+                    <td>7</td>
+                    <td>1 azione bonus</td>
+                    <td>9 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#chiazza-di-petrolio-oil-slick">Chiazza di
+                            Petrolio (Oil Slick)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>1 minuto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#onoff">On/Off</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#surriscaldamento-overheat">Surriscaldamento
+                            (Overheat)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#sovraccarico-overload">Sovraccarico
+                            (Overload)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (cubo di 4.5 m)</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#sovrascrivere-interfaccia-override-interface">Sovrascrivere
+                            Interfaccia (Override Interface)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#paralizzare-creature-paralyze-creature">Paralizzare
+                            Creature (Paralyze Creature)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#paralizzare-umanoidi-paralyze-humanoid">Paralizzare
+                            Umanoidi (Paralyze Humanoid)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#esplosione-di-feromoni-pheromone-burst">Esplosione
+                            di Feromoni (Pheromone Burst)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (sfera di 1.5 m)</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#dardo-avvelenato-poison-dart">Dardo Avvelenato
+                            (Poison Dart)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#spruzzo-avvelenato-poison-spray">Spruzzo
+                            Avvelenato (Poison Spray)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>3 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#ia-percettiva-predictive-ai">IA Percettiva
+                            (Predictive AI)</a></td>
+                    <td>9</td>
+                    <td>1 minuto</td>
+                    <td>A contatto</td>
+                    <td>Fino al termine del prossimo riposo breve o lungo</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#preparazione-preparedness">Preparazione
+                            (Preparedness)</a></td>
+                    <td>1</td>
+                    <td>1 minuto</td>
+                    <td>A contatto</td>
+                    <td>Fino al termine del tuo prossimo riposo breve o lungo</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#stritolare-pressure-crush">Stritolare (Pressure
+                            Crush)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#illusione-programmata-programmed-illusion">Illusione
+                            Programmata (Programmed Illusion)</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Finche' non viene dissolto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#proiettare-ologramma-project-hologram">Proiettare
+                            Ologramma (Project Hologram)</a></td>
+                    <td>7</td>
+                    <td>1 azione standard</td>
+                    <td>750 km</td>
+                    <td>Fino a 24 ore</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#protezione-dallenergia-protection-from-energy">Protezione
+                            dall'Energia (Protection from Energy)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#pirotecnica-pyrotechnics">Pirotecnica
+                            (Pyrotechnics)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#radiazioni-radiation">Radiazioni
+                            (Radiation)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#leggere-la-memoria-read-memory">Leggere la
+                            Memoria (Read Memory)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>3 m</td>
+                    <td>10 minuti</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#riavviare-reboot">Riavviare (Reboot)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#rilasciare-release">Rilasciare (Release)</a>
+                    </td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#rimuovere-virus-remove-virus">Rimuovere Virus
+                            (Remove Virus)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#riparare-droidi-repair-droid">Riparare Droidi
+                            (Repair Droid)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#riprogrammare-droidi-reprogram-droid">Riprogrammare
+                            Droidi (Reprogram Droid)</a></td>
+                    <td>5</td>
+                    <td>1 minuto</td>
+                    <td>18 m</td>
+                    <td>30 giorni</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#alterare-la-memoria-rewrite-memory">Alterare la
+                            Memoria (Rewrite Memory)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scarica-gelida-rime-shot">Scarica Gelida (Rime
+                            Shot)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-gelido-rime-strike">Colpo Gelido (Rime
+                            Strike)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#cerchio-di-fuoco-ring-of-fire">Cerchio di Fuoco
+                            (Ring of Fire)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#sabotare-cariche-sabotage-charges">Sabotare
+                            Cariche (Sabotage Charges)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#salva-salvo">Salva (Salvo)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scandagliare-larea-scan-area">Scandagliare
+                            l'Area (Scan Area)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#confondere-interfaccia-scramble-interface">Confondere
+                            Interfaccia (Scramble Interface)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#barriera-interferente-scrambling-barrier">Barriera
+                            Interferente (Scrambling Barrier)</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (raggio di 3 m)</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#campo-interferente-scrambling-field">Campo
+                            Interferente (Scrambling Field)</a></td>
+                    <td>8</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (sfera con raggio di 3 m)</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#protocolli-di-sicurezza-security-protocols">Protocolli
+                            di Sicurezza (Security Protocols)</a></td>
+                    <td>6</td>
+                    <td>10 minuti</td>
+                    <td>A contatto</td>
+                    <td>24 ore</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#inviare-sending">Inviare (Sending)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>Illimitata</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#sonda-sensoriale-sensor-probe">Sonda Sensoriale
+                            (Sensor Probe)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scudi-condivisi-shared-shielding">Scudi
+                            Condivisi (Shared Shielding)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#frantumare-shatter">Frantumare (Shatter)</a>
+                    </td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#raggi-ionizzati-shocking-ray">Raggi Ionizzati
+                            (Shocking Ray)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#corto-circuito-short-circuit">Corto Circuito
+                            (Short Circuit)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#arresto-shutdown">Arresto (Shutdown)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a
+                            href="./Descrizione%20Poteri%20Tecnologici.md#medipack-a-rilascio-ritardato-slow-release-medpac">Medipack
+                            a Rilascio Ritardato (Slow-Release Medpac)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>Personale (raggio di 9 m)</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#nuvola-di-fumo-smoke-cloud">Nuvola di Fumo
+                            (Smoke Cloud)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#contrabbandare-smuggle">Contrabbandare
+                            (Smuggle)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#pugni-sonici-sonic-fists">Pugni Sonici (Sonic
+                            Fists)</a></td>
+                    <td>1</td>
+                    <td>1 azione bonus</td>
+                    <td>Personale</td>
+                    <td>1 minuto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scarica-sonica-sonic-shot">Scarica Sonica
+                            (Sonic Shot)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-sonico-sonic-strike">Colpo Sonico (Sonic
+                            Strike)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#fulmine-cromatico-spectrum-bolt">Fulmine
+                            Cromatico (Spectrum Bolt)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#raggio-cromatico-spectrum-ray">Raggio Cromatico
+                            (Spectrum Ray)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#trovare-debolezze-spot-the-weakness">Trovare
+                            Debolezze (Spot the Weakness)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#truccare-il-mazzo-stack-the-deck">Truccare il
+                            Mazzo (Stack the Deck)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-fulminante-storming-shot">Colpo
+                            Fulminante (Storming Shot)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#dardi-stordenti-stun-dart">Dardi Stordenti
+                            (Stun Dart)</a></td>
+                    <td>8</td>
+                    <td>1 azione standard</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a
+                            href="./Descrizione%20Poteri%20Tecnologici.md#programma-di-traduzione-superiore-superior-translating-program">Programma
+                            di Traduzione Superiore (Superior Translating Program)</a></td>
+                    <td>6</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>7 giorni</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#sincronia-synchronicity">Sincronia
+                            (Synchronicity)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#vantaggio-tattico-tactical-advantage">Vantaggio
+                            Tattico (Tactical Advantage)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#barriera-tattica-tactical-barrier">Barriera
+                            Tattica (Tactical Barrier)</a></td>
+                    <td>1</td>
+                    <td>1 azione bonus</td>
+                    <td>18 m</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#superiorita-tattica-tactical-superiority">Superiorita'
+                            Tattica (Tactical Superiority)</a></td>
+                    <td>7</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#puntare-il-bersaglio-target-lock">Puntare il
+                            Bersaglio (Target Lock)</a></td>
+                    <td>1</td>
+                    <td>1 azione bonus</td>
+                    <td>27 m</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-tracciante-targeting-shot">Colpo
+                            Tracciante (Targeting Shot)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#sovrascrivere-tecnologia-tech-override">Sovrascrivere
+                            Tecnologia (Tech Override)</a></td>
+                    <td>3</td>
+                    <td>1 reazione che puoi effettuare quando vedi una creatura, entro 18 m da te, che lancia un potere
+                        tecnologico</td>
+                    <td>18 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#incremento-temporaneo-temporary-boost">Incremento
+                            Temporaneo (Temporary Boost)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>Fino ad 1 minuto</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#traslazione-tonante-tonal-translocate">Traslazione
+                            Tonante (Tonal Translocate)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#nuvola-tossica-toxic-cloud">Nuvola Tossica
+                            (Toxic Cloud)</a></td>
+                    <td>5</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#epurare-tossine-toxin-purge">Epurare Tossine
+                            (Toxin Purge)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#individuare-veleni-toxin-scan">Individuare
+                            Veleni (Toxin Scan)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>Fino a 10 minuti</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#lampo-tracciante-tracer-bolt">Lampo Tracciante
+                            (Tracer Bolt)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>36 m</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a
+                            href="./Descrizione%20Poteri%20Tecnologici.md#interfaccia-del-droide-segugio-tracker-droid-interface">Interfaccia
+                            del Droide Segugio (Tracker Droid Interface)</a></td>
+                    <td>1</td>
+                    <td>1 ora</td>
+                    <td>9 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#tranquillizzante-tranquilizer">Tranquillizzante
+                            (Tranquilizer)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>27 m</td>
+                    <td>1 minuto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#programma-di-traduzione-translation-program">Programma
+                            di Traduzione (Translation Program)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#traslazione-translocate">Traslazione
+                            (Translocate)</a></td>
+                    <td>2</td>
+                    <td>1 azione bonus</td>
+                    <td>Personale</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#siero-della-verita-truth-serum">Siero della
+                            Verita' (Truth Serum)</a></td>
+                    <td>2</td>
+                    <td>1 azione standard</td>
+                    <td>A contatto</td>
+                    <td>10 minuti</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-velenoso-venomous-strike">Colpo Velenoso
+                            (Venomous Strike)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#manovra-verticale-vertical-maneuvering">Manovra
+                            Verticale (Vertical Maneuvering)</a></td>
+                    <td>3</td>
+                    <td>1 azione standard od 1 reazione che puoi effettuare se stai cadendo e ti trovi entro 9 m da una
+                        superficie solida</td>
+                    <td>Personale</td>
+                    <td>Fino ad 1 ora</td>
+                    <td>Concentrazione</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#scudo-voltaico-voltaic-shielding">Scudo
+                            Voltaico (Voltaic Shielding)</a></td>
+                    <td>1</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>1 ora</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-vorticante-vortex-shot">Colpo Vorticante
+                            (Vortex Shot)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#protezione-ward">Protezione (Ward)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Personale</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#colpo-affaticante-warding-shot">Colpo
+                            Affaticante (Warding Shot)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>Varia</td>
+                    <td>1 round</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#cavi-costrittivi-wire-bind">Cavi Costrittivi
+                            (Wire Bind)</a></td>
+                    <td>4</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>1 minuto</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><a href="./Descrizione%20Poteri%20Tecnologici.md#lanciare-cavi-wire-line">Lanciare Cavi (Wire
+                            Line)</a></td>
+                    <td>0</td>
+                    <td>1 azione standard</td>
+                    <td>9 m</td>
+                    <td>Istantanea</td>
+                    <td>-</td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+
+    <footer>© 2025 GDR Docs</footer>
+    <a id="back-to-top" title="Torna su">↑</a>
+    <a id="home-button" title="Home">🏠</a>
+
+</body>
+
+</html>

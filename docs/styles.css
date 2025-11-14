@@ -84,3 +84,105 @@ main ul{list-style-type:disc;margin:8px 0 8px 20px;padding-left:20px;}
 main ul ul{list-style-type:circle;margin:4px 0 4px 20px;padding-left:20px;}
 main ul ul ul{list-style-type:square;margin:2px 0 2px 20px;padding-left:20px;}
 main ul li{display:list-item;}
+
+/* Search bar styling */
+#table-search {
+    background: #111;
+    color: #ffd54a;
+    border: 1px solid #ffd54a44;
+    border-radius: 6px;
+    padding: 6px 12px;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 12px;
+    font-family: system-ui, sans-serif;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+#table-search::placeholder {
+    color: #ffd54a88;
+}
+
+#table-search:focus {
+    outline: none;
+    border-color: #ffd54a;
+    box-shadow: 0 0 6px #ffd54a55;
+}
+
+/* Table styling */
+table.sortable {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+    background: #0b0c10;
+}
+
+table.sortable th,
+table.sortable td {
+    border: 1px solid #ffd54a44;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Table header */
+table.sortable th {
+    background: #222;
+    color: #ffd54a;
+    cursor: pointer;
+    position: relative;
+    user-select: none;
+    transition: background 0.2s;
+    padding-right: 24px; /* extra space for sort arrow */
+}
+
+table.sortable th:hover {
+    background: #333;
+}
+
+/* Sort arrow */
+table.sortable th::after {
+    content: "▾"; /* default down arrow */
+    font-size: 12px;
+    color: #ffd54a55;
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%); /* vertically center */
+    transition: transform 0.2s, color 0.2s;
+}
+
+table.sortable th.sorted-asc::after {
+    transform: translateY(-50%) rotate(180deg);
+    color: #ffd54a;
+}
+
+table.sortable th.sorted-desc::after {
+    color: #ffd54a;
+}
+
+/* Table rows */
+table.sortable tbody tr {
+    background: #111;
+    transition: background 0.2s;
+}
+
+table.sortable tbody tr:nth-child(even) {
+    background: #141414;
+}
+
+table.sortable tbody tr:hover {
+    background: #222;
+}
+
+/* Links inside table cells */
+table.sortable tbody tr td a {
+    color: #ffd54a;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+table.sortable tbody tr td a:hover {
+    color: #ffcc00;
+    text-decoration: underline;
+}
