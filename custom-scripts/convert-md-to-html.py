@@ -4,14 +4,7 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/classi/Guardiano/Guardiano.md",
-    "./docs/classi/Guerriero/Guerriero.md",
-    "./docs/classi/Ingegnere/Ingegnere.md",
-    "./docs/classi/Monaco/Monaco.md",
-    "./docs/classi/Operativo/Operativo.md",
-    "./docs/classi/Scout/Scout.md",
-    "./docs/classi/Sentinella/Sentinella.md",
-    "./docs/classi/Studioso/Studioso.md"
+    "./docs/classi/Berserker/Avanzate del Berserker.md"
     # add more files here...
 ]
 
@@ -100,41 +93,7 @@ for md_path_str in md_files:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{md_file.stem} — GDR</title>
-<style>
-body {{ margin:0; font-family: system-ui, sans-serif; background:#0b0c10; color:#e0e0e0; padding:0 20px; }}
-header {{ background:#111; color:#ffd54a; padding:16px; text-align:center; font-size:22px; font-weight:700; border-bottom:1px solid #333; position: sticky; top:0; z-index:1000; }}
-nav {{ display:flex; justify-content:center; gap:12px; flex-wrap:wrap; padding:12px; background:#141414; margin-bottom:20px; position: sticky; top:56px; z-index:999; }}
-nav a {{ text-decoration:none; color:#ffd54a; border:1px solid #ffd54a44; padding:6px 12px; border-radius:6px; transition: all .2s; }}
-nav a:hover {{ background:#ffd54a; color:#111; }}
-main {{ max-width:900px; margin:auto; padding-bottom:40px; }}
-h1, h2, h3, h4 {{ color:#ffd54a; }}
-table {{ border-collapse: collapse; width:100%; margin-bottom:20px; }}
-th, td {{ border:1px solid #ffd54a44; padding:8px; text-align:left; }}
-th {{ background:#222; }}
-img {{ max-width:100%; height:auto; margin:20px 0; }}
-footer {{ text-align:center; font-size:14px; padding:16px; border-top:1px solid #222; margin-top:40px; color:#888; }}
-#back-to-top {{ position: fixed; bottom:24px; right:24px; width:44px; height:44px; background:#ffd54a; color:#111; border-radius:50%; text-align:center; line-height:44px; font-size:24px; font-weight:bold; cursor:pointer; z-index:9999; opacity:0; pointer-events:none; transition: opacity .3s; }}
-#back-to-top.show {{ opacity:1; pointer-events:auto; }}
-#back-to-top:hover {{ opacity:0.8; }}
-main a {{ color: #ffd54a; text-decoration:none; transition: color 0.2s ease; }}
-main a:hover {{ color: #ffcc00; text-decoration: underline; }}
-
-/* TOC accordion */
-.toc {{ background: #111; border:1px solid #333; border-radius:8px; padding:16px; margin:20px 0; }}
-.toc summary {{ cursor: pointer; font-weight: bold; font-size:16px; color:#ffd54a; margin-bottom:8px; }}
-.toc summary:hover {{ color:#ffcc00; }}
-.toc ul {{ list-style:none; padding-left:0; }}
-.toc li {{ margin:4px 0; }}
-.toc li ul {{ padding-left:16px; }}
-.toc a {{ color:#ffd54a; text-decoration:none; }}
-.toc a:hover {{ color:#ffcc00; text-decoration: underline; }}
-
-/* Nested list fix for main content */
-main ul {{ list-style-type: disc; margin:8px 0 8px 20px; padding-left:20px; }}
-main ul ul {{ list-style-type: circle; margin:4px 0 4px 20px; padding-left:20px; }}
-main ul ul ul {{ list-style-type: square; margin:2px 0 2px 20px; padding-left:20px; }}
-main ul li {{ display:list-item; }}
-</style>
+<link rel="stylesheet" href="../../styles.css">
 </head>
 <body>
 
@@ -153,33 +112,9 @@ main ul li {{ display:list-item; }}
 
 <footer>© 2025 GDR Docs</footer>
 <a id="back-to-top" title="Torna su">↑</a>
+<a id="home-button" title="Home">🏠</a>
 
-<script>
-// Back-to-top button
-const backToTop = document.getElementById('back-to-top');
-window.addEventListener('scroll', () => {{
-    if(window.scrollY > 200) backToTop.classList.add('show');
-    else backToTop.classList.remove('show');
-}});
-backToTop.addEventListener('click', () => {{
-    window.scrollTo({{ top: 0, behavior: 'smooth' }});
-}});
-
-// Smooth scroll for internal links accounting for sticky header
-document.querySelectorAll('main a[href^="#"]').forEach(anchor => {{
-    anchor.addEventListener('click', function(e) {{
-        const targetId = this.getAttribute('href').substring(1);
-        const targetEl = document.getElementById(targetId);
-        const headerOffset = document.querySelector('header').offsetHeight + 8;
-        if (targetEl) {{
-            e.preventDefault();
-            const elementPosition = targetEl.getBoundingClientRect().top + window.pageYOffset;
-            const offsetPosition = elementPosition - headerOffset;
-            window.scrollTo({{ top: offsetPosition, behavior: 'smooth' }});
-        }}
-    }});
-}});
-</script>
+<script src="../../scripts.js"></script>
 
 </body>
 </html>
