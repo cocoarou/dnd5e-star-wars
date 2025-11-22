@@ -79,7 +79,11 @@ Scegli tra antipatia o simpatia, come effetto dell'aura
 
 **Antipatia:** il potere causa, alle creature del tipo scelto, un'intenso bisogno di fuggire dall'area o di evitare il bersaglio. Quando una di queste creature vede il bersaglio o si trova entro 18 m da esso, deve superare un tiro salvezza su Saggezza per non essere spaventata. La creatura rimane spaventata finche' puo' vedere il bersaglio o si trovi entro 18 m da esso. Finche' e' in questo stato, la creatura deve utilizzare tutto il suo movimento per fuggire verso il punto piu' sicuro, nelle immediate vicinanze, dal quale puo' ripararsi dalla visione del bersaglio. Se la creatura si muove oltre i 18 m e non e' piu' in grado di vedere il bersaglio, non e' piu' da considerarsi spaventata, ma essa ottiene nuovamente questo stato se vede nuovamente il bersaglio o se si muove entro 18 m da esso.
 
-**Simpatia:** 
+**Simpatia:** il potere causa, alle creature del tipo scelto, un intenso bisogno di avvicinarsi al bersaglio se si trova entro 18 m da esso ed e' visibile. Quando questa creatura vede il bersaglio e si trova entro 18 m, deve superare un tiro salvezza su Saggezza per non utilizzare tutto il suo movimento per entrare nell'area dell'oggetto. Una volta che cio' accade, la creatura non puo' allontanarsi volontariamente dal bersaglio. Se il bersaglio danneggia in alcun modo la creatura affetta, essa ha diritto ad un tiro salvezza su Saggezza per porre fine all'effetto, come elencato qui sotto.
+
+**Porre fine all'effetto:** se la creatura sotto l'influenza del potere termina il suo turno fuori dai 18 m dall'oggetto o non e' piu' in grado di vederlo, puo' effettuare un tiro salvezza su Saggezza. Se supera il tiro, l'effetto sulla creatura termina e riconosce la sorgente innaturale di tale sentimento di antipatia/simpatia. Inoltre, la creatura ha diritto ad un nuovo tiro salvezza su Saggezza ogni 24 h, finche' l'effetto persiste. 
+
+Una creatura che supera il tiro salvezza e' immune da questo effetto per 1 minuto, dopo il quale puo' nuovamente esserne influenzata.
 
 ## Analizzare la Situazione (Assess the Situation)
 
