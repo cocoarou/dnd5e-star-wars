@@ -186,3 +186,7 @@ table.sortable tbody tr td a:hover {
     color: #ffcc00;
     text-decoration: underline;
 }
+
+h2, h3, h4, .section-title {
+  scroll-margin-top: 130px; /* equal to your header height */
+}
