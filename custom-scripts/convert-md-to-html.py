@@ -4,11 +4,7 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/poteri/Descrizione Poteri della Forza.md",
-    "./docs/poteri/Descrizione Poteri Tecnologici.md",
-    "./docs/poteri/Poteri della Forza.md",
-    "./docs/poteri/Poteri Tecnologici.md",
-    "./docs/poteri/Regole sul Lancio dei Poteri.md"
+    "./docs/poteri/Poteri della Forza.md"
     # add more files here...
 ]
 
