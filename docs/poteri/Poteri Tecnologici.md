@@ -12,10 +12,12 @@
 |[Antipatia/Simpatia (Antipathy/Sympathy)](./Descrizione%20Poteri%20Tecnologici.md#antipatiasimpatia-antipathysympathy)|8|1 ora|18 m|10 giorni|-
 |[Analizzare la Situazione (Assess the Situation)](./Descrizione%20Poteri%20Tecnologici.md#analizzare-la-situazione-assess-the-situation)|0|1 azione standard|9 m|Fino ad 1 round|Concentrazione
 |[Servitore Autonomo (Autonomous Servant)](./Descrizione%20Poteri%20Tecnologici.md#servitore-autonomo-autonomous-servant)|3|1 minuto|A contatto|Fino al termine del tuo prossimo riposo breve o lungo|-
-|[Bacta Pack](./Descrizione%20Poteri%20Tecnologici.md#bacta-pack)|1|1 azione standard|18 m|1 minuto|-
+|[Contenitore Bacta (Bacta Pack)](./Descrizione%20Poteri%20Tecnologici.md#contenitore-bacta-bacta-pack)|1|1 azione standard|18 m|1 minuto|-
 |[Scudo Balistico (Ballistic Shield)](./Descrizione%20Poteri%20Tecnologici.md#scudo-balistico-ballistic-shield)|4|1 azione standard|Personale|Fino ad 1 ora|Concentrazione
+|[Raffica (Barrage)](./Descrizione%20Poteri%20Tecnologici.md#raffica-barrage)|1|1 azione standard|36 m|Istantanea|Concentrazione
 |[Iniettare Virus (Bestow Virus)](./Descrizione%20Poteri%20Tecnologici.md#iniettare-virus-bestow-virus)|3|1 azione standard|A contatto|Fino ad 1 minuto|Concentrazione
 |[Buffer](./Descrizione%20Poteri%20Tecnologici.md#buffer)|1|1 azione standard|Personale|1 ora|-
+|[Esplosione di Fiamme (Burst of Flame)](./Descrizione%20Poteri%20Tecnologici.md#esplosione-di-fiamme-burst-of-flame)|2|1 azione standard|Personale (lineare di 9 m)|Istantanea|-
 |[Gabbia](./Descrizione%20Poteri%20Tecnologici.md#gabbia)|7|1 azione standard|30 m|1 ora|-
 |[Funzionalita' Aumentata (Capacity Boost)](./Descrizione%20Poteri%20Tecnologici.md#funzionalita-aumentata-capacity-boost)|2|1 azione bonus|A contatto|Fino ad 1 minuto|Concentrazione
 |[Nebbia Siderale (Carbon Fog)](./Descrizione%20Poteri%20Tecnologici.md#nebbia-siderale-carbon-fog)|6|1 azione standard|36 m|Fino ad 1 minuto|Concentrazione
@@ -25,11 +27,13 @@
 |[Colpo Combustivo (Combustive Shot)](./Descrizione%20Poteri%20Tecnologici.md#colpo-combustivo-combustive-shot)|0|1 azione standard|Varia|1 round|-
 |[Triboli Nascosti (Concealed Caltrops)](./Descrizione%20Poteri%20Tecnologici.md#triboli-nascosti-concealed-caltrops)|2|1 azione standard|45 m|Fino ad 1 ora|Concentrazione
 |[Condensare/Vaporizzare (Condense/Vaporize)](./Descrizione%20Poteri%20Tecnologici.md#condensarevaporizzare-condensevaporize)|1|1 azione standard|9 m|Istantanea|-
+|[Costruire Droide (Construct Droid)](./Descrizione%20Poteri%20Tecnologici.md#costruire-droide-construct-droid)|2|1 minuto|3 m|Fino ad 1 ora|Concentrazione
 |[Contingenza (Contingency)](./Descrizione%20Poteri%20Tecnologici.md#contingenza-contingency)|6|10 minuti|Personale|10 giorni|-
 |[Copiare (Copy)](./Descrizione%20Poteri%20Tecnologici.md#copiare-copy)|1|1 azione standard|A contatto|Istantanea|-
 |[Sfera Corrosiva (Corrosive Sphere)](./Descrizione%20Poteri%20Tecnologici.md#sfera-corrosiva-corrosive-sphere)|4|1 azione standard|45 m|Istantanea|-
 |[Contromisure (Countermeasures)](./Descrizione%20Poteri%20Tecnologici.md#contromisure-countermeasures)|1|1 azione standard|Personale|10 minuti|-
 |[Deflagrazione Criogenica (Cryogenic Blast)](./Descrizione%20Poteri%20Tecnologici.md#deflagrazione-criogenica-cryogenic-blast)|1|1 azione standard|18 m|Istantanea|-
+|[Colpo Criogenico (Cryogenic Blow)](./Descrizione%20Poteri%20Tecnologici.md#colpo-criogenico-cryogenic-blow)|1|1 azione bonus|Personale|Fino ad 1 minuto|Concentrazione
 |[Esplosione Criogenica (Cryogenic Burst)](./Descrizione%20Poteri%20Tecnologici.md#esplosione-criogenica-cryogenic-burst)|0|1 azione standard|18 m|Istantanea|-
 |[Spruzzo Criogenico (Cryogenic Spray)](./Descrizione%20Poteri%20Tecnologici.md#spruzzo-criogenico-cryogenic-spray)|5|1 azione standard|Personale|Istantanea|-
 |[Tempesta Criogenica (Cryogenic Storm)](./Descrizione%20Poteri%20Tecnologici.md#tempesta-criogenica-cryogenic-storm)|4|1 azione standard|36 m|Istantanea|-
