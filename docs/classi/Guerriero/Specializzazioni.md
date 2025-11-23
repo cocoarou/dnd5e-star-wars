@@ -118,7 +118,7 @@ Quando utilizzi il privilegio di classe [Azione Impetuosa](./Guerriero.md#azione
 
 **Livello:** 18
 
-Puoi utilizzare l'azione standard per effettuare un attacco corpo a corpo con l'arma contro ogni creatura entro portata. Effettui un tiro separato per ogni attacco. Il primo attacco ottiene un bonus di +1 al tiro per colpire ed ogni attacco dopo il primo ottiene un bonus cumulativo di +1 fino ad un massimo di +6. Se impugni armi-laser, vibro-armi od un'arma con la proprieta' doppia, puoi aggiungere questo bonus anche ai danni e puoi utilizzare la tua azione bonus per Combattere con Due Armi o Combattere con Armi Doppie.
+Puoi utilizzare l'azione per effettuare un attacco corpo a corpo con l'arma contro ogni creatura entro portata. Effettui un tiro separato per ogni attacco. Il primo attacco ottiene un bonus di +1 al tiro per colpire ed ogni attacco dopo il primo ottiene un bonus cumulativo di +1 fino ad un massimo di +6. Se impugni armi-laser, vibro-armi od un'arma con la proprieta' doppia, puoi aggiungere questo bonus anche ai danni e puoi utilizzare la tua azione bonus per Combattere con Due Armi o Combattere con Armi Doppie.
 
 Puoi riutilizzare questo privilegio dopo aver completato un riposo breve o lungo
 

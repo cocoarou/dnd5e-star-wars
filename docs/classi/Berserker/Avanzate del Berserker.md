@@ -135,7 +135,7 @@ Quando spingi una creatura contro una superficie o contro un'altra creatura, men
 ### Assalto Implacabile
 
 **Livello:** 14
-Con un'azione standard puoi effettuare una carica in linea retta al doppio della tua velocita' di movimento senza provocare attacchi d'opportunita'. Ogni creatura che si trovi ad 1.5 m dalla tua traiettoria deve effettuare un tiro salvezza su Forza o Destrezza (sceglie la creatura) con CD: 8 + il tuo bonus di competenza + il tuo modificatore di Forza. Chiunque fallisca il tiro salvezza subisce danni pari al tuo modificatore di Forza + i danni dell'ira e se la taglia della creatura non va oltre una categoria superiore alla tua, viene spinta di 1.5 m in una direzione da te scelta. Le creature piu' piccole di te effettuano il tiro salvezza subendo svantaggio. Al termine di questo movimento, se una creatura e' a 1.5m da te, puoi effettuare un attacco con l'arma (non e' un'azione). Se colpisci, la creatura subisce, oltre ai danni che si applicherebbero normalmente, dei danni addizionali pari al tuo livello di Berserker.
+Con un'azione puoi effettuare una carica in linea retta al doppio della tua velocita' di movimento senza provocare attacchi d'opportunita'. Ogni creatura che si trovi ad 1.5 m dalla tua traiettoria deve effettuare un tiro salvezza su Forza o Destrezza (sceglie la creatura) con CD: 8 + il tuo bonus di competenza + il tuo modificatore di Forza. Chiunque fallisca il tiro salvezza subisce danni pari al tuo modificatore di Forza + i danni dell'ira e se la taglia della creatura non va oltre una categoria superiore alla tua, viene spinta di 1.5 m in una direzione da te scelta. Le creature piu' piccole di te effettuano il tiro salvezza subendo svantaggio. Al termine di questo movimento, se una creatura e' a 1.5m da te, puoi effettuare un attacco con l'arma (non e' un'azione). Se colpisci, la creatura subisce, oltre ai danni che si applicherebbero normalmente, dei danni addizionali pari al tuo livello di Berserker.
 
 Recuperi l'utilizzo di questa capacita' dopo aver completato un riposo breve o lungo.
 
@@ -190,7 +190,7 @@ Utilizzi Saggezza per i poteri del lato chiaro della forza, Carisma per i poteri
 
 **Livello:** 3
 
-Puoi lanciare i poteri della forza anche mentre sei in ira se: il tempo di lancio del potere sia di 1 azione standard, non necessiti di concentrazione e se il berserker non indossa armature pesanti. Mentre sei in ira aggiungi il tuo danno d'ira ai tiri per i danni dei poteri della forza che lanci e che richiedono un attacco della forza o un tiro salvezza. Se il potere della forza danneggia piu' di un bersaglio puoi applicare il danno dell'ira solamente ad uno di essi.
+Puoi lanciare i poteri della forza anche mentre sei in ira se: il tempo di lancio del potere sia di 1 azione, non necessiti di concentrazione e se il berserker non indossa armature pesanti. Mentre sei in ira aggiungi il tuo danno d'ira ai tiri per i danni dei poteri della forza che lanci e che richiedono un attacco della forza o un tiro salvezza. Se il potere della forza danneggia piu' di un bersaglio puoi applicare il danno dell'ira solamente ad uno di essi.
 
 Lanciare poteri della forza durante l'ira conta come l'aver effettuato un attacco ai fini di mantenere l'ira e puoi utilizzare la capacita' [Attacco Irruento](./Berserker.md#attacco-irruento) per guadagnare vantaggio mentre lanci un potere della forza che richiede un attacco della forza.
 
@@ -198,7 +198,7 @@ Lanciare poteri della forza durante l'ira conta come l'aver effettuato un attacc
 
 **Livello:** 6
 
-Mentre sei in ira ed utilizzi la tua azione standard per lanciare un potere della forza, puoi effettuare un singolo attacco corpo a corpo con un'azione bonus.
+Mentre sei in ira ed utilizzi la tua azione per lanciare un potere della forza, puoi effettuare un singolo attacco corpo a corpo con un'azione bonus.
 
 ### Presenza Possente
 
@@ -212,4 +212,4 @@ Recuperi l'utilizzo di questa capacita' dopo aver completato un riposo lungo.
 
 **Livello:** 14
 
-Con un'azione standard puoi terminare la tua ira prematuramente, obbligando ogni creatura entro 4.5 m da te ad effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza della forza (universale). Le creature che falliscono il tiro salvezza subiscono 1d12 danni da forza per ogni round nel quale sei rimasto in ira prima di terminarla. Se superano il tiro salvezza ne subiscono la meta'.
+Con un'azione puoi terminare la tua ira prematuramente, obbligando ogni creatura entro 4.5 m da te ad effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza della forza (universale). Le creature che falliscono il tiro salvezza subiscono 1d12 danni da forza per ogni round nel quale sei rimasto in ira prima di terminarla. Se superano il tiro salvezza ne subiscono la meta'.

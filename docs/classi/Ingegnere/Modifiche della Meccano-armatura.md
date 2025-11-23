@@ -86,7 +86,7 @@
 
 **Prerequisito:** livello 5, Armatura
 
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi far assumere all'armatura le sembianze di una valigia. In questa forma l'armatura pesa 1/3 del suo normale peso. Con un'azione puoi scegliere di indossare o riporre l'armatura.
 
 ## Visore Notturno
@@ -129,7 +129,7 @@
 - Azione: vedi effetto
 - Effetto: puoi effettuare un tiro per colpire a distanza, con raggio 9/18, con l'arpione integrato nell'armatura. Se l'attacco va a segno infliggi 1d6 danni cinetici. Questo attacco puo' bersagliare: una superficie, un oggetto od una creatura. Una creatura colpita da questo attacco viene impalata dall'arpione. Con un'azione puo' tentare di rimuoverlo, effettuando una prova di Forza. Finche' l'arpione e' attaccato, tu ed il tuo bersaglio siete uniti da un cavo di 18m. Finche' l'arpione e' fuori, puoi riavvolgere la bobina, con 1 azione bonus, per raggiungere lo spazio del bersaglio qualora, quest'ultimo, sia di almeno una taglia superiore alla tua. Se il bersaglio e' di taglia pari od inferiore alla tua, invece, viene tirato verso la tua posizione. In alternativa puoi decidere di rilasciare il cavo (non e' un'azione)
 - Utilizzi: 1
-- Recupero utilizzi: dopo aver raccolto e re-inserito l'arpione, con un'azione standard
+- Recupero utilizzi: dopo aver raccolto e re-inserito l'arpione, con un'azione
 
 ## Armatura Pesante
 
@@ -142,7 +142,7 @@
 
 **Prerequisito:** Armatura
 
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi lanciare Infiltrarsi (Infiltrate) su te stesso
 - Durata: vedi Infiltrarsi (Infiltrate)
 - Utilizzi: 2
@@ -153,13 +153,13 @@
 **Prerequisito:** Scudo
 
 - Azione: non richiede un'azione
-- Effetto: se un attacco corpo a corpo ti manca e la differenza tra il tiro per colpire e la tua CA e' pari od inferiore al bonus alla CA conferito dal tuo scudo, l'avversario deve effettuare una prova di Forza e superare la tua CD del tiro salvezza tecnologico. Se fallisce la prova, l'arma che impugna rimane incollata allo scudo. L'avversario puo' tentare di liberare l'arma ripetendo, con un'azione standard, questa prova di Forza.
+- Effetto: se un attacco corpo a corpo ti manca e la differenza tra il tiro per colpire e la tua CA e' pari od inferiore al bonus alla CA conferito dal tuo scudo, l'avversario deve effettuare una prova di Forza e superare la tua CD del tiro salvezza tecnologico. Se fallisce la prova, l'arma che impugna rimane incollata allo scudo. L'avversario puo' tentare di liberare l'arma ripetendo, con un'azione, questa prova di Forza.
 
 ## Sovraccaricare Scudi
 
 **Prerequisito:** Generatore di Scudi
 
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: ogni creatura di taglia grande od inferiore, che si trova ad 1.5m da te, deve superare un tiro salvezza su Forza o Destrezza (a scelta di chi effettua la prova) o venire spinto per 1.5m e buttato a terra prono
 - Utilizzi: 2
 - Utilizzi aggiuntivi ai livelli superiori: al 5 (3 tot), al 9 (4 tot) al 13 (5 tot) ed al 17 (6 tot)
@@ -170,7 +170,7 @@
 **Prerequisito:** Armatura
 
 - Azione: vedi effetto
-- Effetto: i tuoi attacchi senz'armi infliggono 1d4 danni cinetici. Se utilizzi la tua azione standard per attaccare, puoi effettuare un attacco aggiuntivo con un'azione bonus
+- Effetto: i tuoi attacchi senz'armi infliggono 1d4 danni cinetici. Se utilizzi la tua azione per attaccare, puoi effettuare un attacco aggiuntivo con un'azione bonus
 
 ## Prototipo di Pugno Energetico
 
@@ -224,7 +224,7 @@
 
 **Prerequisito:** Scudo
 
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi ancorare o disancorare lo scudo al terreno. Quando e' ancorato, perdi i bonus alla CA provenienti dallo scudo, la mano che lo impugnava torna ad essere considerata libera e guadagni livelli di copertura in base al tipo dello scudo:
   
   - scudo leggero: 1/4 di copertura

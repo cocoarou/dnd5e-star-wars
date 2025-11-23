@@ -179,7 +179,7 @@ Se porti una creatura a 0 punti ferita con questo attacco guadagni dei punti fer
 
 **Livello:** 6
 
-Puoi utilizzare 1 azione standard per obbligare ogni creatura entro 9m da te, che puo' vederti, ad effettuare un tiro salvezza su Saggezza contro la tua CD del tiro salvezza del focus. Chi fallisce viene affascinato o spaventato (scegli tu) da te fino alla fine del tuo prossimo turno.
+Puoi utilizzare 1 azione per obbligare ogni creatura entro 9m da te, che puo' vederti, ad effettuare un tiro salvezza su Saggezza contro la tua CD del tiro salvezza del focus. Chi fallisce viene affascinato o spaventato (scegli tu) da te fino alla fine del tuo prossimo turno.
 
 ### Maestria di Morte
 
@@ -191,4 +191,4 @@ Quando scendi a 0 punti ferita puoi spendere 1 punto focus (non e' un'azione) pe
 
 **Livello:** 17
 
-Con 1 azione standard evochi una lama di energia spirituale e puoi provare a colpire una creatura entro 1.5m con quest'arma, spendendo da 1 a 10 punti focus. Il bersaglio deve effettuare un tiro salvezza su Costituzione contro la tua CD del tiro salvezza del focus. Se fallisce il tiro salvezza subisce 2d10 danni x punti focus spesi. Se supera il tiro salvezza subisce la meta' dei danni.
+Con 1 azione evochi una lama di energia spirituale e puoi provare a colpire una creatura entro 1.5m con quest'arma, spendendo da 1 a 10 punti focus. Il bersaglio deve effettuare un tiro salvezza su Costituzione contro la tua CD del tiro salvezza del focus. Se fallisce il tiro salvezza subisce 2d10 danni x punti focus spesi. Se supera il tiro salvezza subisce la meta' dei danni.

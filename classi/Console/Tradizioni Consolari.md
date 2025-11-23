@@ -108,7 +108,7 @@ Puoi utilizzare questa capacita' senza ripercussioni fino ad un massimo del tuo 
 
 **Livello:** 3
 
-Con un'azione standard puoi costringere una creatura entro 9 m, che puoi vedere, ad effettuare un tiro salvezza su Saggezza (CD = la tua CD universale). Se fallisce, puoi convincere la creatura nel credere o dimenticare una parte di conversazione, osservazione od incontro che ha avuto, mentre tu eri presente, negli ultimi 10 minuti. Se la creatura supera il tiro salvezza non puo' essere influenzata nuovamente finche non completi un riposo lungo.
+Con un'azione puoi costringere una creatura entro 9 m, che puoi vedere, ad effettuare un tiro salvezza su Saggezza (CD = la tua CD universale). Se fallisce, puoi convincere la creatura nel credere o dimenticare una parte di conversazione, osservazione od incontro che ha avuto, mentre tu eri presente, negli ultimi 10 minuti. Se la creatura supera il tiro salvezza non puo' essere influenzata nuovamente finche non completi un riposo lungo.
 
 Le creature che cercano di discernere il tuo utilizzo della forza subiscono svantaggio alle prove abilita' che cercheranno di effettuare e se una creatura ha i seguenti poteri attivi: [Percepire la Forza (Sense Force)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#percepire-la-forza-sense-force) o [Vista della Forza (Force Sight)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#vista-della-forza-force-sight), deve superare una prova di caratteristica universale di forza-lancio contro la tua CD universale per captare la tua maestria nell'utilizzo della forza, il tuo allineamento della forza o capire quanto sia forte la tua connessione con la forza.
 
@@ -140,7 +140,7 @@ Puoi utilizzare nuovamente questa capacita' dopo aver completato un riposo lungo
 
 **Livello:** 18
 
-Con un'azione standard puoi scegliere di avvolgere il tuo corpo con la trama della forza e, per 10 minuti, ricevere uno dei seguenti effetti:
+Con un'azione puoi scegliere di avvolgere il tuo corpo con la trama della forza e, per 10 minuti, ricevere uno dei seguenti effetti:
 
 - **Mantello della Paura:** ogni creatura (a scelta) entro 18 m da te deve superare un tiro salvezza su Saggezza contro la tua CD universale od essere spaventata per 1 minuto. Una creatura puo' ripetere questo tiro salvezza alla fine di ogni suo turno, terminando l'effetto di paura se supera la prova.
 - **Mantello dell'Invisibilita':** Tu e tutto quello che indossi e trasporti diventate invisibili a delle creature a scelta (decidi tu chi puo' vederti e chi no). Se infliggi danno ad una creatura o utilizzi un potere della forza su di essa, il bersaglio puo' effettuare un tiro salvezza su Saggezza contro la tua CD universale. Se supera la prova non risulterai piu' invisibile alla sua vista.
@@ -160,7 +160,7 @@ Quando lanci un potere di livello 1 o superiore per curare i punti ferita di una
 
 **Livello:** 6, 9, 13 e 17
 
-Con un'azione standard, puoi scegliere un qualsiasi numero di creature nel raggio di 9 m e curare un numero di punti ferita pari al tuo livello da console x 5, distribuiti come preferisci.
+Con un'azione, puoi scegliere un qualsiasi numero di creature nel raggio di 9 m e curare un numero di punti ferita pari al tuo livello da console x 5, distribuiti come preferisci.
 
 Questa capacita' non puo' curare piu' della meta' dei punti ferita massimi degli eventuali bersagli.
 

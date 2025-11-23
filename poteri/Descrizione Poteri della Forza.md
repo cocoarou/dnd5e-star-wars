@@ -20,9 +20,9 @@ Quella creatura deve effettuare un tiro salvezza su Costituzione.
 
 Se fallisce il tiro, il bersaglio ottiene 1 livello di lentezza e subisce una penalita' di -2 alla CA ed ai tiri salvezza su Destrezza e non puo' effettuare reazioni. 
 
-Durante il suo turno puo' utilizzare solamente un'azione standard od un'azione bonus, non entrambe. Inoltre, indipendentemente dalle abilita' e gli oggetti della creatura, non puo' effettuare piu' di un attacco corpo a corpo od un attacco a distanza.
+Durante il suo turno puo' utilizzare solamente un'azione od un'azione bonus, non entrambe. Inoltre, indipendentemente dalle abilita' e gli oggetti della creatura, non puo' effettuare piu' di un attacco corpo a corpo od un attacco a distanza.
 
-Se la creatura tenta di lanciare un potere con un tempo di lancio di 1 azione standard, tira 1d20. Dall'11 in su' il potere non si attivera' fino all'inizio del prossimo turno della creatura ed essa dovra' utilizzare la propria azione standard per ultimare il lancio del potere. Qualora non ne sia in grado, il potere e' perduto.
+Se la creatura tenta di lanciare un potere con un tempo di lancio di 1 azione, tira 1d20. Dall'11 in su' il potere non si attivera' fino all'inizio del prossimo turno della creatura ed essa dovra' utilizzare la propria azione per ultimare il lancio del potere. Qualora non ne sia in grado, il potere e' perduto.
 
 La creatura effettua un altro tiro salvezza su Costituzione alla fine di ogni suo turno.
 
@@ -42,7 +42,7 @@ Finche' l'arma e' animata, in ognuno dei tuoi turni, puoi utilizzare l'azione bo
 
 Puoi interrompere questo potere in qualsiasi momento e far ritornare l'arma animata nella tua mano.
 
-Un nemico puo' tentare di prendere il controllo dell'arma, utilizzando un'azione standard per effettuare una prova di Forza (Atletica) contro la tua CD del tiro salvezza della forza.
+Un nemico puo' tentare di prendere il controllo dell'arma, utilizzando un'azione per effettuare una prova di Forza (Atletica) contro la tua CD del tiro salvezza della forza.
 
 Se supera il tiro, la creatura prende il controllo dell'arma e gli effetti del potere terminano.
 
@@ -145,7 +145,7 @@ Quando lanci questo potere, scegli la natura della maledizione tra le seguenti o
 
 - Scegli una caratteristica. Finche' e' maledetto, il bersaglio subisce svantaggio nelle prove di abilita' e tiri salvezza effettuati con la caratteristica scelta.
 - Finche' e' maledetto, il bersaglio subisce svantaggio nei tiri per colpire effettuati contro di te.
-- Finche' e' maledetto, il bersaglio deve effettuare un tiro salvezza su Saggezza all'inizio di ogni suo turno. Se fallisce, perde l'azione standard di quel turno.
+- Finche' e' maledetto, il bersaglio deve effettuare un tiro salvezza su Saggezza all'inizio di ogni suo turno. Se fallisce, perde l'azione di quel turno.
 - Finche' e' maledetto, i tuoi attacchi e poteri infliggono 1d8 danni necrotici extra al bersaglio.
 
 Un potere tipo [Rimuovere Maledizioni (Remove Curse)](#rimuovere-maledizioni-remove-curse) termina l'effetto di questo potere.
@@ -191,7 +191,7 @@ Ogni creatura entro 1.5 m dal punto scelto deve effettuare un tiro salvezza su D
 Chi fallisce il tiro, subisce 3d10 danni elettrici.
 Chi supera il tiro, subisce la meta' dei danni.
 
-Finche' il potere persiste, puoi utilizzare la tua azione standard per colpire nuovamente un altro punto entro la portata della nuvola.
+Finche' il potere persiste, puoi utilizzare la tua azione per colpire nuovamente un altro punto entro la portata della nuvola.
 
 Se sei all'esterno ed in una tempesta, il potere ti da il controllo dell'evento atmosferico anziche' creare una nuova nuvola. Inoltre, i danni aumentano di 1d10.
 
@@ -438,7 +438,7 @@ Se tu od uno dei tuoi alleati state combattendo con la bestia, essa ottiene vant
 
 Finche' la bestia e' ammaliata, condividete un legame telepatico (a patto che vi troviate sullo stesso pianeta). Puoi utilizzare questo legame per impartire dei comandi (non richiede nessuna azione) che cerca di obbedire al massimo delle sue capacita'. Puoi specificare delle azioni semplici od un generale corso d'azioni. Qualora la bestia porti a termine l'ordine e non ne vengano impartiti di nuovi, si concentrera' nel difendersi.
 
-Puoi utilizzare un'azione standard per assumere il controllo totale della creatura.
+Puoi utilizzare un'azione per assumere il controllo totale della creatura.
 
 Fino alla fine del tuo prossimo turno, la bestia esegue solo le azioni che tu decidi debba compiere. Puoi anche decidere di farle spendere la sua reazione (al costo della tua).
 
@@ -456,7 +456,7 @@ Se tu od uno dei tuoi alleati state combattendo con il bersaglio, esso ottiene v
 
 Finche' il bersaglio e' ammaliato, condividete un legame telepatico (a patto che vi troviate entro 1.5 km l'uno dall'altro). Puoi utilizzare questo legame per impartire dei comandi (non richiede nessuna azione) che cerca di obbedire al massimo delle sue capacita'. Puoi specificare delle azioni semplici od un generale corso d'azioni. Qualora il bersaglio porti a termine l'ordine e non ne vengano impartiti di nuovi, si concentrera' nel difendersi.
 
-Puoi utilizzare un'azione standard per assumere il controllo totale del bersaglio.
+Puoi utilizzare un'azione per assumere il controllo totale del bersaglio.
 
 Fino alla fine del tuo prossimo turno, il bersaglio esegue solo le azioni che tu decidi debba compiere. Puoi anche decidere di fargli spendere la sua reazione (al costo della tua).
 
@@ -475,7 +475,7 @@ Se tu od uno dei tuoi alleati state combattendo con il bersaglio, esso ottiene v
 
 Finche' il bersaglio e' ammaliato, condividete un legame telepatico (a patto che vi troviate entro 1.5 km l'uno dall'altro). Puoi utilizzare questo legame per impartire dei comandi (non richiede nessuna azione) che cerca di obbedire al massimo delle sue capacita'. Puoi specificare delle azioni semplici od un generale corso d'azioni. Qualora il bersaglio porti a termine l'ordine e non ne vengano impartiti di nuovi, si concentrera' nel difendersi.
 
-Puoi utilizzare un'azione standard per assumere il controllo totale del bersaglio.
+Puoi utilizzare un'azione per assumere il controllo totale del bersaglio.
 
 Fino alla fine del tuo prossimo turno, il bersaglio esegue solo le azioni che tu decidi debba compiere. Puoi anche decidere di fargli spendere la sua reazione (al costo della tua).
 
@@ -569,7 +569,7 @@ Una creatura situata entro una distanza pari alla metà dell'altezza della strut
 
 Chi fallisce il tiro, subisce 5d6 danni cinetici, cade a terra prono ed e' sepolto dai detriti.
 
-Per liberarsi deve usare un'azione standard ed effettuare una prova di Forza (Atletica) con CD 20.
+Per liberarsi deve usare un'azione ed effettuare una prova di Forza (Atletica) con CD 20.
 
 Il Dungeon Master puo' aumentare o ridurre la CD, in base alla natura dei detriti.
 
@@ -601,7 +601,7 @@ Se fallisce il tiro, la creatura viene sollevata dal pilastro. Una creatura puo'
 
 Se l'ascesa di un pilastro viene bloccata da un soffitto od un altro ostacolo, la creatura che si trova su esso subisce 6d6 danni cinetici ed e' considerata trattenuta, incastrata tra il pilastro e l'ostacolo.
 
-La creatura trattenuta puo' utilizzare la propria azione standard per effettuare una prova di Forza o Destrezza (a piacere) contro la CD del potere.
+La creatura trattenuta puo' utilizzare la propria azione per effettuare una prova di Forza o Destrezza (a piacere) contro la CD del potere.
 
 Se supera il tiro, la creatura non e' piu' trattenuta e deve lasciare il pilastro (allontanandosi o lasciandosi cadere)
 
@@ -749,13 +749,13 @@ Un umanoide, entro gittata, che puoi vedere deve effettuare un tiro salvezza su 
 
 Se fallisce il tiro, e' ammaliato da te per la durata del potere.
 
-La creatura ammaliata deve utilizzare la sua azione standard, prima del movimento, in ognuno dei suoi turni, per effettuare un attacco corpo a corpo contro una creatura, che non sia se' stesso. 
+La creatura ammaliata deve utilizzare la sua azione, prima del movimento, in ognuno dei suoi turni, per effettuare un attacco corpo a corpo contro una creatura, che non sia se' stesso. 
 
 Indichi mentalmente il bersaglio da attaccare.
 
 Il bersaglio puo' agire normalmente, nel suo turno, se non scegli alcun bersaglio o se esso non si trovi entro portata.
 
-Nei tuoi turni successivi, devi utilizzare la tua azione standard per mantenere il controllo del bersaglio, altrimenti gli effetti del potere terminano.
+Nei tuoi turni successivi, devi utilizzare la tua azione per mantenere il controllo del bersaglio, altrimenti gli effetti del potere terminano.
 
 Il bersaglio puo' effettuare un tiro salvezza su Saggezza alla fine di ogni suo turno.
 
@@ -864,7 +864,7 @@ Questo potere non ha effetto contro droidi o costrutti.
 
 ## Maschera della Forza (Force Mask)
 
-Fino al termine della durata del potere o fino a che non utilizzi un'azione standard per terminare il potere, puoi camuffare te stesso, tramite l'utilizzo della forza, in svariati modi.
+Fino al termine della durata del potere o fino a che non utilizzi un'azione per terminare il potere, puoi camuffare te stesso, tramite l'utilizzo della forza, in svariati modi.
 
 Puoi sembrare piu' alto o piu' basso di circa 1.5 m e cambiare l'aspetto del tuo corpo ed il peso.
 
@@ -874,7 +874,7 @@ Questo effetto puo' includere i tuoi vestiti, le tue armi ed altre tue possessio
 
 Questo effetto e' puramente visivo, qualsiasi tipo di contatto fisico interagira' con le tue vere dimensioni.
 
-Una creatura che spende la sua azione standard per esaminare la tua identita' puo' capire l'illusione superando la tua CD da forza-lancio tramite una prova di Intelligenza (Indagare).
+Una creatura che spende la sua azione per esaminare la tua identita' puo' capire l'illusione superando la tua CD da forza-lancio tramite una prova di Intelligenza (Indagare).
 
 ## Infusione della Forza (Force Meld)
 
@@ -916,7 +916,7 @@ Quando utilizzi i sensi dell'illusione risulti come accecato ed assordato per qu
 
 Interazioni fisiche con l'immagine rivelano il fatto che si tratti di un'illusione, perche' le cose le passano attraverso.
 
-Una creatura che spende la propria azione standard ad esaminare l'immagine puo' capire che si tratti di un'illusione superando la tua CD del tiro salvezza della forza, effettuando una prova di Intelligenza (Indagare).
+Una creatura che spende la propria azione ad esaminare l'immagine puo' capire che si tratti di un'illusione superando la tua CD del tiro salvezza della forza, effettuando una prova di Intelligenza (Indagare).
 
 Se una creatura svela l'illusione puo' vedere attraverso essa ed ogni suono che emette non arriva alle orecchie della creatura.
 
@@ -1071,7 +1071,7 @@ Se superi la prova, il potere termina.
 
 Impregni la tua arma con la luce purificante della forza.
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, puoi effettuare un attacco corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
+Come parte dell'azione utilizzata per lanciare questo potere, puoi effettuare un attacco corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
 
 Se colpisci, il bersaglio subisce i normali effetti dell'attacco e viene avvolta da una barriera della forza, luminescente, fino all'inizio del tuo prossimo turno.
 
@@ -1229,7 +1229,7 @@ Questo potere non ha effetto contro droidi e costrutti.
 
 ## Lancio della Spada Potenziato (Greater Saber Throw)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio entro la gittata del potere, altrimenti il potere fallisce.
+Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio entro la gittata del potere, altrimenti il potere fallisce.
 
 Se l'attacco va a segno, il bersaglio subisce 6d8 dello stesso tipo di danno dell'arma.
 
@@ -1489,7 +1489,7 @@ Al termine di ogni riposo lungo, la penalita' si riduce di 1, fino a scomparire 
 
 ## Lancio della Spada Migliorato (Improved Saber Throw)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio, entro la gittata del potere, altrimenti il potere fallisce.
+Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio, entro la gittata del potere, altrimenti il potere fallisce.
 
 Se colpisci, il bersaglio subisce 2d8 danni dello stesso tipo di danni dell'arma e deve effettuare un tiro salvezza su Costituzione.
 
@@ -1509,9 +1509,9 @@ Chi fallisce il tiro, e' affetto da questo potere non puo' effettuare reazioni e
 
 |d8|Comportamento
 |---|---
-|1|La creatura utilizza l'interno movimento per recarsi in una direzione casuale. Per determinare la direzione, tira 1d8 ed assegna una direzione ad ogni faccia. La creatura non effettuera' alcuna azione standard questo turno
+|1|La creatura utilizza l'interno movimento per recarsi in una direzione casuale. Per determinare la direzione, tira 1d8 ed assegna una direzione ad ogni faccia. La creatura non effettuera' alcuna azione questo turno
 |2-6|La creatura rimane immobili e non compie azioni
-|7-8|La creatura utilizza la sua azione standard per effettuare un tiro per colpire corpo a corpo contro una creatura casuale, entro portata. Se non ci sono creature a portata, la creatura passa il turno a non fare nulla
+|7-8|La creatura utilizza la sua azione per effettuare un tiro per colpire corpo a corpo contro una creatura casuale, entro portata. Se non ci sono creature a portata, la creatura passa il turno a non fare nulla
 
 Alla fine di ognuno dei suoi turni, un bersaglio affetto da questo potere puo' effettuare un tiro salvezza su Saggezza.
 
@@ -1538,7 +1538,7 @@ Fino al termine del potere, il bersaglio ottiene i seguenti benefici:
 - velocita' di movimento raddoppiata
 - bonus +2 alla CA
 - vantaggio nei tiri salvezza su Destrezza
-- 1 azione standard aggiuntiva per turno, utilizzabile solo per compiere le azioni di:
+- 1 azione aggiuntiva per turno, utilizzabile solo per compiere le azioni di:
   - Attacco (1 solo attacco con le armi)
   - Scatto
   - Disimpegno
@@ -1549,7 +1549,7 @@ Quando questo potere termina, il beneficiario non puo' muoversi od effettuare az
 
 ## Carica Fulminea (Lightning Charge)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
+Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un attacco corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
 
 Se l'attacco va a segno, il bersaglio subisce i normali effetti dell'attacco ed una scarica elettrica balza dal bersaglio su di una creatura differente, che non si trovi oltre 1.5 m dal bersaglio originale, che puoi vedere.
 
@@ -1701,7 +1701,7 @@ Chi fallisce il tiro, viene affascinato.
 
 Finche' una creatura rimane affascinata da questo potere, e' incapacitata e la sua velocita' scende a 0
 
-Questo potere termina su uno dei bersagli che ne sono affetti se quest'ultimo riceve dei danni o se qualcun altro utilizzi la propria azione standard per tentare di far rinsavire la creatura.
+Questo potere termina su uno dei bersagli che ne sono affetti se quest'ultimo riceve dei danni o se qualcun altro utilizzi la propria azione per tentare di far rinsavire la creatura.
 
 Questo potere non ha effetto contro droidi e costrutti.
 
@@ -1802,7 +1802,7 @@ La creatura bersagliata non puo' lasciare lo spazio che sta occupando e subisce 
 
 Finche' la creatura e' affetta da questo potere, le altre creature ottengono vantaggio nei tiri per colpire contro di essa.
 
-Con un'azione standard, la creatura puo' effettuare un tiro salvezza su Saggezza per recuperare le proprie facolta'.
+Con un'azione, la creatura puo' effettuare un tiro salvezza su Saggezza per recuperare le proprie facolta'.
 
 Se supera il tiro, gli effetti del potere terminano.
 
@@ -1849,7 +1849,7 @@ Per la durata del potere, i bersagli ottengono:
 - velocita' di movimento raddoppiata
 - bonus +2 alla CA
 - vantaggio nei tiri salvezza su Destrezza
-- 1 azione standard aggiuntiva per turno, utilizzabile solo per compiere le azioni di:
+- 1 azione aggiuntiva per turno, utilizzabile solo per compiere le azioni di:
   - Attacco (1 solo attacco con le armi)
   - Scatto
   - Disimpegno
@@ -1931,7 +1931,7 @@ Questo potere non ha effetto contro droidi o costrutti.
 
 Tocchi una creatura consenziente e la induci in uno stato catalettico, simile alla morte.
 
-Per la durata del potere, o finche' non utilizzi la tua azione standard per toccare il bersaglio e porre fine gli effetti del potere, il bersaglio apparira' come deceduto di fronte a qualsiasi tipo di ispezione superficiale od effettuata con dei poteri per verificare lo stato del bersaglio.
+Per la durata del potere, o finche' non utilizzi la tua azione per toccare il bersaglio e porre fine gli effetti del potere, il bersaglio apparira' come deceduto di fronte a qualsiasi tipo di ispezione superficiale od effettuata con dei poteri per verificare lo stato del bersaglio.
 
 Il bersaglio e' accecato ed incapacitato e la sua velocita' di movimento scende a 0.
 
@@ -1943,7 +1943,7 @@ Questo potere non ha effetto contro droidi o costrutti.
 
 ## Carica Necrotica (Necrotic Charge)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un tiro per colpire corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
+Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un tiro per colpire corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
 
 Se l'attacco va a segno, il bersaglio subisce i normali effetti dell'attacco e puoi decidere se infliggere fino ad 1d8 ulteriore di danni necrotici, questa danni vengono subiti sia da te che dal bersaglio. Questi danni non possono essere ridotti o negati in alcuna maniera.
 
@@ -1991,9 +1991,9 @@ Chi fallisce il tiro, subisce:
 - penalita' di -2 alla CA ed ai tiri salvezza su Destrezza
 - impossibilita' nell'utilizzare reazioni
 
-Durante il suo turno, puo' solamente utilizzare un'azione standard od un'azione bonus, non entrambe. Inoltre, indipendentemente dalle abilita' e gli oggetti della creatura, non puo' effettuare piu' di un attacco corpo a corpo od un attacco a distanza.
+Durante il suo turno, puo' solamente utilizzare un'azione od un'azione bonus, non entrambe. Inoltre, indipendentemente dalle abilita' e gli oggetti della creatura, non puo' effettuare piu' di un attacco corpo a corpo od un attacco a distanza.
 
-Se la creatura tenta di lanciare un potere con un tempo di lancio di 1 azione standard, tira 1d20. Dall'11 in su' il potere non si attivera' fino all'inizio del prossimo turno della creatura ed essa dovra' utilizzare la propria azione standard per ultimare il lancio del potere. Qualora non ne sia in grado, il potere e' perduto.
+Se la creatura tenta di lanciare un potere con un tempo di lancio di 1 azione, tira 1d20. Dall'11 in su' il potere non si attivera' fino all'inizio del prossimo turno della creatura ed essa dovra' utilizzare la propria azione per ultimare il lancio del potere. Qualora non ne sia in grado, il potere e' perduto.
 
 La creatura effettua un altro tiro salvezza su Costituzione alla fine di ogni suo turno.
 
@@ -2001,7 +2001,7 @@ Se supera il tiro, l'effetto del potere termina (solamente per la creatura che s
 
 ## Impeto Botanico (Plant Surge)
 
-Se lanci questo potere utilizzando un'azione standard, tutte le piante normali presenti in un raggio di 30 m, che si irradia da un punto entro gittata, crescono abbondantemente.
+Se lanci questo potere utilizzando un'azione, tutte le piante normali presenti in un raggio di 30 m, che si irradia da un punto entro gittata, crescono abbondantemente.
 
 Muoversi attraverso l'area costa il quadruplo.
 
@@ -2031,7 +2031,7 @@ Le pile colpiscono simultaneamente e puoi decidere di lanciarle tutte sullo stes
 
 ## Carica Psichica (Psychic Charge)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un tiro per colpire corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
+Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un tiro per colpire corpo a corpo con l'arma contro una creatura entro portata, altrimenti il potere fallisce.
 
 Se l'attacco va a segno, il bersaglio subisce i normali effetti dell'attacco e la sua bocca e' ricoperta da un velo violaceo fino all'inizio del tuo prossimo turno.
 
@@ -2175,7 +2175,7 @@ La riduzione dei danni conferita da questo potere aumenta di 1d6 (cumulativo) ai
 
 ## Lancio della Spada (Saber Throw)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio, entro la gittata del potere, altrimenti il potere fallisce.
+Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un attacco della forza a distanza con una spada-laser od una vibro-arma contro un bersaglio, entro la gittata del potere, altrimenti il potere fallisce.
 
 Se l'attacco va a segno, il bersaglio subisce 1d8 danni dello stesso tipo dei danni dell'arma.
 
@@ -2241,23 +2241,23 @@ Una creatura a scelta che puoi vedere, entro 18 m da te, deve effettuare un tiro
 
 Se fallisce il tiro, subisce 1 degli effetti (scegli tu) riportati qui sotto.
 
-In ognuno dei tuoi turni, finche' il potere non termina, puoi utilizzare la tua azione standard per bersagliare un'altra creatura.
+In ognuno dei tuoi turni, finche' il potere non termina, puoi utilizzare la tua azione per bersagliare un'altra creatura.
 
 Non puoi bersagliare nuovamente una creatura che abbia gia' superato il tiro salvezza contro il potere.
 
 Gli effetti sono:
 
-- **Addormentato:** il bersaglio perde i sensi. Si sveglia se subisce danni o se una creatura spende la sua azione standard per svegliarlo.
+- **Addormentato:** il bersaglio perde i sensi. Si sveglia se subisce danni o se una creatura spende la sua azione per svegliarlo.
 - **Spaventato:** il bersaglio ha paura di te. In ognuno dei suoi turni, la creatura spaventata deve effettuare l'azione di Scatto e muoversi il piu' lontano possibile da te (ammesso che ci sia lo spazio per muoversi). Se il bersaglio si muove per, almeno, 18 m e si trova in un luogo dal quale non riesce piu' a vederti, questo effetto termina.
 - **Disgustato:** il bersaglio subisce svantaggio nei tiri per colpire e nelle prove di abilita'. Alla fine di ogni suo turno, puo' effettuare un tiro salvezza Su costituzione. Se supera il tiro, l'effetto termina.
 
 ## Ribollire (Seethe)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, puoi spendere 1 dei tuoi Dadi Vita per recuperare punti ferita.
+Come parte dell'azione utilizzata per lanciare questo potere, puoi spendere 1 dei tuoi Dadi Vita per recuperare punti ferita.
 
 ## Percepire Emozioni (Sense Emotion)
 
-Quando lanci questo potere, e come azione standard spendibile in ogni tuo turno, prima del termine di questo potere, puoi concentrare i tuoi sensi verso un umanoide che puoi vedere, entro 9 m da te.
+Quando lanci questo potere, e come azione spendibile in ogni tuo turno, prima del termine di questo potere, puoi concentrare i tuoi sensi verso un umanoide che puoi vedere, entro 9 m da te.
 
 Sei immediatamente a conoscenza dell'emozione prevalente della creatura (che sia amore, rabbia, dolore, paura, quiete od altro) ed ottieni vantaggio nelle prove di Saggezza (Intuizione) effettuate contro il bersaglio.
 
@@ -2267,7 +2267,7 @@ Se il bersaglio non e' un umanoide od e' immune agli ammaliamenti, l'emozione ch
 
 Percepisci se sia stato fatto uso della forza o se la forza sia presente in un oggetto inanimato, entro 9 m da te.
 
-Se percepisci la forza in questa maniera, puoi utilizzare la tua azione standard per determinare la direzione in cui si trovi la sorgente e, qualora sia nel tuo campo visivo, percepisci una lieve aura attorno alla persona od all'oggetto dal quale viene emanata la forza.
+Se percepisci la forza in questa maniera, puoi utilizzare la tua azione per determinare la direzione in cui si trovi la sorgente e, qualora sia nel tuo campo visivo, percepisci una lieve aura attorno alla persona od all'oggetto dal quale viene emanata la forza.
 
 **Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 3, la gittata diventa 18 m. Quando utilizzi uno slot di livello 5, la gittata diventa 150 m. Quando utilizzi uno slot di livello 7, la gittata diventa 1.5 km. Quando utilizzi uno slot di livello 9, la gittata diventa 15 km.
 
@@ -2313,7 +2313,7 @@ I danni di questo potere aumentano di 1d10 (cumulativo) al raggiungimento dei li
 
 Una sfera di fulmini ti avvolte, emanando luce intensa in un raggio di 3 m e luce fioca per altri 3 m.
 
-Puoi utilizzare la tua azione standard per porre fine, anticipatamente, al potere.
+Puoi utilizzare la tua azione per porre fine, anticipatamente, al potere.
 
 Quando una creatura, entro 1.5 m, ti colpisce con un attacco corpo a corpo, subisce 2d8 danni elettrici
 
@@ -2337,7 +2337,7 @@ Se fallisce il tiro, subisce 4d8 danni necrotici e, fino al termine del potere, 
 
 Il potere termina se:
 
-- non utilizzi l'azione standard per infliggere i danni
+- non utilizzi l'azione per infliggere i danni
 - se il bersaglio esce dalla gittata del potere
 - se il bersaglio gode di copertura totale nei tuoi confronti
 
@@ -2379,7 +2379,7 @@ Se la creatura atterra prima del termine della durata di questo potere, non subi
 
 ## Carica Sonica (Sonic Charge)
 
-Come parte dell'azione standard utilizzata per lanciare questo potere, devi effettuare un attacco corpo a corpo con l'arma contro una creatura, entro portata, altrimenti il potere fallisce.
+Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un attacco corpo a corpo con l'arma contro una creatura, entro portata, altrimenti il potere fallisce.
 
 Se l'attacco va a segno, il bersaglio subisce i normali effetti dell'attacco e cominci ad emanare un ronzio fastidioso fino all'inizio del tuo prossimo turno.
 
@@ -2407,7 +2407,7 @@ Se supera il tiro, capisce che si tratta di un'illusione.
 
 Se lanci questo potere piu' volte, puoi attivare, contemporaneamente, per 1 minuto, fino a 3 degli effetti elencati.
 
-Puoi terminare uno di questi effetti con un'azione standard.
+Puoi terminare uno di questi effetti con un'azione.
 
 ## Risparmiare i Morenti (Spare the Dying)
 
@@ -2493,11 +2493,11 @@ Se supera il tiro, il potere termina.
 
 Effettua un attacco della forza a distanza contro una creatura.
 
-Se l'attacco va a segno, il bersaglio subisce 1d12 danni elettrici ed ogni tuo turno, per la durata del potere, puoi utilizzare la tua azione standard per infliggere, automaticamente, 1d12 danni elettrici.
+Se l'attacco va a segno, il bersaglio subisce 1d12 danni elettrici ed ogni tuo turno, per la durata del potere, puoi utilizzare la tua azione per infliggere, automaticamente, 1d12 danni elettrici.
 
 Il potere termina se:
 
-- non utilizzi l'azione standard per infliggere i danni
+- non utilizzi l'azione per infliggere i danni
 - se il bersaglio esce dalla gittata del potere
 - se il bersaglio gode di copertura totale nei tuoi confronti
 
@@ -2505,7 +2505,7 @@ Il potere termina se:
 
 ## Telecinesi (Telekinesis)
 
-Quando lanci questo potere e con un'azione standard in ogni tuo turno, prima del termine della durata del potere, puoi bersagliare una creatura od un oggetto che puoi vedere, entro gittata, ed applicare uno degli effetti indicati qui sotto.
+Quando lanci questo potere e con un'azione in ogni tuo turno, prima del termine della durata del potere, puoi bersagliare una creatura od un oggetto che puoi vedere, entro gittata, ed applicare uno degli effetti indicati qui sotto.
 
 Puoi scegliere lo stesso bersaglio oppure cambiare in qualsiasi momento. 
 
@@ -2526,7 +2526,7 @@ Chi fallisce il tiro, subisce 8d6 danni da forza e viene buttato a terra prono.
 
 Chi supera il tiro, subisce la meta' dei danni e non cade a terra prono.
 
-Puoi creare un altro impulso telecinetico, finche' la durata del potere non termini, utilizzando un'azione standard.
+Puoi creare un altro impulso telecinetico, finche' la durata del potere non termini, utilizzando un'azione.
 
 **Potenziamento della Forza:** quando lanci questo potere utilizzando uno slot di livello 7 o superiore, i danni aumentano di 2d6 per ogni slot di livello superiore al 6.
 
@@ -2542,7 +2542,7 @@ Finche' 1 pila persiste, ottieni 1/4 di copertura.
 
 Le pile non intralciano i tuoi attacchi.
 
-Quando lanci questo potere, utilizzando un'azione standard, in un turno successivo, puoi comandare fino a 2 pile di detriti e lanciarle verso un massimo di 2 creature che puoi vedere, entro 9 m.
+Quando lanci questo potere, utilizzando un'azione, in un turno successivo, puoi comandare fino a 2 pile di detriti e lanciarle verso un massimo di 2 creature che puoi vedere, entro 9 m.
 
 Effettua un attacco della forza a distanza per ogni pila lanciata.
 
@@ -2652,7 +2652,7 @@ Un turbine si abbatte in un punto che puoi vedere, entro gittata.
 
 Il turbine e' un cilindro con raggio 3 m ed alto 9 m, centrato nel punto scelto.
 
-Fino al termine della durata del potere, puoi utilizzare la tua azione standard per muoverlo fino ad un massimo di 9 m, in ogni direzione, sul terreno.
+Fino al termine della durata del potere, puoi utilizzare la tua azione per muoverlo fino ad un massimo di 9 m, in ogni direzione, sul terreno.
 
 Il turbine risucchia qualsiasi oggetto incustodito (che non sia saldamente legato a qualcosa) di taglia media o meno.
 
@@ -2670,7 +2670,7 @@ Quando una creatura inizia il proprio turno trattenuta dal turbine, viene tirata
 
 Una creatura trattenuta si muove assieme al turbine e cade nel momento in cui il potere termini (almeno che non abbia dei mezzi per rimanere in aria).
 
-Una creatura trattenuta puo' utilizzare la propria azione standard per effettuare un tiro salvezza su Forza o Destrezza (sceglie la creatura) contro la tua CD del tiro salvezza della forza.
+Una creatura trattenuta puo' utilizzare la propria azione per effettuare un tiro salvezza su Forza o Destrezza (sceglie la creatura) contro la tua CD del tiro salvezza della forza.
 
 Chi supera il tiro, non e' piu' trattenuto e dal turbine e viene lanciato, in una direzione casuale, per 3d6 x 3 m.
 

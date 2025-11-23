@@ -74,7 +74,7 @@ Quando un attaccante, che puoi vedere, ti colpisce, puoi utilizzare la tua reazi
 
 **Livello:** 20
 
-Il tuo punteggio di Saggezza o Carisma (scegli tu) aumenta di 2 ed il punteggio massimo della caratteristica scelta aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
+Il tuo punteggio di Saggezza o Carisma (scegli tu) aumenta di 2 ed il punteggio massimo della caratteristica scelta aumenta di 2. Inoltre puoi utilizzare la tua azione per guadagnare i seguenti benefici, per 1 minuto:
 
 - Ottieni resistenza ai danni cinetici e da energia. Ignori le resistenze ai danni cinetici e da energia dei tuoi bersagli
 - Tutti gli attacchi corpo a corpo, effettuati su di te, subiscono svantaggio
@@ -96,7 +96,7 @@ Ottieni lo stile delle spade-laser [Niman](../Guerriero/Stili%20delle%20Spade-La
 
 **Livello:** 3
 
-Con 1 azione bonus puoi entrare in una posizione equilibrata per 1 minuto. Come parte dell'azione bonus utilizzata per questo privilegio e con un'azione bonus in ognuno dei tuoi turni, quando utilizzi l'azione standard per lanciare un potere della forza, puoi effettuare un attacco corpo a corpo con l'arma. Inoltre, per tutta la durata, puoi utilizzare Saggezza o Carisma anziche' Forza o Destrezza per il tiro per colpire ed i danni con gli attacchi corpo a corpo con l'arma. Devi utilizzare lo stesso modificatore per entrambi i tiri.
+Con 1 azione bonus puoi entrare in una posizione equilibrata per 1 minuto. Come parte dell'azione bonus utilizzata per questo privilegio e con un'azione bonus in ognuno dei tuoi turni, quando utilizzi l'azione per lanciare un potere della forza, puoi effettuare un attacco corpo a corpo con l'arma. Inoltre, per tutta la durata, puoi utilizzare Saggezza o Carisma anziche' Forza o Destrezza per il tiro per colpire ed i danni con gli attacchi corpo a corpo con l'arma. Devi utilizzare lo stesso modificatore per entrambi i tiri.
 
 Questo effetto termina prima della fine della durata se sei incapacitato o se muori.
 
@@ -130,11 +130,11 @@ Puoi utilizzare nuovamente questo privilegio dopo aver completato un riposo brev
 
 **Livello:** 20
 
-I tuoi punteggi di Destrezza e Saggezza o Carisma (scegli tu) aumentano di 2 ed il punteggio massimo delle caratteristiche scelte aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
+I tuoi punteggi di Destrezza e Saggezza o Carisma (scegli tu) aumentano di 2 ed il punteggio massimo delle caratteristiche scelte aumenta di 2. Inoltre puoi utilizzare la tua azione per guadagnare i seguenti benefici, per 1 minuto:
 
 - Ottieni resistenza ai danni cinetici subiti da armi non potenziate
 - Ottieni vantaggio nei tiri salvezza contro poteri della forza. Inoltre ottieni resistenza ai danni inferti dai poteri della forza
-- Quando utilizzi la tua azione standard per lanciare un potere della forza a volonta', che bersaglia una sola creatura, puoi scegliere un bersaglio aggiuntivo che si trova entro 1.5 m dal bersaglio originale e che si trova entro la gittata del potere
+- Quando utilizzi la tua azione per lanciare un potere della forza a volonta', che bersaglia una sola creatura, puoi scegliere un bersaglio aggiuntivo che si trova entro 1.5 m dal bersaglio originale e che si trova entro la gittata del potere
 
 Questi effetti terminano prima della fine della durata se sei incapacitato o se muori.
 
@@ -196,7 +196,7 @@ Ottieni uno dei seguenti privilegi. Scegli Deviare Accurato per Shien o Colpi Br
 
 **Livello:** 20
 
-I tuoi punteggi di Forza e Costituzione aumentano di 2 ed il punteggio massimo delle caratteristiche aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
+I tuoi punteggi di Forza e Costituzione aumentano di 2 ed il punteggio massimo delle caratteristiche aumenta di 2. Inoltre puoi utilizzare la tua azione per guadagnare i seguenti benefici, per 1 minuto:
 
 - Ottieni resistenza ai danni cinetici e da energia subiti da armi non potenziate
 - Una volta per turno, quando metti a segno un tiro per colpire corpo a corpo con l'arma che utilizza Forza, puoi utilizzare il privilegio dei Colpi Potenziati dalla Forza di livello 1, senza spendere punti potere. Ottieni punti ferita temporanei pari al danno extra inferto
@@ -258,7 +258,7 @@ Quando un nemico ti manca con un attacco corpo a corpo, puoi utilizzare la tua r
 
 **Livello:** 20
 
-I tuoi punteggi di Costituzione e Saggezza o Carisma (scegli tu) aumentano di 2 ed il punteggio massimo delle caratteristiche scelte aumenta di 2. Inoltre puoi utilizzare la tua azione standard per guadagnare i seguenti benefici, per 1 minuto:
+I tuoi punteggi di Costituzione e Saggezza o Carisma (scegli tu) aumentano di 2 ed il punteggio massimo delle caratteristiche scelte aumenta di 2. Inoltre puoi utilizzare la tua azione per guadagnare i seguenti benefici, per 1 minuto:
 
 - Ottieni resistenza ai danni cinetici e da energia subiti da armi non potenziate
 - Quando lanci il potere [Deflettere con la Spada (Saber Reflect)](../../poteri/Descrizione%20Poteri%20della%20Forza.md#deflettere-con-la-spada-saber-reflect) puoi effettuare un singolo attacco corpo a corpo contro un nemico, entro 1.5 m , come parte della reazione

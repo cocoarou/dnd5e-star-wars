@@ -86,7 +86,7 @@ Al termine di un riposo lungo, il livello di esaurimento viene ridotto di 1 (dev
 #### Incendiato
 
 - una creatura incendiata subisce danni da fuoco al termine di ogni suo turno. L'entita' del danno da fuoco e' indicato tra parentesi nella descrizione dell'effetto che applicherebbe questa condizione
-- se il bersaglio o una creatura entro 1.5 m da esso utilizza un'azione standard per spegnere le fiamme, o se un effetto va a dosare il fuoco, la creatura non e' piu' incendiata
+- se il bersaglio o una creatura entro 1.5 m da esso utilizza un'azione per spegnere le fiamme, o se un effetto va a dosare il fuoco, la creatura non e' piu' incendiata
 
 #### Incapacitato
 
@@ -134,7 +134,7 @@ Al termine di un riposo lungo, il livello di esaurimento viene ridotto di 1 (dev
 #### Scioccato
 
 - una creatura scioccata non puo' effettuare reazioni
-- durante il proprio turno, una creatura scioccata puo solamente effettuare un'azione standard od un'azione bonus (non entrambe)
+- durante il proprio turno, una creatura scioccata puo solamente effettuare un'azione od un'azione bonus (non entrambe)
 
 #### Lentezza
 

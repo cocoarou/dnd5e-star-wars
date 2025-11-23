@@ -87,7 +87,7 @@ Puoi utilizzare l'azione bonus per porre fine ad un effetto di cecita' o sordita
 
 ## Voto della Liberta'
 
-Ignori qualsiasi terreno difficile non potenziato e quando useresti la tua azione standard per liberarti da un effetto che ti tiene in lotta o ti trattiene, puoi invece utilizzare la tua azione bonus
+Ignori qualsiasi terreno difficile non potenziato e quando useresti la tua azione per liberarti da un effetto che ti tiene in lotta o ti trattiene, puoi invece utilizzare la tua azione bonus
 
 ## Voto dell'Intuizione
 

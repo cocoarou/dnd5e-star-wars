@@ -17,7 +17,7 @@
 |21-22 |Per il prossimo minuto, le creature che effettuano il primo tiro salvezza per superare una tua CD subiscono svantaggio.
 |23-24 |La tua pelle si colora di un blu acceso. Ogni effetto che curerebbe una maledizione puo' curare anche questo effetto.
 |25-26 |Ti cresce un occhio in piu'. Ottieni vantaggio alle prove di Saggezza (Percezione) che riguardano la vista per 1 minuto.
-|27-28 |Per il prossimo minuto tutti i tuoi poteri tecnologici con tempo di lancio 1 azione standard hanno il loro tempo di lancio trasformato in 1 azione bonus.
+|27-28 |Per il prossimo minuto tutti i tuoi poteri tecnologici con tempo di lancio 1 azione hanno il loro tempo di lancio trasformato in 1 azione bonus.
 |29-30 |Ti teletrasporti in uno spazio non occupato, entro 18m, a scelta, che sei in grado di vedere.
 |31-32 |Subisci 2d10 danni da elettricita' e sei scioccato per 1 minuto.
 |33-34 |Massimizza i danni del prossimo potere tecnologico che lanci, nell'arco di 1 minuto dalla manifestazione di questo impulso.
@@ -44,7 +44,7 @@
 |75-76 |Emetti luce intensa in un raggio di 9m per 1 minuto.
 |77-78 |Ogni creatura entro 9m da te (tu escluso) guadagna i benefici di Immagine Speculare (Mirror Image) per 1 minuto.
 |79-80 |Farfalle illusorie e petali volteggiano nell'aria, nel raggio di 3m da te, per un minuto
-|81-82 |Puoi effettuare immediatamente un'altra azione standard.
+|81-82 |Puoi effettuare immediatamente un'altra azione.
 |83-84 |Ogni creatura entro 9m da te subisce 1d10 danni necrotici e tu guadagni tanti punti ferita quanti danni inferti.
 |85-86 |Lanci Immagine Speculare (Mirror Image) senza spendere punti tecnologici.
 |87-88 |Vieni congelato da uno strato di carbonite e sei considerato paralizzato per 1 minuto o finche' non ricevi danno.

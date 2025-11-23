@@ -38,7 +38,7 @@
                 <td>Influenzare la Mente (Affect Mind)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -48,7 +48,7 @@
                 <td>Affliggere (Affliction)</td>
                 <td>2</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -68,7 +68,7 @@
                 <td>Armatura di Abeloth (Armor of Abeloth)</td>
                 <td>1</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -78,7 +78,7 @@
                 <td>Aura di Purezza (Aura of Purity)</td>
                 <td>4</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 9 m)</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -88,7 +88,7 @@
                 <td>Aura di Vigore (Aura of Vigor)</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 9 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -98,7 +98,7 @@
                 <td>Intuizione da Battaglia (Battle Insight)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 round</td>
                 <td>Concentrazione</td>
@@ -108,7 +108,7 @@
                 <td>Meditazione da Battaglia (Battle Meditation)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 1.5 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -118,7 +118,7 @@
                 <td>Premonizione da Battaglia (Battle Precognition)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>8 ore</td>
                 <td>-</td>
@@ -128,7 +128,7 @@
                 <td>Simbolo di Speranza (Beacon of Hope)</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -138,7 +138,7 @@
                 <td>Ingannare Bestie (Beast Trick)</td>
                 <td>1</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>24 ore</td>
                 <td>-</td>
@@ -148,7 +148,7 @@
                 <td>Scagliare Maledizioni (Bestow Curse)</td>
                 <td>3</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -158,7 +158,7 @@
                 <td>Respiro Controllato (Breath Control)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>10 minuti</td>
                 <td>-</td>
@@ -168,7 +168,7 @@
                 <td>Deflagrazione (Burst)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (sfera di 1.5 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -178,7 +178,7 @@
                 <td>Accelerazione (Burst of Speed)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -188,7 +188,7 @@
                 <td>Evocare Fulmini (Call Lightning)</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -198,7 +198,7 @@
                 <td>Calmare Emozioni (Calm Emotions)</td>
                 <td>2</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -208,7 +208,7 @@
                 <td>Strozzare (Choke)</td>
                 <td>3</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -218,7 +218,7 @@
                 <td>Offuscare la Mente (Cloud Mind)</td>
                 <td>1</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>27 m</td>
                 <td>1 minuto</td>
                 <td>-</td>
@@ -228,7 +228,7 @@
                 <td>Manipolare la Mente (Coerce Mind)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 8 ore</td>
                 <td>Concentrazione</td>
@@ -238,7 +238,7 @@
                 <td>Comprensione dei Linguaggi (Comprehend Speech)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -248,7 +248,7 @@
                 <td>Controllare il Dolore (Control Pain)</td>
                 <td>5</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -258,7 +258,7 @@
                 <td>Convulsione (Convulsion)</td>
                 <td>3</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -268,7 +268,7 @@
                 <td>Schiacciare (Crush)</td>
                 <td>6</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -278,7 +278,7 @@
                 <td>Maledizione (Curse)</td>
                 <td>1</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -318,7 +318,7 @@
                 <td>Tentacoli del Lato Oscuro (Dark Side Tendrils)</td>
                 <td>1</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 3 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -328,7 +328,7 @@
                 <td>Oscurita&#39; (Darkness)</td>
                 <td>2</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -338,7 +338,7 @@
                 <td>Campo di Morte (Death Field)</td>
                 <td>8</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>27 m (cubo di 9 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -348,7 +348,7 @@
                 <td>Denunciare (Denounce)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -358,7 +358,7 @@
                 <td>Distruggi Droide (Destroy Droid)</td>
                 <td>7</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m (cubo di 9 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -368,7 +368,7 @@
                 <td>Disabilitare Droide (Disable Droid)</td>
                 <td>4</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>27 m (cubo di 4.5 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -388,7 +388,7 @@
                 <td>Dominare Bestie (Dominate Beast)</td>
                 <td>4</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -398,7 +398,7 @@
                 <td>Dominare Menti (Dominate Mind)</td>
                 <td>5</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -408,7 +408,7 @@
                 <td>Dominare Mostri (Dominate Monster)</td>
                 <td>8</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 ora</td>
                 <td>Concentrazione</td>
@@ -418,7 +418,7 @@
                 <td>Risucchio Vitale (Drain Life)</td>
                 <td>4</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -448,7 +448,7 @@
                 <td>Terremoto (Earthquake)</td>
                 <td>8</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>150 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -458,7 +458,7 @@
                 <td>Indebolire (Enfeeble)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -468,7 +468,7 @@
                 <td>Eruzione (Eruption)</td>
                 <td>6</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -478,7 +478,7 @@
                 <td>Incutere Paura (Fear)</td>
                 <td>1</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -488,7 +488,7 @@
                 <td>Retroazione (Feedback)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -498,7 +498,7 @@
                 <td>Barriera della Forza (Force Barrier)</td>
                 <td>2</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>8 ore</td>
                 <td>-</td>
@@ -508,7 +508,7 @@
                 <td>Cecita&#39;/Sordita&#39; della Forza (Force Blind/Deafen)</td>
                 <td>2</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>1 minuto</td>
                 <td>-</td>
@@ -518,7 +518,7 @@
                 <td>Bagliore della Forza (Force Blinding)</td>
                 <td>1</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (cono di 4.5 m)</td>
                 <td>1 round</td>
                 <td>-</td>
@@ -528,7 +528,7 @@
                 <td>Sfocatura della Forza (Force Blur)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -538,7 +538,7 @@
                 <td>Corpo della Forza (Force Body)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -548,7 +548,7 @@
                 <td>Dissolvere la Forza (Force Breach)</td>
                 <td>5</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m (cubo di 6 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -558,7 +558,7 @@
                 <td>Camuffamento della Forza (Force Camouflage)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 ora</td>
                 <td>Concentrazione</td>
@@ -568,7 +568,7 @@
                 <td>Catena di Fulmini della Forza (Force Chain Lightning)</td>
                 <td>6</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>45 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -578,7 +578,7 @@
                 <td>Occultamento della Forza (Force Concealment)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>24 ore</td>
                 <td>-</td>
@@ -588,7 +588,7 @@
                 <td>Confusione della Forza (Force Confusion)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -598,7 +598,7 @@
                 <td>Disarmare tramite la Forza (Force Disarm)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -608,7 +608,7 @@
                 <td>Illuminazione della Forza (Force Enlightenment)</td>
                 <td>2</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Fino ad 1 ora</td>
                 <td>Concentrazione</td>
@@ -638,7 +638,7 @@
                 <td>Immunita della Forza (Force Immunity)</td>
                 <td>4</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -648,7 +648,7 @@
                 <td>Salto della Forza (Force Jump)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -668,7 +668,7 @@
                 <td>Fulmini della Forza (Force Lightning)</td>
                 <td>3</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (lineare di 30 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -678,7 +678,7 @@
                 <td>Cono di Fulmini della Forza (Force Lightning Cone)</td>
                 <td>7</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (cono di 18 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -688,7 +688,7 @@
                 <td>Legame della Forza (Force Link)</td>
                 <td>8</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Illimitata</td>
                 <td>24 ore</td>
                 <td>-</td>
@@ -698,7 +698,7 @@
                 <td>Maschera della Forza (Force Mask)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -708,7 +708,7 @@
                 <td>Infusione della Forza (Force Meld)</td>
                 <td>5</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -728,7 +728,7 @@
                 <td>Proiettare la Forza (Force Project)</td>
                 <td>7</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 giorno</td>
                 <td>Concentrazione</td>
@@ -738,7 +738,7 @@
                 <td>Propulsione della Forza (Force Propel)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -748,7 +748,7 @@
                 <td>Spinta/Attrazione della Forza (Force Push/Pull)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -768,7 +768,7 @@
                 <td>Espulsione della Forza (Force Repulse)</td>
                 <td>3</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 6 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -778,7 +778,7 @@
                 <td>Urlo della Forza (Force Scream)</td>
                 <td>3</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 4.5 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -788,7 +788,7 @@
                 <td>Atterramento della Forza (Force Shunt)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -798,7 +798,7 @@
                 <td>Vista della Forza (Force Sight)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -808,7 +808,7 @@
                 <td>Tempesta della Forza (Force Storm)</td>
                 <td>9</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>45 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -818,7 +818,7 @@
                 <td>Soppressione della Forza (Force Suppression)</td>
                 <td>3</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -828,7 +828,7 @@
                 <td>Tecnica della Forza (Force Technique)</td>
                 <td>0</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Varia</td>
                 <td>1 round</td>
                 <td>-</td>
@@ -838,7 +838,7 @@
                 <td>Lancio della Forza (Force Throw)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>27 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -848,7 +848,7 @@
                 <td>Trance della Forza (Force Trance)</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>10 minuti</td>
                 <td>-</td>
@@ -878,7 +878,7 @@
                 <td>Bisbiglio della Forza (Force Whisper)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>1 round</td>
                 <td>-</td>
@@ -888,7 +888,7 @@
                 <td>Liberta&#39; di Movimento (Freedom of Movement)</td>
                 <td>4</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -898,7 +898,7 @@
                 <td>Donare Vita (Give Life)</td>
                 <td>0</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -918,7 +918,7 @@
                 <td>Retroazione Potenziata (Greater Feedback)</td>
                 <td>5</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -928,7 +928,7 @@
                 <td>Cura Potenziata (Greater Heal)</td>
                 <td>6</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -938,7 +938,7 @@
                 <td>Lancio della Spada Potenziato (Greater Saber Throw)</td>
                 <td>5</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -948,7 +948,7 @@
                 <td>Guida (Guidance)</td>
                 <td>0</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -958,7 +958,7 @@
                 <td>Allucinazione (Hallucination)</td>
                 <td>2</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -968,7 +968,7 @@
                 <td>Cura Ferite (Heal)</td>
                 <td>1</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -978,7 +978,7 @@
                 <td>Eroismo (Heroism)</td>
                 <td>1</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -998,7 +998,7 @@
                 <td>Orrore (Horror)</td>
                 <td>3</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (cono di 9 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1008,7 +1008,7 @@
                 <td>Isteria (Hysteria)</td>
                 <td>4</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1018,7 +1018,7 @@
                 <td>Meditazione da Battaglia Migliorata (Improved Battle Meditation)</td>
                 <td>5</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 4.5 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1028,7 +1028,7 @@
                 <td>Tentacoli del Lato Oscuro Migliorati (Improved Dark Side Tendrils)</td>
                 <td>3</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>45 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1038,7 +1038,7 @@
                 <td>Retroazione Migliorata (Improved Feedback)</td>
                 <td>1</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1058,7 +1058,7 @@
                 <td>Camuffamento della Forza Migliorato (Improved Force Camouflage)</td>
                 <td>4</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Fino ad 1 minuto</td>
                 <td>-</td>
@@ -1068,7 +1068,7 @@
                 <td>Immunita della Forza Migliorata (Improved Force Immunity)</td>
                 <td>6</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 4.5 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1078,7 +1078,7 @@
                 <td>Urlo della Forza Migliorato (Improved Force Scream)</td>
                 <td>5</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 9 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1088,7 +1088,7 @@
                 <td>Cura Ferite Migliorato (Improved Heal)</td>
                 <td>5</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1098,7 +1098,7 @@
                 <td>Colpo in Fase Migliorato (Improved Phasestrike)</td>
                 <td>5</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1118,7 +1118,7 @@
                 <td>Ripristinare Migliorato (Improved Restoration)</td>
                 <td>5</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1138,7 +1138,7 @@
                 <td>Lancio della Spada Migliorato (Improved Saber Throw)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantaneo</td>
                 <td>-</td>
@@ -1148,7 +1148,7 @@
                 <td>Insanita&#39; (Insanity)</td>
                 <td>5</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (sfera di 9 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1158,7 +1158,7 @@
                 <td>Uccidere (Kill)</td>
                 <td>9</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1168,7 +1168,7 @@
                 <td>Velocita&#39; del Cavaliere (Knight Speed)</td>
                 <td>3</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1178,7 +1178,7 @@
                 <td>Carica Fulminea (Lightning Charge)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Varia</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1188,7 +1188,7 @@
                 <td>Localizzare Creatura (Locate Creature)</td>
                 <td>4</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1198,7 +1198,7 @@
                 <td>Localizzare Oggetto (Locate Object)</td>
                 <td>2</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -1208,7 +1208,7 @@
                 <td>Oscurita&#39; Esasperante (Maddening Darkness)</td>
                 <td>8</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>45 m</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -1218,7 +1218,7 @@
                 <td>Malessere (Malacia)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1228,7 +1228,7 @@
                 <td>Animare di Massa (Mass Animation)</td>
                 <td>5</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1238,7 +1238,7 @@
                 <td>Manipolare la Mente di Massa(Mass Coerce Mind)</td>
                 <td>6</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>24 ore</td>
                 <td>-</td>
@@ -1248,7 +1248,7 @@
                 <td>Isteria di Massa (Mass Hysteria)</td>
                 <td>9</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1258,7 +1258,7 @@
                 <td>Malessere di Massa (Mass Malacia)</td>
                 <td>3</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m (cubo di 9 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1268,7 +1268,7 @@
                 <td>Meditazione da Battaglia Magistrale (Master Battle Meditation)</td>
                 <td>9</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 9 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1278,7 +1278,7 @@
                 <td>Retroazione Magistrale (Master Feedback)</td>
                 <td>9</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>27 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1288,7 +1288,7 @@
                 <td>Barriera della Forza Magistrale (Master Force Barrier)</td>
                 <td>8</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1298,7 +1298,7 @@
                 <td>Immunita&#39; della Forza Magistrale (Master Force Immunity)</td>
                 <td>8</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (sfera con raggio di 3 m)</td>
                 <td>Fino ad 1 ora</td>
                 <td>Concentrazione</td>
@@ -1308,7 +1308,7 @@
                 <td>Urlo della Forza Magistrale (Master Force Scream)</td>
                 <td>8</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 18 m)</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1318,7 +1318,7 @@
                 <td>Cura Ferite Magistrale (Master Heal)</td>
                 <td>9</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1328,7 +1328,7 @@
                 <td>Malessere Magistrale (Master Malacia)</td>
                 <td>6</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1348,7 +1348,7 @@
                 <td>Lancio della Spada Magistrale (Master Saber Throw)</td>
                 <td>7</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 27 m)</td>
                 <td>Istantaneo</td>
                 <td>-</td>
@@ -1358,7 +1358,7 @@
                 <td>Velocita&#39; Magistrale (Master Speed)</td>
                 <td>7</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1368,7 +1368,7 @@
                 <td>Vuoto Mentale (Mind Blank)</td>
                 <td>8</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>24 ore</td>
                 <td>-</td>
@@ -1378,7 +1378,7 @@
                 <td>Prigione Mentale (Mind Prison)</td>
                 <td>6</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1388,7 +1388,7 @@
                 <td>Squarcio Mentale (Mind Spike)</td>
                 <td>2</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 ora</td>
                 <td>Concentrazione</td>
@@ -1398,7 +1398,7 @@
                 <td>Trappola Mentale (Mind Trap)</td>
                 <td>4</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1408,7 +1408,7 @@
                 <td>Trucco Mentale (Mind Trick)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1418,7 +1418,7 @@
                 <td>Morichro</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -1428,7 +1428,7 @@
                 <td>Carica Necrotica (Necrotic Charge)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Varia</td>
                 <td>1 round</td>
                 <td>-</td>
@@ -1438,7 +1438,7 @@
                 <td>Tocco Necrotico (Necrotic Touch)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>1 round</td>
                 <td>-</td>
@@ -1468,7 +1468,7 @@
                 <td>Piaga (Plague)</td>
                 <td>3</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1478,7 +1478,7 @@
                 <td>Impeto Botanico (Plant Surge)</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard od 8 ore</td>
+                <td>1 azione od 8 ore</td>
                 <td>45 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1498,7 +1498,7 @@
                 <td>Proiettare (Project)</td>
                 <td>1</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1508,7 +1508,7 @@
                 <td>Carica Psichica (Psychic Charge)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Varia</td>
                 <td>1 round</td>
                 <td>-</td>
@@ -1528,7 +1528,7 @@
                 <td>Ira (Rage)</td>
                 <td>6</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -1538,7 +1538,7 @@
                 <td>Redarguire (Rebuke)</td>
                 <td>0</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1548,7 +1548,7 @@
                 <td>Rimuovere Maledizioni (Remove Curse)</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1568,7 +1568,7 @@
                 <td>Resistenza (Resistance)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1608,7 +1608,7 @@
                 <td>Lancio della Spada (Saber Throw)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1618,7 +1618,7 @@
                 <td>Protezione dalle Lame (Saber Ward)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>1 round</td>
                 <td>-</td>
@@ -1638,7 +1638,7 @@
                 <td>Affaticare (Sap Vitality)</td>
                 <td>1</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1648,7 +1648,7 @@
                 <td>Flagello (Scourge)</td>
                 <td>6</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1658,7 +1658,7 @@
                 <td>Ribollire (Seethe)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1668,7 +1668,7 @@
                 <td>Percepire Emozioni (Sense Emotion)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -1678,7 +1678,7 @@
                 <td>Percepire la Forza (Sense Force)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -1698,7 +1698,7 @@
                 <td>Vista delle Ombre (Shadow Sight)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -1708,7 +1708,7 @@
                 <td>Condividere Vita (Share Life)</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1718,7 +1718,7 @@
                 <td>Shock</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1728,7 +1728,7 @@
                 <td>Scudo Fulminante (Shocking Shield)</td>
                 <td>4</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>10 Minuti</td>
                 <td>-</td>
@@ -1738,7 +1738,7 @@
                 <td>Velo d&#39;Oscurita&#39; (Shroud of Darkness)</td>
                 <td>4</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1748,7 +1748,7 @@
                 <td>Risucchio Vitale (Siphon Life)</td>
                 <td>5</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1758,7 +1758,7 @@
                 <td>Abilita&#39; Potenziata (Skill Empowerment)</td>
                 <td>5</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Fino ad 1 ora</td>
                 <td>Concentrazione</td>
@@ -1768,7 +1768,7 @@
                 <td>Lentezza (Slow)</td>
                 <td>0</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>4.5 m</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -1788,7 +1788,7 @@
                 <td>Carica Sonica (Sonic Charge)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Varia</td>
                 <td>1 round</td>
                 <td>-</td>
@@ -1798,7 +1798,7 @@
                 <td>Trucco Sonoro (Sound Trick)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>1 minuto</td>
                 <td>-</td>
@@ -1808,7 +1808,7 @@
                 <td>Risparmiare i Morenti (Spare the Dying)</td>
                 <td>0</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1818,7 +1818,7 @@
                 <td>Lama Spirituale (Spirit Blade)</td>
                 <td>0</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>A contatto</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1828,7 +1828,7 @@
                 <td>Stasi (Stasis)</td>
                 <td>5</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>27 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1838,7 +1838,7 @@
                 <td>Campo di Stasi (Stasis Field)</td>
                 <td>8</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>36 m (cubo di 9 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1848,7 +1848,7 @@
                 <td>Stordire (Stun)</td>
                 <td>2</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1858,7 +1858,7 @@
                 <td>Stordire Droide (Stun Droid)</td>
                 <td>2</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1868,7 +1868,7 @@
                 <td>Fulmine Controllato (Sustained Lightning)</td>
                 <td>1</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1878,7 +1878,7 @@
                 <td>Telecinesi (Telekinesis)</td>
                 <td>5</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>27 m</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -1888,7 +1888,7 @@
                 <td>Deflagrazione Telecinetica (Telekinetic Burst)</td>
                 <td>6</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 18 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1898,7 +1898,7 @@
                 <td>Scudo Telecinetico (Telekinetic Shield)</td>
                 <td>3</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1908,7 +1908,7 @@
                 <td>Tempesta Telecinetica (Telekinetic Storm)</td>
                 <td>3</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale (raggio di 4.5 m)</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1918,7 +1918,7 @@
                 <td>Onda Telecinetica (Telekinetic Wave)</td>
                 <td>8</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>45 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1938,7 +1938,7 @@
                 <td>Tremore (Tremor)</td>
                 <td>1</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>3 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1948,7 +1948,7 @@
                 <td>Visione del Vero (True Sight)</td>
                 <td>6</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>1 ora</td>
                 <td>-</td>
@@ -1958,7 +1958,7 @@
                 <td>Turbolenza (Turbulence)</td>
                 <td>0</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -1968,7 +1968,7 @@
                 <td>Valore (Valor)</td>
                 <td>1</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>9 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1978,7 +1978,7 @@
                 <td>Muro di Luce (Wall of Light)</td>
                 <td>6</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>27 m</td>
                 <td>Fino a 10 minuti</td>
                 <td>Concentrazione</td>
@@ -1988,7 +1988,7 @@
                 <td>Turbine (Whirlwind)</td>
                 <td>7</td>
                 <td>Universale</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>90 m</td>
                 <td>Fino ad 1 minuto</td>
                 <td>Concentrazione</td>
@@ -1998,7 +1998,7 @@
                 <td>Volonta' della Forza (Will of the Force)</td>
                 <td>9</td>
                 <td>Chiaro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>Personale</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -2008,7 +2008,7 @@
                 <td>Ferire (Wound)</td>
                 <td>1</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>
@@ -2018,7 +2018,7 @@
                 <td>Distruzione (Wrack)</td>
                 <td>6</td>
                 <td>Oscuro</td>
-                <td>1 azione standard</td>
+                <td>1 azione</td>
                 <td>18 m</td>
                 <td>Istantanea</td>
                 <td>-</td>

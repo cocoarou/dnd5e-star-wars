@@ -27,7 +27,7 @@
 **Prerequisito:** poter lanciare poteri tecnologici
 
 - Azione: 1 azione bonus
-- Effetto: se lanci un potere tecnologico di livello 1 o superiore con 1 azione standard, ma non superiore della meta' del tuo Livello Massimo del Potere, puoi effettuare un attacco corpo a corpo con l'arma.
+- Effetto: se lanci un potere tecnologico di livello 1 o superiore con 1 azione, ma non superiore della meta' del tuo Livello Massimo del Potere, puoi effettuare un attacco corpo a corpo con l'arma.
 
 ## Ataru
 
@@ -37,7 +37,7 @@
 ## Mano Bakuuni
 
 - Azione: 1 azione bonus
-- Effetto: se hai utilizzato l'azione standard per attaccare, pui effettuare un attacco senz'armi extra. Fino all'inizio del tuo prossimo turno quando una creatura raggiunge la tua area di influenza o si muove all'interno di essa, puoi provare a spingerla di 1.5m
+- Effetto: se hai utilizzato l'azione per attaccare, pui effettuare un attacco senz'armi extra. Fino all'inizio del tuo prossimo turno quando una creatura raggiunge la tua area di influenza o si muove all'interno di essa, puoi provare a spingerla di 1.5m
 
 ## Djem So
 

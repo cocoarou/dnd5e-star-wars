@@ -35,7 +35,7 @@ Scegli 1 stile di combattimento da [questa lista](../Guerriero/Stili%20di%20Comb
 
 ## Gesta della Liberta'
 
-Ignori i malus del terreno difficile non potenziato e quando utilizzeresti la tua azione standard per liberarti da un effetto che ti tiene in lotta o ti trattiene, puoi utilizzare la tua azione bonus
+Ignori i malus del terreno difficile non potenziato e quando utilizzeresti la tua azione per liberarti da un effetto che ti tiene in lotta o ti trattiene, puoi utilizzare la tua azione bonus
 
 ## Gesta della Guerriglia
 

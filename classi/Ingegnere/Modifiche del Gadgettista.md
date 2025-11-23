@@ -81,7 +81,7 @@
 - Effetto: impari il potere tecnologico Spazzata Rovente (Flame Sweep) e puoi lanciarlo come potere di primo livello senza spendere punti tecnologici.
 - Utilizzi: 1
 - Recupero Utilizzi: completamento riposo breve o lungo
-- Speciale: se il jet pack e' attivo puoi lanciare il potere tecnologico con un'azione bonus invece che l'azione standard
+- Speciale: se il jet pack e' attivo puoi lanciare il potere tecnologico con un'azione bonus invece che l'azione
 
 ## Inibitori Fisici
 
@@ -153,7 +153,7 @@
 
 ## Spargere Petrolio
 
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi lanciare il potere tecnologico Chiazza di Petrolio (Oil Slick) senza spendere punti tecnologici.
 - Utilizzi: 1
 - Recupero utilizzi: completamento di un riposo breve o lungo
@@ -210,7 +210,7 @@
 ## Torretta Sentinella
 
 - Azione: vedi effetto
-- Effetto: con 1 azione standard od 1 azione bonus (scegli tu) puoi lanciare una sentinella in un punto che puoi vedere nel raggio di 9m + (modificatore di Forza x 5). La sentinella aderisce a qualsiasi superficie. Alla fine di ogni tuo turno, la sentinella bersaglia automaticamente una creatura ostile entro 3 metri da essa. Se i bersagli sono piu' di uno, vengono scelti casualmente. Il bersaglio deve superare un tiro salvezza su Destrezza o subire 1d4 danni da energia e subire 1 livello di lentezza fino alla fine del tuo prossimo turno. Se una creatura verrebbe bersagliata da piu' sentinelle, effettua il tiro salvezza solamente 1 volta subendo tanti d4 di danno quante sono le sentinelle che la hanno attaccata
+- Effetto: con 1 azione od 1 azione bonus (scegli tu) puoi lanciare una sentinella in un punto che puoi vedere nel raggio di 9m + (modificatore di Forza x 5). La sentinella aderisce a qualsiasi superficie. Alla fine di ogni tuo turno, la sentinella bersaglia automaticamente una creatura ostile entro 3 metri da essa. Se i bersagli sono piu' di uno, vengono scelti casualmente. Il bersaglio deve superare un tiro salvezza su Destrezza o subire 1d4 danni da energia e subire 1 livello di lentezza fino alla fine del tuo prossimo turno. Se una creatura verrebbe bersagliata da piu' sentinelle, effettua il tiro salvezza solamente 1 volta subendo tanti d4 di danno quante sono le sentinelle che la hanno attaccata
 
 ## Rampino Elettrizzante
 
@@ -264,4 +264,4 @@
 - Azione: vedi effetto
 - Effetto: puoi effettuare un tiro per colpire a distanza, con raggio 9/18, con il rampino integrato nell'imbracatura. Se l'attacco va a segno infliggi 1d4 danni cinetici. Questo attacco puo' bersagliare: una superficie, un oggetto od una creatura. Una creatura colpita da questo attacco viene impalata dal rampino. Con un'azione puo' tentare di rimuoverlo, effettuando una prova di Forza. Finche' il rampino e' attaccato, tu ed il tuo bersaglio siete uniti da un cavo di 18m. Finche' il rampino e' fuori, puoi riavvolgere la bobina, con 1 azione bonus, per raggiungere lo spazio del bersaglio qualora, quest'ultimo, sia di almeno una taglia superiore alla tua. Se il bersaglio e' di taglia pari od inferiore alla tua, invece, viene tirato verso la tua posizione. In alternativa puoi decidere di rilasciare il cavo (non e' un'azione)
 - Utilizzi: 1
-- Recupero utilizzi: dopo aver raccolto e re-inserito il rampino, con un'azione standard
+- Recupero utilizzi: dopo aver raccolto e re-inserito il rampino, con un'azione

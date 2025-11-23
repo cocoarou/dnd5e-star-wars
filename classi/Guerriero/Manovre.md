@@ -106,7 +106,7 @@
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Medicina
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Gittata: contatto
 - Effetto: spendi 1 dado di superiorita' per far recuperare ad una creatura tanti punti ferita quanti il risultato del tiro + il modificatore di manovra
 
@@ -114,20 +114,20 @@
 
 - Tipo: Mentale
 - Prerequisito: Prestare Soccorso (Migliorato)
-- Effetto: puoi utilizzare la manovra Prestare Soccorse come 1 azione standard, 1 azione bonus o reazione nel tuo turno
+- Effetto: puoi utilizzare la manovra Prestare Soccorse come 1 azione, 1 azione bonus o reazione nel tuo turno
 
 ## Prestare Soccorso (Migliorato)
 
 - Tio: Mentale
 - Prerequisito: Prestare Soccorso
-- Effetto: puoi utilizzare la manovra Prestare Soccorse come 1 azione standard od 1 azione bonus
+- Effetto: puoi utilizzare la manovra Prestare Soccorse come 1 azione od 1 azione bonus
 
 ## Botta di Adrenalina
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Medicina
 - Gittata: contatto
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: spendi 1 dado di superiorita' per far recuperare ad una creatura tanti punti ferita quanti il risultato del tiro di dado. Inoltre, fino all'inizio del tuo prossimo turno, se quella creatura riceve danni, vengono ridotti dell'ammontare pari alla tua caratteristica di manovra
 
 ## Soccorrere
@@ -190,13 +190,13 @@
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Persuasione
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi spendere 1 dado di superiorita' ed effettuare una prova di Carisma (Persuasione) per affascinare una creatura che puo' sentirti o vederti, entro 9m. Aggiungi il risultato del tiro di dado alla prova. Il personaggio effettua una prova contesa di Saggezza (Intuizione). Se la tua prova di persuasione e' maggiore della prova di intuizione, la creatura e' affascinata da te fino alla fine del tuo prossimo turno.
 
 ## Colpo del Comandante
 
 - Tipo: Fisico
-- Effetto: quando utilizzi la tua azione standard per attaccare, puoi decidere di non mettere a segno uno di quegli attacchi e, con un'azione bonus, puoi fare invece effettuare un attacco corpo a corpo ad un tuo alleato. Se decidi di farlo, scegli una alleato che puo' vederti o sentirti e spendi 1 dado di superiorita'. Il tuo alleato puo' utilizzare la sua reazione per effettuare, immediatamente, un attacco con l'arma, aggiungendo il risultato del tiro di dado di superiorita' al danno dell'arma.
+- Effetto: quando utilizzi la tua azione per attaccare, puoi decidere di non mettere a segno uno di quegli attacchi e, con un'azione bonus, puoi fare invece effettuare un attacco corpo a corpo ad un tuo alleato. Se decidi di farlo, scegli una alleato che puo' vederti o sentirti e spendi 1 dado di superiorita'. Il tuo alleato puo' utilizzare la sua reazione per effettuare, immediatamente, un attacco con l'arma, aggiungendo il risultato del tiro di dado di superiorita' al danno dell'arma.
 
 ## Colpo del Comandante (Maggiore)
 
@@ -276,7 +276,7 @@
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Medicina
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Durata: 1 minuto
 - Effetto: puoi spendere 1 dado di superiorita' e conferire ad una creatura, che puoi toccare, un miglioramento fisico. Il bersaglio ottiene punti ferita temporanei pari al tiro del dado di superiorita' + il tuo modificato di manovra. Se la creatura potenziata effettua tiri salvezza su Forza o Costituzione, mentre i punti ferita temporanei sono ancora presenti, effettua la prova aggiungendo il tuo bonus di caratteristica della manovra.
 
@@ -294,7 +294,7 @@
 
 - Tipo: Mentale
 - Prerequisito: poter lanciare poteri tecnologici
-- Effetto: quando lanci un potere tecnologico di livello 1 o superiori che ha come tempo di lancio 1 azione standard, puoi spendere 1 dado di superiorita' per cambiare il tempo di lancio in 1 azione bonus.
+- Effetto: quando lanci un potere tecnologico di livello 1 o superiori che ha come tempo di lancio 1 azione, puoi spendere 1 dado di superiorita' per cambiare il tempo di lancio in 1 azione bonus.
 
 ## Fintare
 
@@ -341,7 +341,7 @@
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Tecnologia
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi spendere 1 dado di superiorita' e scegliere un numero di creature che puoi vedere, entro 18m, che indossano dei dispositivi di comunicazione. Ogni bersaglio deve superare un tiro salvezza su Costituzione o subire danni sonici pari al risultato del dado si superiorita' + il tuo modificatore di manovra (minimo 1). Inoltre, tutti i dispositivi delle creature che hanno fallito il tiro salvezza sono disabilitati finche' non vengono riavviati.
 
 ## Addestra Animale
@@ -359,20 +359,20 @@
 ## Incitare
 
 - Tipo: Mentale
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: nel tuo turno puoi spendere 1 dado di superiorita' per incitare un tuo alleato, entro 9m, che puoi vederti o sentirti. Il bersaglio aggiunge il tuo modificatore di manovra ad ogni tiro per colpire che effettua, fino all'inizio del tuo prossimo turno.
 
 ## Forza Interiore
 
 - Tipo: Generico
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi spendere 1 dado di superiorita' e guadagnare punti ferita temporanei pari al risultato + il tuo modificatore di manovra.
 
 ## Presenza Intimidatoria
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Intimidire
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi effettuare una prova di Carisma (Intimidire) e spendere 1 dado di superiorita' per tentare di impaurire una creatura umanoide che puo' vederti o sentirti, entro 18m. Aggiungi il risultato del tiro di dado alla prova. Il bersaglio effettua una prova contesa di Saggezza (Intuizione), se non supera il totale della prova di Intimidire e' spaventato da te fino alla fine del tuo prossimo turno.
 
 ## Investigare
@@ -427,7 +427,7 @@
 
 - Tipo: Generico
 - Prerequisito: competenza nelle prove di Furtivita'
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: quando sei in un'area con luce fioca od oscurita' puoi spendere 1 dado di superiorita' per diventare invisibile finche' non ti muovi o compi un'azione ostile.
 
 ## Tutt'Uno con la Forza
@@ -538,14 +538,14 @@
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Medicina
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi spendere 1 dado di superiorita' e bersagliare una creatura, entro 18m, che puo' vederti o sentirti ed e' preda di uno di questi stati: affascinato, spaventato o stordito. La creatura puo' immediatamente effettuare un ulteriore tiro salvezza per scrollarsi di dosso lo stato aggiungendo alla prova il risultato del tiro di dado di superiorita'.
 
 ## Rimuovere Tossine
 
 - Tipo: Mentale
 - Prerequisito: competenza nelle prove di Medicina
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi spendere 1 dado di superiorita' per far espellere le tossine ad una creatura che sei in grado di toccare. La creatura recupera punti ferita pari al risultato del tiro e se era avvelenata od ammalata, puoi decidere di neutralizzare il veleno o la malattia. Se piu' di un effetto di veleno o di malattia sono presenti, neutralizzi un effetto di veleno o di malattia dei quali sei a conoscenza, altrimenti ne viene neutralizzato uno, in modo casuale.
 
 ## Rispondere al Fuoco
@@ -582,13 +582,13 @@
 
 - Tipo: Mentale
 - Prerequisito: poter lanciare poteri della forza
-- Effetto: quando lanci un potere della forza di livello 1 o superiore che ha come tempo di lancio 1 azione standard, puoi spendere 1 dado di superiorita' per cambiare il tempo di lancio in 1 azione bonus.
+- Effetto: quando lanci un potere della forza di livello 1 o superiore che ha come tempo di lancio 1 azione, puoi spendere 1 dado di superiorita' per cambiare il tempo di lancio in 1 azione bonus.
 
 ## Mantenere la Calma
 
 - Tipo: Generico
 - Prerequisito: competenza nelle prove di Persuasione
-- Azione: 1 azione standard
+- Azione: 1 azione
 - Effetto: puoi spendere 1 dado di superiorita' e conferire a tutti gli alleati che si trovano 1.5m da te, fino alla fine del tuo prossimo turno, un bonus ai tiri salvezza pari al risultato del dado di superiorita'.
 
 ## Colpo della Forza

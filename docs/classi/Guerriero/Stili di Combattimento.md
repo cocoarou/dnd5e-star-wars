@@ -57,7 +57,7 @@
 
 - Ottieni competenza nelle armi improvvisate
 - Il dado dei danni dei colpi senz'armi e delle armi naturali aumenta di 1 livello (da 1 a 1d4, da 1d4 a 1d6, da 1d6 a 1d8)
-- Quando utilizzi la tua azione standard per: lottare, spingere o sbilanciare una creatura o quando attacchi una creatura con un attacco senz'armi o con un'arma impugnata in una mano, nel tuo turno, puoi utilizzare 1 azione bonus per effettuare un attacco senz'armi, una prova di lotta, una prova di spingere od una prova di sbilanciare contro la stessa creatura.
+- Quando utilizzi la tua azione per: lottare, spingere o sbilanciare una creatura o quando attacchi una creatura con un attacco senz'armi o con un'arma impugnata in una mano, nel tuo turno, puoi utilizzare 1 azione bonus per effettuare un attacco senz'armi, una prova di lotta, una prova di spingere od una prova di sbilanciare contro la stessa creatura.
 
 ## Stile del Contrattacco
 
@@ -99,7 +99,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 ## Stile Esplosivo
 
-- Puoi lanciare granate e piazzare mine con 1 azione bonus anziche' 1 azione standard. Se potevi gia' farlo, puoi utilizzare la reazione, nel tuo turno, per effettuare l'azione.
+- Puoi lanciare granate e piazzare mine con 1 azione bonus anziche' 1 azione. Se potevi gia' farlo, puoi utilizzare la reazione, nel tuo turno, per effettuare l'azione.
 - Quando una creatura tira 1 di dado per superare il tiro salvezza derivante da: una granata, una mina od un missile che controlli, subisce il massimo dei danni
 
 ## Stile della Formazione

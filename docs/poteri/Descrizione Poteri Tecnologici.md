@@ -223,7 +223,7 @@ La nebbia e' semisolida e la sua area e' considerata come terreno difficile.
 
 Ogni creatura che entra nell'area del potere per la prima volta nel suo turno od inizia il proprio turno all'interno subisce 4d6 danni da freddo e subisce 1 livello di lentezza fino alla fine del turno.
 
-La nebbia permane per tutta la durata del potere o finche' non viene dispersa da un vento che soffia con forza di, almeno, 1 Km/h
+La nebbia permane per tutta la durata del potere o finche' non viene dispersa da un vento che soffia con forza di, almeno, 1 km/h
 
 ## Carbonite
 
@@ -249,7 +249,7 @@ Chi fallisce il tiro subisce 8d6 + 20 danni da freddo e viene trattenuto per 1 m
 
 Chi supera il tiro subisce la meta' dei danni ed e' trattenuto fino alla fine del suo prossimo turno.
 
-Con un'azione standard, una creatura trattenuta puo' effettuare una prova di Forza contro la CD del tiro salvezza tecnologico del potere, terminandone gli effetti, se la supera.
+Con un'azione, una creatura trattenuta puo' effettuare una prova di Forza contro la CD del tiro salvezza tecnologico del potere, terminandone gli effetti, se la supera.
 
 Una creatura ridotta a 0 punti ferita da questo potere muore istantaneamente ed il suo corpo esplode in mille pezzi congelati.
 
@@ -348,7 +348,7 @@ Azioni
 
 ## Contingenza (Contingency)
 
-Scegli un potere tecnologico di livello 5 od inferiore che sei in grado di lanciare, che ha come tempo di lancio 1 azione standard e che puo' bersagliarti.
+Scegli un potere tecnologico di livello 5 od inferiore che sei in grado di lanciare, che ha come tempo di lancio 1 azione e che puo' bersagliarti.
 
 Lanci quel potere, chiamato potere contingente, come parte del lancio di questo potere, spendendo punti potere per entrambi.
 
@@ -445,203 +445,645 @@ Una creatura uccisa da questo potere viene congelata all'interno di della carbon
 
 ## Tempesta Criogenica (Cryogenic Storm)
 
+Una tempesta di energia criogenica avvolge il terreno in un cilindro con un raggio di 6 metri e un’altezza di 12 metri, centrato su un punto entro la gittata. 
 
+Ogni creatura nel cilindro deve effettuare un tiro salvezza su Destrezza.
+
+Una creatura subisce 2d8 danni cinetici e 4d6 danni da freddo con un tiro salvezza fallito, o la metà dei danni con un tiro salvezza riuscito.
+
+L’area d’effetto della tempesta diventa terreno difficile fino alla fine del tuo turno successivo.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 5° livello o superiore, i danni cinetici aumentano di 1d8 per ogni livello di slot superiore al 4°.
 
 ## Sospensione Criogenica (Cryogenic Suspension)
 
+Scegli fino a sei creature a tua scelta all’interno di un cubo di 12 metri entro la gittata. 
 
+Ogni bersaglio deve superare un tiro salvezza su Costituzione o essere influenzato da questo potere per tutta la sua durata.
+
+Un bersaglio influenzato ottiene 1 livello di lentezza, subisce una penalità di -2 alla CA e ai tiri salvezza su Destrezza, e non può usare reazioni.
+
+Nel suo turno può usare un’azione o un’azione bonus, non entrambe.
+
+Indipendentemente dalle capacità o dagli oggetti della creatura, non può effettuare più di un attacco in mischia o a distanza durante il suo turno.
+
+Se la creatura tenta di lanciare un potere con tempo di lancio di 1 azione, tira 1d20. Con un risultato di 11 o più, il potere non ha effetto fino al turno successivo della creatura, e la creatura deve usare la sua azione in quel turno per completare il potere. Se non può farlo, il potere viene sprecato.
+
+Una creatura influenzata da questo potere effettua un altro tiro salvezza su Costituzione alla fine del proprio turno. Con un tiro salvezza riuscito, l’effetto termina per quella creatura.
 
 ## Raffica Criogenica (Cryogenic Volley)
 
+Un’esplosione di energia gelida erutta da un punto che scegli entro la gittata. Ogni creatura in una sfera con raggio di 1,5 metri centrata su quel punto deve effettuare un tiro salvezza su Destrezza.
 
+Con un tiro salvezza fallito, una creatura subisce 3d6 danni da freddo e ottiene 1 livello di lentezza fino all’inizio del tuo prossimo turno. 
+
+Con un tiro salvezza riuscito, la creatura subisce la metà dei danni e non è rallentata.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 3° livello o superiore, i danni aumentano di 1d6 per ogni livello di slot superiore al 2°.
 
 ## Onda Criogenica (Cryogenic Wave)
 
+Un’onda di energia gelida si diffonde da te. Ogni creatura in un **cono di 4,5 metri** deve effettuare un tiro salvezza su Costituzione. Con un tiro salvezza fallito, una creatura subisce 2d6 danni da freddo e ottiene **1 livello di lentezza** fino alla fine del suo prossimo turno. Con un tiro salvezza riuscito, subisce la metà dei danni e non subisce effetti aggiuntivi.
 
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, i danni aumentano di 1d6 per ogni livello di slot superiore al 1°. Al 3° livello o superiore, una creatura ottiene **2 livelli di lentezza** con un tiro salvezza fallito. Al 5° livello o superiore, ne ottiene **3**. Al 7° livello o superiore, ne ottiene **4**.
 
 ## Scurovisione (Darkvision)
 
-
+Tocchi una creatura consenziente per concederle la capacità di vedere al buio. Per la durata, quella creatura ha scurovisione fino a una distanza di **18 metri**.
 
 ## Gas Debilitante (Debilitating Gas)
 
+Crei una sfera di gas con raggio di **6 metri** centrata su un punto. La nube si diffonde anche oltre gli angoli e la sua area è fortemente oscurata. Rimane sospesa nell’aria per tutta la durata.
 
+Ogni creatura completamente all’interno della nube all’inizio del proprio turno deve effettuare un tiro salvezza su Costituzione contro il veleno.
+
+In caso di fallimento, la creatura non può compiere alcuna azione in quel turno.
+
+Le creature che non hanno bisogno di respirare o che sono immuni al veleno superano automaticamente il tiro salvezza.
+
+Un vento di **15 km/h** disperde la nube dopo 4 round. Un vento di **30 km/h** la disperde dopo 1 round.
 
 ## Programma di Decrittazione (Decryption Program)
 
-
+Ottieni intuizione su un messaggio cifrato che stai tenendo quando lanci questo potere, ottentendo vantaggio ai tiri di abilità effettuati per decifrare il documento.
 
 ## Defibrillazione (Defibrillate)
 
+Tocchi una creatura che è morta nell’ultimo minuto e somministri una scossa per riportarla in vita.
 
+Quella creatura ritorna in vita con **1 punto ferita**. 
+
+Questo potere non può riportare in vita una creatura morta per vecchiaia, né può ripristinare parti del corpo mancanti. 
+
+Se alla creatura mancano parti del corpo o organi essenziali per la sopravvivenza (per esempio la testa), il potere fallisce automaticamente. 
+
+Una volta che questo potere ha riportato in vita una creatura, questa non può beneficiarne nuovamente fino al completamento di un riposo breve o lungo.
+
+## Detonatore Ritardato (Delayed Detonator)
+
+Scegli un punto che puoi vedere entro la gittata. Lanci un detonatore in quel punto, che rimane lì fino all’inizio del tuo prossimo turno, quando esplode, ponendo fine al potere. 
+
+Puoi anche usare la tua reazione in qualsiasi momento durante la durata del potere per far esplodere il detonatore anticipatamente. 
+
+Quando il detonatore esplode, ogni creatura entro **1,5 metri** dal punto deve effettuare un tiro salvezza su Destrezza. 
+
+Una creatura subisce 1d8 danni da fuoco e 1d8 danni cinetici con un tiro salvezza fallito, o la metà dei danni con un tiro salvezza riuscito.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, puoi lanciare un detonatore aggiuntivo in un altro punto che puoi vedere entro la gittata per ogni livello di slot superiore al 1°. Tutti i detonatori esplodono simultaneamente. Una creatura nell’area di più detonatori al momento dell’esplosione è influenzata una sola volta.
 
 ## Esplosione Ritardata (Delayed Explosion)
 
+Crei un’esplosione ritardata in un punto entro la gittata. 
 
+Quando il potere termina, sia perché la tua concentrazione viene interrotta sia perché decidi di porvi fine, avviene l’esplosione.
+
+Ogni creatura in una **sfera con raggio di 6 metri** centrata su quel punto deve effettuare un tiro salvezza su Destrezza.
+
+Una creatura subisce danni da fuoco pari al totale dei danni accumulati con un tiro salvezza fallito, o la metà dei danni con un tiro salvezza riuscito.
+
+Il danno base del potere è di 12d6. Se alla fine del tuo turno l’esplosione non è ancora avvenuta, il danno aumenta di 1d6.
+
+Se l’esplosione viene toccata prima della scadenza dell’intervallo, la creatura che la tocca deve effettuare un tiro salvezza su Destrezza. In caso di fallimento, il potere termina immediatamente causando l’esplosione.
+
+Il fuoco si diffonde oltre gli angoli. Incendia oggetti infiammabili nell’area che non sono indossati o trasportati.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 8° livello o superiore, il danno base aumenta di 1d6 per ogni livello di slot superiore al 7°.
 
 ## Distruggere Tecnologia (Destroy Tech)
 
+Effettua un attacco tecnologico a distanza contro una creatura entro la gittata. 
 
+Se colpisci, il bersaglio subisce 4d8 danni ionici. 
+
+Inoltre, se il bersaglio ha punti tecnologia, deve effettuare un tiro salvezza su Intelligenza. 
+
+In caso di fallimento, perde 5 punti tecnologia, come se avesse speso uno slot tecnologico.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 4° livello o superiore, i danni ionici aumentano di 1d8 e la quantità di punti tecnologia persi aumenta di 1 per ogni livello di slot superiore al 3°.
 
 ## Individuare Potenziamenti (Detect Enhancement)
 
+Per tutta la durata del potere, percepisci la presenza di qualsiasi potenziamento entro **9 metri** da te. 
 
+Se percepisci un potenziamento in questo modo, puoi usare la tua azione per vedere un’aura debole intorno a qualsiasi creatura o oggetto visibile nell’area che possiede un potenziamento.
+
+Il potere viene bloccato da **30 cm di pietra**, **2,5 cm di metallo comune**, un **sottile foglio di piombo** o **90 cm di legno o terra**.
 
 ## Individuare Invisibilita' (Detect Invisibility)
 
-
+Per tutta la durata del potere, vedi creature e oggetti invisibili come se fossero visibili.
 
 ## Individuare Trappole (Detect Traps)
 
+Per tutta la durata del potere, percepisci la presenza, la posizione generale e la natura di qualsiasi trappola entro **36 metri** da te che sia nel tuo campo visivo. 
 
+Una trappola, per questo potere, include qualsiasi cosa che possa infliggere un effetto improvviso o inatteso che consideri dannoso o indesiderabile, e che sia stato specificamente intenzionato dal suo creatore.
+
+Mentre il potere è attivo, ottieni vantaggio ai tiri di Saggezza (Percezione) e Intelligenza (Indagare) per individuare qualsiasi trappola nel tuo campo visivo.
+
+## Detonatore (Detonator)
+
+Lanci un detonatore contro una creatura.
+
+Effettua un attacco tecnologico a distanza contro una creatura che puoi vedere entro la gittata. 
+
+Se colpisci, il bersaglio subisce 1d6 danni da fuoco, e ogni creatura entro **1,5 metri** dal bersaglio deve effettuare un tiro salvezza su Destrezza o subire 1d4 danni da fuoco.
+
+I danni di questo potere aumentano di un dado quando raggiungi il 5° livello (2d6/2d4), l’11° livello (3d6/3d4) e il 17° livello (4d6/4d4).
 
 ## Dissipare Tecnologia (Diminish Tech)
 
+Scegli una creatura, un oggetto o un effetto tecnologico entro la gittata.
 
+Qualsiasi potere tecnologico di 3° livello o inferiore sul bersaglio termina.
+
+Per ogni potere tecnologico di 4° livello o superiore sul bersaglio, effettua una prova di caratteristica utilizzando il tuo modificatore di tecno-lancio.
+
+La CD è pari a 10 + il livello del potere. Con un successo, il potere termina.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 4° livello o superiore, termini automaticamente gli effetti di un potere tecnologico sul bersaglio se il livello del potere è uguale o inferiore al livello dello slot tecnologico utilizzato.
+
+## Disassemblare (Disassemble)
+
+Un oggetto costruito fino a **45 kg** di peso che tocchi cade a pezzi, separandosi nelle sue parti componenti. 
+
+Ad esempio, una vibrolama si separa in lama, impugnatura, oscillatore e guardia, mentre un hovercart collassa in motore repulsore, bulloni e pannelli di metallo.
+
+Se l’oggetto è indossato, trasportato o utilizzato da una creatura, questa può effettuare un tiro salvezza su Intelligenza. 
+
+Con un tiro salvezza riuscito, l’oggetto non subisce alcun effetto.
 
 ## Disintegrazione (Disintegrate)
 
+Emani un'esplosione di energia corrosiva. 
 
+Scegli un bersaglio entro la gittata.
+
+Una creatura bersaglio di questo potere deve effettuare un tiro salvezza su Destrezza. 
+
+Con un tiro salvezza fallito, il bersaglio subisce 10d6 + 40 danni da acido. 
+
+Se questi danni riducono il bersaglio a 0 punti ferita, esso viene disintegrato.
+
+Una creatura disintegrata e tutto ciò che indossa o trasporta e che non sia potenziato viene ridotta a un mucchio di polvere grigia fine.
+
+Una creatura distrutta in questo modo non può essere soggetta al potere della forza [Ravvivare](./Descrizione%20Poteri%20della%20Forza.md#ravvivare-revitalize).
+
+Questo potere disintegra automaticamente un oggetto non potenziato di taglia Grande o inferiore. Se il bersaglio è un oggetto di taglia Enorme o superiore, il potere disintegra una porzione di **cubo di 3 metri**.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 7° livello o superiore, i danni aumentano di 3d6 per ogni livello di slot superiore al 6°.
+
+## Smantellare (Dismantle)
+
+Rompi o strappi una struttura o un oggetto non potenziato che tocchi e che non sia indossato o trasportato da una creatura diversa da te. 
+
+La rottura o lo strappo può essere di massimo **0,3 metri** in qualsiasi dimensione. Quando viene lanciato in questo modo, il potere ha un tempo di lancio di 1 minuto.
+
+In alternativa, puoi toccare un droide o un costrutto quando lanci questo potere. 
+
+Effettua un attacco tecnologico in mischia contro il bersaglio. 
+
+Se colpisci, il bersaglio subisce 1d6 danni da energia. Quando viene lanciato in questo modo, il potere ha un tempo di lancio di 1 azione.
+
+I danni di questo potere aumentano di 1d6 quando raggiungi il 5° livello (2d6), l’11° livello (3d6) e il 17° livello (4d6).
 
 ## Disperdere Energia (Disperse Energy)
 
+Ottieni resistenza ai danni da acido, freddo, fuoco, fulmine e sonici per la durata del potere.
 
+Quando subisci danni di uno di questi tipi, puoi usare la tua reazione per ottenere immunità a quel tipo di danno, incluso contro il danno che ha attivato l’effetto. 
+
+Se lo fai, le resistenze terminano e ottieni l’immunità fino alla fine del tuo prossimo turno, momento in cui il potere termina.
 
 ## Deflagrazione Riecheggiante (Echo Blast)
 
+Emetti un impulso risonante verso un bersaglio entro la gittata.
 
+Il bersaglio deve superare un tiro salvezza su Saggezza o subire 1d8 danni sonici.
+
+Questo potere può colpire più bersagli in successione quando raggiungi livelli più alti: due bersagli al 5° livello, tre bersagli all’11° livello e quattro bersagli al 17° livello. Ogni bersaglio deve trovarsi entro **9 metri** dal bersaglio precedente, e l’ultimo bersaglio non deve essere a più di **9 metri** da te. Non puoi prendere di mira la stessa creatura due volte in successione.
 
 ## Esplosione Elettrica (Electrical Burst)
 
+Emetti un’esplosione di elettricità. 
 
+Ogni creatura entro la gittata, eccetto te, deve superare un tiro salvezza su Destrezza o subire 1d6 danni elettrici.
+
+I danni di questo potere aumentano di 1d6 quando raggiungi il 5° livello (2d6), l’11° livello (3d6) e il 17° livello (4d6).
 
 ## Rete Elettrica (Electromesh)
 
+Espelli una massa di rete spessa e adesiva in un punto a tua scelta entro la gittata. La rete riempie un **cubo di 6 metri** da quel punto per tutta la durata. La rete costituisce terreno difficile e oscura leggermente l’area.
 
+Se la rete non è ancorata tra due masse solide (come pareti) o stratificata su pavimento, muro o soffitto, l’elettrorete collassa su se stessa e il potere termina all’inizio del tuo prossimo turno. La rete stratificata su una superficie piana ha uno spessore di **1,5 metri**.
+
+Ogni creatura che inizia il proprio turno nella rete o vi entra durante il turno deve effettuare un tiro salvezza su Destrezza. Con un tiro salvezza fallito, la creatura è **immobilizzata** finché rimane nella rete o finché non riesce a liberarsi.
+
+Una creatura immobilizzata dalla rete può usare la propria azione per effettuare un tiro di Forza contro la CD del tiro salvezza tecnologico. Se riesce, non è più immobilizzata.
+
+La rete è infiammabile. Qualsiasi **cubo di 1,5 metri** di elettrorete esposto al fuoco brucia in 1 round, infliggendo 2d4 danni da fuoco a qualsiasi creatura che inizi il proprio turno nelle fiamme.
 
 ## Elettroshock (Electroshock)
 
+Dalla tua persona scaturisce elettricità per infliggere una scossa a una creatura che tenti di toccare. 
 
+Effettua un attacco tecnologico in mischia contro il bersaglio.
+
+Ottieni vantaggio al tiro per colpire se il bersaglio è fatto di metallo o indossa un’armatura di metallo. 
+
+Se colpisci, il bersaglio subisce 1d8 danni elettrici e diventa **scioccato** fino all’inizio del suo prossimo turno.
+
+I danni di questo potere aumentano di 1d8 quando raggiungi il 5° livello (2d8), l’11° livello (3d8) e il 17° livello (4d8).
 
 ## Elemento Sorpresa (Element of Surprise)
 
+Espelli una carica sabotatrice contro la creatura che ti ha attaccato. 
 
+La creatura deve effettuare un tiro salvezza su Destrezza. 
+
+Subisce 2d10 danni da fuoco con un tiro salvezza fallito, o la metà dei danni con un tiro salvezza riuscito.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, i danni aumentano di 1d10 per ogni livello di slot superiore al 1°.
 
 ## Accelerante Elementale (Elemental Accelerant)
 
+Scegli una creatura che puoi vedere e un tipo di danno: acido, freddo, fuoco, fulmine o sonico. 
 
+Il bersaglio deve effettuare un tiro salvezza su Costituzione. 
+
+Se fallisce, la prima volta in ogni turno in cui subisce danni del tipo scelto, subisce **2d6 danni aggiuntivi** di quel tipo. 
+
+Il bersaglio perde inoltre la resistenza a quel tipo fino al termine del potere.
+
+**Sovraccarico Tecnologico:** puoi prendere di mira una creatura aggiuntiva per ogni livello di slot superiore al 4°. Le creature devono trovarsi entro **9 metri** l’una dall’altra quando le scegli.
 
 ## Messaggio Criptato (Encrypted Message)
 
+Indichi una creatura entro la gittata che possiede un commlink e sussurri un messaggio. 
 
+Il bersaglio (e solo il bersaglio) ascolta il messaggio e può inviare una risposta cifrata che solo tu puoi sentire. 
 
-## Esplosione Energetica (Energetic Burst)
+Questi messaggi non possono essere intercettati o decifrati con mezzi non potenziati.
 
+Puoi lanciare questo potere attraverso oggetti solidi se conosci il bersaglio e sai che si trova oltre la barriera. **0,3 metri di pietra**, **2,5 cm di metallo comune**, un **sottile foglio di piombo** o **0,9 metri di legno** bloccano il potere. 
 
+Il potere non deve seguire una linea retta e può viaggiare liberamente attorno agli angoli o attraverso aperture.
+
+## Energia Zampillante (Energetic Burst)
+
+Una creatura che tocchi ottiene **10 punti ferita temporanei**. 
+
+Finché possiede questi punti ferita, la creatura può aggiungere 1d4 ai tiri salvezza. 
+
+Qualsiasi punto ferita temporaneo rimanente viene perso quando il potere termina.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 3° livello o superiore, il bersaglio ottiene **5 punti ferita temporanei aggiuntivi** per ogni livello di slot superiore al 2°. Quando lanci questo potere con uno slot di 4° livello o superiore, la dimensione del dado aumenta per ogni due livelli di slot superiori al 2° (d6 al 4° livello, d8 al 6° livello, d10 all’8° livello).
 
 ## Aura Energizzante (Energizing Aura)
 
+Una luce energizzante si irradia da te in un raggio di **9 metri**. 
 
+Le creature a tua scelta in quel raggio quando lanci questo potere ottengono vantaggio a tutti i tiri salvezza, e le altre creature subiscono svantaggio ai tiri per colpire contro di loro fino al termine del potere.
 
 ## Scudo Energetico (Energy Shield)
 
+Crei rapidamente uno scudo di energia. 
 
+Fino all’inizio del tuo prossimo turno, hai un bonus di +5 alla CA, anche contro l’attacco che ha attivato il potere.
 
 ## Potenziare Droide (Enhance Droid)
 
+Tocchi un droide o un costrutto e ne potenzi uno degli aspetti. Scegli uno dei seguenti effetti; il bersaglio ottiene quell’effetto fino al termine del potere.
 
+**Servomotore.** Il bersaglio ottiene vantaggio alle prove di Forza e la sua capacità di carico raddoppia.
+**Motivatore.** Il bersaglio ottiene vantaggio alle prove di Destrezza. Inoltre non subisce danni da caduta di 6 metri o meno se non è incapacitato.  
+**Nucleo di Potenza.** Il bersaglio ottiene vantaggio alle prove di Costituzione. Ottiene inoltre **2d6 punti ferita temporanei**, che vengono persi quando il potere termina.  
+**Banche Dati.** Il bersaglio ottiene vantaggio alle prove di Intelligenza.  
+**Sensori.** Il bersaglio ottiene vantaggio alle prove di Saggezza.  
+**Protocolli Relazionali.** Il bersaglio ottiene vantaggio alle prove di Carisma.  
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 3° livello o superiore, puoi prendere di mira un droide o costrutto aggiuntivo per ogni livello di slot superiore al 2°.
 
 ## Potenziare Arma (Enhance Weapon)
 
+Un’arma non potenziata che tocchi diventa un’arma potenziata.
 
+Scegli uno di questi tipi di danno: acido, freddo, energia, fuoco, ionico, cinetico o elettrico. 
+
+Per la durata del potere, l'arma che tocchi ottiene **+ 1 ai tiri per colpire** e infligge **1d4 danni aggiuntivi** del tipo scelto.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 5° o 6° livello, il bonus ai tiri per colpire aumenta a + 2 e i danni aggiuntivi aumentano a 2d4. Quando usi uno slot di 7° livello o superiore, il bonus aumenta a + 3 e i danni aggiuntivi aumentano a 3d4.
 
 ## Eseguire Comando (Execute Command)
 
+Detti un comando di una sola parola a un droide o costrutto che puoi vedere entro la gittata. 
 
+Il bersaglio deve superare un tiro salvezza su Intelligenza o seguire il comando nel suo prossimo turno. 
+
+Se il costrutto ha il tratto ‘Pilotato’ e ha un pilota che lo controlla non incapacitato, ottiene un bonus al tiro salvezza pari al modificatore di Intelligenza del pilota. 
+
+Alcuni comandi tipici e i loro effetti sono indicati di seguito. Puoi emettere un comando diverso da quelli descritti qui. In tal caso, il DM determina come il bersaglio si comporta. Se il bersaglio non può seguire il tuo comando, il potere termina.
+
+**Avvicinati.** Il bersaglio si muove verso di te lungo il percorso più breve e diretto, terminando il turno se si trova entro **1,5 metri** da te.
+
+**Disattivati.** Il bersaglio cade prono e poi termina il suo turno.
+
+**Lascia.** Il bersaglio lascia cadere ciò che sta tenendo e poi termina il suo turno.
+
+**Fuggi.** Il bersaglio trascorre il turno allontanandosi da te nel modo più veloce disponibile.
+
+**Fermati.** Il bersaglio non si muove e non compie azioni. Un bersaglio volante rimane in aria, purché sia in grado di farlo. Se deve muoversi per restare in volo, vola per la distanza minima necessaria a rimanere sospeso.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, puoi influenzare un droide o costrutto aggiuntivo per ogni livello di slot superiore al 1°. Le creature devono trovarsi entro **9 metri** l’una dall’altra quando le scegli.
 
 ## Ritirata Rapida (Expeditious Retreat)
 
+Questo potere ti conferisce un’esplosione di adrenalina che per mette di muoverti ad alta velocita'.
 
+Quando lanci questo potere, e poi come azione bonus in ciascuno dei tuoi turni fino al termine del potere, puoi compiere l’azione Scatto.
 
 ## Esplosione (Explosion)
 
+Crei un’esplosione in un punto entro la gittata.
 
+Ogni creatura in una **sfera con raggio di 6 metri** centrata su quel punto deve effettuare un tiro salvezza su Destrezza.
+
+Un bersaglio subisce 8d6 danni da fuoco con un tiro salvezza fallito, o la metà dei danni con un tiro salvezza riuscito.
+
+Il fuoco si diffonde oltre gli angoli. Accende oggetti infiammabili nell’area che non sono indossati o trasportati.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 4° livello o superiore, i danni aumentano di 1d6 per ogni livello di slot superiore al 3°.
 
 ## Estinguere (Extinguish)
 
+Spruzzi schiuma di carbonio in un **cubo di 1,5 metri** a partire da un punto entro la gittata. 
 
+Le fiamme all’interno dell’area interessata vengono spente istantaneamente e gli oggetti nell’area non possono essere incendiati per almeno un minuto. 
 
-## Fabbricare Trappole
+Qualsiasi creatura nell’area deve effettuare un tiro salvezza su Costituzione o subire 1d4 danni da freddo.
 
+Quando raggiungi il 5° livello, questo potere può invece prendere di mira un **cubo di 3 metri** entro la gittata. Ottieni opzioni aggiuntive di aumento della dimensione al 11° livello (**cubo di 4,5 metri**) e al 17° livello (**cubo di 6 metri**).
 
+## Fabbricare (Fabricate)
+
+Converti materie prime in prodotti dello stesso materiale. 
+
+Ad esempio, puoi fabbricare un ponte di legno da un gruppo di alberi, una corda da un campo di canapa e vestiti da pelle di bantha.
+
+Scegli materie prime che puoi vedere entro la gittata. 
+
+Puoi fabbricare un oggetto di taglia Grande o inferiore (contenuto in un **cubo di 3 metri**, o otto cubi collegati di **1,5 metri**) se disponi di una quantità sufficiente di materia prima. 
+
+Tuttavia, se lavori con metallo, pietra o un’altra sostanza minerale, l’oggetto fabbricato non può essere più grande di taglia Media (contenuto in un singolo **cubo di 1,5 metri**).
+
+La qualità degli oggetti creati dal potere è proporzionata alla qualità delle materie prime.
+
+Non possono essere create creature o oggetti potenziati con questo potere. 
+
+Inoltre, non puoi usarlo per creare oggetti che richiedono normalmente un alto grado di abilità artigianale, come gioielli, armi, vetro o armature, a meno che tu non abbia competenza con il tipo di utensile necessario per fabbricare tali oggetti.
+
+## Fabbricare Trappole Minori (Fabricate Minor Trap)
+
+Proteggi una **sfera con raggio di 9 metri** centrata su di te con una trappola manuale. 
+
+La trappola è ben camuffata. Qualsiasi creatura che non può vedere l’area al momento del lancio del potere deve effettuare un tiro di Saggezza (Percezione) contro la CD del tiro salvezza tecnologico per notare la trappola prima di entrare nell’area. 
+
+Una volta dopo che questo potere è stato lanciato, quando una creatura che puoi vedere entra o si muove all’interno dell’area protetta, puoi usare la tua reazione per attivare la trappola. 
+
+L’effetto sulla creatura dipende dal tipo di trappola che impieghi, effetto che scegli al momento del lancio del potere. 
+
+Puoi mantenere un numero massimo di istanze di questo potere pari al modificatore della tua caratteristica di lancio tecnologico.
+
+**Blaster.** Questo potere crea una torretta blaster che spara al bersaglio quando viene attivata. La creatura deve effettuare un tiro salvezza su Destrezza. Subisce 2d10 danni da energia con un tiro salvezza fallito, o la metà dei danni con un tiro salvezza riuscito.
+
+**Fossa.** Questo potere crea una fossa di **1,5 metri di diametro** e **4,5 metri di profondità** nel terreno sotto la creatura quando viene attivata, che deve effettuare un tiro salvezza su Destrezza. Con un tiro salvezza fallito, la creatura cade nella fossa. Con un successo, la creatura cade prona in uno spazio entro **1,5 metri** dalla fossa.
+
+Questa fossa non può essere creata su terreno artificiale. 
+
+Il buco è ben costruito e perdura anche oltre la durata del potere.
+
+Le creature volanti evitano questa trappola.
+
+**Trappola a laccio.** Questo potere crea un laccio di corda, filo, vite o ragnatele che intrappola la creatura. La creatura deve effettuare un tiro salvezza su Forza. Una creatura di taglia Grande o superiore ottiene vantaggio su questo tiro salvezza. Con un tiro salvezza fallito, la creatura subisce 1d6 danni cinetici ed è immobilizzata fino all’inizio del suo prossimo turno. Con un successo, subisce la metà dei danni e termina il suo movimento.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, gli effetti aumentano in base alla trappola.  
+**Blaster.** I danni aumentano di 1d10 per ogni livello di slot superiore al 1°. Se lanciato usando uno slot di 3° livello o superiore, questo potere prende di mira creature in una sfera centrata sulla creatura che ha attivato la trappola all’interno dell’area protetta, il cui raggio è di **1,5 metri** per ogni due livelli di slot superiori al 1°.  
+**Fossa.** La profondità della fossa aumenta di **1,5 metri** per ogni livello di slot superiore al 1°. Se lanciato usando uno slot di 3° livello o superiore, il diametro della fossa aumenta di **1,5 metri** per ogni due livelli di slot superiori al 1°.  
+**Trappola a laccio.** I danni aumentano di 1d6 per ogni livello di slot superiore al 1°. Se lanciato usando uno slot di 3° livello o superiore, le creature di taglia Grande non ottengono più vantaggio sul tiro salvezza. Questa categoria di taglia aumenta per ogni due livelli di slot superiori al 1°.
+
+## Fabbricare Trappole (Fabricate Trap)
+
+Quando lanci questo potere, crei una trappola che si attiverà successivamente in risposta a una determinata condizione. 
+
+Devi fissarla su una superficie (come un tavolo o una sezione di pavimento o muro) o all’interno di un oggetto che può essere chiuso o acceso (come un libro, una porta o un terminale computer) per nascondere la trappola. 
+
+La trappola può coprire un’area non più grande di **3 metri di diametro**. A discrezione del DM, certe azioni possono rompere la trappola o renderla inattiva.
+
+La trappola è ben camuffata e, di norma, richiede un tiro di Intelligenza (Indagare) riuscito contro la CD del tiro salvezza tecnologico per essere individuata.
+
+Decidi cosa attiva la trappola al momento del lancio del potere, come entrare in una determinata area o accendere l’oggetto. 
+
+Puoi affinare ulteriormente il trigger affinché la trappola si attivi solo in certe circostanze o in base a caratteristiche fisiche (come altezza o peso) o tipo di creatura (ad esempio, la trappola potrebbe attivarsi solo contro droidi o gungan). 
+
+Puoi anche impostare condizioni per creature che non attivano la trappola, come chi pronuncia una certa parola d’ordine.
+
+Puoi avere attiva una sola istanza di questa trappola alla volta. Se lanci un’altra trappola prima che la precedente sia attivata, la trappola precedente diventa inattiva.
+
+Quando crei la trappola, scegli tra:
+
+**Trappola esplosiva.** Quando attivata, la trappola esplode in una **sfera con raggio di 6 metri** centrata sulla trappola. L’esplosione si diffonde oltre gli angoli. Ogni creatura nell’area deve effettuare un tiro salvezza su Destrezza. Una creatura subisce 5d8 danni da acido, freddo, fuoco, fulmine o sonori con un tiro salvezza fallito (a tua scelta al momento della creazione della trappola), o la metà dei danni con un tiro salvezza riuscito.
+
+**Trappola di potere.** Puoi immagazzinare un potere tecnologico preparato di 3° livello o inferiore nella trappola lanciandolo come parte della creazione della trappola. La trappola deve prendere di mira una singola creatura o un’area. Il potere immagazzinato non ha effetto immediato quando lanciato in questo modo. Quando la trappola viene attivata, il potere immagazzinato viene lanciato. Se la trappola ha un bersaglio, prende di mira la creatura che ha attivato la trappola. Se il potere colpisce un’area, l’area è centrata su quella creatura. Se il potere richiede concentrazione, dura fino al termine della sua piena durata.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 4° livello o superiore, i danni di una trappola esplosiva aumentano di 1d8 per ogni livello di slot superiore al 3°. Se crei una trappola di potere, puoi immagazzinare qualsiasi potere fino allo stesso livello dello slot che utilizzi per questo potere.
 
 ## Trovare il Sentiero (Find the Path)
 
+Questo potere calcola il percorso fisico più breve e diretto verso una specifica destinazione che conosci sullo stesso pianeta. 
 
+Se nomini una destinazione che si muove (come una fortezza mobile) o una destinazione non specifica (come “una tana del Sole Nero”), il potere fallisce.
+
+Per la durata, finché ti trovi sullo stesso pianeta della destinazione, sai quanto dista e in quale direzione si trova. Durante il viaggio, ogni volta che ti si presenta una scelta di percorsi lungo la strada, determini automaticamente quale sia il percorso più breve e diretto (ma non necessariamente il più sicuro) verso la destinazione.
 
 ## Tempesta di Fuoco (Firestorm)
 
+Scegli un punto a terra entro la gittata, incenerendo tutto in un raggio di **4,5 metri**. 
 
+Tutte le creature devono effettuare un tiro salvezza su Destrezza, subendo 8d8 danni da fuoco con un tiro salvezza fallito o la metà dei danni con un tiro salvezza riuscito. 
+
+Tutte le creature di taglia Grande o inferiore vengono spinte verso il bordo del raggio del potere. Puoi scegliere una creatura da collocare al centro della tempesta di fuoco; in tal caso, quella creatura subisce svantaggio al tiro salvezza e cade prona in caso di fallimento.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 7° livello o superiore, i danni aumentano di 1d8 e il raggio aumenta di **1,5 metri** per ogni livello di slot superiore al 6°.
 
 ## Spazzata Infuocata (Flame Sweep)
 
+Un sottile cono di fiamme scaturisce da te. 
 
+Ogni creatura in un cono di **4,5 metri** deve effettuare un tiro salvezza su Destrezza. 
+
+Una creatura subisce 3d6 danni da fuoco con un tiro salvezza fallito, o la metà dei danni con un tiro salvezza riuscito.
+
+Il fuoco accende qualsiasi oggetto infiammabile nell’area che non sia indossato o trasportato.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, i danni aumentano di 1d6 per ogni livello di slot superiore al 1°.
 
 ## Colpi Infuocati (Flaming Shots)
 
+Canalizzi potere tecnologico attraverso blaster che stai impugnando.
 
+Quando un bersaglio subisce danni dall’arma scelta, subisce **1d6 danni da fuoco aggiuntivi**. Il potere termina dopo che sono stati sparati dodici colpi.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 4° livello o superiore, il numero di colpi che puoi sparare con questo potere aumenta di due per ogni livello di slot superiore al 3°.
 
 ## Flash
 
+Crei un’enorme esplosione di luce e suono in un punto entro la gittata. 
 
+Tira 6d10; il totale rappresenta quanti punti ferita delle creature questo potere può influenzare. 
+
+Le creature entro **6 metri** dal punto sono colpite in ordine crescente di punti ferita attuali (ignorando le creature incoscienti).
+
+Partendo dalla creatura con i punti ferita più bassi, ogni creatura colpita da questo potere è accecata fino alla fine del tuo prossimo turno. Sottrai i punti ferita di ogni creatura dal totale prima di passare alla creatura con i punti ferita successivi. I punti ferita di una creatura devono essere uguali o inferiori al totale rimanente affinché essa venga colpita.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, tira 2d10 aggiuntivi per ogni livello di slot superiore al 1°.
 
 ## Scandagliare Frequenze (Frequency Scan)
 
+Per la durata del potere, puoi rilevare trasmissioni elettroniche. 
 
+Quando lanci il potere e come azione in ciascun tuo turno fino al termine del potere, puoi concentrarti su una creatura che puoi vedere entro **9 metri** da te. Se la creatura scelta non possiede un commlink o non è un droide o un costrutto, la creatura non viene influenzata.
+
+Se la creatura possiede un commlink o un altro dispositivo di comunicazione, ricevi tutte le trasmissioni che invia o riceve per la durata del potere.
+
+Inoltre, se il bersaglio è un droide o un costrutto, puoi leggere i suoi “pensieri”. Inizialmente apprendi i pensieri superficiali della creatura (quello che ha più presente in quel momento). Come azione, puoi spostare la tua attenzione ai pensieri di un’altra creatura o tentare di sondare più a fondo la mente della stessa creatura. Se sondi più a fondo, il bersaglio deve effettuare un tiro salvezza su Saggezza. Se fallisce, ottieni informazioni sul suo ragionamento (se presente) e su qualcosa che occupa la sua mente (come i suoi obiettivi attuali). Se riesce, il potere termina. In ogni caso, il bersaglio (o il suo pilota, se ne ha uno) sa che stai sondando la sua mente e, a meno che non sposti la tua attenzione ai pensieri di un’altra creatura, può usare la sua azione durante il turno per effettuare una prova contesa di Intelligenza contro di te; se riesce, il potere termina.
+
+Domande rivolte verbalmente alla creatura bersaglio influenzano naturalmente il corso dei suoi pensieri, quindi questo potere è particolarmente efficace come parte di un’interrogatorio.
+
+Puoi anche usare questo potere per rilevare la presenza di droidi, costrutti o creature che portano dispositivi di comunicazione che non puoi vedere. Quando lanci il potere o come azione durante la durata, puoi cercare trasmissioni entro **9 metri** da te. Il potere può penetrare le barriere, ma **60 cm di roccia**, **5 cm di qualsiasi metallo tranne il piombo** o una sottile lamina di piombo ti bloccano.
+
+Una volta rilevata la presenza di una creatura in questo modo, puoi leggere i suoi pensieri o trasmissioni per il resto della durata come descritto sopra, anche se non puoi vederla, ma deve comunque essere entro gittata.
 
 ## Fuoco Amico (Friendly Fire)
 
+Schianti i protocolli di ottici delle macchine vicine. 
 
+Ogni droide o costrutto in una **sfera con raggio di 9 metri** centrata su un punto a tua scelta entro la gittata deve effettuare un tiro salvezza su Intelligenza. Se un costrutto ha il tratto ‘Pilotato’ e ha un pilota che lo controlla non incapacitato, ottiene un bonus al tiro salvezza pari al modificatore di Intelligenza del pilota. 
+
+Con un tiro salvezza fallito, il bersaglio perde la capacità di distinguere amici da nemici, considerandoli tutti nemici fino al termine del potere. Ogni volta che il bersaglio subisce danni, può ripetere il tiro salvezza, terminando l’effetto su di sé se ha successo.
+
+Ogni volta che la creatura influenzata sceglie un altro bersaglio, deve selezionarlo casualmente tra le creature che può vedere entro la gittata dell’attacco, del potere o di un’altra abilità che sta utilizzando. Se un nemico provoca un attacco di opportunità dalla creatura influenzata, questa deve effettuare quell’attacco se ne è capace.
 
 ## Contorno Luminescente (Gleaming Outline)
 
+Ogni oggetto in un **cubo di 6 metri** entro la gittata viene delineato da luce blu, verde o viola (a tua scelta).
 
+Qualsiasi creatura nell’area al momento del lancio del potere viene anch’essa delineata dalla luce se fallisce un tiro salvezza su Destrezza. 
+
+Per la durata del potere, oggetti e creature colpite emettono luce fioca in un **raggio di 3 metri**.
+
+Ogni tiro per colpire una creatura o un oggetto influenzato ottiene vantaggio se l’attaccante può vederlo, e la creatura o l’oggetto influenzato non può beneficiare dell’invisibilità.
 
 ## Planare (Glide)
 
+Una creatura consenziente ottiene la capacità di planare durante la caduta. 
 
+Per la durata del potere, cade a una velocità di **9 metri** per turno e può muoversi fino a **9 metri** orizzontalmente in ciascuno dei suoi turni. 
+
+Se la creatura atterra prima della fine del potere, non subisce danni da caduta e può atterrare in piedi; il potere termina per quella creatura.
 
 ## Analizzare Potenziato (Greater Analyze)
 
+Nomina o descrivi una persona, un luogo o un oggetto. 
 
+Questo potere ti fornisce un riassunto delle informazioni più significative su di esso. 
+
+Se ciò che hai nominato non è conosciuto al di fuori di un sistema planetario, non ottieni alcuna informazione. 
+
+Più informazioni possiedi già, più dettagliate saranno le informazioni che riceverai.
+
+## Scudo Energetico Potenziato (Greater Energy Shield)
+
+Un campo di energia appare e protegge il bersaglio.
+
+Fino all’inizio del prossimo turno del bersaglio, esso ha un bonus di +5 alla CA, incluso contro l’attacco che ha scatenato il potere, e non subisce danni dal potere tecnologico [Missili Traccianti (Homing Rockets)](#missili-traccianti-homing-rockets)
 
 ## Esplosione Potenziata (Greater Explosion)
 
+Espelli una massiccia esplosione in un punto entro la gittata.
 
+Ogni creatura in una **sfera con raggio di 12 metri** centrata su quel punto deve effettuare un tiro salvezza su Destrezza.
+
+Un bersaglio subisce 40d6 danni da fuoco e cade prono con un tiro salvezza fallito, oppure subisce la metà dei danni con un tiro salvezza riuscito ma resta in piedi.
+
+Il fuoco si propaga oltre gli angoli. Accende gli oggetti infiammabili nell’area che non siano indossati o trasportati.
 
 ## Ologramma Potenziato (Greater Hologram)
 
+Crei un’immagine non più grande di un **cubo di 6 metri**. 
 
+Appare in un punto che puoi vedere e perdura per la durata del potere.
+
+Sembra completamente reale, con suoni ed altri effetti sensoriali inclusi. 
+
+Non puoi creare un effetto sensoriale sufficientemente forte da causare danni o condizioni.
+
+Finché ti trovi entro la gittata dell’illusione, puoi usare la tua azione per spostare l’immagine in qualsiasi altro punto entro la gittata. Quando l’immagine cambia posizione, puoi modificarla in modo che i suoi movimenti appaiano naturali.
+
+L’interazione fisica con l’immagine rivela che si tratta di un’illusione.
+
+Una creatura può usare la sua azione per determinare che si tratta di un’illusione con un tiro riuscito di Indagare. 
+
+Se una creatura scopre che è un’illusione, può vedere attraverso l’immagine e le altre qualità sensoriali diventano deboli per essa.
+
+**Sovraccarico Tecnologico:** il potere dura fino a quando non viene dissolto senza richiedere concentrazione se lanciato con uno slot di 6° livello o superiore.
 
 ## Luce Potenziata (Greater Light)
 
+Una **sfera con raggio di 18 metri** di luce si propaga da un punto a tua scelta. La sfera emana luce intensa e propaga luce fioca per ulteriori **18 metri**.
 
+Se scegli un oggetto che stai tenendo o che non è indossato o trasportato, la luce viene emanata dall’oggetto e si muove con esso. Coprire completamente l’oggetto con qualcosa di opaco blocca la luce.
 
-## Sabotare Cariche Potenziato (Greater Sabotage Charges)
+Se una qualsiasi parte dell’area di questo potere si sovrappone a oscurità potenziata creata da un potere di 3° livello o inferiore, l’oscurità viene dissipata.
 
+## Cariche Sabotanti Potenziate (Greater Sabotage Charges)
 
+Crei sei cariche di sabotaggio medie che perdurano per la durata del potere.
+
+Quando lanci il potere, e come azione bonus nei turni successivi, puoi lanciare fino a due cariche verso punti a tua scelta entro **36 metri**.
+
+Ogni carica esplode se raggiunge il punto o colpisce una superficie solida. 
+
+Ogni creatura entro **3 metri** dall’esplosione deve effettuare un tiro salvezza su Destrezza.
+
+L’esplosione infligge 4d6 danni da fuoco in caso di fallimento, o la metà dei danni in caso di successo.
+
+**Sovraccarico Tecnologico:** il numero di cariche create aumenta di due per ogni livello di slot superiore al 7°.
 
 ## Salva Potenziata (Greater Salvo)
 
+Lanci quattro proiettili verso punti che puoi vedere entro la gittata.
 
+Ogni creatura in una **sfera con raggio di 6 metri** intorno a ciascun punto deve effettuare un tiro salvezza su Destrezza. 
+
+Una creatura subisce 15d6 danni da fuoco e 15d6 danni cinetici con un tiro salvezza fallito, o la metà dei danni con un tiro salvezza riuscito. 
+
+Una creatura nell’area di più esplosioni è influenzata una sola volta.
+
+Il potere danneggia gli oggetti nell’area e incendia oggetti infiammabili che non siano indossati o trasportati.
 
 ## Programma di Traduzione Potenziato (Greater Translation Program)
 
+Questo potere conferisce alla creatura che tocchi la capacità di comprendere qualsiasi lingua parlata che sente. 
 
+Inoltre, quando il bersaglio parla, qualsiasi creatura che conosce quella determinata lingua e può sentire il bersaglio comprende ciò che dice.
 
 ## Traslazione Potenziata (Greater Translocate)
 
+La tua forma scintilla in una configurazione olografica, per poi collassare.
 
+Ti teletrasporti fino a **18 metri** in uno spazio non occupato che puoi vedere.
+
+In ciascuno dei tuoi turni prima che il potere termini, puoi usare un’azione bonus per teletrasportarti di nuovo in questo modo.
 
 ## Ologramma di Gruppo (Group Hologram)
 

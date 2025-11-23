@@ -108,7 +108,7 @@ Ottieni i seguenti benefici se sei disarmato od impugni armi da monaco (vibro-ar
 - I tuoi attacchi senz'armi ottengono la proprieta' accurata
 - Puoi tirare 1d4 al posto del danno normale dei tuoi attacchi senz'armi o delle armi da monaco. Questo dado aumenta con i livelli, come indicato nella colonna Arti Marziali della tabella
 - Puoi utilizzare Destrezza al posto di Forza quando effettueresti prove di Forza (Atletica) per lottare, spingere o sbilanciare una creatura
-- Quando effettui un attacco senz'armi o con l'arma da monaco utilizzando l'azione standard, puoi utilizzare l'azione bonus per effettuare un attacco senz'armi
+- Quando effettui un attacco senz'armi o con l'arma da monaco utilizzando l'azione, puoi utilizzare l'azione bonus per effettuare un attacco senz'armi
 - Puoi compiere le azioni di Scatto o Disimpegno con l'azione bonus
 
 #### Variante: Monaci con Armi-Laser
@@ -214,7 +214,7 @@ Quando effettui un tiro salvezza su Destrezza per dimezzare i danni, se superi l
 
 **Livello:** 7
 
-Puoi utilizzare la tua azione standard o bonus per porre fine ad un effetto di ammaliamento o paura che ti affliggono
+Puoi utilizzare la tua azione o bonus per porre fine ad un effetto di ammaliamento o paura che ti affliggono
 
 ### Purezza del Corpo
 
@@ -238,7 +238,7 @@ Non sei toccato dalla fragilita' della vecchiaia e non puoi invecchiare magicame
 
 **Livello:** 18
 
-Puoi utilizzare l'azione standard e spendere 4 punti focus per diventare invisibile per 1 minuto e, sempre nel corso del minuto, ottieni resistenza a tutti i tipi di danno tranne ai danni da forza
+Puoi utilizzare l'azione e spendere 4 punti focus per diventare invisibile per 1 minuto e, sempre nel corso del minuto, ottieni resistenza a tutti i tipi di danno tranne ai danni da forza
 
 ### Perfezione Interiore
 

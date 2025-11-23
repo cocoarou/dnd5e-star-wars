@@ -291,7 +291,7 @@ Un'arma con questa proprieta' aumenta la tua portata di 1.5 m
 
 #### Ricarica (Reload)
 
-Possono essere effettuati un numero di colpi pari al numero di ricarica presente sulla descrizione della proprieta' dell'arma. Dopodiche' andra' ricaricata utilizzando un'azione standard od un'azione bonus (scegli tu). Bisogna avere almeno una mano libera per ricaricare 
+Possono essere effettuati un numero di colpi pari al numero di ricarica presente sulla descrizione della proprieta' dell'arma. Dopodiche' andra' ricaricata utilizzando un'azione od un'azione bonus (scegli tu). Bisogna avere almeno una mano libera per ricaricare 
 
 #### Ritornante (Returning)
 
@@ -325,7 +325,7 @@ Un'arma con questa proprieta' puo' essere utilizzata con 1 o con 2 mani. Il dann
 
 #### Rete (Net)
 
-Una creatura Grande o più piccola colpita da una rete è bloccata finché non viene liberata. Una rete non ha effetto su creature senza forma o di dimensioni Enormi o superiori. Una creatura può usare la sua azione standard per effettuare una prova di Forza con CD 13, liberando se stessa o un'altra creatura entro la sua portata in caso di successo. La rete ha una CA di 10, 5 punti ferita e immunità a tutti i danni non inflitti da armi da mischia. Distruggere la rete libera la creatura senza danneggiarla e termina immediatamente gli effetti della rete. Mentre una creatura è bloccata da una rete, non puoi effettuare ulteriori attacchi con essa.
+Una creatura Grande o più piccola colpita da una rete è bloccata finché non viene liberata. Una rete non ha effetto su creature senza forma o di dimensioni Enormi o superiori. Una creatura può usare la sua azione per effettuare una prova di Forza con CD 13, liberando se stessa o un'altra creatura entro la sua portata in caso di successo. La rete ha una CA di 10, 5 punti ferita e immunità a tutti i danni non inflitti da armi da mischia. Distruggere la rete libera la creatura senza danneggiarla e termina immediatamente gli effetti della rete. Mentre una creatura è bloccata da una rete, non puoi effettuare ulteriori attacchi con essa.
 
 #### Vibro-dardo (Vibrodart)
 
@@ -403,7 +403,7 @@ Si tratta di semplici dispositivi palmari di comunicazione, provvisti di microfo
 
 #### Disturbatore di Comunicazione <!-- omit in toc -->
 
-Un dispositivo utilizzato per bloccare le trasmissioni provenienti da dispositivi che si trovano nel raggio di 90 m. Il dispositivo puo' essere attivato o disattivato con un'azione standard. Qualsiasi creatura che invia o riceve comunicazioni mentre si trova nell'area influenzata dal dispositivo deve superare una prova di Intelligenza (Tecnologia) (CD 15). Se fallisce, le comunicazioni sono disturbate finche' il dispositivo non venga disattivato o escano dall'area. Il disturbatore di comunicazione dura 1 ora e puo' essere ricaricato connettendolo ad una fonte energetica o sostituendo la batteria
+Un dispositivo utilizzato per bloccare le trasmissioni provenienti da dispositivi che si trovano nel raggio di 90 m. Il dispositivo puo' essere attivato o disattivato con un'azione. Qualsiasi creatura che invia o riceve comunicazioni mentre si trova nell'area influenzata dal dispositivo deve superare una prova di Intelligenza (Tecnologia) (CD 15). Se fallisce, le comunicazioni sono disturbate finche' il dispositivo non venga disattivato o escano dall'area. Il disturbatore di comunicazione dura 1 ora e puo' essere ricaricato connettendolo ad una fonte energetica o sostituendo la batteria
 
 #### Dispositivo di Comunicazione Installato <!-- omit in toc -->
 
@@ -481,41 +481,41 @@ E' un'imbracatura con un dispositivo dati ed un'interfaccia di proiezione ologra
 
 #### Granata, Frammentazione <!-- omit in toc -->
 
-Puo' essere programmata per esplodere all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione standard puoi preparare e lanciare una granata, in un punto che puoi vedere, entro (9 m + Forza) x 5. Ogni creatura entro 3 m dall'esplosione deve effettuare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d10 danni cinetici, chi supera subisce la meta' dei danni
+Puo' essere programmata per esplodere all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione puoi preparare e lanciare una granata, in un punto che puoi vedere, entro (9 m + Forza) x 5. Ogni creatura entro 3 m dall'esplosione deve effettuare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d10 danni cinetici, chi supera subisce la meta' dei danni
 
 #### Granata, Gas <!-- omit in toc -->
 
-Puo' essere programmata per esplodere all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione standard puoi preparare e lanciare una granata, in un punto che puoi vedere, entro (9 m + Forza) x 5. L'esplosione riempie l'aria, in una sfera con raggio 3 m, con una nebbia verdognola per 1 minuto. La nebbia si propaga attraverso qualsiasi anfratto e l'area e' considerata pesantemente oscurata. Dura 1 minuto o finche' un vento, di almeno 15 km all'ora non la disperda.
+Puo' essere programmata per esplodere all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione puoi preparare e lanciare una granata, in un punto che puoi vedere, entro (9 m + Forza) x 5. L'esplosione riempie l'aria, in una sfera con raggio 3 m, con una nebbia verdognola per 1 minuto. La nebbia si propaga attraverso qualsiasi anfratto e l'area e' considerata pesantemente oscurata. Dura 1 minuto o finche' un vento, di almeno 15 km all'ora non la disperda.
 
 Quando una creatura entra nella nebbia od inizia il suo turno all'interno, deve effettuare un tiro salvezza su Costituzione (CD 14). Chi fallisce subisce 2d6 danni da veleno ed e' avvelenati finche' rimane nel fumo, chi supera subisce la meta' dei danni e non e' avvelenato. Droidi, costrutti ed umanoidi che indossano equipaggiamento protettivo appropriato non sono affetti dal fumo
 
 #### Granata, Ioni <!-- omit in toc -->
 
-Puo' essere programmata per esplodere all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione standard puoi preparare e lanciare una granata, in un punto che puoi vedere, entro (9 m + Forza) x 5. Ogni creatura entro 3 m dall'esplosione deve effettuare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d6 danni da energia, chi supera subisce la meta' dei danni. Qualsiasi oggetto elettronico che si trova nell'esplosione viene disabilitato finche' non verra' riavviato
+Puo' essere programmata per esplodere all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione puoi preparare e lanciare una granata, in un punto che puoi vedere, entro (9 m + Forza) x 5. Ogni creatura entro 3 m dall'esplosione deve effettuare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d6 danni da energia, chi supera subisce la meta' dei danni. Qualsiasi oggetto elettronico che si trova nell'esplosione viene disabilitato finche' non verra' riavviato
 
 #### Granata, Plasma <!-- omit in toc -->
 
-Puo' essere programmata per esplodere all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione standard puoi preparare e lanciare una granata, in un punto che puoi vedere, entro (9 m + Forza) x 5. Ogni creatura entro 3 m dall'esplosione deve effettuare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d10 danni da energia, chi supera subisce la meta' dei danni
+Puo' essere programmata per esplodere all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione puoi preparare e lanciare una granata, in un punto che puoi vedere, entro (9 m + Forza) x 5. Ogni creatura entro 3 m dall'esplosione deve effettuare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d10 danni da energia, chi supera subisce la meta' dei danni
 
 #### Mina, Frammentazione <!-- omit in toc -->
 
-Puo' essere programmata per detonare quando una creatura arriva entro 4.5 m da essa o puo' essere associata ad un detonatore remoto. Con un'azione standard puoi preparare e posizionare una mina su una superficie che riesci a raggiungere. Si aziona all'inizio del tuo prossimo turno. Quando esplode, ogni creatura entro 4.5 m dalla mina deve superare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d10 danni cinetici, chi supera subisce la meta' dei danni.
+Puo' essere programmata per detonare quando una creatura arriva entro 4.5 m da essa o puo' essere associata ad un detonatore remoto. Con un'azione puoi preparare e posizionare una mina su una superficie che riesci a raggiungere. Si aziona all'inizio del tuo prossimo turno. Quando esplode, ogni creatura entro 4.5 m dalla mina deve superare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d10 danni cinetici, chi supera subisce la meta' dei danni.
 
 #### Mina, Gas <!-- omit in toc -->
 
-Puo' essere programmata per detonare quando una creatura arriva entro 4.5 m da essa o puo' essere associata ad un detonatore remoto. Con un'azione standard puoi preparare e posizionare una mina su una superficie che riesci a raggiungere. Si aziona all'inizio del tuo prossimo turno. Quando esplode, la mina riempie l'aria, in una sfera con raggio 4.5 m, con una nebbia verdognola per 1 minuto. La nebbia si propaga attraverso qualsiasi anfratto e l'area e' considerata pesantemente oscurata. Dura 1 minuto o finche' un vento, di almeno 15 km all'ora non la disperda. 
+Puo' essere programmata per detonare quando una creatura arriva entro 4.5 m da essa o puo' essere associata ad un detonatore remoto. Con un'azione puoi preparare e posizionare una mina su una superficie che riesci a raggiungere. Si aziona all'inizio del tuo prossimo turno. Quando esplode, la mina riempie l'aria, in una sfera con raggio 4.5 m, con una nebbia verdognola per 1 minuto. La nebbia si propaga attraverso qualsiasi anfratto e l'area e' considerata pesantemente oscurata. Dura 1 minuto o finche' un vento, di almeno 15 km all'ora non la disperda. 
 
 Quando una creatura entra nella nebbia od inizia il suo turno all'interno, deve effettuare un tiro salvezza su Costituzione (CD 14). Chi fallisce subisce 2d6 danni da veleno ed e' avvelenati finche' rimane nel fumo, chi supera subisce la meta' dei danni e non e' avvelenato. Droidi, costrutti ed umanoidi che indossano equipaggiamento protettivo appropriato non sono affetti dal fumo
 
 #### Mina, Incendiaria <!-- omit in toc -->
 
-Puo' essere programmata per detonare quando una creatura arriva entro 4.5 m da essa o puo' essere associata ad un detonatore remoto. Con un'azione standard puoi preparare e posizionare una mina su una superficie che riesci a raggiungere. Si aziona all'inizio del tuo prossimo turno. Quando esplode, la mina brucia il terreno in un raggio di 4.5 m per 1 minuto. Il fuoco incendia qualsiasi oggetto infiammabile nell'area che non e' indossato o trasportato.
+Puo' essere programmata per detonare quando una creatura arriva entro 4.5 m da essa o puo' essere associata ad un detonatore remoto. Con un'azione puoi preparare e posizionare una mina su una superficie che riesci a raggiungere. Si aziona all'inizio del tuo prossimo turno. Quando esplode, la mina brucia il terreno in un raggio di 4.5 m per 1 minuto. Il fuoco incendia qualsiasi oggetto infiammabile nell'area che non e' indossato o trasportato.
 
 Quando una creatura entra nel fuoco od inizia il suo turno all'interno, deve effettuare un tiro salvezza su Riflessi (CD 14). Chi fallisce subisce 2d8 danni da fuoco, chi supera subisce la meta' dei danni
 
 #### Detonatore Termico <!-- omit in toc -->
 
-Un detonatore termico puo' essere spento solamente da chi lo ha acceso. Possono essere programmati per detonare all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione standard puoi preparare e lanciare un detonatore termico, in un punto che puoi vedere, entro (9 m + Forza) x 5. Ogni creatura entro 6 m deve effettuare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d6 danni da fuoco e 2d10 danni cinetici e cade prono, chi supera subisce la meta' dei danni e non cade prono
+Un detonatore termico puo' essere spento solamente da chi lo ha acceso. Possono essere programmati per detonare all'impatto o con un timer che causera' l'esplosione in ordine di iniziativa 20 (perdendo ogni pareggio di iniziativa). Con un'azione puoi preparare e lanciare un detonatore termico, in un punto che puoi vedere, entro (9 m + Forza) x 5. Ogni creatura entro 6 m deve effettuare un tiro salvezza su Destrezza (CD 14). Chi fallisce subisce 2d6 danni da fuoco e 2d10 danni cinetici e cade prono, chi supera subisce la meta' dei danni e non cade prono
 
 ### Supporto Vitale
 
@@ -552,33 +552,33 @@ Maschera portatile che contiene ossigeno, per la durata di 1 ora. Il respiratore
 #### Kit Anti-tossine <!-- omit in toc -->
 
 Ha 5 cariche.
-Con un'azione standard puoi somministrare 1 carica del kit per eliminare il veleno presente in una creatura o donare alla creatura vantaggio nei tiri salvezza contro veleno per 1 ora. 
+Con un'azione puoi somministrare 1 carica del kit per eliminare il veleno presente in una creatura o donare alla creatura vantaggio nei tiri salvezza contro veleno per 1 ora. 
 Non funziona su droidi o costrutti
 
 #### Batteria d'Emergenza <!-- omit in toc -->
 
 Ha 10 utilizzi.
-Con un'azione standard puoi spendere 1 utilizzo per stabilizzare un droide che e' sceso a 0 punti ferita, senza dover effettuare una prova di Intelligenza (Tecnologia).
+Con un'azione puoi spendere 1 utilizzo per stabilizzare un droide che e' sceso a 0 punti ferita, senza dover effettuare una prova di Intelligenza (Tecnologia).
 
 #### Kit da Pronto Soccorso <!-- omit in toc -->
 
 Ha 5 utilizzi.
-Con un'azione standard puoi spendere 1 utilizzo per stabilizzare una creatura che e' scesa a 0 punti ferita, senza dover effettuare una prova di Saggezza (Medicina).
+Con un'azione puoi spendere 1 utilizzo per stabilizzare una creatura che e' scesa a 0 punti ferita, senza dover effettuare una prova di Saggezza (Medicina).
 
 #### Medipack <!-- omit in toc -->
 
-Con un'azione standard puoi far recuperare punti ferita ad una bestia od umanoide entro 1.5 m da te.
+Con un'azione puoi far recuperare punti ferita ad una bestia od umanoide entro 1.5 m da te.
 La creatura tira un dado dello stesso tipo del suo dado vita e recupera punti ferita pari al risultato del tiro + il suo modificatore di Costituzione (minimo 1.) Se la creatura possiede dadi vita differenti, si scelgono i dadi vita che figurano in numero maggiore tra essi.
 
 #### Veleno <!-- omit in toc -->
 
-Con un'azione standard puoi utilizzare il veleno per imbevere una vibro-arma, una cartuccia od un dardo per lanciatore da polso. Una creatura colpita dall'arma avvelenata deve effettuare un tiro salvezza su Costituzione (CD 14). Se fallisce subisce 2d4 danni da veleno, se fallisce ne subisce la meta'.
+Con un'azione puoi utilizzare il veleno per imbevere una vibro-arma, una cartuccia od un dardo per lanciatore da polso. Una creatura colpita dall'arma avvelenata deve effettuare un tiro salvezza su Costituzione (CD 14). Se fallisce subisce 2d4 danni da veleno, se fallisce ne subisce la meta'.
 Una volta applicato, il veleno mantiene i suoi effetti per 1 minuto, prima di seccarsi del tutto.
 
 #### Kit da Riparazione <!-- omit in toc -->
 
 Ha 3 utilizzi.
-Con un'azione standard puoi spendere 1 utilizzo per far recuperare punti ferita ad un droide o costrutto, entro 1.5 m da te. La creatura tira un dado dello stesso tipo del suo dado vita e recupera punti ferita pari al risultato del tiro + il suo modificatore di Costituzione (minimo 1.) Se la creatura possiede dadi vita differenti, si scelgono i dadi vita che figurano in numero maggiore tra essi.
+Con un'azione puoi spendere 1 utilizzo per far recuperare punti ferita ad un droide o costrutto, entro 1.5 m da te. La creatura tira un dado dello stesso tipo del suo dado vita e recupera punti ferita pari al risultato del tiro + il suo modificatore di Costituzione (minimo 1.) Se la creatura possiede dadi vita differenti, si scelgono i dadi vita che figurano in numero maggiore tra essi.
 
 ### Contenitori
 
@@ -647,7 +647,7 @@ Contiene fino a 3 kg d'oggetti, non eccedendo 0.06 m cubi
 #### Manette <!-- omit in toc -->
 
 Possono essere utilizzate per imprigionare creature di taglia piccola o media, a patto che posseggano le opportune appendici (braccia, mani, gambe, ecc...).
-Utilizzare le manette richiede un'azione standard.
+Utilizzare le manette richiede un'azione.
 La creatura deve effettuare un tiro salvezza su Forza o Destrezza (CD 14) scegliendo la caratteristica da utilizzare che preferisce.
 Spezzare le manette richiede una prova di Forza (CD 20).
 Liberarsi da esse richiede una prova di Destrezza (CD 20).
@@ -726,7 +726,7 @@ Ciascuna tasca puo' contenere un singolo oggetto che non pesi oltre a 1 kg.
 #### Bipiede <!-- omit in toc -->
 
 Viene montato su un blaster a due mani, che non possiede la proprieta' fissa, per fornire maggiore stabilita' quando si e' proni.
-Con un'azione standard puoi aprire o chiudere il bipiede.
+Con un'azione puoi aprire o chiudere il bipiede.
 Finche' e' aperto e rimani prono, ignori i requisiti di Forza indicati nella proprieta' analoga del blaster. La tua velocita' e' ridotta a 0.
 Inoltre, finche' e' aperto e rimani prono, ottieni un bonus di +10 alle prove di abilita' o tiri salvezza effettuati per evitare di venire disarmato
 
@@ -744,7 +744,7 @@ Il jetpack dura 1 minuto per batteria (fino ad un massimo di 10 minuti) e puo' e
 #### Detonatore Remoto <!-- omit in toc -->
 
 Nel corso di 1 minuto, puoi accoppiare il detonatore con un massimo di 2 mine entro 3 m.
-Con un'azione standard puoi far esplodere a distanza tutte le mine collegate.
+Con un'azione puoi far esplodere a distanza tutte le mine collegate.
 Devi trovarti entro 9 m dalle mine per poterle detonare
 
 #### Stivali a Razzo <!-- omit in toc -->

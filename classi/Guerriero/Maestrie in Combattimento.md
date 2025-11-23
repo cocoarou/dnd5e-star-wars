@@ -155,7 +155,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 - Se la tua cavalcatura e' soggetta ad un effetto che le farebbe compiere un tiro salvezza su Destrezza per dimezzare i danni, puoi utilizzare la tua reazione per fare si che non subisca alcun danno, qualora superasse il tiro salvezza, e meta' danni, qualora fallisse il tiro salvezza
 - Quando monti su una bestia addomesticata, puoi utilizzare la tua azione bonus per far effettuare un singolo attacco corpo a corpo alla cavalcatura, contro un bersaglio entro la portata. Qualora fossi gia' in grado di utilizzare la tua azione bonus per far compiere alla tua cavalcatura un attacco, puoi utilizzare una reazione, nel tuo turno, anziche' l'azione bonus
-- Quando guidi un veicolo puoi utilizzare un'azione di veicolo spendendo l'azione bonus anziche' l'azione standard. Qualora fossi gia' in grado di utilizzare la tua azione bonus per effettuare un'azione di veicolo puoi utilizzare la tua reazione, nel tuo turno. Non puoi effettuare la stessa azione due volte in un turno
+- Quando guidi un veicolo puoi utilizzare un'azione di veicolo spendendo l'azione bonus anziche' l'azione. Qualora fossi gia' in grado di utilizzare la tua azione bonus per effettuare un'azione di veicolo puoi utilizzare la tua reazione, nel tuo turno. Non puoi effettuare la stessa azione due volte in un turno
 - Una volta per turno puoi scegliere di ottenere vantaggio in un tiro per colpire corpo a corpo con l'arma contro una creatura a piedi che e' di taglia piu' piccola della tua cavalcatura/del tuo veicolo. Se l'attacco va a segno infliggi danni extra pari al tuo bonus di competenza
 
 ## Maestria dell'Assalto
@@ -175,7 +175,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 ## Maestria Assicurata
 
 - Puoi impugnare un numero di oggetti su ogni avambraccio pari all'intero modificatore di Forza anziche' meta'
-- Puoi ricaricare armi con proprieta' fissa utilizzando la tua reazione o l'azione di interazione con oggetto, anziche' la tua azione standard o la tua azione bonus. Qualora fossi gia' in grado di ricaricare l'arma utilizzando la tua reazione o l'azione di interazione con oggetto, una volta in ognuno dei tuoi turni puoi ricaricare l'arma senza utilizzare un'azione. Devi avere almeno una mano libera per poter ricaricare l'arma.
+- Puoi ricaricare armi con proprieta' fissa utilizzando la tua reazione o l'azione di interazione con oggetto, anziche' la tua azione o la tua azione bonus. Qualora fossi gia' in grado di ricaricare l'arma utilizzando la tua reazione o l'azione di interazione con oggetto, una volta in ognuno dei tuoi turni puoi ricaricare l'arma senza utilizzare un'azione. Devi avere almeno una mano libera per poter ricaricare l'arma.
 - Una volta in ognuno dei tuoi turni, quando manchi con un attacco con l'arma che non ha la proprieta' fissa, puoi effettuare un attacco addizionale, contro lo stesso bersaglio, con un'arma fissa, senza aggiungere il bonus di competenza (non e' un'azione).
 - Una volta in ognuno dei tuoi turni, quando potresti effettuare un attacco con l'arma con proprieta' fissa, puoi scegliere di non effettuare l'attacco. Se lo fai, puoi aggiungere il tuo bonus di competenza alla CA contro un attacco che ti colpirebbe, prima dell'inizio del tuo prossimo turno (non e' un'azione)
 
@@ -201,7 +201,7 @@ Scegli uno tra forza-lancio o tecno-lancio. Guadagni i seguenti privilegi contro
 
 - I tuoi attacchi a distanza con l'arma riducono la copertura parziale di uno step (3/4 > 1/2, 1/2 > 1/4) contro bersagli entro 9m da te. Se il bersaglio e' coperto da 1/4 di copertura, la ignori completamente
 - Le altre creature provocano tuoi attacchi d'opportunita' quando arrivano entro 9m da te e questi attacchi d'opportunita possono essere attacchi a distanza con il blaster
-- Quando utilizzi l'azione standard per attaccare con il blaster, nel quale sei competente, una creatura entro 9m da te, puoi scegliere di non applicare il bonus di competenza ma puoi utilizzare l'azione bonus per effettuare un attacco addizionale a distanza, sempre senza il bonus di competenza. Se effettueresti piu' di un attacco con l'azione standard, solo uno di questi e' effettuato senza il bonus di competenza
+- Quando utilizzi l'azione per attaccare con il blaster, nel quale sei competente, una creatura entro 9m da te, puoi scegliere di non applicare il bonus di competenza ma puoi utilizzare l'azione bonus per effettuare un attacco addizionale a distanza, sempre senza il bonus di competenza. Se effettueresti piu' di un attacco con l'azione, solo uno di questi e' effettuato senza il bonus di competenza
 
 ## Maestria della Scissione
 
