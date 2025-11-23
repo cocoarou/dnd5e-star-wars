@@ -1087,43 +1087,137 @@ In ciascuno dei tuoi turni prima che il potere termini, puoi usare un’azione b
 
 ## Ologramma di Gruppo (Group Hologram)
 
+Questo potere ti permette di cambiare l’aspetto di un numero qualsiasi di creature che puoi vedere entro la gittata.
 
+Dai a ciascun bersaglio scelto un nuovo aspetto illusorio.
+
+Un bersaglio non consenziente può effettuare un tiro salvezza su Carisma e, se supera il tiro, non subisce gli effetti di questo potere.
+
+Il potere camuffa l’aspetto fisico così come abbigliamento, armature, armi e equipaggiamento. Puoi far sembrare ciascuna creatura **0,3 metri** più bassa o più alta e apparire magra, grassa o intermedia. Non puoi cambiare il tipo di corpo del bersaglio, quindi devi scegliere una forma con la stessa disposizione di arti. Per il resto, l’estensione dell’illusione è a tua discrezione. Il potere permane fino alla fine della sua durata, a meno che tu non usi la tua azione per annullarlo prima.
+
+Le modifiche apportate da questo potere non resistono a un’ispezione fisica.
+
+Per esempio, se usi questo potere per aggiungere un cappello all’abbigliamento di una creatura, gli oggetti passano attraverso il cappello e chi lo tocca non sentirebbe nulla o sentirebbe la testa e i capelli della creatura. Se usi questo potere per apparire più magro di quanto sei, la mano di chi tenta di toccarti urterebbe contro di te mentre sembrerebbe ancora sospesa nell’aria.
+
+Una creatura può usare la sua azione per ispezionare un bersaglio e effettuare un tiro di Intelligenza (Indagare) contro la tua CD del tiro salvezza tecnologico. Se supera il tiro, viene a sapere che il bersaglio è camuffato.
 
 ## Fuori Controllo (Haywire)
 
+Circondi momentaneamente una creatura che puoi vedere entro la gittata con interferenze elettroniche e illusioni olografiche. 
 
+Il bersaglio deve effettuare un tiro salvezza su Intelligenza; se lo fallisce, subisce 1d6 danni elettrici e si muove di **1,5 metri** in una direzione casuale, se può muoversi e la sua velocità è di almeno **1,5 metri**. Tira 1d4 per la direzione: 1, nord; 2, sud; 3, est; 4, ovest. Questo movimento non provoca attacchi di opportunità e, se la direzione risultante è bloccata, il bersaglio non si muove.
+
+I danni del potere aumentano di 1d6 quando raggiungi il 5° livello (2d6), l’11° livello (3d6) e il 17° livello (4d6).
 
 ## Dominare Droide (Hold Droid)
 
+Spari un dardo paralizzante contro un droide o un costrutto che puoi vedere entro la gittata. 
 
+Il bersaglio deve superare un tiro salvezza su Costituzione o rimanere paralizzato per la durata. 
+
+Alla fine di ciascun suo turno, il bersaglio può effettuare un altro tiro salvezza su Costituzione. Con un successo, il potere termina sul bersaglio.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 3° livello o superiore, puoi prendere di mira un droide o costrutto aggiuntivo per ogni livello di slot sopra il 2°. I bersagli devono trovarsi entro 9 metri l’uno dall’altro quando li prendi di mira.
 
 ## Cella di Contenimento (Holding Cell)
 
+Una sfera di energia scintillante si materializza e racchiude una creatura o un oggetto di taglia Grande o inferiore entro la gittata. 
 
+Una creatura non consenziente deve effettuare un tiro salvezza su Destrezza. Se fallisce, la creatura è racchiusa per la durata.
+
+Nulla (né oggetti fisici, né energia, né effetti di poteri) può attraversare la barriera, né dall’interno né dall’esterno, anche se una creatura nella sfera può respirare. 
+
+La sfera è immune a tutti i danni, e una creatura o un oggetto al suo interno non può essere danneggiato da attacchi o effetti provenienti dall’esterno, né una creatura all’interno può danneggiare qualcosa all’esterno.
+
+La sfera è priva di peso e abbastanza grande da contenere la creatura o l’oggetto al suo interno. 
+
+Una creatura racchiusa può usare la sua azione per spingere contro le pareti della sfera e farla rotolare fino a metà della sua velocità. Allo stesso modo, il globo può essere sollevato e spostato da altre creature.
+
+Un potere di [Disintegrazione](#disintegrazione-disintegrate) che prende come bersaglio il globo lo distrugge senza danneggiare nulla al suo interno.
 
 ## Ologramma (Hologram)
 
+Crei un’immagine che non supera le dimensioni di un cubo di 4,5 metri di lato. 
 
+L’immagine appare in un punto entro la gittata e dura per tutta la durata. 
+
+L’immagine è puramente visiva. Se qualcosa la attraversa, si rivela essere un’illusione.
+
+Puoi usare la tua azione per far muovere l’immagine in qualsiasi punto entro la gittata. 
+
+Mentre l’immagine cambia posizione, puoi alterarne l’aspetto affinché i suoi movimenti appaiano naturali per il tipo di immagine.
+
+Una creatura che usa la sua azione per esaminare l’immagine può determinare che si tratta di un’illusione con una prova di Intelligenza (Indagare) contro la tua CD di tiro salvezza tecnologica. 
+
+Se una creatura riconosce l’illusione per ciò che è, può vedere attraverso l’immagine.
 
 ## Camuffamento Olografico (Holographic Disguise)
 
+Finché il potere non termina o finché non usi un’azione per dissiparlo, puoi camuffare te stesso tramite un emettitore olografico.
 
+Puoi apparire più basso o più alto di circa 0,3 metri e modificare l’aspetto del tuo peso corporeo, ma non puoi alterare la struttura di base del tuo corpo.
+
+L’ologramma può includere i tuoi vestiti, la tua armatura, le armi e gli altri oggetti che porti con te.
+
+L’illusione è solo visiva, quindi qualsiasi contatto fisico interagirà soltanto con la tua reale forma e dimensione.
+
+Una creatura può usare la sua azione per effettuare una prova di Intelligenza (Indagare) contro la tua CD del tiro salvezza tecnologica; con un successo, vede attraverso l’ologramma.
 
 ## Missili Traccianti (Homing Rockets)
 
+Bersagli uno o più bersagli entro la gittata ed espelli una serie di tre piccole cariche esplosive.
 
+Ogni esplosivo colpisce una creatura a tua scelta che puoi vedere entro la gittata.
+
+Un esplosivo infligge 1d4 + 1 danno da fuoco al suo bersaglio.
+
+Tutti gli esplosivi colpiscono simultaneamente, e puoi indirizzarli a colpire una singola creatura o più creature.
+
+**Sovraccarico Tecnologico:** quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, il potere crea un esplosivo aggiuntivo per ogni livello di slot oltre il 1°.
 
 ## Colpo Illusorio (Illusory Strike)
 
+Come parte dell’azione usata per lanciare questo potere, devi effettuare un attacco con arma da mischia contro una creatura entro la tua portata, altrimenti il potere fallisce.
 
+Se l'attacco va a segno, il bersaglio subisce gli effetti normali dell’attacco e crei un duplicato illusorio di te stesso nel tuo spazio che può vedere solo il bersaglio.
+
+Il bersaglio subisce svantaggio sul prossimo tiro per colpire che effettua contro di te prima dell’inizio del tuo prossimo turno.
+
+Questo potere crea duplicati multipli quando raggiungi livelli più alti.
+
+Al 5° livello, crei un secondo duplicato illusorio, e il bersaglio subisce svantaggio nei prossimi due attacchi che effettua contro di te prima dell’inizio del tuo prossimo turno.
+
+Il numero di duplicati e gli attacchi con svantaggio aumenta a tre al 11° livello e a quattro al 17° livello.
 
 ## Terreno Illusorio (Illusory Terrain)
 
+Fai sembrare, suonare e odorare un cubo di terreno di 45 metri di lato entro la gittata come un altro tipo di terreno.
 
+Le caratteristiche tattili del terreno non cambiano, quindi le creature che entrano nell’area probabilmente noteranno l’illusione.
+
+Se la differenza non è evidente al tatto, una creatura che esamina attentamente l’illusione può tentare una prova di Intelligenza (Indagare) contro la tua CD del tiro salvezza tecnologica per smascherarla.
+
+Una creatura che riconosce l’illusione per quello che è la vede come un’immagine vaga sovrapposta al terreno.
 
 ## Immolazione (Immolate)
 
+Fiamme avvolgono una creatura che puoi vedere entro la gittata.
 
+Il bersaglio deve effettuare un tiro salvezza di Destrezza.
+
+Subisce 8d6 danni da fuoco in caso di fallimento del tiro salvezza, o la metà in caso di successo.
+
+In caso di fallimento, il bersaglio brucia anche per la durata del potere.
+
+Il bersaglio in fiamme emette luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri.
+
+Alla fine di ciascun suo turno, il bersaglio ripete il tiro salvezza.
+
+Subisce 4d6 danni da fuoco in caso di fallimento, e il potere termina in caso di successo.
+
+Queste fiamme potenziate non possono essere estinte con mezzi non potenziati.
+
+Se i danni di questo potere uccidono un bersaglio, esso viene ridotto in cenere.
 
 ## Inserire Messaggio (Implant Message)
 
