@@ -10,7 +10,7 @@
 |6|Il corpo della creatura comincia a produrre dei potenti acidi digestivi, in grande quantita'. La creatura puo' utilizzare 1 azione per espellere l'acido in un cono di 4.5m. La CD del tiro salvezza e': 8 + il bonus di competenza + il modificatore di Costituzione. Chi fallisce il tiro salvezza subisce 2d6 danni ad acido e meta' se supera il tiro salvezza. Il danno diventa 3d6 al livello 5, 4d6 al livello 11 5d6 al livello 17.
 |7|La creatura diventa muta e non riesce a controllare l'aria nell'intestino. Subisce svantaggio nelle abilita' di Destrezza (Furtivita') che richiedono l'utilizzo dell'olfatto
 |8|Gli occhi della creatura brillano di un rosso acceso. La creatura ottiene scurovisione ma se gia' avevano scurovisione subiscono, invece, un lieve mal di testa.
-|9|La creatura ottiene vantaggio nelle prove di percezione basate sull'udito, ma tutti i rumori risultano assordanti. Subisce vulnerabilita' ai danni sonori.
+|9|La creatura ottiene vantaggio nelle prove di percezione basate sull'udito, ma tutti i rumori risultano assordanti. Subisce vulnerabilita' ai danni sonici.
 |10|Il trattamento rallenta le funzioni cerebrali della creatura, riducendo l'Intelligenza di 4
 |11|La pelle della creatura diventa di un colore scuro e purpureo. Qualora fossero gia' di colore viola diventano, invece, di colore rosa acceso.
 |12|La creatura si ricopre di pustole verdognole. Quando viene colpita da un attacco corpo a corpo l'attaccante subisce 1d4 danni da veleno

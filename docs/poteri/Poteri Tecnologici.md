@@ -7,7 +7,10 @@
 |[Spruzzo Acido (Acid Splash)](./Descrizione%20Poteri%20Tecnologici.md#spruzzo-acido-acid-splash)|0|1 azione|18 m|Istantanea|-
 |[Vento Acido (Acid Wind)](./Descrizione%20Poteri%20Tecnologici.md#vento-acido-acid-wind)|1|1 azione|Personale (cubo di 4.5 m)|Istantanea|-
 |[Colpo Acido (Acidic Strike)](./Descrizione%20Poteri%20Tecnologici.md#colpo-acido-acidic-strike)|0|1 azione|Varia|Istantanea|-
+|[Adrenalina (Adrenaline)](./Descrizione%20Poteri%20Tecnologici.md#adrenalina-adrenaline)|1|1 reazione che puoi compiere quando una creatura entro gittata, che puoi vedere, tira iniziativa|9 m|Istantanea|-
+|[Soccorrere Droide (Aid Droid)](./Descrizione%20Poteri%20Tecnologici.md#soccorrere-droide-aid-droid)|1|1 azione bonus|18 m|Istantanea|-
 |[Allarme (Alarm)](./Descrizione%20Poteri%20Tecnologici.md#allarme-alarm)|1|1 minuto|9 m|Fino al termine del tuo prossimo riposo breve o lungo|Concentrazione
+|[Alterare se Stessi (Alter Self)](./Descrizione%20Poteri%20Tecnologici.md#alterare-se-stessi-alter-self)|2|1 azione|Personale|Fino ad 1 ora|Concentrazione
 |[Analizzare (Analyze)](./Descrizione%20Poteri%20Tecnologici.md#analizzare-analyze)|1|1 minuto|A contatto|Istantanea|-
 |[Antipatia/Simpatia (Antipathy/Sympathy)](./Descrizione%20Poteri%20Tecnologici.md#antipatiasimpatia-antipathysympathy)|8|1 ora|18 m|10 giorni|-
 |[Analizzare la Situazione (Assess the Situation)](./Descrizione%20Poteri%20Tecnologici.md#analizzare-la-situazione-assess-the-situation)|0|1 azione|9 m|Fino ad 1 round|Concentrazione
@@ -106,18 +109,25 @@
 |[Inserire Messaggio (Implant Message)](./Descrizione%20Poteri%20Tecnologici.md#inserire-messaggio-implant-message)|2|1 minuto|9 m|Finche' non viene dissolto|-
 |[Nuvola Incendiaria (Incendiary Cloud)](./Descrizione%20Poteri%20Tecnologici.md#nuvola-incendiaria-incendiary-cloud)|8|1 azione|45 m|Fino ad 1 minuto|Concentrazione
 |[Infiltrarsi (Infiltrate)](./Descrizione%20Poteri%20Tecnologici.md#infiltrarsi-infiltrate)|2|1 azione|A contatto|Fino ad 1 ora|Concentrazione
+|[Traslazione Istantanea (Instant Translocation)](./Descrizione%20Poteri%20Tecnologici.md#traslazione-istantanea-instant-translocation)|3|1 reazione che puoi compiere quando vieni colpito da un attacco|Personale|Istantanea|-
+|[Irradiare (Irradiate)](./Descrizione%20Poteri%20Tecnologici.md#irradiare-irradiate)|2|1 azione|36 m|Fino ad 1 minuto|Concentrazione
+|[Inventario (Itemize)](./Descrizione%20Poteri%20Tecnologici.md#inventario-itemize)|0|1 azione|9 m|Istantanea|-
 |[Invisibilita' alle Videocamere (Invisibility to Cameras)](./Descrizione%20Poteri%20Tecnologici.md#invisibilita-alle-videocamere-invisibility-to-cameras)|3|1 azione|3 m|Fino ad 1 minuto|Concentrazione
 |[Invulnerabilita' (Invulnerability)](./Descrizione%20Poteri%20Tecnologici.md#invulnerabilita-invulnerability)|9|1 azione|Personale|Fino a 10 minuti|Concentrazione
 |[Deflagrazione Ionizzante (Ion Blast)](./Descrizione%20Poteri%20Tecnologici.md#deflagrazione-ionizzante-ion-blast)|0|1 azione|18 m|Istantanea|-
 |[Legame Ionizzante (Ionic Bond)](./Descrizione%20Poteri%20Tecnologici.md#legame-ionizzante-ionic-bond)|1|1 azione bonus|9 m|Fino ad 1 minuto|Concentrazione
 |[Colpo Ionizzante (Ionic Strike)](./Descrizione%20Poteri%20Tecnologici.md#colpo-ionizzante-ionic-strike)|0|1 azione|Varia|1 round|-
 |[Piccola Fiamma (Jet of Flame)](./Descrizione%20Poteri%20Tecnologici.md#piccola-fiamma-jet-of-flame)|0|1 azione|Personale (sfera di 9 m)|10 minuti|-
+|[Saltare (Jump)](./Descrizione%20Poteri%20Tecnologici.md#saltare-jump)|1|1 azione|A contatto|1 minuto|-
+|[Salto a Propulsione (Jump Jet)](./Descrizione%20Poteri%20Tecnologici.md#salto-a-propulsione-jump-jet)|1|1 azione bonus|Personale|Istantanea|-
+|[Trampolino (Jump Pad)](./Descrizione%20Poteri%20Tecnologici.md#trampolino-jump-pad)|2|1 azione|18 m|Fino ad 1 minuto|Concentrazione
 |[Nuvola di Kolto (Kolto Cloud)](./Descrizione%20Poteri%20Tecnologici.md#nuvola-di-kolto-kolto-cloud)|3|1 azione bonus|18 m|Istantanea|-
 |[Distributore di Kolto (Kolto Dispenser)](./Descrizione%20Poteri%20Tecnologici.md#distributore-di-kolto-kolto-dispenser)|2|1 azione|18 m (cubo di 1.5 m)|Fino ad 1 minuto|Concentrazione
 |[Infusione di Kolto (Kolto Infusion)](./Descrizione%20Poteri%20Tecnologici.md#infusione-di-kolto-kolto-infusion)|6|1 azione|18 m|Istantanea|-
-|[Kolto Pack](./Descrizione%20Poteri%20Tecnologici.md#kolto-pack)|1|1 azione bonus|18 m|Istantanea|-
+|[Contenitore di Kolto (Kolto Pack)](./Descrizione%20Poteri%20Tecnologici.md#contenitore-di-kolto-kolto-pack)|1|1 azione bonus|18 m|Istantanea|-
 |[Riserva di Kolto (Kolto Reserve)](./Descrizione%20Poteri%20Tecnologici.md#riserva-di-kolto-kolto-reserve)|4|1 azione|A contatto|Fino al termine del prossimo riposo breve o lungo|-
 |[Onde di Kolto (Kolto Waves)](./Descrizione%20Poteri%20Tecnologici.md#onde-di-kolto-kolto-waves)|9|1 azione|18 m|Istantanea|-
+|[Fuorviare Minore (Lesser Mislead)](./Descrizione%20Poteri%20Tecnologici.md#fuorviare-minore-lesser-mislead)|2|1 azione|Personale|1 round|-
 |[Luce (Light)](./Descrizione%20Poteri%20Tecnologici.md#luce-light)|0|1 azione|A contatto|1 ora|-
 |[Chiudere a Chiave (Lock)](./Descrizione%20Poteri%20Tecnologici.md#chiudere-a-chiave-lock)|2|1 azione|A contatto|Finche' non viene dissolto|-
 |[Campo Magnetico (Magnetic Field)](./Descrizione%20Poteri%20Tecnologici.md#campo-magnetico-magnetic-field)|2|1 azione|Personale|Fino ad 1 ora|Concentrazione
@@ -130,6 +140,7 @@
 |[Fuorviare (Mislead)](./Descrizione%20Poteri%20Tecnologici.md#fuorviare-mislead)|5|1 azione|Personale|Fino ad 1 ora|Concentrazione
 |[Luci Mobili (Mobile Lights)](./Descrizione%20Poteri%20Tecnologici.md#luci-mobili-mobile-lights)|0|1 azione|36 m|Fino ad 1 minuto|Concentrazione
 |[Aumento di Velocita' (Motivator Boost)](./Descrizione%20Poteri%20Tecnologici.md#aumento-di-velocita-motivator-boost)|2|1 azione|9 m|Fino ad 1 minuto|Concentrazione
+|[Mutare/Migliorare (Mutate/Augment)](./Descrizione%20Poteri%20Tecnologici.md#mutare-migliorare-mutate-augment)|3|1 azione|Personale|Fino a 10 minuti|Concentrazione
 |[Neurotossina (Neurotoxin)](./Descrizione%20Poteri%20Tecnologici.md#neurotossina-neurotoxin)|7|1 azione bonus|9 m|Istantanea|-
 |[Chiazza di Petrolio (Oil Slick)](./Descrizione%20Poteri%20Tecnologici.md#chiazza-di-petrolio-oil-slick)|1|1 azione|18 m|1 minuto|-
 |[On/Off](./Descrizione%20Poteri%20Tecnologici.md#onoff)|0|1 azione|18 m|Istantanea|-
@@ -144,6 +155,7 @@
 |[IA Percettiva (Predictive AI)](./Descrizione%20Poteri%20Tecnologici.md#ia-percettiva-predictive-ai)|9|1 minuto|A contatto|Fino al termine del prossimo riposo breve o lungo|-
 |[Preparazione (Preparedness)](./Descrizione%20Poteri%20Tecnologici.md#preparazione-preparedness)|1|1 minuto|A contatto|Fino al termine del tuo prossimo riposo breve o lungo|-
 |[Stritolare (Pressure Crush)](./Descrizione%20Poteri%20Tecnologici.md#stritolare-pressure-crush)|0|1 azione|A contatto|Istantanea|-
+|[Prestidigitazione (Production Values)](./Descrizione%20Poteri%20Tecnologici.md#prestidigitazione-production-values)|0|1 azione|9 m|1 minuto|-
 |[Illusione Programmata (Programmed Illusion)](./Descrizione%20Poteri%20Tecnologici.md#illusione-programmata-programmed-illusion)|6|1 azione|36 m|Finche' non viene dissolto|-
 |[Proiettare Ologramma (Project Hologram)](./Descrizione%20Poteri%20Tecnologici.md#proiettare-ologramma-project-hologram)|7|1 azione|750 km|Fino a 24 ore|Concentrazione
 |[Protezione dall'Energia (Protection from Energy)](./Descrizione%20Poteri%20Tecnologici.md#protezione-dallenergia-protection-from-energy)|3|1 azione|A contatto|Fino ad 1 ora|Concentrazione
@@ -159,7 +171,7 @@
 |[Scarica Gelida (Rime Shot)](./Descrizione%20Poteri%20Tecnologici.md#scarica-gelida-rime-shot)|0|1 azione|Varia|1 round|-
 |[Colpo Gelido (Rime Strike)](./Descrizione%20Poteri%20Tecnologici.md#colpo-gelido-rime-strike)|0|1 azione|Varia|1 round|-
 |[Cerchio di Fuoco (Ring of Fire)](./Descrizione%20Poteri%20Tecnologici.md#cerchio-di-fuoco-ring-of-fire)|1|1 azione|Personale|Fino ad 1 minuto|Concentrazione
-|[Sabotare Cariche (Sabotage Charges)](./Descrizione%20Poteri%20Tecnologici.md#sabotare-cariche-sabotage-charges)|3|1 azione|Personale|Fino a 10 minuti|Concentrazione
+|[Cariche Sabotanti (Sabotage Charges)](./Descrizione%20Poteri%20Tecnologici.md#cariche-sabotanti-sabotage-charges)|3|1 azione|Personale|Fino a 10 minuti|Concentrazione
 |[Salva (Salvo)](./Descrizione%20Poteri%20Tecnologici.md#salva-salvo)|4|1 azione|18 m|Istantanea|-
 |[Scandagliare l'Area (Scan Area)](./Descrizione%20Poteri%20Tecnologici.md#scandagliare-larea-scan-area)|4|1 azione|Personale|Fino a 10 minuti|Concentrazione
 |[Confondere Interfaccia (Scramble Interface)](./Descrizione%20Poteri%20Tecnologici.md#confondere-interfaccia-scramble-interface)|3|1 azione|36 m|Fino ad 1 minuto|Concentrazione
@@ -173,6 +185,7 @@
 |[Raggi Ionizzati (Shocking Ray)](./Descrizione%20Poteri%20Tecnologici.md#raggi-ionizzati-shocking-ray)|2|1 azione|18 m|Istantanea|-
 |[Corto Circuito (Short Circuit)](./Descrizione%20Poteri%20Tecnologici.md#corto-circuito-short-circuit)|0|1 azione|36 m|1 round|-
 |[Arresto (Shutdown)](./Descrizione%20Poteri%20Tecnologici.md#arresto-shutdown)|5|1 azione|36 m|Fino ad 1 minuto|Concentrazione
+|[Protocollo di Maestria (Skill Protocol)](./Descrizione%20Poteri%20Tecnologici.md#protocollo-di-maestria-skill-protocol)|5|1 azione|A contatto|Fino ad 1 ora|Concentrazione
 |[Medipack a Rilascio Ritardato (Slow-Release Medpac)](./Descrizione%20Poteri%20Tecnologici.md#medipack-a-rilascio-ritardato-slow-release-medpac)|3|1 azione|Personale (raggio di 9 m)|Fino ad 1 minuto|Concentrazione
 |[Nuvola di Fumo (Smoke Cloud)](./Descrizione%20Poteri%20Tecnologici.md#nuvola-di-fumo-smoke-cloud)|1|1 azione|36 m|Fino ad 1 ora|Concentrazione
 |[Contrabbandare (Smuggle)](./Descrizione%20Poteri%20Tecnologici.md#contrabbandare-smuggle)|2|1 azione|Personale|Fino ad 1 ora|Concentrazione
@@ -180,9 +193,12 @@
 |[Scarica Sonica (Sonic Shot)](./Descrizione%20Poteri%20Tecnologici.md#scarica-sonica-sonic-shot)|0|1 azione|Varia|1 round|-
 |[Colpo Sonico (Sonic Strike)](./Descrizione%20Poteri%20Tecnologici.md#colpo-sonico-sonic-strike)|0|1 azione|Varia|1 round|-
 |[Fulmine Cromatico (Spectrum Bolt)](./Descrizione%20Poteri%20Tecnologici.md#fulmine-cromatico-spectrum-bolt)|1|1 azione|36 m|Istantanea|-
+|[Scarica Cromatica (Spectrum Discharge)](./Descrizione%20Poteri%20Tecnologici.md#scarica-cromatica-spectrum-discharge)|2|1 azione bonus|A contatto|Fino ad 1 minuto|Concentrazione
 |[Raggio Cromatico (Spectrum Ray)](./Descrizione%20Poteri%20Tecnologici.md#raggio-cromatico-spectrum-ray)|0|1 azione|18 m|Istantanea|-
 |[Trovare Debolezze (Spot the Weakness)](./Descrizione%20Poteri%20Tecnologici.md#trovare-debolezze-spot-the-weakness)|1|1 azione|9 m|Fino ad 1 minuto|Concentrazione
+|[Scudo di Squadra (Squad Shield)](./Descrizione%20Poteri%20Tecnologici.md#scudo-di-squadra-squad-shield)|7|1 reazione che puoi compiere in risposta ad una minaccia incombente|Personale (raggio di 3 m)|Fino ad 1 minuto|Concentrazione
 |[Truccare il Mazzo (Stack the Deck)](./Descrizione%20Poteri%20Tecnologici.md#truccare-il-mazzo-stack-the-deck)|1|1 azione|9 m|Fino ad 1 minuto|Concentrazione
+|[Pungiglione (Stinger)](./Descrizione%20Poteri%20Tecnologici.md#pungiglione-stinger)|0|1 azione|36 m|1 round|-
 |[Colpo Fulminante (Storming Shot)](./Descrizione%20Poteri%20Tecnologici.md#colpo-fulminante-storming-shot)|0|1 azione|Varia|1 round|-
 |[Dardi Stordenti (Stun Dart)](./Descrizione%20Poteri%20Tecnologici.md#dardi-stordenti-stun-dart)|8|1 azione|18 m|Istantanea|-
 |[Programma di Traduzione Superiore (Superior Translating Program)](./Descrizione%20Poteri%20Tecnologici.md#programma-di-traduzione-superiore-superior-translating-program)|6|1 azione|A contatto|7 giorni|-
@@ -194,6 +210,7 @@
 |[Colpo Tracciante (Targeting Shot)](./Descrizione%20Poteri%20Tecnologici.md#colpo-tracciante-targeting-shot)|0|1 azione|Varia|1 round|-
 |[Sovrascrivere Tecnologia (Tech Override)](./Descrizione%20Poteri%20Tecnologici.md#sovrascrivere-tecnologia-tech-override)|3|1 reazione che puoi effettuare quando vedi una creatura, entro 18 m da te, che lancia un potere tecnologico|18 m|Istantanea|-
 |[Incremento Temporaneo (Temporary Boost)](./Descrizione%20Poteri%20Tecnologici.md#incremento-temporaneo-temporary-boost)|0|1 azione|A contatto|Fino ad 1 minuto|Concentrazione
+|[Bomba ad Orologeria (Time Bomb)](./Descrizione%20Poteri%20Tecnologici.md#bomba-ad-orologeria-time-bomb)|1|1 azione standard|A contatto|Fino ad 1 minuto|Concentrazione
 |[Traslazione Tonante (Tonal Translocate)](./Descrizione%20Poteri%20Tecnologici.md#traslazione-tonante-tonal-translocate)|3|1 azione|27 m|Istantanea|-
 |[Nuvola Tossica (Toxic Cloud)](./Descrizione%20Poteri%20Tecnologici.md#nuvola-tossica-toxic-cloud)|5|1 azione|36 m|Fino a 10 minuti|Concentrazione
 |[Epurare Tossine (Toxin Purge)](./Descrizione%20Poteri%20Tecnologici.md#epurare-tossine-toxin-purge)|2|1 azione|A contatto|1 ora|-
@@ -203,12 +220,17 @@
 |[Tranquillizzante (Tranquilizer)](./Descrizione%20Poteri%20Tecnologici.md#tranquillizzante-tranquilizer)|1|1 azione|27 m|1 minuto|-
 |[Programma di Traduzione (Translation Program)](./Descrizione%20Poteri%20Tecnologici.md#programma-di-traduzione-translation-program)|1|1 azione|Personale|1 ora|-
 |[Traslazione (Translocate)](./Descrizione%20Poteri%20Tecnologici.md#traslazione-translocate)|2|1 azione bonus|Personale|Istantanea|-
+|[Trasposizione (Transposition)](./Descrizione%20Poteri%20Tecnologici.md#trasposizione-transposition)|2|1 azione|27 m|Istantanea|-
+|[Colpo Triplo (Tri-Shot)](./Descrizione%20Poteri%20Tecnologici.md#colpo-triplo-tri-shot)|0|1 azione|18 m|Istantanea|-
 |[Siero della Verita' (Truth Serum)](./Descrizione%20Poteri%20Tecnologici.md#siero-della-verita-truth-serum)|2|1 azione|A contatto|10 minuti|-
+|[Aggiustare (Tune-up)](./Descrizione%20Poteri%20Tecnologici.md#aggiustare-tune-up)|2|10 minuti|9 m|Istantanea|-
 |[Colpo Velenoso (Venomous Strike)](./Descrizione%20Poteri%20Tecnologici.md#colpo-velenoso-venomous-strike)|0|1 azione|Varia|Istantanea|-
 |[Manovra Verticale (Vertical Maneuvering)](./Descrizione%20Poteri%20Tecnologici.md#manovra-verticale-vertical-maneuvering)|3|1 azione od 1 reazione che puoi effettuare se stai cadendo e ti trovi entro 9 m da una superficie solida|Personale|Fino ad 1 ora|Concentrazione
 |[Scudo Voltaico (Voltaic Shielding)](./Descrizione%20Poteri%20Tecnologici.md#scudo-voltaico-voltaic-shielding)|1|1 azione|Personale|1 ora|-
 |[Colpo Vorticante (Vortex Shot)](./Descrizione%20Poteri%20Tecnologici.md#colpo-vorticante-vortex-shot)|0|1 azione|Varia|Istantanea|-
 |[Protezione (Ward)](./Descrizione%20Poteri%20Tecnologici.md#protezione-ward)|0|1 azione|Personale|1 round|-
 |[Colpo Affaticante (Warding Shot)](./Descrizione%20Poteri%20Tecnologici.md#colpo-affaticante-warding-shot)|0|1 azione|Varia|1 round|-
+|[Colpo in Fase (Warp Strike)](./Descrizione%20Poteri%20Tecnologici.md#colpo-in-fase-warp-strike)|0|1 azione|Varia|1 round|-
 |[Cavi Costrittivi (Wire Bind)](./Descrizione%20Poteri%20Tecnologici.md#cavi-costrittivi-wire-bind)|4|1 azione|9 m|1 minuto|-
 |[Lanciare Cavi (Wire Line)](./Descrizione%20Poteri%20Tecnologici.md#lanciare-cavi-wire-line)|0|1 azione|9 m|Istantanea|-
+|[Cavo Trainante (Wire Tow)](./Descrizione%20Poteri%20Tecnologici.md#cavo-trainante-wire-tow)|2|1 azione|9 m|Fino ad 1 minuto|Concentrazione

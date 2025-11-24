@@ -1017,7 +1017,7 @@ Tutti i piccoli oggetti incustoditi vengono spinti di 1.5 m
 
 Ogni creatura, scelta da te, che si trova entro 4.5 m da te deve effettuare un tiro salvezza su Costituzione.
 
-Chi fallisce il tiro, subisce 4d6 danni psichici, 4d6 danni sonori ed e' assordato fino alla fine del suo prossimo turno.
+Chi fallisce il tiro, subisce 4d6 danni psichici, 4d6 danni sonici ed e' assordato fino alla fine del suo prossimo turno.
 
 Chi supera il tiro, subisce la meta' dei danni e non e' assordato.
 
@@ -1426,7 +1426,7 @@ Qualora un potere influenzi un'area, la barriera fa si' che chi si trova al suo 
 
 Ogni creatura, scelta da te, che si trova entro 9 m da te deve effettuare un tiro salvezza su Costituzione.
 
-Chi fallisce il tiro, subisce 5d6 danni psichici, 5d6 danni sonori, e' assordato fino alla fine del suo prossimo turno e cade a terra prono.
+Chi fallisce il tiro, subisce 5d6 danni psichici, 5d6 danni sonici, e' assordato fino alla fine del suo prossimo turno e cade a terra prono.
 
 Chi supera il tiro, subisce la meta' dei danni, non e' assordato e non cade a terra prono.
 
@@ -1775,7 +1775,7 @@ Se un'arma potenziata od una munizione potenziata lascia, completamente, la sfer
 
 Ogni creatura, scelta da te, che si trova entro 18 m da te deve effettuare un tiro salvezza su Costituzione.
 
-Chi fallisce il tiro, subisce 6d6 danni psichici, 6d6 danni sonori, e' assordato ed accecato per 1 minuto e cade a terra prono.
+Chi fallisce il tiro, subisce 6d6 danni psichici, 6d6 danni sonici, e' assordato ed accecato per 1 minuto e cade a terra prono.
 
 Chi supera il tiro, subisce la meta' dei danni, non e' assordato ed accecato e non cade a terra prono.
 
@@ -1865,7 +1865,7 @@ Quando questo potere termina, il beneficiario non puo' muoversi od effettuare az
 Per la durata del potere, 1 creatura senziente, toccata, e' immune a:
 
 - danni psichici
-- danni sonori
+- danni sonici
 - effetti in grado di percepire emozioni o leggere pensieri
 - affascinamento
 
@@ -2383,13 +2383,13 @@ Come parte dell'azione utilizzata per lanciare questo potere, devi effettuare un
 
 Se l'attacco va a segno, il bersaglio subisce i normali effetti dell'attacco e cominci ad emanare un ronzio fastidioso fino all'inizio del tuo prossimo turno.
 
-Se un nemico termina il proprio turno entro 1.5 m da te, subisce 1d4 danni sonori.
+Se un nemico termina il proprio turno entro 1.5 m da te, subisce 1d4 danni sonici.
 
 I danni di questo potere aumentano al raggiungimento di livello superiori, ovvero:
 
-- **livello 5:** l'attacco corpo a corpo infligge 1d8 danni sonori ed i danni secondari diventano 2d4
-- **livello 11:** l'attacco corpo a corpo infligge 2d8 danni sonori ed i danni secondari diventano 3d4
-- **livello 17:** l'attacco corpo a corpo infligge 3d8 danni sonori ed i danni secondari diventano 4d4
+- **livello 5:** l'attacco corpo a corpo infligge 1d8 danni sonici ed i danni secondari diventano 2d4
+- **livello 11:** l'attacco corpo a corpo infligge 2d8 danni sonici ed i danni secondari diventano 3d4
+- **livello 17:** l'attacco corpo a corpo infligge 3d8 danni sonici ed i danni secondari diventano 4d4
 
 ## Trucco Sonoro (Sound Trick)
 
