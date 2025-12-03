@@ -4,7 +4,7 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/utility/utility.md",
+    "./docs/condizioni/condizioni.md",
     # add more files here...
 ]
 
