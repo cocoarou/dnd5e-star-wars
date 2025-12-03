@@ -4,8 +4,13 @@ import re
 
 # === List of Markdown files to convert ===
 md_files = [
-    "./docs/poteri/Poteri Tecnologici.md",
-    "./docs/poteri/Descrizione Poteri Tecnologici.md"
+    "./docs/classi/Studioso/Effetti Collaterali.md",
+    "./docs/classi/Studioso/Ricerche Accademiche.md",
+    "./docs/classi/Studioso/Scoperte del Giocatore d'Azzardo.md",
+    "./docs/classi/Studioso/Scoperte del Medico.md",
+    "./docs/classi/Studioso/Scoperte del Politico.md",
+    "./docs/classi/Studioso/Scoperte del Tattico.md",
+    "./docs/classi/Studioso/Scoperte.md",
     # add more files here...
 ]
 
